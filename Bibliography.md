@@ -1957,6 +1957,23 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 29: Thalberg and the dilettantes.  
 
+42: Bodily dispersal in caricatures of Liszt.  
+
+-: Lizst's wild movements while performing.  
+
+48: Thalbergs rather tame bodily peformance.  
+
+60: The "monde."  
+
+65: Liszt's audeince.  
+
+69: Liszt and public concerts.  
+
+-: End of his career in Paris.  
+
+74: Aristocrati philantropy and the Lizst-Thalberg duel.  
+
+76: Nice little conclusion/summary.  
 
 #### H
 
