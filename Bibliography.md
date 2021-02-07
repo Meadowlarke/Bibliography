@@ -1593,6 +1593,7 @@ Agumentation and diminution
 
 >p. 18: He drops the "radical philosophical" term "interspecies cosmopolitanism."
 
+
 ##### Fiumara, Anthony. “Escobedo’s Missa ‘Philippus Rex Hispanie’: A Spanish Descendant of Josquin’s ‘Hercules’ Mass.” _Early Music_ 28, no. 1 (2000): 50–62.  
 
 50: Introduction to Escobedo's _Missa Philippus Rex Hispanie_ and its degraded sources.  
@@ -1604,11 +1605,6 @@ Agumentation and diminution
 54: Some of Escobedo's activities as a composer.  
 
 55: Sogetto cavato, process, origin, use by Escobedo.  
-
-
-
-
-
 
 
 ##### Fiske, Alan Page and Tage Shakti Rai. _Virtuous Violence: Hurting and Killing to Create, Sustain, End, and Honor Social Relationships._ Cambridge: Cambridge University Press, 2015.
