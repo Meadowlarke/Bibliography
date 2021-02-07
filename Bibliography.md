@@ -1962,9 +1962,6 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 29: Thalberg and the dilettantes.  
 
 
-
-
-
 #### H
 
 ##### Harper, Paula. "Reveiving, Remixing, Recuperating 'Rebecca Black---Friday'" _American Music_ 38, no. 2 (2020): 217-239.  
