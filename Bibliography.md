@@ -976,6 +976,18 @@ Canon-like texture at H.
 > mm. 57-58: Three note motif with chromatic complication.
 
 
+##### Cooper, David and Ian Saprio. "Ethnomuiscology in the Laboratory: From the Tonometer to the Digital Melograph." _Ethnomusicology Forum_ 15, no. 2 (2006), 301-313.  
+
+302: Early tonometric devices.  
+
+305: Charles Seeger's melograph.  
+
+306: Praat, computer program for speach analyses and synthesis.  
+
+
+
+
+
 ##### Crawford, Richard. _An Introduction to America’s Music._ New York: Norton, 2001.
 
 
@@ -3433,7 +3445,33 @@ mm. 86: FM.
 
 >Shcenker relies on figured bass, which is why we learn it in school.
 
->Schenker's music theory is racially motivated and a product of Hitler-era racial and ethnic tensions in Germany. He was an anti-Semitic JSew.
+>Schenker's music theory is racially motivated and a product of Hitler-era racial and ethnic tensions in Germany. He was an anti-Semitic Jew.
+
+##### Nettl, Bruno. _The Study of Ethnomusicology: Thirty-One Issues and Concepts_. 2nd ed. Urbana and Chicago: University of Illinois Press, 2005.  
+
+**Nettl is unsure about the future of transcription, but for the time being, trasncribing by ear in western staff notation seems to be the best option.**
+
+76: History of transcribing in ethnomusicology.  
+
+77: Charles Seeger and his dyad of prescriptive vs. descriptive.  
+
+80: the piece vs the performance.  
+
+81: Three kinds of descriptive transcription.  
+
+82: Thoroughness vs elegence/phonetic vs phonemic.  
+
+84: Graph and automatic notations.  
+
+85: History of automatic transcription.  
+
+87: Reasons for the lack of popularity of automatic transcription.  
+
+-: Cultural resistance to moving beyond western notation.  
+
+89: Changing techniques after the '60s and more plentiful recordings.  
+
+
 
 ##### Novak, David, and Matt Sakakeeny. "Introduction" in _Keywords in Sound,_ edited by David Novak and Matt Sakakeeny, 1-11. Durham: Duke University Press Books, 2015. [PDF](file:///home/harlan/Downloads/School%20Downloads/MuiscandBody/Week1/introduction%20and%20acoustemology.pdf)
 
@@ -3540,6 +3578,19 @@ pg. 348 has "Tutii fior"
 
 
 #### R
+
+##### Ramsey, Guthrie P. Jr. _Race Music: Black Cultures from Bebop to Hip-Hop_. Berkeley: University of California Press, 2003.  
+
+1: Will Smith's remix of Stevie Wonder's "I Wish."  
+
+3: "Race Music."  
+
+-: The idea of "comminity theaters."  
+
+4--end: The author's realtionship with music on the south side of Chicago.  
+
+12: Preaching 
+
 
 ##### Reynolds, Christopher. "Interpreting and Dating Josquin's Missa Hercules dux ferrariae." in _Early Musical Borrowing_ edited by Honey Meconi. (2004). New York: Routledge.  
 
