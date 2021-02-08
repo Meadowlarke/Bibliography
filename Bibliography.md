@@ -4179,6 +4179,12 @@ What is a human?
 > p. 99: Analysis of works.
 
 
+##### Stanyek, Jason, Fernando Benadon, Tara Browner, Parag Chordia, Anne Danielsen, Emilia Gómez, Sumanth Gopinath, Dai Griffiths, Kiri Miller, Rachel Mundy, Jennifer Roth-Gordon, David Rothenberg, and Michael Tenzer. “Forum on Transcription.” _Twentieth-Century Music_ 11, no. 1 (2014): 101-161.  
+
+
+
+
+
 ##### Stefaniak, Alexander. _Becoming Clara Schumann: Performance Strategies and Aesthetics in the Culture of the Musical Canon_ (Indiana U Press, forthcoming 2021).
 
 ###### Introduction
