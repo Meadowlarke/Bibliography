@@ -1139,12 +1139,6 @@ Fancing towards.
 Dancers make their body strong through a continuous remaking of the body (orientation helps with this.)  
 
 
-
-
-
-
-
-
 ##### Downey, Greg. "Listening to Capoeira: Phenominology, Embodiment, and the Materiality of Music." _Ethnomusicology_ 46, no. 3 (Autumn 2002): 487-509.
 
 > **Drawing on Barthes, Merleau-Ponty, and others, this paper moves towards a phenomenological approach to studying capoeira and its sounds. This paper argues for the enmeshment of the berimbau and its physical characteristics in the body of the martial artist.**
@@ -3571,6 +3565,8 @@ mm. 86: FM.
 > p. 60: Language.
 
 
+##### Przybylski, Liz. _Hybrid Ethnography: Online, Offline, and In Between._ 
+
 ##### Puccini. _Madamme Butterfly_.  
 
 pg. 348 has "Tutii fior"
@@ -4180,6 +4176,39 @@ What is a human?
 
 
 ##### Stanyek, Jason, Fernando Benadon, Tara Browner, Parag Chordia, Anne Danielsen, Emilia Gómez, Sumanth Gopinath, Dai Griffiths, Kiri Miller, Rachel Mundy, Jennifer Roth-Gordon, David Rothenberg, and Michael Tenzer. “Forum on Transcription.” _Twentieth-Century Music_ 11, no. 1 (2014): 101-161.  
+
+101: Fundamental and enduring challenges to transcription.  
+
+-: Perspective taken for the 1964 "Symposium on Transcription and Analysis."  
+
+104: The primary questions of this article and of the field of transcription.  
+
+111: Forum held in 2013.  
+
+112: Converstation with Tara Browner and Michael Tenzer: Transcription of Powow songs and its resistence to transcription in western notation.  
+
+116: The taking of cyclic music for granted.  
+
+119: Transcription of dance steps as part of score.  
+
+121: The value of the transcription for the transcriber.  
+
+123: Conversation with Dai Griffiths and Jennifer Roth-Gordon.  
+
+123: The topic of rendering spoken texts.  
+
+127: Rendering coloquial languages.  
+
+130: Conversation with Anne Fanielsen and Fernando Benadon.  
+
+131: Representing microrhythm.  
+
+134: Use of sonic analyzers such as PRAAT.  
+
+137: Conversation with David Rothenberg and RAchel Mundy.  
+
+
+
 
 
 
