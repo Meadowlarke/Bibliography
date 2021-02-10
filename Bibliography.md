@@ -1105,7 +1105,6 @@ mm. 7: Voice leading technique of contrary motion, te-do,re-do.
 70: Being black is the demonstration of otherness.  
 
 72: Madonna.  
-
 73: Thesis.  
 
 ##### Defrantz, Thomas F. "Dance On" Lecture presented by Washington University. November 13, 2020.
@@ -1962,6 +1961,8 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 23: Liszt cultivating his image as a man of letters in order to launch his career as a performer.  
 
 29: Thalberg and the dilettantes.  
+
+32: List marketing himself to a "more serious" public.  
 
 42: Bodily dispersal in caricatures of Liszt.  
 
@@ -2999,6 +3000,9 @@ Politics, Foucalt.
 > p. 24: Convention and originality.
 
 
+##### Liszt, Franz. _Reminiscences de Don Juan: Oper von  Mozart._ 1843.  
+
+mm. 1: Liszt begins with the theme of the statue.
 
 ##### Long, Michael. "Symbol and Ritual in Josquin's 'Missa Di Dadi.'" _Journal of the American Musicological Society_ 42, no. 1 (1989): 1-22.  
 
@@ -3565,7 +3569,74 @@ mm. 86: FM.
 > p. 60: Language.
 
 
-##### Przybylski, Liz. _Hybrid Ethnography: Online, Offline, and In Between._ 
+##### Przybylski, Liz. _Hybrid Ethnography: Online, Offline, and In Between._ Thousand Oaks, California: Sage Publications, 2020.  
+
+xiii: Why this book exists.  
+
+xiv: How to use this book.  
+
+xvi: Summary of chapters.  
+
+xxi: Author bio. 
+
+1: Chapter 1 
+
+-: Gathering in North End neighborhoof of Winnipeg.  
+
+-: People recording on their own digital media.  
+
+2: Questions that technological changes pose to ethnographic fieldwork.  
+
+3: Overview of "hybrid fieldwork."  
+
+7: The complexity of the "who" of the project in hybrid ethnography.  
+
+12: How-to guide.  
+
+15: Summary of chapter.  
+
+17: Chapter 2: Ethics  
+
+-: IRB (Istitutional Review Board.)  
+
+20: Case study: Erin Bebenport ethical situation with the Pueblo people and writing.  
+
+21: Some ethical guidelines.  
+
+23: Case study: Christian Pentzold reasearching users of Wikipedia and questions of confedentiality.  
+
+24: Concerns for online fieldsites.  
+
+26: The problem of non-participant observation in online research.  
+
+-: Researcher safety.  
+
+28: Concerns regarding the identity or "positionality" of the researcher.  
+
+32: Chapter 3: Reflexivity.  
+
+33: The ethnographer's "self."  
+
+34: Positionality and power.  
+
+36: Intersectionality.  
+
+37: The internet and multifaceted identities.  
+
+39: Formulating a research question.  
+
+49: Choosing and navegating online fieldsites.  
+
+52: Working with social media.  
+
+53: Keeping online and offline communications linked.  
+
+
+
+
+
+
+
 
 ##### Puccini. _Madamme Butterfly_.  
 
