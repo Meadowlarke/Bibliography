@@ -4278,11 +4278,23 @@ What is a human?
 
 137: Conversation with David Rothenberg and RAchel Mundy.  
 
+-: Non-human animal song, historical shifts and questions of notation.  
 
+139: Sonograms.  
 
+143: Difficulties in transcription.  
 
+145: Conversation with Kiri Miller and Sumanth Gopinath.  
 
+-: Rock Band (video game) and ringtones.  
 
+152: Conversation with Emilia Gomez and Parag Chordia.  
+
+-: Music information retrieval (MIR).  
+
+153: Audio fingerprinting.  
+
+155: Representing continuous information.  
 
 
 ##### Stefaniak, Alexander. _Becoming Clara Schumann: Performance Strategies and Aesthetics in the Culture of the Musical Canon_ (Indiana U Press, forthcoming 2021).
