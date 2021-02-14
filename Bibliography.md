@@ -2216,6 +2216,18 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 > p. 127: Structure of the court reflected in Haydn's works.
 
+##### Hunter,Mary. "`To Play as if from the Soul of the Composer:` The Idea of the Performer in Early Romantic Aesthetics." _Journal of the American Musicological Society_ 58, not. 2 (2005): 357-398.  
+
+357: The idea that the performer was demoted to a vessel for the musical work in the late 18th century.  
+
+359: Performer as hinderance to the comprehension of a great work.  
+
+361: This aove idea is less true than we have thought.  
+
+
+
+
+
 ##### Hutchinson, Sydney. 2008. “Becoming the Tíguera: The Female Accordionist in Dominican Merengue Típico.” _The World of Music_ 50 (3): 37–56.  
 
 37: Women accordianists in Dominican _Merengue típico_ style of the northern Cibao region.  
