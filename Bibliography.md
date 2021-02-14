@@ -2224,8 +2224,19 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 361: This aove idea is less true than we have thought.  
 
+362: What Hegel has to say.  
 
+363: What Rosseau has to say.  
 
+364: What German contemporaries of Rosseau, Christian Friedrich Daniel Schubart and John Adam Peter Schulz have to say.
+
+365:What Pierre Baillot has to say.  
+
+~360--370: What elightenment writers were realling saying.  
+
+370: Ethic if self-transformation through performance.  
+
+385: Novalis.  
 
 
 ##### Hutchinson, Sydney. 2008. “Becoming the Tíguera: The Female Accordionist in Dominican Merengue Típico.” _The World of Music_ 50 (3): 37–56.  
