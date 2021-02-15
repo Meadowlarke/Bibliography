@@ -4352,7 +4352,19 @@ What is a human?
 
 22: Personal correspondence and diaries.  
 
-24: Summary of the chapters to follow.  
+24: Summary of the chapters to follow.
+
+###### Chapter 2  
+
+1: Clara Schumann and the ethic of performer merging with the spirit of the composer.  
+
+6:Expectations for woman pianists.  
+
+8: Labor dynamics of Clara Schumann's performances of Robert's work.  
+
+
+
+  
 
 ###### Chapter 3
 
@@ -4381,6 +4393,7 @@ What is a human?
 21: Performers as editors.  
 
 24: Effects of these modifications.  
+
 
 
 ##### Stefaniak, Alexander. "Clara Schumann's Interiorities and the Cutting Edge of Popular Pianism." _Journal of the American Musicological Society_ 70, no. 3 (2017): 697-765.  
