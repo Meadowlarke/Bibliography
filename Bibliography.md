@@ -2121,6 +2121,13 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 > 79: William Jones (We a sad because we cry, mad because we strike.)
 
+##### Hentoff, Nat. "You Can Still Hear her Voice When the Music Has Stopped." In _The Mahalia Jackson Reader,_ edited by Mark Burford, 54--54. Oxford: Oxford University Press, 2020.  
+
+54: Introduction to Mahalia Jackson.
+
+58: Jackson's dissatisfaction with gospel record labels after the genera's increased popularity.  
+
+
 ##### Hood, Mantle. _The Ethnomusicologist_. New York: McGraw-Hill, 1971.  
 
 50: Taking dictation with Jaap Kunst.  
@@ -4238,7 +4245,7 @@ What is a human?
 215: Summary.  
 
 
-##### Simon, George T. "A Veteran Gospen Singer Thinks Jazz Should Have a Soul but "Gospel Penetrates Deeper." In _The Mahalia Jackson Reader,_ edited by Mark Burford, 52--54. Oxford: Oxford University Press, 2020.  
+##### Simon, George T. "A Veteran Gospen Singer Thinks Jazz Should Have a Soul but 'Gospel Penetrates Deeper.'" In _The Mahalia Jackson Reader,_ edited by Mark Burford, 52--54. Oxford: Oxford University Press, 2020.  
 
 53: Jackson's views on the emotional and metaphysical differences between gospel and jazz.  
 
