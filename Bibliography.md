@@ -850,6 +850,31 @@ Canon-like texture at H.
 
 1: Short bio of Jackson.  
 
+Excerpts from popular media publications on Jackon:
+
+48: Sargent Mason, "Meet Mahalia Jackson."   
+
+-: Positive reception of spirituals in Europe.  
+
+50: The fame of Mahalia Jackson.  
+
+-: Some comments and commentary by Mahalia Jackson on the emotions and spirituality of singing in church, on jazz, and on fame.
+
+
+52: George T. Simon, "A Veteran Gospen Singer Thinks Jazz Should Have a Soul but 'Gospel Penetrates Deeper.'"
+
+53: Jackson's views on the emotional and metaphysical differences between gospel and jazz.  
+
+Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."  
+
+54: Introduction to Mahalia Jackson.
+
+58: Jackson's dissatisfaction with gospel record labels after the genera's increased popularity.  
+
+
+
+
+
  
 ##### Burkholder, J. Peter. "The Value of a Music History Survey." _Journal of Music History Pedagogy_ 5, no. 2 (2015): 57-63.  
 
@@ -2120,12 +2145,6 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 > 75: Affect.
 
 > 79: William Jones (We a sad because we cry, mad because we strike.)
-
-##### Hentoff, Nat. "You Can Still Hear her Voice When the Music Has Stopped." In _The Mahalia Jackson Reader,_ edited by Mark Burford, 54--54. Oxford: Oxford University Press, 2020.  
-
-54: Introduction to Mahalia Jackson.
-
-58: Jackson's dissatisfaction with gospel record labels after the genera's increased popularity.  
 
 
 ##### Hood, Mantle. _The Ethnomusicologist_. New York: McGraw-Hill, 1971.  
@@ -4035,17 +4054,6 @@ I find the way that Robertson presents the primary source very transparent. This
 208: Block repetition.  
 
 
-##### Sargent, Mason. "Meet Mahalia Jackson." In _The Mahalia Jackson Reader,_ edited by Mark Burford, 48--52. Oxford: Oxford University Press, 2020.  
-
-48: Positive reception of spirituals in Europe.  
-
-50: The fame of Mahalia Jackson.  
-
--: Some comments and commentary by Mahalia Jackson on the emotions and spirituality of singing in church, on jazz, and on fame.
-
-
-
-
 ##### Schneider, Rebecca. "That the Past May Yet Have Another Futire: Gesture in the Times of Hands Up." _Theatre Journal_ 70 (2018): 285-306.  
 
 285: Greetings, and polysemantics of the raised hand.  
@@ -4243,11 +4251,6 @@ What is a human?
 214: Birdsong, drought, and divination in Brazil.  
 
 215: Summary.  
-
-
-##### Simon, George T. "A Veteran Gospen Singer Thinks Jazz Should Have a Soul but 'Gospel Penetrates Deeper.'" In _The Mahalia Jackson Reader,_ edited by Mark Burford, 52--54. Oxford: Oxford University Press, 2020.  
-
-53: Jackson's views on the emotional and metaphysical differences between gospel and jazz.  
 
 
 ##### Snarrenberg, Robert. "WesterParse: A Transition-Based Dependency Parser for Simple Tonal Lines." 2020.
