@@ -830,6 +830,26 @@ The development section seems to be some kind of cyclic exploration of the littl
 Canon-like texture at H. 
 
 
+##### Burford, Mark. _Mahalia Jackson and the Black Gospel Field._ Oxford: Oxford University Press, 2019.  
+
+1: Mahalia Jackson on Ed Sulklivan's _Toast of the Town._  
+
+2: Race.  
+
+4: Her performance of "These are they" on the Sullivan show.  
+
+7: Signigicance of this peformance to black Americans and press and the topic of exceptionalism.  
+
+14: Scholarship on Jackson.  
+
+19: Anthony Heilbust's 1971 monograph _The Gospel Sound_ and its legacy/lasting influence.  
+
+28: Charismatic artistry and the affective power of singers.  
+
+##### Burford, Mark, editor. _The Mahalia Jackson Reader._ Oxford: Oxford University Press, 2020.  
+
+1: Short bio of Jackson.  
+
  
 ##### Burkholder, J. Peter. "The Value of a Music History Survey." _Journal of Music History Pedagogy_ 5, no. 2 (2015): 57-63.  
 
