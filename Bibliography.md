@@ -4238,6 +4238,9 @@ What is a human?
 215: Summary.  
 
 
+##### Simon, George T. "A Veteran Gospen Singer Thinks Jazz Should Have a Soul but "Gospel Penetrates Deeper." In _The Mahalia Jackson Reader,_ edited by Mark Burford, 52--54. Oxford: Oxford University Press, 2020.  
+
+53: Jackson's views on the emotional and metaphysical differences between gospel and jazz.  
 
 
 ##### Snarrenberg, Robert. "WesterParse: A Transition-Based Dependency Parser for Simple Tonal Lines." 2020.
