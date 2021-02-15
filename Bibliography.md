@@ -4028,6 +4028,14 @@ I find the way that Robertson presents the primary source very transparent. This
 208: Block repetition.  
 
 
+##### Sargent, Mason. "Meet Mahalia Jackson." In _The Mahalia Jackson Reader,_ edited by Mark Burford, 48--52. Oxford: Oxford University Press, 2020.  
+
+48: Positive reception of spirituals in Europe.  
+
+50: The fame of Mahalia Jackson.  
+
+-: Some comments and commentary by Mahalia Jackson on the emotions and spirituality of singing in church, on jazz, and on fame.
+
 
 
 
