@@ -2338,6 +2338,8 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 ##### Hunter,Mary. "`To Play as if from the Soul of the Composer:` The Idea of the Performer in Early Romantic Aesthetics." _Journal of the American Musicological Society_ 58, not. 2 (2005): 357-398.  
 
+**Performance in the early Romantic era was more complicated than we often think.**
+
 357: The idea that the performer was demoted to a vessel for the musical work in the late 18th century.  
 
 359: Performer as hinderance to the comprehension of a great work.  
@@ -2354,7 +2356,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 ~360--370: What elightenment writers were realling saying.  
 
-370: Ethic if self-transformation through performance.  
+370: Ethic of self-transformation through performance.  
 
 385: Novalis.  
 
