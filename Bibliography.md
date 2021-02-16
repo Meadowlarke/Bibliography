@@ -1082,6 +1082,10 @@ Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."
 > That's all that I read...
 
 
+##### Clark-Sheard, Karen. "Jesus is a Love Song."  
+
+Chorus: Straight-tone (no vibrato.)
+
 ##### Clarke, Grant, Edgar Leslie, and Maurice Abrahams. "He'd Have to Get under---Get out and Get under." New York: Maurice Abrahams Mudic co., 1913.
 
 > mm. 17-18: First appearance of three note motif.
@@ -3992,6 +3996,7 @@ I find the way that Robertson presents the primary source very transparent. This
 150: Billiken picnic.  
 
 151: Museum of Science and Industry and Worlds Fair.  
+
 152: Hatchett family BBQ.  
 
 153: "Chosen family" and queerness.  
