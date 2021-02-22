@@ -3578,8 +3578,26 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
 -: Idea of the piece as ultimately unperformable by "living fingers."  
 
 -: Gendering. 
+  
+  
+##### Moorman, Marissa J. "Anatomy of Kuduro: Articulating the Angolan Body Politic after the War." _African Studies Review_ 57, no. 3 (2014): 21-40.  
 
+22: Descprition of Music videos.  
 
+24: Metaphor of anatomy.  
+
+26: History of Kuduro.  
+
+29: Analyzing the movements of the dance.  
+
+37: Kuduro as an avenue for social mobility. 
+  
+  
+##### Morrison, Matthew D. "Race, Blacksound, and the (Re)Making of Musicological Discourse." _Journal of the American Musicological Society_ 72, no. 3 (2019): 781-823.  
+
+ 
+  
+  
 ##### Mozart, Wolfgang Amadeus. "Piano Sonata in 13 B Flat Major," K333, 1783.  
 
 mm. 1: First theme occurs right at the top.  
@@ -3609,22 +3627,7 @@ mm. 79: Gm.
 mm 87: Retransition.  
 
 mm. 86: FM.  
-
-
-
-
-
-##### Moorman, Marissa J. "Anatomy of Kuduro: Articulating the Angolan Body Politic after the War." _African Studies Review_ 57, no. 3 (2014): 21-40.  
-
-22: Descprition of Music videos.  
-
-24: Metaphor of anatomy.  
-
-26: History of Kuduro.  
-
-29: Analyzing the movements of the dance.  
-
-37: Kuduro as an avenue for social mobility.  
+ 
 
 ##### Muñoz, José Esteban. "Theorizing Queer Inhumanisms: The Sense of Brownness." _GLQ: A Journal of Lesbian and Gay Studies_ 21, no. 2-3 (2015): 209-210.  
 
