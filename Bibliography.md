@@ -2373,7 +2373,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 ##### Hunter,Mary. "`To Play as if from the Soul of the Composer:` The Idea of the Performer in Early Romantic Aesthetics." _Journal of the American Musicological Society_ 58, not. 2 (2005): 357-398.  
 
-**Performance in the early Romantic era was more complicated than we often think.**
+**Performance in the early Romantic era was more complicated than we often think: 19th century perforamnce practices were about collapsing dualities.**
 
 357: The idea that the performer was demoted to a vessel for the musical work in the late 18th century.  
 
@@ -3595,7 +3595,25 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
   
 ##### Morrison, Matthew D. "Race, Blacksound, and the (Re)Making of Musicological Discourse." _Journal of the American Musicological Society_ 72, no. 3 (2019): 781-823.  
 
- 
+**This paper looks at pracitices of exclusion embedded in musicology.**
+
+781: Quote from Gido Adler on the "theoretician of art."  
+
+782: Thesis/outline.  
+
+-: Race based epistemology called "Blacksound."  
+
+783: Blackface and how it informs this theory.  
+
+784: Rachel Mundy's analysis of Alder's Darwinist musicology.  
+
+785: Positivist turn toward "the music itself."  
+
+787: The slow adoption of non-European music as an object of study by musicologist.  
+
+788: The lack of diverseity amoung musicologists themselves.  
+
+-: Eilees Southern.  
   
   
 ##### Mozart, Wolfgang Amadeus. "Piano Sonata in 13 B Flat Major," K333, 1783.  
