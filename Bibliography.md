@@ -3614,8 +3614,34 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
 788: The lack of diverseity amoung musicologists themselves.  
 
 -: Eilees Southern.  
-  
-  
+
+789: Defining "Blacksound."  
+
+793: Copyright law.  
+
+794: Authenticity.  
+
+766: Blackface caricatures.  
+
+803: "Zip Coon" the blackface urban dandy.  
+
+806: Riot in NYC, 1834 which ended a performance of Hamlet and replaced it with "Zip Coon."  
+
+-: Native Americans.  
+
+811: Andrew Jackson.  
+
+813: #Z: Cockrell says that the genious of the minstrel song "Zip Coon" was its simultaneous punching up and down.  
+
+815: Analysis of minstrel rhythms and their significance.  
+
+-: #Z: Zip coon was performed to the backdrop of ethnic white sounds.  
+
+816: Black as simple.  
+
+-: Conclusion.  
+
+     
 ##### Mozart, Wolfgang Amadeus. "Piano Sonata in 13 B Flat Major," K333, 1783.  
 
 mm. 1: First theme occurs right at the top.  
