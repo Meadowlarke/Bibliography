@@ -3629,13 +3629,9 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
 
 -: Native Americans.  
 
-811: Andrew Jackson.  
+811: Andrew Jackson.    
 
-813: #Z: Cockrell says that the genious of the minstrel song "Zip Coon" was its simultaneous punching up and down.  
-
-815: Analysis of minstrel rhythms and their significance.  
-
--: #Z: Zip coon was performed to the backdrop of ethnic white sounds.  
+815: Analysis of minstrel rhythms and their significance.    
 
 816: Black as simple.  
 
@@ -3929,6 +3925,52 @@ pg. 348 has "Tutii fior"
 4--end: The author's realtionship with music on the south side of Chicago.  
 
 12: Preaching 
+
+
+##### Ramsey, Guthrie P. Jr. "Who Hears Here? Black Music, Critial Bias, and the Musicological Skin Trade." _The Musical Quarterly_ 85, no. 1 (2001): 1-52.  
+
+1: Musicological anxieties at the turn of the millenia.  
+
+2: Black vernacular music: popularity of, and research on.  
+
+3: Lack of black scholars in the academic music discipline and its effects.  
+
+-: #Z: Research on black music is always seen as less important. 
+
+5: Published opinions on black music scholarship.  
+
+-: The role of white scholars in the research of black music.  
+
+6: McKay, affirmative action, the market, and clutural exclusion.  
+
+8: The radicalized black identity of the post 1950s and its scholarly impact.  
+
+9: Sould singer James Brown and his civil rights declarations.  
+
+11: Funk or "in the pocket" groove and its social significance.  
+
+12: Black women writers and social critics.  
+
+13: Eileen Southern.  
+
+15: #Z: Southern was primarily interseted in historical musicology, and avoided studying jazz which she said was for future scholars to analyze.  
+
+15: LeRoi Jone's (Later known as Amiri Bakara) _Blues People_ (1963).  
+
+16: Bakara's "Jazz and the White Critic."  
+
+-: Charles Kiels's _Urban Blues_ (1966), and his criticism of other white writers.  
+
+18: Albert Murray's _Stomping the Blues._  
+
+-: The study of black religious music.  
+
+20: New approaches in black music scholarship.  
+
+
+
+
+
 
 
 ##### Reynolds, Christopher. "Interpreting and Dating Josquin's Missa Hercules dux ferrariae." in _Early Musical Borrowing_ edited by Honey Meconi. (2004). New York: Routledge.  
