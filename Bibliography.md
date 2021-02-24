@@ -3206,6 +3206,11 @@ Politics, Foucalt.
 
 mm. 1: Liszt begins with the theme of the statue.
 
+##### Liszt, Franz. Widmung.  
+
+mm. 16: At what is the end of the A section in the original, Liszt repeats the melody here but an octave below, this time around highliting his accompaniyment, which is like the original, but flashier.  
+
+
 ##### Long, Michael. "Symbol and Ritual in Josquin's 'Missa Di Dadi.'" _Journal of the American Musicological Society_ 42, no. 1 (1989): 1-22.  
 
 This paper first points out that, through the example of _femme desconfortée_, that the fifteenth century was full of religious imagery in secular places, and that elements like this chanson or dice in this case, could become "sacralized." Long goes to analyze how Josquin used dice in his _Missa Di dadi_ as an alegorical tool for symbolizing various liturgical aspects, as a tool for indicating the canon proportions of the tenor c.f. vs the original, and as a playful bit of "sacrelization" of an toy which has otherwise been associated with sin. 
