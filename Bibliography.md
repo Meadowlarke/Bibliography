@@ -3972,12 +3972,35 @@ pg. 348 has "Tutii fior"
 
 20: New approaches in black music scholarship.  
 
+23: Miles Davis.  
 
+24: Scholarship on Miles Davis:.  
 
+-: Gary Tomlinson.  
 
+26: Robert Walser.  
 
+28: Walser's critique of Billy Tayolor.  
 
+-: Jazz as classical music ideal.  
 
+29: Authenticity.
+
+30: Pearl Cleage's response to lerning that Davis was guilty of violient crimes against women. 
+
+32: "Professional blackness."  
+
+35: Samuel A FLoyd: "Call-Response," and the ability for balck music to circulate socil energy.  
+
+-: Gaunt: Rap and musical games.  
+
+37: The importance of writing in musicology.  
+
+39: The needs for the future.  
+
+40: Conclusion and the role of white musicologists.  
+
+  
 ##### Reynolds, Christopher. "Interpreting and Dating Josquin's Missa Hercules dux ferrariae." in _Early Musical Borrowing_ edited by Honey Meconi. (2004). New York: Routledge.  
 
 71: Allusion, literary or musical.  
@@ -4188,6 +4211,7 @@ I find the way that Robertson presents the primary source very transparent. This
 163: Generational transmission of dance in House.  
 
 166: "Corpoeal drag" and women dancing like gay men.  
+
 169: Official aknowledgement of the Chosen Few by the City of Chciago.  
 
 170: House as memory culture.  
