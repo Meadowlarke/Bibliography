@@ -3208,7 +3208,7 @@ mm. 1: Liszt begins with the theme of the statue.
 
 ##### Liszt, Franz. Widmung.  
 
-mm. 16: At what is the end of the A section in the original, Liszt repeats the melody here but an octave below, this time around highliting his accompaniyment, which is like the original, but flashier.  
+mm. 16: At what is the end of the A section in the original, Liszt repeats the melody here but an octave below, this time around highlighting his accompaniyment, which is like the original, but flashier.  
 
 
 ##### Long, Michael. "Symbol and Ritual in Josquin's 'Missa Di Dadi.'" _Journal of the American Musicological Society_ 42, no. 1 (1989): 1-22.  
