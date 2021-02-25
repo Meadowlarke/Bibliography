@@ -459,11 +459,18 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 87: Summary of Ballanta as musicologist.  
 
+  
+##### Berliner, Paul. _The Soul of Mbira: Music and traditions of the Shona People of Zimbabwe._ Berkeley: University of California Press.  
 
+8: Lecture demonstration of the Mbira by Dumisani Maraire.  
 
+10: Mbira characteristics.  
 
+11: Mbira buzzers.  
 
+13: Key construction.  
 
+14: Tuning.  
 
 
 
@@ -2138,6 +2145,45 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 #### H
 
+##### Hamilton, Kenneth. _After the Golden Age: Romantic Pianism and Modern Performance._ Oxford: Oxford University Press, 2008.  
+
+101: The Romantic practice of improvising or composing a prelude to a preexisting piece.  
+
+102: Preluds and key relationships.  
+
+104: Sources which detail how to construct an extempore prelude.  
+
+-: #Z: Friedrich Wieck on virtuoso "stupid stunts"!  
+
+105: Apprpriate occasions for prelude improvisation.  
+
+106: Some preludes which were written down.  
+
+110: The famous solo opening of the Beethoven Fourth Concerto.  
+
+111: Discouraged prelude occasions: Liszt's student.  
+
+112: The practical function of the prelude.
+
+-: #Z ^.  
+
+
+113: What a prelude was supposed to sound like.  
+
+116: Affecting an inprovised musicality.  
+
+117: Liszt's preludes.  
+
+123/124: Evasive tonal amiguity.  
+
+129: Improvising a transition between pieces.  
+
+136: Recordings.  
+
+138: Reluctance of modern players to reintroduce improvised elements.  
+
+
+
 ##### Harper, Paula. "Reveiving, Remixing, Recuperating 'Rebecca Black---Friday'" _American Music_ 38, no. 2 (2020): 217-239.  
 
 218: Origins, and discovery of "Friday."  
@@ -3204,12 +3250,23 @@ Politics, Foucalt.
 
 ##### Liszt, Franz. _Reminiscences de Don Juan: Oper von  Mozart._ 1843.  
 
-mm. 1: Liszt begins with the theme of the statue.
+mm. 1: Liszt begins with the theme of the statue.  
 
 ##### Liszt, Franz. Widmung.  
 
-mm. 16: At what is the end of the A section in the original, Liszt repeats the melody here but an octave below, this time around highlighting his accompaniyment, which is like the original, but flashier.  
+mm. 14: Grace note c to db in original is written as non editorial notes. The second note is just slightly truncated.   
 
+mm. 16: At what is the end of the A section in the original, Liszt repeats the melody here but an octave below, this time around highlighting his accompaniyment, which is like the original, but flashier.
+
+mm. 31: Medial Casusura of a sort.  
+
+mm. 32: Begining of B section.  
+
+mm. 38: Turn ornament in the original is notated as correspondig grace notes.  
+
+mm. 44: Retransition (i.e. transition back to the A section.) It has an ossia which looks a lot like the original, but the "hard mode" passage has twice as many notes in the right hand arpeggiation as well as added block chords in the left hand. This seems to smooth the transition a little more, stretching out the bloch chord motive of the B section.
+
+mm. 58: The Original has 5 bars of outro material. Liszt writes 14, during which he re-plays material from both the A and B section.
 
 ##### Long, Michael. "Symbol and Ritual in Josquin's 'Missa Di Dadi.'" _Journal of the American Musicological Society_ 42, no. 1 (1989): 1-22.  
 
@@ -5084,7 +5141,7 @@ Cabaletta
 
 831: Racial difference was upheald in white reactions to Afro-German performances.  
 
-832: "Listening is not neutral" (via K.M. Knttel.)  
+832: "Listening is not neutral" (via K.M. Knittel.)  
 
 832: Reactionary racial listening.  
 
