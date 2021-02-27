@@ -472,6 +472,26 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 14: Tuning.  
 
+52: The problem of notating Shona msuic.  
+
+-: Mbira compostition/improvisation structure.  
+
+54: Mbira note layout.  
+
+59: Key (tine) construction and tuning.  
+
+61: "Chuning."  
+
+62: Description of the pitches.  
+
+69: Tuned overtones.
+
+72: Repetory of mbia players.  
+
+77: Nyamaropa, and ancient mbria composition.  
+
+
+
 
 
 
@@ -2153,8 +2173,6 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 104: Sources which detail how to construct an extempore prelude.  
 
--: #Z: Friedrich Wieck on virtuoso "stupid stunts"!  
-
 105: Apprpriate occasions for prelude improvisation.  
 
 106: Some preludes which were written down.  
@@ -2164,9 +2182,6 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 111: Discouraged prelude occasions: Liszt's student.  
 
 112: The practical function of the prelude.
-
--: #Z ^.  
-
 
 113: What a prelude was supposed to sound like.  
 
@@ -3258,9 +3273,9 @@ mm. 14: Grace note c to db in original is written as non editorial notes. The se
 
 mm. 16: At what is the end of the A section in the original, Liszt repeats the melody here but an octave below, this time around highlighting his accompaniyment, which is like the original, but flashier.
 
-mm. 31: Medial Casusura of a sort.  
+mm. 29: Medial Casusura of a sort. With large rolled chord on tonic. 
 
-mm. 32: Begining of B section.  
+mm. 30: Begining of B section.  
 
 mm. 38: Turn ornament in the original is notated as correspondig grace notes.  
 
@@ -3997,7 +4012,7 @@ pg. 348 has "Tutii fior"
 
 3: Lack of black scholars in the academic music discipline and its effects.  
 
--: #Z: Research on black music is always seen as less important. 
+-: Research on black music is always seen as less important. 
 
 5: Published opinions on black music scholarship.  
 
@@ -4015,7 +4030,7 @@ pg. 348 has "Tutii fior"
 
 13: Eileen Southern.  
 
-15: #Z: Southern was primarily interseted in historical musicology, and avoided studying jazz which she said was for future scholars to analyze.  
+15: Southern avoided studying jazz which she said was for future scholars to analyze.  
 
 15: LeRoi Jone's (Later known as Amiri Bakara) _Blues People_ (1963).  
 
@@ -5187,6 +5202,12 @@ P8: She breaks the rules and sings in places she has been barred from.
 P12: Anderson's final European concert.
 
 P14: Return to Europe at request of US Military.  
+
+  
+##### Tracy, Andrew. "The Matepe Music of Rhodesia."  
+
+38: Shona chord sequence.  
+
 
 
 
