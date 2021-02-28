@@ -2145,6 +2145,8 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 32: List marketing himself to a "more serious" public.  
 
+35: Liszt's orchestrality.  
+
 42: Bodily dispersal in caricatures of Liszt.  
 
 -: Lizst's wild movements while performing.  
@@ -3271,18 +3273,19 @@ mm. 1: Liszt begins with the theme of the statue.
 
 mm. 14: Grace note c to db in original is written as non editorial notes. The second note is just slightly truncated.   
 
-mm. 16: At what is the end of the A section in the original, Liszt repeats the melody here but an octave below, this time around highlighting his accompaniyment, which is like the original, but flashier.
+mm. 16: Repetition of A section material with melody an octave down.
 
-mm. 29: Medial Casusura of a sort. With large rolled chord on tonic. 
+mm. 29: Medial Casusura of a sort. With large rolled chord on tonic. This comes after the addition of about four bas of pure piano time (flourishes) which are not in the oiriginal.
 
 mm. 30: Begining of B section.  
 
 mm. 38: Turn ornament in the original is notated as correspondig grace notes.  
 
-mm. 44: Retransition (i.e. transition back to the A section.) It has an ossia which looks a lot like the original, but the "hard mode" passage has twice as many notes in the right hand arpeggiation as well as added block chords in the left hand. This seems to smooth the transition a little more, stretching out the bloch chord motive of the B section.
+mm. 44: Retransition (i.e. transition back to the A section.) Right hand arpeggiation and  added block chords in the left hand.
 
-mm. 58: The Original has 5 bars of outro material. Liszt writes 14, during which he re-plays material from both the A and B section.
-
+mm. 58: Page of outro material, he plays material from both the A and B section.  
+ 
+  
 ##### Long, Michael. "Symbol and Ritual in Josquin's 'Missa Di Dadi.'" _Journal of the American Musicological Society_ 42, no. 1 (1989): 1-22.  
 
 This paper first points out that, through the example of _femme desconfortée_, that the fifteenth century was full of religious imagery in secular places, and that elements like this chanson or dice in this case, could become "sacralized." Long goes to analyze how Josquin used dice in his _Missa Di dadi_ as an alegorical tool for symbolizing various liturgical aspects, as a tool for indicating the canon proportions of the tenor c.f. vs the original, and as a playful bit of "sacrelization" of an toy which has otherwise been associated with sin. 
