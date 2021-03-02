@@ -3180,7 +3180,48 @@ Politics, Foucalt.
 
 ##### Leistra-Jones, Karen. "Staging Authenticity: Joachim, Brahms and the Politics of _Werktreue_ Performance." _Journal of the American Musicological Society_ 66, no. 2 (2013):397-436.  
 
-397: 
+397: Amy Fay in Weimar, 1873 to study with Franz Listz.  
+
+-: Fay's account of the emotional effect of Liszt's playing despite lack of emotion himself.  
+
+-: Fay contrasts Liszt with violinist Joachim.  
+
+
+398: Introduction of the binary of teatricality and authenticity.  
+
+399: _Werktreue_ ideal.  #Z
+
+-: Thesis.  
+
+400: Author conceptualizes authenticity as performative category.  #Z
+
+401: The identity politics of authenticity.  
+
+-: Joachim suggets that Liszt is worldy, thus duplicitous and not authentic.  
+
+403: Joachim photographs, interiority, cultivated aloofness/unawareness of the audience/sincerity.  
+
+409: Hanslick's commentary of Brahms: "He plays more like a composer than a virtuoso." Compares him to Cordelia from _King Lear._  
+
+410: ARchetype of Cordelia in 19th century criticism.  
+
+412: Theatrical falseness, acting, authenticity.  
+
+414: Joachim's ;atter to Clara Schumann calling Liszt deceptive.  #Z
+
+416: "Authentic virtuosity."  
+
+417: Absolute music.  
+
+418: The "ascetic virtuoso."  
+
+419: Virtuosos playing with restraint in order to seem ascetic/priestly.  
+
+421: Wagner's reversal of this idea.  
+
+
+
+
 
 ##### Levy, Janet M. "Covert and Casual Values in REcent Musical Writings." _The Journal of Musicology_ 5, no. 1 (Winter 1987): 3-27.
 
