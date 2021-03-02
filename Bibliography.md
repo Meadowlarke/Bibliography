@@ -3186,7 +3186,6 @@ Politics, Foucalt.
 
 -: Fay contrasts Liszt with violinist Joachim.  
 
-
 398: Introduction of the binary of teatricality and authenticity.  
 
 399: _Werktreue_ ideal.  
