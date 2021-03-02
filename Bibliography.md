@@ -3189,11 +3189,11 @@ Politics, Foucalt.
 
 398: Introduction of the binary of teatricality and authenticity.  
 
-399: _Werktreue_ ideal.  #Z
+399: _Werktreue_ ideal.  
 
 -: Thesis.  
 
-400: Author conceptualizes authenticity as performative category.  #Z
+400: Author conceptualizes authenticity as performative category.  
 
 401: The identity politics of authenticity.  
 
@@ -3203,11 +3203,11 @@ Politics, Foucalt.
 
 409: Hanslick's commentary of Brahms: "He plays more like a composer than a virtuoso." Compares him to Cordelia from _King Lear._  
 
-410: ARchetype of Cordelia in 19th century criticism.  
+410: Archetype of Cordelia in 19th century criticism.  
 
 412: Theatrical falseness, acting, authenticity.  
 
-414: Joachim's ;atter to Clara Schumann calling Liszt deceptive.  #Z
+414: Joachim's letter to Clara Schumann calling Liszt deceptive.  
 
 416: "Authentic virtuosity."  
 
@@ -3995,7 +3995,7 @@ pg. 348 has "Tutii fior"
 
 3: Lack of black scholars in the academic music discipline and its effects.  
 
--: #Z: Research on black music is always seen as less important. 
+-: Research on black music is always seen as less important. 
 
 5: Published opinions on black music scholarship.  
 
@@ -4013,7 +4013,7 @@ pg. 348 has "Tutii fior"
 
 13: Eileen Southern.  
 
-15: #Z: Southern was primarily interseted in historical musicology, and avoided studying jazz which she said was for future scholars to analyze.  
+15: Southern was primarily interseted in historical musicology, and avoided studying jazz which she said was for future scholars to analyze.  
 
 15: LeRoi Jone's (Later known as Amiri Bakara) _Blues People_ (1963).  
 
