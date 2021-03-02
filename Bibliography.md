@@ -70,6 +70,50 @@
 
 > p. 64: Politics of notation.
 
+  
+##### Agawu, Kofi. _The African Imagination in Music._ Oxford: Oxford Universtiy Press, 2016.  
+
+###### Chapter 5: The Melodic Imagination.
+**This chapter deals with the meldic elements of African  music, first giving an overview, then analyzing several songs.**
+
+195: The voice in music and the preexistance of melodic in speach.  
+
+196: The overlooking of melody in African music scholarship.  
+
+197: Introductory remarks to African melody.  
+
+198: The linguistic origins of melody.  
+
+200: Westrn performers of African music have overlooked semantic content.  
+
+201: The rhetoric and importance of beginnings in African music.  
+
+204: Endings.  
+
+206: Pitch material.  
+
+208: Analyzing melody.  
+
+210: Rhetoric of melody.  
+
+211: Children's melodies and musical games.  
+
+216: Analysis of piece "Ame ngolo."  
+
+218: Voice and instrument interactions: microtiming and microtonality.  
+
+219: Lyrical and musical analysis of "Afa ko yee."  
+
+226: Note on pitch hierarchies in Akpafu songs.  
+
+230: Fela Kutis' "Shuffering and Shmiling."  
+
+235: Xylophone performance and its interlocking melodies.  
+
+236: Melodic archetypes.  
+
+
+
 ##### Ahlgren, Angela K. 2016. “Butch Bodies, Big Drums:Preview the document Queering North American Taiko.” _Women & Music_ 20: 1–26.
 
 1: Powell Street Festical in Vancouver.  
