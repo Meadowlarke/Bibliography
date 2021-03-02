@@ -3219,10 +3219,21 @@ Politics, Foucalt.
 
 421: Wagner's reversal of this idea.  
 
+-: Exlcusion from artistic ability.  
 
+422: Wagner's Antisemitism.  
 
+423: Jewishness as a stand-in for inauthenticity.  
 
+425: Restraint.  
 
+427: The "musical museum" of the late 1800s.  
+
+428: Musical liberalsin late 1800s.  
+
+429: Conclusion.  
+
+  
 ##### Levy, Janet M. "Covert and Casual Values in REcent Musical Writings." _The Journal of Musicology_ 5, no. 1 (Winter 1987): 3-27.
 
 > **In this paper, Levy criticizes the way that writings on music are often full of implicit value judgments.**
