@@ -3376,11 +3376,11 @@ Politics, Foucalt.
 
 423: Jewishness as a stand-in for inauthenticity.  
 
-425: Restraint.  
+425: Restraint and masculinity.  
 
 427: The "musical museum" of the late 1800s.  
 
-428: Musical liberalsin late 1800s.  
+428: Musical liberalism in late 1800s.  
 
 429: Conclusion.  
 
