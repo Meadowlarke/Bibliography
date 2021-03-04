@@ -70,6 +70,50 @@
 
 > p. 64: Politics of notation.
 
+  
+##### Agawu, Kofi. _The African Imagination in Music._ Oxford: Oxford Universtiy Press, 2016.  
+
+###### Chapter 5: The Melodic Imagination.
+**This chapter deals with the meldic elements of African  music, first giving an overview, then analyzing several songs.**
+
+195: The voice in music and the preexistance of melodic in speach.  
+
+196: The overlooking of melody in African music scholarship.  
+
+197: Introductory remarks to African melody.  
+
+198: The linguistic origins of melody.  
+
+200: Westrn performers of African music have overlooked semantic content.  
+
+201: The rhetoric and importance of beginnings in African music.  
+
+204: Endings.  
+
+206: Pitch material.  
+
+208: Analyzing melody.  
+
+210: Rhetoric of melody.  
+
+211: Children's melodies and musical games.  
+
+216: Analysis of piece "Ame ngolo."  
+
+218: Voice and instrument interactions: microtiming and microtonality.  
+
+219: Lyrical and musical analysis of "Afa ko yee."  
+
+226: Note on pitch hierarchies in Akpafu songs.  
+
+230: Fela Kutis' "Shuffering and Shmiling."  
+
+235: Xylophone performance and its interlocking melodies.  
+
+236: Melodic archetypes.  
+
+
+
 ##### Ahlgren, Angela K. 2016. “Butch Bodies, Big Drums:Preview the document Queering North American Taiko.” _Women & Music_ 20: 1–26.
 
 1: Powell Street Festical in Vancouver.  
@@ -3102,7 +3146,112 @@ Materials that grow, dance.
 306: Meter of the music.  
 
 
+##### Kubik, Gerhard. "Composition Techniques in Kiganda Xylophone Music." _African Music Society Journal_ 4, no. 3 (1969): 22-72.  
 
+22: Thesis.  
+
+23: Improvisatino in the Kiganda couty.  
+
+29: Amadinda vs Akadinda tunings.  
+
+30: Amadinda music compositional rules.  
+
+31: Interlocking nature of the music.  
+
+32: Hierarchy of note combinations.  
+
+39: Typical progressions.  
+
+43: Akadinda music.  
+
+49: Akadinda composition.  
+
+54: The question of a structural relationship between Akadinda and Amadinda compositions.  
+
+57: Transcription of this music.  
+
+59: The "miko" of a piece.  
+
+60: The remaining pages are transcriptions of pieces.  
+
+
+##### Kubik, Gerhad. _Theory of African Music,_ vol 1. Chicago: University of Chicago Press, 1994.
+
+47: "Dimple-based" pottery in Lake Victoria area.  
+
+-: History of Bantu settlement in the area.  
+
+-: Ethnic-linguistic boundary in Uganda.  
+
+48: The 14th century,  
+
+50: The Racist "hamitic" hypothesis.  
+
+51: Music in Buganda and Busoga.  
+
+52: Musicology in Uganda.  
+
+-: Muiscologist Klaus Wachsmann.  
+
+53: The following pages contain material the author prepared for the London Transcription center in 1963.  
+
+-: Xylophone types.  
+
+-: Log Xylophones mades from fresh babnana stems.  
+
+-: Performance concepts.  
+
+54: Proper striking of the instrument.  
+
+55: Tunings.  
+
+56: Inconsistencies in tuning.  
+
+58: The tuning and usage of octaves.  
+
+-: The lack of chords in Uganda xylophone music (aside from the octave.)  
+
+59: Transitional numbering of the xylophone keys.  
+
+60: Illustration of performance on the _amadinda_ xylophone, played by three musicians.  
+
+61: The interlocking and isorhythmic way of playing.  
+
+62: Illustration of performance on the larger _akadinda,_ 17-key xylophone, played by five musicians.  
+
+63: the interlocking nature of the _akadinda._  
+
+64: Performance on the _embaire_ xylophone, played by three musicians. 
+
+65: Timing while playing on the _amadinda_ (its not really syncopated.)  
+
+66: Some transcriptions.  
+
+68: The lack of substainial improvistaion.  
+
+-: Trasncription showing basic form and variations.  
+
+69: The fast tempo of this music.  
+
+-: Patterns in _amadinda_ music.  
+
+70: the subjective rhytms of the _amatengezzi_ pattern.  
+
+73: More details on _akadinda_ performance traditions.  
+
+75: The "Kiganda orchestra."  
+
+77: Feeling the split beat of the music.  
+
+78: Inherent rhythms.  
+
+-: The different listening practice of African music. 
+
+81: Clap patterns.  
+
+82: Appendix.  
+
+  
 ##### Kuppers, Petra. "Dancing Disabled: Phenomenology and Embodied Politics." In _The Oxford Handbook of Music and Disability Studies,_ edited by Neil William Lerner, Jopseph Nathan Strauss, Blake Howe, and Stephaie Jense-Moulton, 267-281. Oxford: Oxford University Press, 2016. 
 
 267: Marion Young: women in a sexist society are physically handicapped.  
@@ -3126,6 +3275,9 @@ Materials that grow, dance.
 277: Crutchmaster, a hip-hop dancer.  
 
 279: Disability compared to language, object, and location.  
+
+
+
 
 
 
@@ -3243,8 +3395,59 @@ Politics, Foucalt.
 
 ##### Leistra-Jones, Karen. "Staging Authenticity: Joachim, Brahms and the Politics of _Werktreue_ Performance." _Journal of the American Musicological Society_ 66, no. 2 (2013):397-436.  
 
-397: 
+397: Amy Fay in Weimar, 1873 to study with Franz Listz.  
 
+-: Fay's account of the emotional effect of Liszt's playing despite lack of emotion himself.  
+
+-: Fay contrasts Liszt with violinist Joachim.  
+
+398: Introduction of the binary of teatricality and authenticity.  
+
+399: _Werktreue_ ideal.  
+
+-: Thesis.  
+
+400: Author conceptualizes authenticity as performative category.  
+
+401: The identity politics of authenticity.  
+
+-: Joachim suggets that Liszt is worldy, thus duplicitous and not authentic.  
+
+403: Joachim photographs, interiority, cultivated aloofness/unawareness of the audience/sincerity.  
+
+409: Hanslick's commentary of Brahms: "He plays more like a composer than a virtuoso." Compares him to Cordelia from _King Lear._  
+
+410: Archetype of Cordelia in 19th century criticism.  
+
+412: Theatrical falseness, acting, authenticity.  
+
+414: Joachim's letter to Clara Schumann calling Liszt deceptive.  
+
+416: "Authentic virtuosity."  
+
+417: Absolute music.  
+
+418: The "ascetic virtuoso."  
+
+419: Virtuosos playing with restraint in order to seem ascetic/priestly.  
+
+421: Wagner's reversal of this idea.  
+
+-: Exlcusion from artistic ability.  
+
+422: Wagner's Antisemitism.  
+
+423: Jewishness as a stand-in for inauthenticity.  
+
+425: Restraint.  
+
+427: The "musical museum" of the late 1800s.  
+
+428: Musical liberalsin late 1800s.  
+
+429: Conclusion.  
+
+  
 ##### Levy, Janet M. "Covert and Casual Values in REcent Musical Writings." _The Journal of Musicology_ 5, no. 1 (Winter 1987): 3-27.
 
 > **In this paper, Levy criticizes the way that writings on music are often full of implicit value judgments.**
@@ -3598,7 +3801,7 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
 
 ##### Milson, John. "The T-Mass: quis scrutatur?." _Early Music_ 46, no. 2 (June 28, 2018).
 
-> **This is a book review of Stephanie P. Schagel's edited edition of Masses based on Josquin motets. However, Milson uses this as an opportunity to discuss his discomfort with certain musicological terms used to describe masses such as "parody" and "imitation." (All without dissing Schagel one bit.) He proposes the terms "T-mass" and "T-music" to refer to the transference of material from existing work. Using theory from hip-hop studies, he looks into how we can try to understand how borrowing was understood in the Renaissance.*
+> **This is a book review of Stephanie P. Schagel's edited edition of Masses based on Josquin motets. However, Milson uses this as an opportunity to discuss his discomfort with certain musicological terms used to describe masses such as "parody" and "imitation." (All without dissing Schagel one bit.) He proposes the terms "T-mass" and "T-music" to refer to the transference of material from existing work. Using theory from hip-hop studies, he looks into how we can try to understand how borrowing was understood in the Renaissance.**
 
 >  p. 319: Stephanie Schlagel's edition of Masses based on Josquin motets.
 
@@ -3629,6 +3832,23 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
 > p. 329: CRIM and computers to understand Masses.
 
 
+Micklem, James, Andrew Cooke, and Mark Stone. "Xylophone Mysic of Uganda: The _Embaire_ of Nakibembe, Busoga." _African Music_ 7, no. 4 (1999): 29-46.  
+
+29: The xylophones are now rare.  
+
+30: Eastern Uganda, Bugwere and Busoga, and their instruments.  
+
+34: Performance.  
+
+35: Singing.  
+
+36: Performing variations.  
+
+43: "TUBS" notation.  
+
+44: Drumming parts.  
+
+  
 ##### Miner, Horace. "Body Rituals Among the Nacirema." _American Anthropologist_ 58, no. 3 (1956): 503-507.  
 
 503: Overview of Nacirema culture.  
@@ -4036,9 +4256,9 @@ pg. 348 has "Tutii fior"
 
 13: Eileen Southern.  
 
-15: Southern avoided studying jazz which she said was for future scholars to analyze.  
+15: Southern on Jazz and history.
 
-15: LeRoi Jone's (Later known as Amiri Bakara) _Blues People_ (1963).  
+-: LeRoi Jone's (Later known as Amiri Bakara) _Blues People_ (1963).  
 
 16: Bakara's "Jazz and the White Critic."  
 
