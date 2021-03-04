@@ -503,9 +503,36 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 87: Summary of Ballanta as musicologist.  
 
+  
+##### Berliner, Paul. _The Soul of Mbira: Music and traditions of the Shona People of Zimbabwe._ Berkeley: University of California Press.  
 
+8: Lecture demonstration of the Mbira by Dumisani Maraire.  
 
+10: Mbira characteristics.  
 
+11: Mbira buzzers.  
+
+13: Key construction.  
+
+14: Tuning.  
+
+52: The problem of notating Shona msuic.  
+
+-: Mbira compostition/improvisation structure.  
+
+54: Mbira note layout.  
+
+59: Key (tine) construction and tuning.  
+
+61: "Chuning."  
+
+62: Description of the pitches.  
+
+69: Tuned overtones.
+
+72: Repetory of mbia players.  
+
+77: Nyamaropa, and ancient mbria composition.  
 
 
 
@@ -2162,6 +2189,8 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 32: List marketing himself to a "more serious" public.  
 
+35: Liszt's orchestrality.  
+
 42: Bodily dispersal in caricatures of Liszt.  
 
 -: Lizst's wild movements while performing.  
@@ -2181,6 +2210,40 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 76: Nice little conclusion/summary.  
 
 #### H
+
+##### Hamilton, Kenneth. _After the Golden Age: Romantic Pianism and Modern Performance._ Oxford: Oxford University Press, 2008.  
+
+101: The Romantic practice of improvising or composing a prelude to a preexisting piece.  
+
+102: Preluds and key relationships.  
+
+104: Sources which detail how to construct an extempore prelude.  
+
+105: Apprpriate occasions for prelude improvisation.  
+
+106: Some preludes which were written down.  
+
+110: The famous solo opening of the Beethoven Fourth Concerto.  
+
+111: Discouraged prelude occasions: Liszt's student.  
+
+112: The practical function of the prelude.
+
+113: What a prelude was supposed to sound like.  
+
+116: Affecting an inprovised musicality.  
+
+117: Liszt's preludes.  
+
+123/124: Evasive tonal amiguity.  
+
+129: Improvising a transition between pieces.  
+
+136: Recordings.  
+
+138: Reluctance of modern players to reintroduce improvised elements.  
+
+
 
 ##### Harper, Paula. "Reveiving, Remixing, Recuperating 'Rebecca Black---Friday'" _American Music_ 38, no. 2 (2020): 217-239.  
 
@@ -3410,13 +3473,25 @@ Politics, Foucalt.
 
 ##### Liszt, Franz. _Reminiscences de Don Juan: Oper von  Mozart._ 1843.  
 
-mm. 1: Liszt begins with the theme of the statue.
+mm. 1: Liszt begins with the theme of the statue.  
 
 ##### Liszt, Franz. Widmung.  
 
-mm. 16: At what is the end of the A section in the original, Liszt repeats the melody here but an octave below, this time around highlighting his accompaniyment, which is like the original, but flashier.  
+mm. 14: Grace note c to db in original is written as non editorial notes. The second note is just slightly truncated.   
 
+mm. 16: Repetition of A section material with melody an octave down.
 
+mm. 29: Medial Casusura of a sort. With large rolled chord on tonic. This comes after the addition of about four bas of pure piano time (flourishes) which are not in the oiriginal.
+
+mm. 30: Begining of B section.  
+
+mm. 38: Turn ornament in the original is notated as correspondig grace notes.  
+
+mm. 44: Retransition (i.e. transition back to the A section.) Right hand arpeggiation and  added block chords in the left hand.
+
+mm. 58: Page of outro material, he plays material from both the A and B section.  
+ 
+  
 ##### Long, Michael. "Symbol and Ritual in Josquin's 'Missa Di Dadi.'" _Journal of the American Musicological Society_ 42, no. 1 (1989): 1-22.  
 
 This paper first points out that, through the example of _femme desconfortée_, that the fifteenth century was full of religious imagery in secular places, and that elements like this chanson or dice in this case, could become "sacralized." Long goes to analyze how Josquin used dice in his _Missa Di dadi_ as an alegorical tool for symbolizing various liturgical aspects, as a tool for indicating the canon proportions of the tenor c.f. vs the original, and as a playful bit of "sacrelization" of an toy which has otherwise been associated with sin. 
@@ -4181,9 +4256,9 @@ pg. 348 has "Tutii fior"
 
 13: Eileen Southern.  
 
-15: Southern was primarily interseted in historical musicology, and avoided studying jazz which she said was for future scholars to analyze.  
+15: Southern on Jazz and history.
 
-15: LeRoi Jone's (Later known as Amiri Bakara) _Blues People_ (1963).  
+-: LeRoi Jone's (Later known as Amiri Bakara) _Blues People_ (1963).  
 
 16: Bakara's "Jazz and the White Critic."  
 
@@ -4195,12 +4270,35 @@ pg. 348 has "Tutii fior"
 
 20: New approaches in black music scholarship.  
 
+23: Miles Davis.  
 
+24: Scholarship on Miles Davis:.  
 
+-: Gary Tomlinson.  
 
+26: Robert Walser.  
 
+28: Walser's critique of Billy Tayolor.  
 
+-: Jazz as classical music ideal.  
 
+29: Authenticity.
+
+30: Pearl Cleage's response to lerning that Davis was guilty of violient crimes against women. 
+
+32: "Professional blackness."  
+
+35: Samuel A FLoyd: "Call-Response," and the ability for balck music to circulate socil energy.  
+
+-: Gaunt: Rap and musical games.  
+
+37: The importance of writing in musicology.  
+
+39: The needs for the future.  
+
+40: Conclusion and the role of white musicologists.  
+
+  
 ##### Reynolds, Christopher. "Interpreting and Dating Josquin's Missa Hercules dux ferrariae." in _Early Musical Borrowing_ edited by Honey Meconi. (2004). New York: Routledge.  
 
 71: Allusion, literary or musical.  
@@ -4411,6 +4509,7 @@ I find the way that Robertson presents the primary source very transparent. This
 163: Generational transmission of dance in House.  
 
 166: "Corpoeal drag" and women dancing like gay men.  
+
 169: Official aknowledgement of the Chosen Few by the City of Chciago.  
 
 170: House as memory culture.  
@@ -5283,7 +5382,7 @@ Cabaletta
 
 831: Racial difference was upheald in white reactions to Afro-German performances.  
 
-832: "Listening is not neutral" (via K.M. Knttel.)  
+832: "Listening is not neutral" (via K.M. Knittel.)  
 
 832: Reactionary racial listening.  
 
@@ -5329,6 +5428,12 @@ P8: She breaks the rules and sings in places she has been barred from.
 P12: Anderson's final European concert.
 
 P14: Return to Europe at request of US Military.  
+
+  
+##### Tracy, Andrew. "The Matepe Music of Rhodesia."  
+
+38: Shona chord sequence.  
+
 
 
 
