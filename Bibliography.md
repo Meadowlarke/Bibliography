@@ -3726,7 +3726,7 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
 
 ##### Milson, John. "The T-Mass: quis scrutatur?." _Early Music_ 46, no. 2 (June 28, 2018).
 
-> **This is a book review of Stephanie P. Schagel's edited edition of Masses based on Josquin motets. However, Milson uses this as an opportunity to discuss his discomfort with certain musicological terms used to describe masses such as "parody" and "imitation." (All without dissing Schagel one bit.) He proposes the terms "T-mass" and "T-music" to refer to the transference of material from existing work. Using theory from hip-hop studies, he looks into how we can try to understand how borrowing was understood in the Renaissance.*
+> **This is a book review of Stephanie P. Schagel's edited edition of Masses based on Josquin motets. However, Milson uses this as an opportunity to discuss his discomfort with certain musicological terms used to describe masses such as "parody" and "imitation." (All without dissing Schagel one bit.) He proposes the terms "T-mass" and "T-music" to refer to the transference of material from existing work. Using theory from hip-hop studies, he looks into how we can try to understand how borrowing was understood in the Renaissance.**
 
 >  p. 319: Stephanie Schlagel's edition of Masses based on Josquin motets.
 
@@ -3757,6 +3757,23 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
 > p. 329: CRIM and computers to understand Masses.
 
 
+Micklem, James, Andrew Cooke, and Mark Stone. "Xylophone Mysic of Uganda: The _Embaire_ of Nakibembe, Busoga." _African Music_ 7, no. 4 (1999): 29-46.  
+
+29: The xylophones are now rare.  
+
+30: Eastern Uganda, Bugwere and Busoga, and their instruments.  
+
+34: Performance.  
+
+35: Singing.  
+
+36: Performing variations.  
+
+43: "TUBS" notation.  
+
+44: Drumming parts.  
+
+  
 ##### Miner, Horace. "Body Rituals Among the Nacirema." _American Anthropologist_ 58, no. 3 (1956): 503-507.  
 
 503: Overview of Nacirema culture.  
