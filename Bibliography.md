@@ -3174,16 +3174,21 @@ Materials that grow, dance.
 
 70: the subjective rhytms of the _amatengezzi_ pattern.  
 
+73: More details on _akadinda_ performance traditions.  
 
+75: The "Kiganda orchestra."  
 
+77: Feeling the split beat of the music.  
 
+78: Inherent rhythms.  
 
+-: The different listening practice of African music. 
 
+81: Clap patterns.  
 
+82: Appendix.  
 
-
-
-
+  
 ##### Kuppers, Petra. "Dancing Disabled: Phenomenology and Embodied Politics." In _The Oxford Handbook of Music and Disability Studies,_ edited by Neil William Lerner, Jopseph Nathan Strauss, Blake Howe, and Stephaie Jense-Moulton, 267-281. Oxford: Oxford University Press, 2016. 
 
 267: Marion Young: women in a sexist society are physically handicapped.  
