@@ -5134,6 +5134,19 @@ What is a human?
 > p. 31: Cznery and public tastes.
 
 
+##### Stefaniak, Alexander and Joe Davies "Women, Pianos, and Virtuosity, 1800--1900." In _The Cambridge Companion to Women Composers._ Forthcoming.  
+
+Historical and social context for women composers and performers.
+
+Amy Beach's cadenza for Beethoven's Piano Concerto No. 3.  
+
+The inability of scores to give unmediated access to what they were actually playing.  
+
+Clara Schumann's renditions of her late husband's work.  
+
+Sophie Menter.  
+
+  
 ##### Stefaniak, Alex. "Introduction to Musicological Research." Class taught at Washington University in Saint Louis, Fall 2020.
 
 ###### Week 1
