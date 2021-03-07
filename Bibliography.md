@@ -4097,6 +4097,53 @@ mm. 86: FM.
 
 4: Rite of Spring.  
 
+8: Description on this book.  
+
+###### Chapter 1: Global Contexts and Ancient Origins.  
+
+**This chapter briefly mentions polyphony outside of Europe before focussing on the music of ancient Greece. Plate believed that monophonic music was most appropriate for human affaris, but that polyphonic music was the music of the devine, while Cicero saw harmony as having important political implications for the growing empire.**
+
+15: History of western musicological thought on the lack of counterpoint outside of Europe.  
+
+16: Polyphony around the world.  
+
+20: Music of the ancient Greeks (was not polyphonic.)  
+
+26: Cicero and the political implications of harmony between voices.  
+
+29: Summary.
+
+###### Chapter 2: Dispassion and Deification:  
+
+31: The "dispassionate" monophony of early christian worship music, compared to that of the pagans.  
+
+-: Evagrius.  
+
+33: Greogrian chant.  
+
+37: The "interlock and Augstine."  
+
+40: Augustine and personhood.  
+
+42: The historical coexistence of monophony and polyphony.  
+
+46: Summary.  
+
+###### Chapter3: The Music of the Blessed.  
+
+47: New and more complex polyphony of the 12th and 13th centuries.  
+
+49: Rhythmic notation.  
+
+59: Polyphony criticized as sexual.  
+
+61: Thomas Aquinas as a polyphonic mind.  
+
+-: Dante and polyphony.  
+
+66: Summary.  
+
+
 
 
 ##### Phillips-Silver, Jessica, and Peter Keller. 2012. “Searching for Roots of Entrainment and Joint Action in Early Musical InteractionsPreview the document.” Frontiers in Human Neuroscience 6.  
@@ -5130,7 +5177,7 @@ Casting castrati only makes sense if you take into account Early Modern sexualit
 
 > Start with New Grove (not updated frequently). It will give you a bibliography.
 
-> JSTOR (Lib>Databases>J*)
+> JSTOR (Lib>Databases>J)
 
 > RILM (Lib>Quicklinks)
 
