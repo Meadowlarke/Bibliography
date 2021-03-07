@@ -4099,6 +4099,10 @@ mm. 86: FM.
 
 8: Description on this book.  
 
+###### Section I Polyphony Emergent.  
+
+**This chapter covers the early life of polyphony in all of its celebration and condemnation between its alleged (and suspect) origins in ancent Greece, its condenation by a number of papal orders, and simultaneous celebration.**
+
 ###### Chapter 1: Global Contexts and Ancient Origins.  
 
 **This chapter briefly mentions polyphony outside of Europe before focussing on the music of ancient Greece. Plate believed that monophonic music was most appropriate for human affaris, but that polyphonic music was the music of the devine, while Cicero saw harmony as having important political implications for the growing empire.**
@@ -4142,6 +4146,36 @@ mm. 86: FM.
 -: Dante and polyphony.  
 
 66: Summary.  
+
+Chapter 4: Orseme and the "New Song"  
+
+67: The condemnation of polyphony during the 14th century.  
+
+-: Pope John XXII's condemnation of polyphony in 1316. 
+
+68: Oresme.  
+
+73: Oresme on divine music.  
+
+75: Orsome's theorizing of polyphony.  
+
+80: Orsome on proportional rhythm.  
+
+82: Orseme's condemnation of magic.  
+
+-: The acutal, natural origins of magic in Orsme's view.  
+
+###### Chapter 5: Polyphonic Controversies.  
+
+85: Musical controversies in the 15th century.  
+
+86: John Wyclif's objection to polyphony as published in a tritise in 1380.  
+
+87: Savonarola's favorable view of monophony in worship.  
+
+91: Leonardo da Vinci on the subject.  
+
+97: The Council of Trent.  
 
 
 
