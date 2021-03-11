@@ -3251,7 +3251,9 @@ Materials that grow, dance.
 
 134: Westerners's fixation on the "motorbeat."  
 
+139: How to analyze this music.  
 
+140: the remaining pages are an appendix of scores.  
 
 
 ##### Kubik, Gerhard. "Composition Techniques in Kiganda Xylophone Music." _African Music Society Journal_ 4, no. 3 (1969): 22-72.  
@@ -4338,6 +4340,15 @@ Chapter 4: Orseme and the "New Song"
 > p. 60: Language.
 
 
+##### Pressing, Jeff. "Rhythmic Design in the Support Drums of _Agbadza_." _African Msuic_ 6, no. 3 (1983): 4-15.  
+
+4: The instruments of the Ewe music of Ghana.  
+
+7: Different strokes used.  
+
+9: Sorting levels of phrasing (Looks almost Schenkerian).  
+
+
 ##### Przybylski, Liz. _Hybrid Ethnography: Online, Offline, and In Between._ Thousand Oaks, California: Sage Publications, 2020.  
 
 xiii: Why this book exists.  
@@ -4970,7 +4981,8 @@ I find the way that Robertson presents the primary source very transparent. This
 55: What should students learn to do?  
 
 
- 
+##### Serwadda, Moses, and Hewitt Pantaleoni. "A Possible Notation for African Dance Drumming." _African Music_ 4, no. 2 (1968): 47-52.  
+47:
 
 ##### Shouse, Eric. "Feeling, Emotion, Affect." _M/C Journal_ 8.6 (2005).
 
