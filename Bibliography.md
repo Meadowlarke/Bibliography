@@ -5867,6 +5867,19 @@ This experience is remeniscent of the way that headphones make the sound come ou
 Is this a divergent ability? A disabled ability akin to a female masculinity?    
 
 
+##### Younge, Paschal Yao. _Music and Dance Traditions of Ghana: History, Performance, and Teaching._ Jefferson, N.C.: McFarland & Company, 2011.  
+
+46: Agbadza.  
+
+47: Social contexts of the music.  
+
+49: Dance, organization of.  
+
+314: Transcription using mnemonics.  
+
+316-349: Appendix of transcriptions.  
+  
+
 #### Z
 
 ##### Zayaruznaya, Anna. "What Fortune can Do to a Minim." _Journal of the American Musicological Society_ 65, no. 2 (2012): 313-381.  
