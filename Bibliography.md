@@ -18,7 +18,7 @@
 
 196: Analysis of _Tancredi._  
 
-202: the experiences of the aurdience.  
+202: The experiences of the audience.  
 
 205: The politics and history of writing out ornaments, as displayed in Rossini.  
 
@@ -30,7 +30,7 @@
 
 215: Antartic expedition and the loudness of Enrico Caruso.  
 
-216: the emerging of a new, chesty, tenor voice.  
+216: The emergence of a new, chesty, tenor voice.  
 
 218: Trouser roles.  
 
