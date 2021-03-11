@@ -12,7 +12,7 @@
 
 190: Rossini's part historically.  
 
-193: the High vocal range of Rossini's male heros.  
+193: The high vocal range of Rossini's male heros.  
 
 196: Analysis of _Tancredi._  
 
