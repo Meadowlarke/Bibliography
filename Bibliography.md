@@ -14,6 +14,8 @@
 
 193: The high vocal range of Rossini's male heros.  
 
+194: The "Rossininan code."  
+
 196: Analysis of _Tancredi._  
 
 202: the experiences of the aurdience.  
