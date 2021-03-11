@@ -4,6 +4,35 @@
 
 #### A
 
+##### Abbate, Carolyn and Roger Parker. _A history of Opera._ London: W. W. Norton and Company, 2012.  
+
+###### Chapter 8: Rossini and Transition.  
+
+188: Stendhal's admiration for Rossini.  
+
+190: Rossini's part historically.  
+
+193: the High vocal range of Rossini's male heros.  
+
+196: Analysis of _Tancredi._  
+
+202: the experiences of the aurdience.  
+
+205: The politics and history of writing out ornaments, as displayed in Rossini.  
+
+209: Rossini's comic operas.  
+
+213: Why is Rossini popular again?  
+
+###### Chapter 9: The Tenor Comes of Age.  
+
+215: Antartic expedition and the loudness of Enrico Caruso.  
+
+216: the emerging of a new, chesty, tenor voice.  
+
+218: Trouser roles.  
+
+
 ##### Abels, Birgit.  "Music, Affect and Atmospheres: Meaning and Meaningfulness in Palauan Omengeredakl."  _The International Journal of Traditional Arts,_ no. 2. (2018).
 
 >**This paper is an exploration of traditional Palauan _omengeredakl_ singing and the concept of atmosphere. In an attempt to sever the connection of affect with atmospheres in some recent scholarship, the author establishes the difference between the non-dualistic terms meaning and _meaningfulness_ and uses these analyze omengeredakl and its "power". Her research makes use of spectral analyses to find meaning in power _in between_ the vocal parts (9) and beyond the music itself**
@@ -64,14 +93,44 @@
 
 > **In this chapter, Agawu looks at the commonly held notion---even among musicologists--that African music is primarily rhythmic, and contains rhythms so foreign to the west as to be incomprehensible. This invention implies that western music is lacking in rhythm and that African music is lacking in harmony or melodic complexity. It suggests that Africa is one cultural body and it leads to research which can ultimately only prove its own wrongheaded assumptions. He makes a special point in the section "Interrogating a Lexical Gap" that the Ewe speaking people do not have a word for rhythm. He points to this fact as a way to stress the way that what we call rhythm isn't its own distinct category to the Ewe, but rather an interconnected, interterstitial, group of phenomena. Regading notation, a big part of Agawu's argument is that African music isn't an anomaly. Systems made specifically for African music in a sense "orientalize" (Australize?) African music and deny it's universality and would silo African music off away from critical musdiscourses or performance by musicians who aren't Africanists by trade. Essentially, a new notation for African music would be disempowering. Additionally, western notation is probably just fine for African music. Stravinsky notated _Rite of Spring_ just fine. The idea that we need a different notation for African music is based off of the erroneous, colonial, assumption that African music is ontologically different. In the end he is advocating that the only way out of epistemic violence is to empower post-colonial African subjects to write about themselves.**
 
-> **Unfortunately, I lost my detailed notes on this chapter**
+55: The persistant notion that African music is fundamentally rhythmic.  
 
-> p. 55: Stereotypes
+58: Dissenting voices.  
 
-> p. 64: Politics of notation.
+59: Africa as heterogenous.  
+
+60: The imagination of non-African rhythm as less complex.  
+
+61: Problematizing musicology of African music.  
+
+-: "African rhythm is an invention."  
+
+62: The lexical gap surrounding the lack of a word for "rhythm" in Ewe and other African languages.  
+
+63: Jones and the complexity of African rhythm as emblematic of otherness.  
+
+64: Politics of notation.  
+
+-: The inherent prescriptivity of notation.  
+
+65: The Time Unit Box System (TUBS.)  
+
+66: Why use western notation for African music.  
+
+67: Jone's overly complicated and othering transcriptions.  
+
+68: The importance of proceeding from sameness.  
+
+70: The ultimate goal of self-representation.  
 
   
 ##### Agawu, Kofi. _The African Imagination in Music._ Oxford: Oxford Universtiy Press, 2016.  
+
+###### Chapter 4: The Rhythmic Imagination.  
+
+155: The over-emphasis of rhythim in African music discourse.  
+
+
 
 ###### Chapter 5: The Melodic Imagination.
 **This chapter deals with the meldic elements of African  music, first giving an overview, then analyzing several songs.**
@@ -1395,6 +1454,28 @@ Dancers make their body strong through a continuous remaking of the body (orient
 > 502: Mauss, imitation, learning.
 
 > 503: Listening as social.
+
+
+##### Duane, Ben and Joseph Jakubowski. "Harmonic Clutsers and Tonal Cadences: Bayesian Learning without Chord Identification." _Journal of New Music Research_ 47, no. 2 (2018): 143-165.  
+
+**I feel the need to mention here that I didn't understand a word of this.** 
+143: The importance and function of cadences.  
+
+-: Research on the ease with which most people hear cadences.  
+
+144: How theorists think about cadences.  
+
+-: The questions that this article will explore.  
+
+145: Literature review of related work.  
+
+146: The corpus to be analyzed, and the classifications devised by the authors to do so.  
+
+-: The computational model.  
+
+150: Harmonic clusters and the interpretation thereof.  
+
+156: Unsupervised learnign of tonality by machines.  
 
 
 ##### Duane, Ben. "Analysis 1." Class taught at Washington University in Saint Louis, Fall 2020.
@@ -3144,6 +3225,31 @@ Materials that grow, dance.
 304: Describing the music.  
 
 306: Meter of the music.  
+
+
+##### Koetting, James. "Analysis and Notation of West African Drum Ensemble Music." _Selected Reports in Ethomusicology_ 1, no. 3 (1970): 116-146.  
+
+116: Similarities between wlwments of western and African music.  
+
+117: The problem of non-equivalents between wester and African music.  
+
+118; The social context of West African drum performances.  
+
+120: Sonority.  
+
+-: No particular pitch.  
+
+121: Gong pattern to call a piece.  
+
+123: The problem with a metrical approach to African music.  
+
+124: Section summary.  
+
+125: TUBS and the questions of notation.  
+
+134: Westerners's fixation on the "motorbeat."  
+
+
 
 
 ##### Kubik, Gerhard. "Composition Techniques in Kiganda Xylophone Music." _African Music Society Journal_ 4, no. 3 (1969): 22-72.  
