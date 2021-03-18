@@ -995,6 +995,11 @@ The development section seems to be some kind of cyclic exploration of the littl
 
 Canon-like texture at H. 
 
+##### Braxton, Anthony. _Composition Notes._ Lebanon, NH: Frog Peak Music, 1988.  
+
+150: Composition 8H.  
+
+
 
 ##### Burford, Mark. _Mahalia Jackson and the Black Gospel Field._ Oxford: Oxford University Press, 2019.  
 
@@ -2646,6 +2651,18 @@ Radical atoms: dynamical mmaterial that transform and change properties.
 Hygromorphic materials.  
 
 Materials that grow, dance.  
+
+
+##### Iverson, Jennifer. "TR-808: Race, Groove, and Drum Machines."_University of chicago Department of Music_ Febuary 10, 2021.  
+
+Yellow Magic Orchestra.  
+
+Their appearance on _Soul Train._
+
+Musical groove and feel in drum machine music.  
+
+frikaa Bombaataa's "Planet Rock," 1981.  
+
 
 ##### Iyer, Vijay. 2002. “Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music” _Music Perception: An Interdisciplinary Journal_ 19 (3): 387–414.  
 
@@ -5818,6 +5835,19 @@ This experience is remeniscent of the way that headphones make the sound come ou
 > p. 353: The voice of Henry Russel is described as having had "a heavy baritone voice of small compass, but in declamatory delivery it was highly impressive."
 
 > p. 353: Henry Russel is describes as writing in a "manly vein."
+
+
+##### Wilson, Oly. "The Heterogenous Sound Ideal." in _Signigyin(g), Sanctifyin', and Slam Dunking_. edited by Gena Dagel Caponi, 157-xx. Amherst: University of Massachusetts Press, 1999.  
+
+157: Duke Ellington "It don't mean a thing if it aint got that swing."  
+
+158: The challenge of generalizing about the characteristics of music from Africa and the Diaspora.  
+
+159: Some of those characteristics.  
+
+160: Tonal languages and their manifestations in musical characteristics.  
+
+165: Singing with the "holler, cry, or moan."  
 
 
 ##### Wong, Deborah. “Taiko and the Asian/American Body: Drums, ‘Rising Sun,’ and the Question of Gender.” _The World of Music_ 42, no. 3 (2000): 67–78. 
