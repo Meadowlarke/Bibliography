@@ -4357,6 +4357,15 @@ Chapter 4: Orseme and the "New Song"
 > p. 60: Language.
 
 
+##### Poriss, Hilary. _Changing the Score: Arias, Prima Donnas, and the Authority of Performance._ Oxford: Oxford U Press, 2009.
+
+3: Ana del Lagrange and her "trunk aria."  
+
+4: Ideas of authenticity.  
+
+
+
+
 ##### Pressing, Jeff. "Rhythmic Design in the Support Drums of _Agbadza_." _African Msuic_ 6, no. 3 (1983): 4-15.  
 
 4: The instruments of the Ewe music of Ghana.  
