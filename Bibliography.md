@@ -3598,6 +3598,27 @@ Politics, Foucalt.
 > p. 24: Convention and originality.
 
 
+##### Lewis, George E. "Purposive Patterning: Jeff Donaldson, Muhal Richard Abrams, and the Multidominance of Consciousness." _Lenox Avenue_ 5, (1999): 63-69.  
+
+63: Assosciation of Jeff Donaldson and Muhal Richard Abrams.  
+
+-: AACM and other organizations.  
+
+64: "Multidominance."  
+
+-: "Free" music.  
+
+66: Olly Wilson.  
+
+67: Shoenberg.  
+
+-: Wilson's ideas of bodily movement.  
+
+68: Repetition in sound and painting.  
+
+69: "Double consciousness" of W.E.B Du Bois.  
+
+
 ##### Liszt, Franz. _Reminiscences de Don Juan: Oper von  Mozart._ 1843.  
 
 mm. 1: Liszt begins with the theme of the statue.  
@@ -3617,7 +3638,24 @@ mm. 38: Turn ornament in the original is notated as correspondig grace notes.
 mm. 44: Retransition (i.e. transition back to the A section.) Right hand arpeggiation and  added block chords in the left hand.
 
 mm. 58: Page of outro material, he plays material from both the A and B section.  
- 
+
+
+##### Lock, Graham. "What I call a Sound: Anthony Braxton's Synaesthetic Ideal and Notations for Improvisers." _Critical Studies in Improvisation_ 4, no 1 (2008): 1-23.  
+
+1: A look at Braxton's composition notes.  
+
+2: Notational glyphs used bu Braxton.  
+
+3: Composition diagram-titles.  
+
+4: Braxton and synasthesia.  
+
+6: More on the significance of syhnathesia, culturally.  
+
+8: "Trans idiomatic."  
+
+9: Some Braxton graphic scores.  
+
   
 ##### Long, Michael. "Symbol and Ritual in Josquin's 'Missa Di Dadi.'" _Journal of the American Musicological Society_ 42, no. 1 (1989): 1-22.  
 
