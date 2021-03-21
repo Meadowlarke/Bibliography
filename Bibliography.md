@@ -4304,7 +4304,149 @@ Chapter 4: Orseme and the "New Song"
 
 97: The Council of Trent.  
 
+###### Section 2: Polyphony Triumphant.  
 
+###### Chapter 6: E pluribus unum.  
+
+101: The use of cantus firmus and how it was used by different composers and theorists to make one of many. 
+
+102: The music of Machaut.  
+
+105: Analogy of imperceptable details in Machaut to those of a cathedral.  
+
+110: Okeghem.  
+
+-: Mensuration canons.  
+
+113: Soggetto cavato.  
+
+-: Josquin, "leave it to me," and the Turkish Prince Cem Sultan.  
+
+###### Chapter 7: Polyphony and Power.  
+
+119: The Medicis and Striggio.  
+
+120:Striggio's forty-voice motet.  
+
+-: Talis and him immitation of Stiggio.  
+
+129: Janet Cardiff reproducing Talis' motet for forty on forty speakers as an installment.  
+
+###### Chapter 8: Controlling Dissonance.  
+
+131: Overview of intervals.  
+
+134: Palestrina's easing of dissonances
+
+-: William Byrd's use of dissonance and consonance.  
+
+137: Carlo Gesualdo, prince of Vensoa's use of dissonance.  
+
+-: Galileo's father Vicenzo Galilei, his interest in ancient music, and attack of modern polyphony.  
+
+143: Monteverdi, monody, Orpheus.  
+
+145: Seconda prattics.  
+
+-: Johannes Kepler's belief in a polyphonic universe. 
+
+147: The dissonance of Kepler's polyphonic universe.  
+
+Chapter 9: Contrapuntal Science and Art.  
+
+150: The expanded musical education of the Renaissanceand the publication of musical tritises.  
+
+152: Thomas Morley's _A Plaine and Easie Itroduction to Practiacall Musicke_.  
+
+155: Fux.  
+
+158: The sceintism of Fuxain counterpoint.  
+
+Chapter 10: In Back's Hands.  
+
+163: Bach as musical scientist.  
+
+165: Bach as teacher.  
+
+168: Playing keyboards with thte thumb.  
+
+171: Couperin's keyboard method book, 1717.  
+
+172: Bach's use of paired fingers and thumb.  
+
+174: Bach's single-line pseudo-polyphony.  
+
+###### Section 3: Polyphonic Horizons.  
+
+###### Chapter 11: Polyphony Extended.  
+
+183: Composers who make use of polyphony.  
+
+189: Hemholtz's study of consonance, dissonance, and overtones.  
+
+196: Shoennberg and other's take up of Hemholtzian ideas.  
+
+198: Polytonality.  
+
+199: Charles Ives.  
+
+-: Ligeti and "micro-polyphony".  
+
+204: Conlon Nancarrow's compositions too difficult for humans and irrational canons.  
+
+###### Chapter 12: Contrapuntal Radio and Polyphonic Fields.  
+
+209: Glenn Gould's polyphonic voice experiments.  
+
+217: John Cage and "polyattentiveness."  
+
+218: John Cage _Radio Music_.  
+
+224: Merce Cunningham.  
+
+###### Section 4: Polyphonic Brains.  
+
+######Chapter 13: Polyphonic Selves.  
+
+229: Eighteenth century ideas of multiple selves or personalities.  
+
+230: Phrenology.  
+
+233: Handedness.  
+
+236: Freud's id, ego, and superego.  
+
+239: Proust.  
+
+242: Polyphony and dissonance in sociology.  
+
+###### Chapter 14: Tuning the Brain.  
+
+248: Hans Berger and brain waves.  
+
+254: "Tuning" in learning.  
+
+257: ADHD.  
+
+##### Chapter 15: Music of the Hemispheres.  
+
+259: The study of polyphonic rhythms on in breain in the 21st century.  
+
+260: Artificial intelligence.  
+
+-: Oscilatory patterns in the brain.  
+
+264: Sleep as "tuning."  
+
+266: La Fleur and an experiemnt which involved piloting drones with brain waves.  
+
+270: Coordinatino of neural systems.  
+
+###### Postlude.  
+
+273: Aperformance of John Luther Adam's _Sila._  
+
+274: the body in polyphony.  
 
 
 ##### Phillips-Silver, Jessica, and Peter Keller. 2012. “Searching for Roots of Entrainment and Joint Action in Early Musical InteractionsPreview the document.” Frontiers in Human Neuroscience 6.  
