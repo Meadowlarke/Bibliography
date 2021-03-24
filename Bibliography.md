@@ -5833,9 +5833,13 @@ Cabaletta
 
 257: Braxton's inspirations for graphic scores.   
 
-258: Performaance/recording of _Composition 76._  
+258: Performance/recording of _Composition 76._  
 
+260: Analysis of the performance and the composition.  
 
+-: From this point on to the end this paper is largely composed of highly detailed descriptions of the performance and how they relate to the score.  
+
+270: A problem in the improviation with you can hear the performers working out. 
 
 #### T
 
