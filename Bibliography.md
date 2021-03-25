@@ -1357,7 +1357,7 @@ Chorus: Straight-tone (no vibrato.)
 > 43: Patronage as a possible reason for the shift.
 
 
-Czerny, Carl. _Systematic Introduction to Improvisation at the Pianoforte._ Translated by Alice Mitchell. New York: Longman, 1983.  
+##### Czerny, Carl. _Systematic Introduction to Improvisation at the Pianoforte._ Translated by Alice Mitchell. New York: Longman, 1983.  
 
 42: Comparng the improvisor to an orator.  
 
@@ -1367,7 +1367,7 @@ Czerny, Carl. _Systematic Introduction to Improvisation at the Pianoforte._ Tran
 
 44: Example developments of that theme into different generas.  
 
-46: Example developments from a more simple theme. #Z: Czerny says tha tthe simpler the subject the more free and more interesting the development.  
+46: Example developments from a more simple theme. 
 
 48: Impovising on a theme without melodic profile.  
 
@@ -1375,7 +1375,7 @@ Czerny, Carl. _Systematic Introduction to Improvisation at the Pianoforte._ Tran
 
 51: Combining mutiple styles into one improvisation.  
 
-62: Nte on ending the piece.  
+62: Note on ending the piece.  
 
 
 #### D
