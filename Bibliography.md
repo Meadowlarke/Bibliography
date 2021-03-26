@@ -3678,6 +3678,39 @@ mm. 58: Page of outro material, he plays material from both the A and B section.
 9: Some Braxton graphic scores.  
 
   
+##### Locke, Ralph P. "Spanish Local Color in Bizet's Carmen: Unexplored Borrowings and Transformations," in _Music, Theater, and Cultural Transfer: Paris 1830-1914._ Edited by Annegret Fauser and Mark Everist. Chicago: University of Chicago Press, 2009.  
+
+1: The history and popularity of fiction depicting Carmen.  
+
+4: Carmen as modern myth.  
+
+5: Central question of this paper (Why is _Carmen so damn popular?_)  
+
+6: Some different retellings of the plot of the opera.  
+
+8: The incompatibility of the lovers.  
+
+-: Mérimée's novela _Carmen_ and its framing as a the tale of a French traveler among the spanish.  
+
+9: The Roma as objects of fascination for western artists and explorers.  
+
+-: Origins of the Roma and Romany.  
+
+10: Differences in depictions of the Roma between the novela and the Bizet opera.  
+
+-: Bizet's inclusion of the Romany in order to include spanish rhythms in the score. #Z.  
+
+11: Cllios on myth and the tensions between individual and society.  
+
+-: Jila Kristeva on different reactions to foreigners.  
+
+-: Opposing feelings of love and hate.  
+
+-: Adam Phillips on love and hate.  
+
+12: What _Carmen_ "does" socially as a piece of fiction.  
+
+
 ##### Long, Michael. "Symbol and Ritual in Josquin's 'Missa Di Dadi.'" _Journal of the American Musicological Society_ 42, no. 1 (1989): 1-22.  
 
 This paper first points out that, through the example of _femme desconfortée_, that the fifteenth century was full of religious imagery in secular places, and that elements like this chanson or dice in this case, could become "sacralized." Long goes to analyze how Josquin used dice in his _Missa Di dadi_ as an alegorical tool for symbolizing various liturgical aspects, as a tool for indicating the canon proportions of the tenor c.f. vs the original, and as a playful bit of "sacrelization" of an toy which has otherwise been associated with sin. 
