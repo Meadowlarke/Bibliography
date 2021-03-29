@@ -3726,7 +3726,7 @@ mm. 58: Page of outro material, he plays material from both the A and B section.
 
 319: Bizet's uptake of musical styles/material from Manuel García's light opera of 1804 _El crido fingido._  
 
--: Elements of Garcís music which were striking/unusual for its time.  
+-: Elements of García's music which were striking/unusual for its time.  
 
 322: Plot of García's song "Cuerpo bueno."  
 
