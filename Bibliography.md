@@ -2140,7 +2140,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 4: Carmen as modern myth.  
 
-5: Central question of this paper (Why is _Carmen so damn popular?_)  
+5: Central question of this paper (Why is _Carmen_ so damn popular?)  
 
 6: Some different retellings of the plot of the opera.  
 
@@ -3755,6 +3755,12 @@ mm. 58: Page of outro material, he plays material from both the A and B section.
 352: The question of who this music represents.  
 
 353: Links between _Carmen_ and Iradier's "El arreglito."  
+
+355: A bad French translation of the song.  
+
+356: A better interpretation by Draayer.  
+
+358: The scene in _Carmen_ where this song is borrowed from.  
 
 
 ##### Long, Michael. "Symbol and Ritual in Josquin's 'Missa Di Dadi.'" _Journal of the American Musicological Society_ 42, no. 1 (1989): 1-22.  
