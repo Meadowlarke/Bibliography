@@ -995,6 +995,8 @@ The development section seems to be some kind of cyclic exploration of the littl
 
 Canon-like texture at H. 
 
+
+
 ##### Braxton, Anthony. _Composition Notes._ Lebanon, NH: Frog Peak Music, 1988.  
 
 150: Composition 8H.  
@@ -2063,6 +2065,47 @@ xxiii: violence as motivated by culturally informed varients of universal social
 > p. 89: Rhizome theory.
 
 
+##### Ford, Tanisha C. and Deborah Willis. _Kwame Brathwaite: Black is Beautiful._ Aperature, 2019.  
+
+
+
+##### Ford, Tanisha C. _Liberated Threads: Black Women, Style, and the Glocal Politics of Soul._ Durham: The University of North Carolina Press, 2015.  
+
+###### Introduction: Black Women and the Making of a Modern Soul Style. 
+
+1: The FBI's listing of academic and professor Angela Davis on the 10 most wanted.  
+
+-: Davis's appearance.  
+
+-: "Soul style."  
+
+2: Her interpretation by the media as a sex object.  
+
+-: The display of the famous poster of her likeness.  
+
+3: The lack of scholarship on dress and style as a critical aspect on the Black Freedom movement.  
+
+-: The archive which Ford has assembled.  
+
+-: Thesis.  
+
+4: More on soul style. 
+
+5: Everyday encounters as sites of figiting for liberation.  
+
+-: "Soul."  
+
+6: Blues, Jazz and politics of musical soul.  
+
+8: _Essence's_ coverage of fashion on black college campuses.  
+
+9: Carol Tulloch's argument that we must study the circulation of black fashion through a diasporic "network."  
+
+-: Ford's issue with this arguement.  
+
+10: The complexity of "soul."  
+
+-: Summaries of chapters.
 
 
 ##### Freitas, Roger. "The Eroticism of Emasculation: Confronting the Baroque Body of the Castrato." _The Journal of Musicology_ 20, no. 2 (Spring 2003): 196-249.
