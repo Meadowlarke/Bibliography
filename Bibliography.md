@@ -2107,6 +2107,68 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 -: Summaries of chapters.
 
+###### Chapter 1: Reimagining Africa: How Black Women Invented the Language of Soul in the 1950s.  
+
+13: Miriam Makeba.  
+
+14: Establishemt of soul style as a fashionable expression of blackness.  
+
+15: Makeba's early career in Johannesburg.  
+
+-: The Manhattan Brothers and their fashion.  
+
+16: Makeba's fashion while performing with the Manhattan Brothers.. 
+
+-: Modernity and wearing western clothing. 
+
+16/17: Aparthid and mandated hair styles.  
+
+18: Makeba's stance on the beauty culture of the 1950s.  
+
+-: Relocation of multiracial residents in Sophiatown.  
+
+19: Makeba and Lionel Rogosin's docudrama _Come Back, Africa_ (1959.)  
+
+20: Black American's fascination with African Style.  
+
+21: Sekou Toure, the Guinean president, and his saratorial descisions.  
+
+-: Highlife dance/music.  
+
+-: The chalenges to the American image of Africa that highlife posed.  
+
+22: Belafonte.  
+
+23: Makeba in the U.S.  
+
+24: Belafonte changing Makeba's image to better suit the U.S. market.  
+
+24/25: Costume designer John Pratt.  
+
+25: Makeba's short, natural hair.  
+
+26: Makeba's refusal to process her hair.  
+
+-: Differing reception by the South African and American press after success in the U.S.  
+
+28: How her hair was a political symbol.  
+
+-: Nina Simone, her encounter with Makeba, and her early imagining of herself as an African woman.  
+
+30: Odetta, African clothes, full figure.  
+
+31: Odetta's "Afro." #Z: The Afro was initally known as the "Odetta."  
+
+33: Naming "soul."  
+
+35: Makeba becoming an outspoken singer-activist.  
+
+36: "Mississpii Goddam!"  
+
+36: #Z: Recod label executives would pay DJ's in the 60s to throw away records by black and R&B singers so that the lables could promote white artists singing less soulful vverions of the same song. This became known as "paying to play."  
+
+37: The lavish lifestyles of Nina Simore and Makeba.  
+
 ###### Chapter 2: Harlem's "Natural Soul:" Selling Black Beauty to the Diaspora in the early 1960s.  
 
 41: Blue Note's release of Lou Donaldson's album _The Natural Soul_ in 1962.  
