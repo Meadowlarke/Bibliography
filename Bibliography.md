@@ -2107,6 +2107,78 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 -: Summaries of chapters.
 
+###### Chapter 2: Harlem's "Natural Soul:" Selling Black Beauty to the Diaspora in the early 1960s.  
+
+41: Blue Note's release of Lou Donaldson's album _The Natural Soul_ in 1962.  
+
+-: The natural hair of the woman of the cover of the album.  
+
+42: Natural hair within the U.S. Black Nationalist community.  
+
+43: Wigs Parisian wig store in Harlem.  
+
+44: Wigs as sign of modern sophistication.  
+
+45: Cosmopolitan brown beauty.  
+
+46: The ANPM's "nautral"beatury pagent and its valuing of pure "black blood" free from raical mixing---a standard which most black women could not meet. #Z  
+
+-: Performance of naturalness.  
+
+47: ANPM boycott of wig shops.  
+
+48: ANPM protest of Wigs Parisian.  
+
+49: Counterprotest.  
+
+-: #Z: The protest became an attock on black women and their hair choics, wither for wig wearing or for gwearing their hair natural.  
+
+50: Nigeria, traditional hairstyles, and modernity.  
+
+-: Eleanor Masons' take that straigtening is actually embracing and African cultural practice.  
+
+52: Shift in the AJAS to concentrate more on style and adornment than on things like hair.  
+
+-: Grandassa models.  
+
+53: Establishing African fashions in the U.S. ad aspirational.  
+
+54: Importance of self-clothing during American slavery.  
+
+-: Early 20th century fashion shows an their similarity to the ante- and post-bellum fashion parade.  
+
+-: The shows' role as a display of black middle-class-ness.  
+
+55: The countercultural turn of black fashion shows in the 1960s and their labeling as "anti-fashion" by the mainstream press.  
+
+-: The inagural fashion show of the AJAS.  
+
+56: The politics of the Grandassa models weaing African inspired clothing at the AJAS fashion show.  
+
+-: THe politics of "African" hairstile choices at the AJASfashion show.  
+
+57: Sexism among some male Black Nastionalists who opposed natural hair.  
+
+-: "Blue-black."  
+
+58: Sexualization of block women by mainstream society.  
+
+59: AJAS publishing internationally.  
+
+-: James Davis opens pan-african shop Ntu down the street from Wigs Paresian.  
+
+60: Reid Miles and the design of Blue Note records.  
+
+60/61: Cover of Lou Donaldson's 1963 _Good Gracious!_  
+
+-: The power in this image.  
+
+62: AJASS-designed series of Blue Note ccovers as an inexpensive way for working-class blacks to participate in the cultural revolution.  
+
+64: The decline of the Grandassa models' popularity and the increased visibility of soul style and pan-african styles by the early 1970s.  
+
+65: A prelude to the next chapter on sould style in the southerm U.S.  
+
 
 ##### Freitas, Roger. "The Eroticism of Emasculation: Confronting the Baroque Body of the Castrato." _The Journal of Musicology_ 20, no. 2 (Spring 2003): 196-249.
 
