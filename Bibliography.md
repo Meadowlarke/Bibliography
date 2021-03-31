@@ -2067,6 +2067,21 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 ##### Ford, Tanisha C. and Deborah Willis. _Kwame Brathwaite: Black is Beautiful._ Aperature, 2019.  
 
+11: Kwame Brathwaite and his introduction to photographing jazz and nightlife.  
+
+12: Short bio of Brathwaite.  
+
+-: Jazza as black cool.  
+
+15: The African Jazz Art Society (AJAS.)  
+
+19: Brathwite's style of photography.  
+
+65: The Grandassa Models and their natural hair.  
+
+67: Their inagural fashion show.  
+
+72: Black is beautiful slogan.  
 
 
 ##### Ford, Tanisha C. _Liberated Threads: Black Women, Style, and the Glocal Politics of Soul._ Durham: The University of North Carolina Press, 2015.  
