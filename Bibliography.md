@@ -2238,7 +2238,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 -: "Blue-black."  
 
-58: Sexualization of block women by mainstream society.  
+58: Sexualization of black women by mainstream society.  
 
 59: AJAS publishing internationally.  
 
@@ -2254,7 +2254,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 64: The decline of the Grandassa models' popularity and the increased visibility of soul style and pan-african styles by the early 1970s.  
 
-65: A prelude to the next chapter on sould style in the southerm U.S.  
+65: A prelude to the next chapter on soul style in the southern U.S.  
 
 
 ##### Freitas, Roger. "The Eroticism of Emasculation: Confronting the Baroque Body of the Castrato." _The Journal of Musicology_ 20, no. 2 (Spring 2003): 196-249.
