@@ -1484,6 +1484,19 @@ Dancers make their body strong through a continuous remaking of the body (orient
 > 503: Listening as social.
 
 
+##### Downey, Greg. "The dynamics of the embrace: An analysis of leading and following in Argentine tango." Washington University, March 29, 2021. 
+
+Tango's complicated nature of colaborative listening complicates the alleged sexism of Tango leading and following.  
+
+The cuious bandonion.  
+
+Tango about unconsumated or unatainable desire.  
+
+Tango is inherently anti-erotic.  
+
+Gender asymetry as cultivated illusion.
+
+
 ##### Duane, Ben and Joseph Jakubowski. "Harmonic Clutsers and Tonal Cadences: Bayesian Learning without Chord Identification." _Journal of New Music Research_ 47, no. 2 (2018): 143-165.  
 
 **I feel the need to mention here that I didn't understand a word of this.** 
