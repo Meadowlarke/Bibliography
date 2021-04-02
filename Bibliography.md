@@ -6462,6 +6462,15 @@ This experience is remeniscent of the way that headphones make the sound come ou
 
 #### W
 
+##### Waterman, Ellen. "'I Dreamed of Other Worlds:' An Interview with Nicole Mitchell, May 8, 2008." _Critical Studies in Improvisation_ 4, no. 1 (2008): 1-6.  
+
+1: Mitchell on her mother, improvising, starting from blankness, and writing music visually.  
+
+2: Combinations of her voice and her flute.  
+
+4: Pedagogy.  
+
+
 ##### Weber, William, "Musical Canons." In _The Oxford Handbook to Music and Itellectual Culture in the Nineteenth Century, ed. Paul Watt, Sarah Collins, and Michael Allis._ Oxford: Oxford University Press, 2020.  
 
 319: Gradual replacement of "classical music" with "the canon."  
