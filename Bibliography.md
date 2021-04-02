@@ -442,6 +442,7 @@ mm 13: PAC.
 
 mm: 42: Begin B theme, sentence structure, two-bar basic idea.  
 
+  
 ##### Bellman Jonathan. _The Style Hongrois in the Art Music of Western Europe._ Chicago: Northeastern University Press, 1993.  
 
 ###### Chapter 4: Stereotypes: The Gypsies in Literature and Popular Culture.  
@@ -486,7 +487,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 104: Instruments.  
 
-118: Bókazó rhythm.  
+118: Bókazó (heel-click) rhythm.  
 
 121: The rasied fourth.  
 
@@ -1333,7 +1334,19 @@ Chorus: Straight-tone (no vibrato.)
 306: Praat, computer program for speach analyses and synthesis.  
 
 
+##### Corbet, John. "Flutist Nicole Mitchell Uses Music to Map a Possible Paradise." _Chicago Reader,_ August 27, 2018.  
 
+1: Little bio of Mitchell.  
+
+2: _Mandorla Awakening_ story and suite of music.  
+
+-: Work with Tatsu Aoki, musician and filmmaker.  
+
+3: Debut of the piece at MCA.  
+
+-: Mitchell on musical generas as fading restrictions.  
+
+5: Mitchell's political ethos.  
 
 
 ##### Crawford, Richard. _An Introduction to America’s Music._ New York: Norton, 2001.
