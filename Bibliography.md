@@ -5385,7 +5385,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 ###### Chapter 7: Dancing in Brave Spaces.
 
-> **This chapter is mostly composed of ethnographic material and social implications drawn therefrom. **
+> **This chapter is mostly composed of ethnographic material and social implications drawn therefrom.**
 
 224: Theory background.  
 
@@ -5746,6 +5746,20 @@ What is a human?
 96: The voice's posibilities and thresholds. 
 
 97: Summary and conclusions.  
+
+##### Smith, Leo. "(M1) American Music." _The Black Perspective in Music_ 2, no. 2 (1974): 111-116.  
+
+111: Creative vs classical music.  
+
+-: Late 19th century and serious American music.  
+
+112: The lack of performances of music by Joplin and Ives.  
+
+113: duke Ellington.  
+
+115: Thinking about the future.  
+
+116: The future: "world music."  
 
 
 ##### Snarrenberg, Robert. "WesterParse: A Transition-Based Dependency Parser for Simple Tonal Lines." 2020.
