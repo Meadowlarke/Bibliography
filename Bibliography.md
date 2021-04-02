@@ -4169,7 +4169,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 ##### Mauss, Marcel. 1973\[1935\]. “Techniques of the Body.” Translated by Ben Brewster. _Economy and Society_ 2 (1): 70–87.
 
-> **In this essay, Mauss looks at the body as an object of culture. This term "techniques of the body" simply refers to the way that people in different societies learn to use their bodies. He gives the example that Price Curt Sachs joked that he could spot the gait of a Frenchman or Englishman from some distance. In this piece he spends a good bit of time listing and classifying different techniques of the body and ultimately concludes that it is thanks to society that these ways of using the body exist, and not vice versa. **
+> **In this essay, Mauss looks at the body as an object of culture. This term "techniques of the body" simply refers to the way that people in different societies learn to use their bodies. He gives the example that Price Curt Sachs joked that he could spot the gait of a Frenchman or Englishman from some distance. In this piece he spends a good bit of time listing and classifying different techniques of the body and ultimately concludes that it is thanks to society that these ways of using the body exist, and not vice versa.**
 
 > p. 70: Introduction to the techniques of the body
 
@@ -4251,7 +4251,7 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
 
 ##### Menses, Juan Diego Diaz. "Listening with the Body: An Aesthetics of Spirit Possession Outside the Terreiro." _Ethnomusicology_ 60, no. 1 (Winter 2016): 89-124.
 
->**Drawing on interviews and fieldwork, this paper looks at how members of the Bahian Candomble religion find meaning in music which draws on Candomble ritual music outside of the ritual context. In this analysis, Menses proposes an aesthetic approach based on bodily sensations, personal memory, and myth. **
+>**Drawing on interviews and fieldwork, this paper looks at how members of the Bahian Candomble religion find meaning in music which draws on Candomble ritual music outside of the ritual context. In this analysis, Menses proposes an aesthetic approach based on bodily sensations, personal memory, and myth.**
 
 > 89: Spirit possession.
 
@@ -4444,7 +4444,15 @@ Micklem, James, Andrew Cooke, and Mark Stone. "Xylophone Mysic of Uganda: The _E
 
 -: Gendering. 
   
-  
+##### Mitchel, Nicole. Liner notes for _Mandorla Awakening II: Emerging Worlds._ FPE Records 12. CD. 2017.  
+
+1: "Birds Sing interlocking songs of imagination."
+
+4: Unifying duality by "smahing together two worlds: a dystopic world and a utopic world."  
+
+5: "Organic expression of diversity."  
+
+
 ##### Moorman, Marissa J. "Anatomy of Kuduro: Articulating the Angolan Body Politic after the War." _African Studies Review_ 57, no. 3 (2014): 21-40.  
 
 22: Descprition of Music videos.  
