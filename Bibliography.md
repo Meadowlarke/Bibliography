@@ -442,6 +442,7 @@ mm 13: PAC.
 
 mm: 42: Begin B theme, sentence structure, two-bar basic idea.  
 
+  
 ##### Bellman Jonathan. _The Style Hongrois in the Art Music of Western Europe._ Chicago: Northeastern University Press, 1993.  
 
 ###### Chapter 4: Stereotypes: The Gypsies in Literature and Popular Culture.  
@@ -486,7 +487,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 104: Instruments.  
 
-118: Bókazó rhythm.  
+118: Bókazó (heel-click) rhythm.  
 
 121: The rasied fourth.  
 
@@ -1333,7 +1334,19 @@ Chorus: Straight-tone (no vibrato.)
 306: Praat, computer program for speach analyses and synthesis.  
 
 
+##### Corbet, John. "Flutist Nicole Mitchell Uses Music to Map a Possible Paradise." _Chicago Reader,_ August 27, 2018.  
 
+1: Little bio of Mitchell.  
+
+2: _Mandorla Awakening_ story and suite of music.  
+
+-: Work with Tatsu Aoki, musician and filmmaker.  
+
+3: Debut of the piece at MCA.  
+
+-: Mitchell on musical generas as fading restrictions.  
+
+5: Mitchell's political ethos.  
 
 
 ##### Crawford, Richard. _An Introduction to America’s Music._ New York: Norton, 2001.
@@ -3935,6 +3948,36 @@ Politics, Foucalt.
 
 69: "Double consciousness" of W.E.B Du Bois.  
 
+##### Lewis, George E. _A Power Stronger Than Itself: The AACM and American Experimental Music._ Chicago: University of Chicago Press, 2008.
+
+###### Chapter 11: Into the Third Decade.  
+
+439: The AACM in the 1980s.  
+
+-: John Shenoy Jackson.  
+
+440: The New Yourk chapter of the org.  
+
+441: Classical-jazz fusion.  
+
+442: Black experimental music aesthetics.  
+
+446: The Lincoln Center.  
+
+448: Fred Anderson.  
+
+449: Changing networks and an overall decentralization of US expressive culture in the 1980s.  
+
+450: Racial politics and the term "Breat Black Music."  
+
+459: New women in the AACM.  
+
+461: Ann Ward.  
+
+464: Nicole Mitchell.  
+
+466: Maia.  
+
 
 ##### Liszt, Franz. _Reminiscences de Don Juan: Oper von  Mozart._ 1843.  
 
@@ -4139,7 +4182,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 ##### Mauss, Marcel. 1973\[1935\]. “Techniques of the Body.” Translated by Ben Brewster. _Economy and Society_ 2 (1): 70–87.
 
-> **In this essay, Mauss looks at the body as an object of culture. This term "techniques of the body" simply refers to the way that people in different societies learn to use their bodies. He gives the example that Price Curt Sachs joked that he could spot the gait of a Frenchman or Englishman from some distance. In this piece he spends a good bit of time listing and classifying different techniques of the body and ultimately concludes that it is thanks to society that these ways of using the body exist, and not vice versa. **
+> **In this essay, Mauss looks at the body as an object of culture. This term "techniques of the body" simply refers to the way that people in different societies learn to use their bodies. He gives the example that Price Curt Sachs joked that he could spot the gait of a Frenchman or Englishman from some distance. In this piece he spends a good bit of time listing and classifying different techniques of the body and ultimately concludes that it is thanks to society that these ways of using the body exist, and not vice versa.**
 
 > p. 70: Introduction to the techniques of the body
 
@@ -4221,7 +4264,7 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
 
 ##### Menses, Juan Diego Diaz. "Listening with the Body: An Aesthetics of Spirit Possession Outside the Terreiro." _Ethnomusicology_ 60, no. 1 (Winter 2016): 89-124.
 
->**Drawing on interviews and fieldwork, this paper looks at how members of the Bahian Candomble religion find meaning in music which draws on Candomble ritual music outside of the ritual context. In this analysis, Menses proposes an aesthetic approach based on bodily sensations, personal memory, and myth. **
+>**Drawing on interviews and fieldwork, this paper looks at how members of the Bahian Candomble religion find meaning in music which draws on Candomble ritual music outside of the ritual context. In this analysis, Menses proposes an aesthetic approach based on bodily sensations, personal memory, and myth.**
 
 > 89: Spirit possession.
 
@@ -4414,7 +4457,15 @@ Micklem, James, Andrew Cooke, and Mark Stone. "Xylophone Mysic of Uganda: The _E
 
 -: Gendering. 
   
-  
+##### Mitchel, Nicole. Liner notes for _Mandorla Awakening II: Emerging Worlds._ FPE Records 12. CD. 2017.  
+
+1: "Birds Sing interlocking songs of imagination."
+
+4: Unifying duality by "smahing together two worlds: a dystopic world and a utopic world."  
+
+5: "Organic expression of diversity."  
+
+
 ##### Moorman, Marissa J. "Anatomy of Kuduro: Articulating the Angolan Body Politic after the War." _African Studies Review_ 57, no. 3 (2014): 21-40.  
 
 22: Descprition of Music videos.  
@@ -5347,7 +5398,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 ###### Chapter 7: Dancing in Brave Spaces.
 
-> **This chapter is mostly composed of ethnographic material and social implications drawn therefrom. **
+> **This chapter is mostly composed of ethnographic material and social implications drawn therefrom.**
 
 224: Theory background.  
 
@@ -5708,6 +5759,20 @@ What is a human?
 96: The voice's posibilities and thresholds. 
 
 97: Summary and conclusions.  
+
+##### Smith, Leo. "(M1) American Music." _The Black Perspective in Music_ 2, no. 2 (1974): 111-116.  
+
+111: Creative vs classical music.  
+
+-: Late 19th century and serious American music.  
+
+112: The lack of performances of music by Joplin and Ives.  
+
+113: duke Ellington.  
+
+115: Thinking about the future.  
+
+116: The future: "world music."  
 
 
 ##### Snarrenberg, Robert. "WesterParse: A Transition-Based Dependency Parser for Simple Tonal Lines." 2020.
@@ -6409,6 +6474,15 @@ This experience is remeniscent of the way that headphones make the sound come ou
 
 
 #### W
+
+##### Waterman, Ellen. "'I Dreamed of Other Worlds:' An Interview with Nicole Mitchell, May 8, 2008." _Critical Studies in Improvisation_ 4, no. 1 (2008): 1-6.  
+
+1: Mitchell on her mother, improvising, starting from blankness, and writing music visually.  
+
+2: Combinations of her voice and her flute.  
+
+4: Pedagogy.  
+
 
 ##### Weber, William, "Musical Canons." In _The Oxford Handbook to Music and Itellectual Culture in the Nineteenth Century, ed. Paul Watt, Sarah Collins, and Michael Allis._ Oxford: Oxford University Press, 2020.  
 
