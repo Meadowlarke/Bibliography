@@ -487,6 +487,10 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 104: Instruments.  
 
+110: Evocation of the human voice.  
+
+116: Dotted eighth-sixteenth.  
+
 118: Bókazó (heel-click) rhythm.  
 
 121: The rasied fourth.  
@@ -1298,6 +1302,28 @@ Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."
 > Ancestors are surrounding us and are ever present.
 
 > Online interactions lose spiritual exchange.
+
+
+##### Chaminade, Cécile. Op. 40 Konzerstueck.  
+
+mm. 2: Key signature of B Major, melody in the phrygian mode.  
+
+16: Conspicuous piano ostinato.  
+
+27: Reversed dotted eighth-sixteenth rhythm in acompaniment.  
+
+12: Oboe solo, very orientalist sounding.  
+
+34: Oboe solo again, using dotted eighth-sixteenth rhythm.  
+
+-: End of page, dance starts, sounds exotic.  
+
+38: Surpsisingly sober sounding section.  
+
+50: Arpegiation of chords on sextuplets without sustain, suggesting the cimbalom.  
+
+53: Intersting hemiola in piano.  
+
 
 
 
