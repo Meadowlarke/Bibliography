@@ -656,6 +656,16 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 77: Nyamaropa, and ancient mbria composition.  
 
+#####Bjerke, Kristoffer Yddal. "Timbral Relationships and Microrhythmic Tension: Shaping the Groove Experience through Sound." In _Musical Rhtyhm in the Age of Digital Reproduction,_ edited by Anne Danielsen, 74-101. Farnham, Surrey: Ashgate, 2010.  
+
+74: Auditory stream segregation.  
+
+-: Bregman on perception. #Z: Bregman defines percetion as "the process of using the information
+provided by our senses to form mental representations of the world around us."  
+
+75: Leaned and unleared (primitive and "schema-based")strategies of perception.  
+
+
 
 
 
@@ -4485,9 +4495,11 @@ Micklem, James, Andrew Cooke, and Mark Stone. "Xylophone Mysic of Uganda: The _E
   
 ##### Mitchel, Nicole. Liner notes for _Mandorla Awakening II: Emerging Worlds._ FPE Records 12. CD. 2017.  
 
-1: "Birds Sing interlocking songs of imagination."
+1: "Birds sing interlocking songs of imagination."
 
-4: Unifying duality by "smahing together two worlds: a dystopic world and a utopic world."  
+4: Mandorla storyline.  
+
+-: Unifying duality by "smahing together two worlds: a dystopic world and a utopic world."  
 
 5: "Organic expression of diversity."  
 
