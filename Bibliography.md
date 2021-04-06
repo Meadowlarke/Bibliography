@@ -491,6 +491,8 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 116: Dotted eighth-sixteenth.  
 
+116/117: The question of triplets and dotted rhythms.  
+
 118: Bókazó (heel-click) rhythm.  
 
 121: The rasied fourth.  
@@ -991,6 +993,14 @@ Questions of competition.
 
 35--58: Transcriptitions.  
 
+
+##### Brahms, Piano Quartet no. 2, op 26, Mvt IV.  
+
+mm 352: The dotted eighth-sixteenth rhythm, except in a diminuation such that it appears as x4 r8 x8 x4 r8 x8 r4 etc.  
+
+mm 458:(8:33) Plucked vioin chords sound like mandolin. This pizz sound plus lots of triplets is very style hongris and pastoral sounding.
+
+-: These strummed chords ar
 
 
 ##### Brahms, Piano Quartet in C Minor, Op. 60, Mvt. I  
