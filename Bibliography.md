@@ -998,7 +998,7 @@ Questions of competition.
 
 mm 352: The dotted eighth-sixteenth rhythm, except in a diminuation such that it appears as x4 r8 x8 x4 r8 x8 r4 etc.  
 
-mm 458:(8:33) Plucked vioin chords sound like mandolin. This pizz sound plus lots of triplets is very style hongris and pastoral sounding.
+mm 460:(8:33) Plucked chords built across the cello and viola sound like mandolin. This pizz sound plus lots of triplets is very style hongris and pastoral sounding.
 
 -: These strummed chords ar
 
@@ -1330,9 +1330,9 @@ mm. 2: Key signature of B Major, melody in the phrygian mode.
 
 16: Conspicuous piano ostinato.  
 
-27: Reversed dotted eighth-sixteenth rhythm in acompaniment.  
-
 12: Oboe solo, very orientalist sounding.  
+
+27: Reversed dotted eighth-sixteenth rhythm in acompaniment.  
 
 34: Oboe solo again, using dotted eighth-sixteenth rhythm.  
 
@@ -1343,8 +1343,6 @@ mm. 2: Key signature of B Major, melody in the phrygian mode.
 50: Arpegiation of chords on sextuplets without sustain, suggesting the cimbalom.  
 
 53: Intersting hemiola in piano.  
-
-
 
 
 ##### Cimini, Amy. "Vibrating Colors and Silent Bodies. Music, Sound, and Silence in Maurice-Merleau-Ponty's Critique of Dualism." _Contemporary Music Review_ 31, no. 5-6 (October-December 2012): 353-370.
