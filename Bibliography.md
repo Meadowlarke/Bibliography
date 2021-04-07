@@ -4669,6 +4669,66 @@ mm. 86: FM.
 89: Changing techniques after the '60s and more plentiful recordings.  
 
 
+##### Niranjana, Tejaswini. _Musicophilia in Mumbai: Performing Subjects and the Metropolital Unconscious._ Durham: Duke University Press, 2020.  
+
+ix: Aknowledgements.  
+
+Introduction: On Not Being Able to Learn Music.  
+
+1: The author's experiences of music as a young girl.  
+
+2: Class, arts, and marriage.  
+
+3: The author's relationship to music changing after a visit to Trinidad.  
+
+4: Caribbean-style wining. 
+
+5: Foregrounding practice rather than institution.  
+
+-: Problems with learning music late in life.  
+
+6: Questions of social relationship with teacher.  
+
+-: Looking back and looking sideways as metaphors for moves to understand what it means for a modern indian woman to lear Hindustani music today.  
+
+7: "Skyptimacy."  
+
+-: Theis of book.  
+
+8: The issue of modernity.  
+
+9: Modernity in Mumbai.  
+
+10: Muscophilia.  
+
+-:" Metropollitan unconscious"  
+
+11: The habitus.  
+
+14: Overview of the chapters.  
+
+###### Chapter 1: Musicophilia and the Linga Musica in Mumbai.  
+
+19: Mumbai in the 1860 and its entertainment industry.  
+
+20: Dispersal of the pincley court of Awadh in northern Inida in 1857.  
+
+-: New kinds of listening experiences.  
+
+24: Bombay as an imperial city.  
+
+25: Musical migration to Mumbai.  
+
+29: Hindustani music and theater.  
+
+32: The tawaif.  
+
+36: Language in India.  
+
+40: Murja and its shrinking venues.  
+
+-: Enthographic description of a murja performance.  
+
 
 ##### Novak, David, and Matt Sakakeeny. "Introduction" in _Keywords in Sound,_ edited by David Novak and Matt Sakakeeny, 1-11. Durham: Duke University Press Books, 2015. [PDF](file:///home/harlan/Downloads/School%20Downloads/MuiscandBody/Week1/introduction%20and%20acoustemology.pdf)
 
