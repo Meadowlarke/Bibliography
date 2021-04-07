@@ -479,7 +479,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 ##### Chapter 5: A Lexicon for the Style Hongrois.  
 
-93: The basic things that make up the style hongrois: instruments and rhythmic figures. #Z:  
+93: The basic things that make up the style hongrois: instruments and rhythmic figures.   
 
 98: Pizzacato.  
 
@@ -662,8 +662,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 74: Auditory stream segregation.  
 
--: Bregman on perception. #Z: Bregman defines percetion as "the process of using the information
-provided by our senses to form mental representations of the world around us."  
+-: Bregman on perception.  
 
 75: Leaned and unleared (primitive and "schema-based")strategies of perception.  
 
@@ -2298,7 +2297,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 30: Odetta, African clothes, full figure.  
 
-31: Odetta's "Afro." #Z: The Afro was initally known as the "Odetta."  
+31: Odetta's "Afro."  
 
 33: Naming "soul."  
 
@@ -2306,7 +2305,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 36: "Mississpii Goddam!"  
 
-36: #Z: Recod label executives would pay DJ's in the 60s to throw away records by black and R&B singers so that the lables could promote white artists singing less soulful vverions of the same song. This became known as "paying to play."  
+36: "Paying to play."   
 
 37: The lavish lifestyles of Nina Simore and Makeba.  
 
@@ -2324,7 +2323,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 45: Cosmopolitan brown beauty.  
 
-46: The ANPM's "nautral"beatury pagent and its valuing of pure "black blood" free from raical mixing---a standard which most black women could not meet. #Z  
+46: The ANPM's "nautral"beatury pagent and its valuing of pure "black blood" free from raical mixing---a standard which most black women could not meet.  
 
 -: Performance of naturalness.  
 
@@ -2333,8 +2332,6 @@ xxiii: violence as motivated by culturally informed varients of universal social
 48: ANPM protest of Wigs Parisian.  
 
 49: Counterprotest.  
-
--: #Z: The protest became an attock on black women and their hair choics, wither for wig wearing or for gwearing their hair natural.  
 
 50: Nigeria, traditional hairstyles, and modernity.  
 
@@ -2472,7 +2469,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 10: Differences in depictions of the Roma between the novela and the Bizet opera.  
 
--: Bizet's inclusion of the Romany in order to include spanish rhythms in the score. #Z.  
+-: Bizet's inclusion of the Romany in order to include spanish rhythms in the score.  
 
 11: Cllios on myth and the tensions between individual and society.  
 
