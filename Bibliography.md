@@ -658,7 +658,9 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 77: Nyamaropa, and ancient mbria composition.  
 
-#####Bjerke, Kristoffer Yddal. "Timbral Relationships and Microrhythmic Tension: Shaping the Groove Experience through Sound." In _Musical Rhtyhm in the Age of Digital Reproduction,_ edited by Anne Danielsen, 74-101. Farnham, Surrey: Ashgate, 2010.  
+##### Bjerke, Kristoffer Yddal. "Timbral Relationships and Microrhythmic Tension: Shaping the Groove Experience through Sound." In _Musical Rhtyhm in the Age of Digital Reproduction,_ edited by Anne Danielsen, 74-101. Farnham, Surrey: Ashgate, 2010.  
+
+**This article looks at timbre and microtiming in two pieces, "The Hustle" and "How does it feel," to analyze how they both use expressive microtiming, but thourhg different methods.**
 
 74: Auditory stream segregation.  
 
@@ -666,10 +668,25 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 75: Leaned and unleared (primitive and "schema-based")strategies of perception.  
 
+-: Bregman, timbre, and grouping.  
 
+-: Spectral tools used.  
 
+76: Discrepencies between where transients physically occur and how they are percieved by the listener.  
 
+-: "The Hustle."  
 
+77: Transient displacement and timbral shaping.  
+
+80: "Untitled (How does it feel.)"  
+
+81: Lateness in certain parts.  
+
+83: Spectral qualities of the instruments.  
+
+84: Microrhythm and spectra.  
+
+-: Comparison of the two piece.
 
 
 ##### Blake, David. "Musicological Omnivory in the Neoliberal University." _The Journal of Musicology_ 34, no. 3 (2017): 319-353.  
@@ -4679,6 +4696,8 @@ Introduction: On Not Being Able to Learn Music.
 3: The author's relationship to music changing after a visit to Trinidad.  
 
 4: Caribbean-style wining. 
+
+-: The author's skepticism of genera disticntions.  
 
 5: Foregrounding practice rather than institution.  
 
