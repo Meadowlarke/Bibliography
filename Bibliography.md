@@ -6775,6 +6775,20 @@ This experience is remeniscent of the way that headphones make the sound come ou
 
 #### Y
 
+##### Yang, Mina. _Planet Beethoven: Classical Music at the Turn of the Millennium._ Middletown, CT: Wesleyan University Press, 2014.
+
+Chapter 3: East Meets West in the Concert Hall.  
+
+
+##### Yoshihara Mari. _Musicians from a Different Shore: Asians and Asian Americans in Classical Music._ Philadelphia: Temple University Press, 2007.
+
+Introduction.  
+
+
+
+Chapter 2: Roots and Routes of Asian Musicians.  
+
+
 ##### Young, Alan. _Woke Me up this Morning: Black Gospel Singers and the Gospel Life._ Jackson: University Press of Mississippi, 1997.  
 
 222: COGIC: Church of God in Christ.  
