@@ -6801,7 +6801,7 @@ Chapter 3: East Meets West in the Concert Hall.
 
 70: Japanese post-war modernization, racism.  
 
-71: Japanese piano procuction.  
+71: Japanese piano production.  
 
 -: Tōru Takemitsu.  
 
@@ -6821,7 +6821,7 @@ Chapter 3: East Meets West in the Concert Hall.
 
 79: "Asians play technically, but with no emotion."  
 
-82: Asian Artist Vaness-Mae.  
+82: Asian Artist Vanessa-Mae.  
 
 83: Her self-orientalization.  
 
@@ -6856,11 +6856,11 @@ Introduction.
 
 -: Western imperialism.  
 
--: Asian creation of mening in western classical music.  
+-: Asian creation of meaning in western classical music.  
 
 7: Classical music as a way of understanding the self.  
 
--: the author adresses her use of the therm "Asian."  
+-: the author adresses her use of the term "Asian."  
 
 8: The limitations of her ethnographic materials.  
 
