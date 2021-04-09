@@ -1443,7 +1443,7 @@ Chorus: Straight-tone (no vibrato.)
   
 ##### Csordas, Thomas J. 1993. “Somatic Modes of Attention.” _Cultural Anthropology_ 8 (2): 135–56.
 
-> **In this article, Csordas looks at embodiment as the existential ground of culture. He analyzes this through case studies of faith healers and their modes of intuitive sensation.  **
+**In this article, Csordas looks at embodiment as the existential ground of culture. He analyzes this through case studies of faith healers and their modes of intuitive sensation.**
 
 > p. 135: "The body" vs. "embodiment"
 
@@ -1520,6 +1520,26 @@ Chorus: Straight-tone (no vibrato.)
 > ggplot(data, ase(x,y))+
 > geom_()
 
+
+##### Danielsen, Anne, "Here, There and Everywhere: Three Accounts of Pulse in D'Angelo;s 'Left and Right.'" in _Musical Rhythm in the Age of Digital Reproduction,_ edited by anne Danielsen, 19-35. Farnham, Surrey, Ashgate, 2010.  
+
+19: Explosion of the use of microrhythm in the 1990s.  
+
+20: Virtual structure.  
+
+-: the limitation of metronomic conceptions of pulse.  
+
+21: D'Angelo's _Voodoo,_ and methods for analysis of its "seasick" multilinear pulse: metronome model, local time shift model, and beat-bin model.  
+
+-: The metronome model.  
+
+22: Pulse descrepency in the bass/bass dum layer (called the inter onset interval, or IOI).  
+
+24: How this effect was produced in the studio.  
+
+26: The local timew shift model.  
+
+29: The beat-bin model.  
 
 
 ##### Debussy, "II Sarabande."
