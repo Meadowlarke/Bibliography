@@ -3084,6 +3084,8 @@ frikaa Bombaataa's "Planet Rock," 1981.
 
 -: Cognition tied to motor function.  
 
+390: Held and Hein kitten experiment.  
+
 393: Musical motion as audible human motion, via Shove and Repp.  
 
 394: Kinesthetics.  
@@ -3117,15 +3119,6 @@ frikaa Bombaataa's "Planet Rock," 1981.
 -: Thelonious Monk's playing style and rhythmic independance of each hand.  
 
 409: Ahmad Jamal and swing inversion.  
-
-
-
-
-
-
- 
-
-
 
 
 #### J
