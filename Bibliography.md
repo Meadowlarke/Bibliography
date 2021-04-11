@@ -1385,6 +1385,27 @@ Chorus: Straight-tone (no vibrato.)
 > mm. 57-58: Three note motif with chromatic complication.
 
 
+##### Cone, Edward T. "Stravinksy: The Progress of a Method." _Perspectives of New Music_ 1, no, 1 (1962): 18-16.  
+
+18: The question of Stravinsky's personal style.  
+
+-: Interruptions in his scores.  
+
+20: The use of bridges to mitigate starkness between sections.  
+
+-: The use of "divergence."  
+
+21: Explanation of the previous, crazy looking, diagrams.  
+
+-: Meter in the strata.  
+
+22: The discussion of various connective passages.  
+
+24: Tonal diagram of the piece.  
+
+25: More analysis, a bit over my head.  
+
+
 ##### Cooper, David and Ian Saprio. "Ethnomuiscology in the Laboratory: From the Tonometer to the Digital Melograph." _Ethnomusicology Forum_ 15, no. 2 (2006), 301-313.  
 
 302: Early tonometric devices.  
@@ -3391,6 +3412,9 @@ frikaa Bombaataa's "Planet Rock," 1981.
 > p. 41: Clearest definition of sound body: "The sound body is a material body that resonates (with) its environment, creating and conducting affect."
 
 > p. 42: "Sound knowledge," or in other words, sound as a way of knowing  
+
+
+##### Kawabata, Maiko. "The Aura of Stradivari's Violins." _As Parnassum_ 12, no 3 (2014): x-x.  
 
 
 ##### Kedhar, Anusha. "'Hands Up! Dont' Shoot!': Gesture, Choreography, and Protest in Ferguson." _Feminist Wire_ October 6, 2014.
@@ -6120,6 +6144,9 @@ What is a human?
 21: Performers as editors.  
 
 24: Effects of these modifications.  
+
+###### Chapter 6: Revelatory Interpretation and the Performance of Memory.  
+
 
 
 
