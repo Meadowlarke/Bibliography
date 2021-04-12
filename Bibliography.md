@@ -6147,7 +6147,65 @@ What is a human?
 
 ###### Chapter 6: Revelatory Interpretation and the Performance of Memory.  
 
+1: Schumann portraid as a pianist who transcended time.  
 
+2: Thesis of the chapter.  
+
+3: The imagined revelatory power which Schumann had on the concert stage.  
+
+4: Middle class life and physical memorabilia of composers, via Celia Applegate.  
+
+5: Personal connections and memories as her source of interpretive power, "rescue" of music from earlier times, and percieved ability to reverse time.  
+
+-: Schumann and the flexibility of cultural memory.  
+
+6: Max Kalbeck's 1879 concert review, painting Schumann manifesting her memories of her late husband.  
+
+7: Other reviews, suggesting Robert Schumann's spirit.  
+
+8: Schumann's cultivation of this image.  
+
+9: Her abridgements of Robert's works.  
+
+10: Her piano transcriptions of his works.  
+
+11: The Schumann festival in Bonn.  
+
+13: The goal of the festival in securing Robert's canonic status.  
+
+15: Other musicians who saught to benefit themselves from the festival.   
+
+-: Clara Schumann becomming the centerpiece of the festival.  
+
+19: Political upheval, the feeling of being "stranded in the present," and a desire for things from the past.  
+
+-: Clara Schumann as a voice from the past. #Z  
+
+23: Schumann's revelation of the past via her vitatlity as a pianist.  
+
+26: Schumann's teaching legacy.  
+
+29: Gender demographics/bias of her students, mostly female.  
+
+31: Pedagogical lineage and legacy.  
+
+32: The belief that her students inherited the ability to interpret canonic works, especially those of Robert Schumann.  
+
+33: Fanny Davies and her cultivation of her image as her teacher's inheritor.  
+
+38: Davies, others, and early recording technology.  
+
+-: Error on last line of page/first line of next.  
+
+39: Davies selling her recordings as a means of accessing the authoritative performace of canonic works.  
+
+42: Other students of Schumann's who established themselves as inheritors of her legacy.  
+
+43; Mary Wurm.  
+
+44; De Lara.  
+
+46: Conclusion.  
 
 
 ##### Stefaniak, Alexander. "Clara Schumann's Interiorities and the Cutting Edge of Popular Pianism." _Journal of the American Musicological Society_ 70, no. 3 (2017): 697-765.  
