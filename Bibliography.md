@@ -4334,6 +4334,47 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 ##### Manuel, Peter. "Improvisation in Latin Dance Music: History and Style." In _In the Course of Performance: Studies in the World of Musical Improvisation,_ edited by Bruno Nettl with Medlinda Russel, 127-147. Chicago, University of Chicago Press.    
 
+127: The lack of research on improviation in Latin music.  
+
+128: Origins of the musical style and its improvisation.  
+
+-: Influences of jazz and European musics.  
+
+128/129: African influences and the use of interrelated cells. #Z: On the most basic level, the Aro-Carribean contribution to mainstream dance msuic is the use of a set of interrelated rhythmic cells.    
+
+129: the Rumba.  
+
+130: _Danzón, son,_ and the popularization of lower-class, darker-skinned music in the 1920s-30s.  
+
+131: Improvisation styles in _son._  
+
+132: Early piano improvisor, Romeu.  
+
+-: The growing inclusion of piano solos in the 1930s.  
+
+133: Non-solositic improvisation in the accompanyment of modern Latin music. #Z: Modern Latin music is characterized by non-solistic improvisation in the accompanyment. This improvisation takes the form of small ad libs, inclusions, and microtiming variations.    
+
+133/134: Accompanyment patterns and improvisational affordances of the various rhythm section instruments.  
+
+134: Bass, ostinato, variations.  
+
+135: _Guajeo_ and _montuno_ patterns in the piano.  
+
+-: The improvisation of _moñas_ in the horn section. #Z: One of the most distintive forms of improvisation in Latin music is the extemporanous creation of _moñas_ by the horn section. Often occuring at the end of instrumentla solos, these collective improvisations feature two or three layered interlocking horn lines.  
+
+-: Chris Washburne mentions singing a line to communicate it to other players while in the middle of a performance. #Z: Put this in as is.   
+
+136: The decline in the popularity of the _moña._ #The _moña_ has seen a decline since the "classic" salsa era of 1965-1978. This is due to the increased importance of the star status of the singer, modern studio techniques of overdubing (thus removing the posibiltiy of any group improvisation,) and the sense of a need to conform to recorded versions of the song while performing live.  
+
+136: Solo improvisation. #Z: In modern Latin music solos tend to happen in the longer _montuno_ section, which can be extended indefinately by solos and the inclcusion of mambos and _moñas._  
+
+-: Vocal solos, _soneos_ and call-and-response _inspiriaciones_.  
+
+137: Vocal improvisation, fludity vs phrase-combination.  
+
+-: Charanga style, and the classical-based flute improvisation.  
+
+-: Latin trumpet improvisation.  
 
 ##### Marsden, Alan. "Schenkerian Analysis by Computer: A Proof of Concept." _Journal of New Music Research_ 39, no. 3 (2010): 269-289.
 
@@ -6247,7 +6288,7 @@ What is a human?
 
 19: Political upheval, the feeling of being "stranded in the present," and a desire for things from the past.  
 
--: Clara Schumann as a voice from the past. #Z  
+-: Clara Schumann as a voice from the past.   
 
 23: Schumann's revelation of the past via her vitatlity as a pianist.  
 
