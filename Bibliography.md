@@ -3457,15 +3457,15 @@ frikaa Bombaataa's "Planet Rock," 1981.
 
 63: Romanticizsation of Antonio Stradivari.  
 
-64: Hagiography, anachornistic notions of genious and heroism.  
+64: Hagiography, anachronistic notions of genious and heroism.  
 
 65: _The Red Violin_ and other speculation of secret varnish formulas.  
 
 -: More on Benjaminian ritual power and the continued reign of violins by old masters.  
 
-66: Violins as actually having agency, not just being objects in the hands of musicians.  
+65/66: Violins as actually having agency, not just being objects in the hands of musicians.  
 
--: Various test to see if listeners or musicians can distinguish between new and old master violins. (They can't.)  
+66: Various test to see if listeners or musicians can distinguish between new and old master violins. (They can't.)  
 
 -: The author's point that the thing which makes Stradaverdi violins special is not their sound, but their history.  
 
