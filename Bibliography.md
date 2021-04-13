@@ -1361,6 +1361,39 @@ mm. 2: Key signature of B Major, melody in the phrygian mode.
 53: Intersting hemiola in piano.  
 
 
+##### Chor, Ives. "Microtiming and Rhythmic Structures in Clave-Based Music: A Quantitative Study." In _Musical Rhythm in the age of Digital Reproduction,_ edited by Anne Danielsen, 37-50. Farnham, Surrey: Ashgate, 2010.  
+
+39: The clave.  
+
+-: Clave as surface rhythm.  
+
+-: _Son_ and _rumba_ claves.  
+
+40: Clave as rythmic framework.  
+
+-: The _fake 1_ technique, via Jeff Pressing.  
+
+41: Washburne.  
+
+-: The effect of rhytmic frameworks on microtiming.  
+
+42: The present study begins.  
+
+-: Methods and analysis.  
+
+43: Syncopation.  
+
+44: Beats 2, 2.5, and 3.  
+
+45: Beats 4.5 and 1.  
+
+46: Analysis of microtiming of human-performed piano.  
+
+47: Peak asynchony on beat 3 and backbeat delay.  
+
+48:Conclusions.  
+
+
 ##### Cimini, Amy. "Vibrating Colors and Silent Bodies. Music, Sound, and Silence in Maurice-Merleau-Ponty's Critique of Dualism." _Contemporary Music Review_ 31, no. 5-6 (October-December 2012): 353-370.
 
 > **Ponty et. al. reaiterateed mind-body duality but reemphasized the importance of the body. This paper looks at the differences between bodily and tacit knowledge.**
@@ -4299,6 +4332,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 88: Conclusion, and the hearing-centric persepctive.
 
 
+##### Manuel, Peter. "Improvisation in Latin Dance Music: History and Style." In _In the Course of Performance: Studies in the World of Musical Improvisation,_ edited by Bruno Nettl with Medlinda Russel, 127-147. Chicago, University of Chicago Press.    
 
 
 ##### Marsden, Alan. "Schenkerian Analysis by Computer: A Proof of Concept." _Journal of New Music Research_ 39, no. 3 (2010): 269-289.
@@ -6757,6 +6791,9 @@ This experience is remeniscent of the way that headphones make the sound come ou
 
 
 #### W
+
+##### Washburne, Christopher. "Play It _Con Filin!_: The Swing and Expression of Salsa." _Latin American Music Review_ 19, no 2 (1998): 160-185.  
+
 
 ##### Waterman, Ellen. "'I Dreamed of Other Worlds:' An Interview with Nicole Mitchell, May 8, 2008." _Critical Studies in Improvisation_ 4, no. 1 (2008): 1-6.  
 
