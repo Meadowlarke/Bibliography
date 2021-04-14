@@ -4376,6 +4376,20 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 -: Latin trumpet improvisation.  
 
+138: Percussion solos.  
+
+-: Multi-instrumentalism amoung percussionists.  
+
+-: An emphasis on artful syncopation rather than speed in percussion soloing.  
+
+139: Piano improvisation.  
+
+142: Latin improvisation and jazz.  
+
+143: Aesthetics of improvisation.  
+
+144: An abstraction of the destinctive features of Latin rhythm.  
+
 ##### Marsden, Alan. "Schenkerian Analysis by Computer: A Proof of Concept." _Journal of New Music Research_ 39, no. 3 (2010): 269-289.
 
 > 269: Doing analyses to music analogous to those of computational linguistics.
@@ -4854,7 +4868,6 @@ Introduction: On Not Being Able to Learn Music.
 -: Looking back and looking sideways as metaphors for moves to understand what it means for a modern indian woman to lear Hindustani music today.  
 
 7: "Skyptimacy."  
-
 -: Theis of book.  
 
 8: The issue of modernity.  
@@ -4891,6 +4904,45 @@ Introduction: On Not Being Able to Learn Music.
 
 -: Enthographic description of a murja performance.  
 
+###### Chapter 4: Pedagogy and the Performing Subject.  
+**This chapter looks at the minutiae of hindustani musical pedagogy.**
+
+129: Accounts of the grueling practice schedules of music students in the mid-century.  
+
+133: Intervew with Grangubai Hangal.  
+
+142/143: The use of notation as memory device, not as score.  
+
+145: Keserabi Kerkar's training, teacher took only one student.  
+
+152: Teaching through repetition.  
+
+
+###### Chapter 5: Nearness as Distance or Distance as Nearness.  
+
+162: Guru-shishya, or teacher-student relationships and a reticence of students to talk about them.  
+
+163: Neela Bhagwat's relationship wth her gurus.  
+
+169: Giving _saath,_ or learning by accomanyimg the master.  
+
+170: Music consumption as a way of learning.  
+
+174: Teaching and learning music over skype.  
+
+177: Neela Bhagwat's large contribution of Gwalior gharana's traditional compositions to Wikisource.  
+
+###### 181: Afterword.   
+
+182: Hindi film _The Knock_ (1970.)  
+
+183: the author's interpretation.  
+
+184: The cultural assosciation of women singing with promiscuity.  
+
+185: The author on her collaboration with a filmmaker and her research methods.  
+
+186: Her art installation.  
 
 ##### Novak, David, and Matt Sakakeeny. "Introduction" in _Keywords in Sound,_ edited by David Novak and Matt Sakakeeny, 1-11. Durham: Duke University Press Books, 2015. [PDF](file:///home/harlan/Downloads/School%20Downloads/MuiscandBody/Week1/introduction%20and%20acoustemology.pdf)
 
