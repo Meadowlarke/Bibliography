@@ -4033,6 +4033,33 @@ Politics, Foucalt.
 
 #### L
 
+##### Langeveld, Lau, René van Egmond, Reinier Jansen, and Elif Özcan. Chap. Intentional Product
+Sounds in _Product Sound Design: Intentional and Consequential Sounds._ 2013
+
+47: Intro: The subconscious rolse of sounds in product interactions.  
+
+-: Intentional vs consequential sounds.  
+
+47/48: Intentional sounds as small musical compositions.  
+
+48: Product "noise," and the trouble that consumers and engineers have communicating about it.  
+
+-: Goal of the paper.  
+
+-: Sound perception and perception of the product.  
+
+49: Three main media of product sound. #Z: Product sounds are manifested mainy through three media:  airbourne sounds, liquid sounds, and structure-bourne sounds. #Z: Structure-bourne sounds are the most prevalent, and are made as vibrations propagate through the body of the product.   
+
+-: Table of prolongational speeds of various products, indicating how well they transmit structure-bourne sounds.  
+
+50: Bending stifness.  
+
+-: Torque.  
+
+-: Six dimensions of freedom and moving parts.  
+
+50/51: Three domains, three conditions, and three levels of context. #Z: Products have relationships with three domains: design, embodiment, and production. Each of the three domains has a relationship with three conditions: environment, designer and manufacturer. Each domain is assosciated with a different level: user, observer, and owner.    
+
 ##### Leistra-Jones, Karen. "Staging Authenticity: Joachim, Brahms and the Politics of _Werktreue_ Performance." _Journal of the American Musicological Society_ 66, no. 2 (2013):397-436.  
 
 397: Amy Fay in Weimar, 1873 to study with Franz Listz.  
