@@ -1339,6 +1339,19 @@ Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."
 
 > Online interactions lose spiritual exchange.
 
+##### Castillo, Greg. "Cold War Modern Design 1945-1970." Edited by David Crowly and Jane Pavitt. (London), 2008.  
+
+64/65: West and Esat Belin, competition and permiable borders.  
+
+-: Marshall plan.  
+
+66/67: American household expositions.  
+
+-: Bourgios domesticity.  
+
+-: Germans mesormized by the automatic kitchen.  
+
+-: Gender, feminization of national image.  
 
 ##### Chaminade, Cécile. Op. 40 Konzerstueck.  
 
@@ -1375,7 +1388,7 @@ mm. 2: Key signature of B Major, melody in the phrygian mode.
 
 41: Washburne.  
 
--: The effect of rhytmic frameworks on microtiming.  
+-: The effect of rhythmic frameworks on microtiming.  
 
 42: The present study begins.  
 
@@ -2059,10 +2072,18 @@ Agumentation and diminution
 
 144: How to transcribe music.  
 
+##### Erkut, Cumhur, Stefania Serafin, Michael Hoby, and Jonniy Sårde. “Product Sound Design: Form,
+Function, and Experience.” _AM15_, October 2015.  
 
+1/6: The shift in human computer interactions which places emphasis on the experience and emption as much as the function.  
 
+2/6: Susini on three distinct cases of intentional sound. #Z: Susini lists three deifferent cases of intentional sound. they are notification, feedback, and interaction.  
 
+-: _Sound Emobidied_ workshop.  
 
+-: Methods used for teachig sound design at workshops.  
+
+4/6: Products developed.  
 
 
 #### F
@@ -4364,7 +4385,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 -: Chris Washburne mentions singing a line to communicate it to other players while in the middle of a performance. #Z: Put this in as is.   
 
-136: The decline in the popularity of the _moña._ #The _moña_ has seen a decline since the "classic" salsa era of 1965-1978. This is due to the increased importance of the star status of the singer, modern studio techniques of overdubing (thus removing the posibiltiy of any group improvisation,) and the sense of a need to conform to recorded versions of the song while performing live.  
+136: The decline in the popularity of the _moña._ #Z: The _moña_ has seen a decline since the "classic" salsa era of 1965-1978. This is due to the increased importance of the star status of the singer, modern studio techniques of overdubing (thus removing the posibiltiy of any group improvisation,) and the sense of a need to conform to recorded versions of the song while performing live.  
 
 136: Solo improvisation. #Z: In modern Latin music solos tend to happen in the longer _montuno_ section, which can be extended indefinately by solos and the inclcusion of mambos and _moñas._  
 
