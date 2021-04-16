@@ -4997,6 +4997,11 @@ xvi: Changes in the field of product design.
 
 xvii: The digital approach to sound design.  
 
+##### Pärt, Arvo. "Der Speigel Im Speigel."
+
+Melodic voice, squaring technique, tintinabulary voice.  
+
+The tintinabulary voice plays a note from the triad.  
 
 ##### Parvianinen, Jaana. "Bodily Knowledge: Epistemological Reflections on Dance." _Dance Research Journal_ 34, no. 1 (summer, 2002): 11-26.
 
@@ -6886,6 +6891,50 @@ This experience is remeniscent of the way that headphones make the sound come ou
 #### W
 
 ##### Washburne, Christopher. "Play It _Con Filin!_: The Swing and Expression of Salsa." _Latin American Music Review_ 19, no 2 (1998): 160-185.  
+
+160: Origin of the phrase "con ifilin."  
+
+-: Overview of te topic at hand.  
+
+161: _Feel_ defined.  
+
+-: _Swing_ defined.  
+
+-: _Groove_ defined.  
+
+-: Summary of all three. #Z: Put this into xettlekastedn.  
+
+162: Origin of Salsa.  
+
+-: The music _son._  
+
+-: Understanding _clave._  
+
+163: Methodology.  
+
+164: Application of analytic ideas formulated for jazz.  
+
+165: A cultural of adhereance to the recording in live performances.  
+
+-: The author's transcriptions and analysis.  
+
+-: "In clave" and "out of clave."  
+
+167: Trombone soloing conventions.  
+
+171: _Sonero_ singers and their adherance to the clave.  
+
+173: Funny story about trying to find an "unswinging record" at a Latin music record store.  
+
+174: Eddie Palmieri's "Un Día Bonito" and his complex swing. #Z: This piece has complex microtiming where all of the instuments are in sync, but out of phase. For example, the piano regularly plays ahead of the beat, while the bass counteracts this and prevents the tempo from rising by playing a similar amount behind the beat. Waterman calls this a "re-triangulation of feel."  
+
+175: Neat sawtooth diagrams illustrating inter-onset-intervals.  
+
+178: Recording commercial salsa.  
+
+179: Dance.  
+
+180: Musicians dancing in order to feel the music, and problems thereof.  
 
 
 ##### Waterman, Ellen. "'I Dreamed of Other Worlds:' An Interview with Nicole Mitchell, May 8, 2008." _Critical Studies in Improvisation_ 4, no. 1 (2008): 1-6.  
