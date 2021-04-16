@@ -5030,6 +5030,15 @@ Introduction: On Not Being Able to Learn Music.
 
 #### O
 
+##### Onuu, Michael U., and Aniefiok O. Akpan. “Industrial Noise in Nigeria: Measurements, Analysis, Dose and Effects.” _Building Acoustics_ 13, no. 1 (2006): 69–80.  
+
+69: Hazardous occupational noise pollution.  
+
+70: Region of the survey.  
+
+72: Noise exposer rating, NER.  
+
+
 ##### Organduo. "How to Choose the Best Fingering in Early Organ Music." 2012. [Link](https://www.organduo.lt/home/how-to-choose-the-best-fingering-in-early-organ-music)
 
 > **Quick and dirty fingering guidelines for early music** 
