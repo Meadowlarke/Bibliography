@@ -5051,6 +5051,13 @@ Introduction: On Not Being Able to Learn Music.
 
 > Chord fingering
 
+
+##### Özcan, Elif, and René van Egmond. “Basic Semantics of Product Sounds.” _International Journal of Design_ 6, no. 2 (2012): 41–54.
+
+
+##### Özcan, Elif, and René van Egmond. “Product Sound Design and Application: Overview.” _5th International Conference on Design and Emotion, Gothenburg, Sweden,_ 2006.  
+
+
 #### P
 
 ##### Palú, Doriana Dal, Claudia De Girgi, Beatrice Lerma, and Eleonora Buiatti. _Frontiers of Sound Design: A Guide for the Development of Product Identity Through Sounds._ Springer, 2018.  
