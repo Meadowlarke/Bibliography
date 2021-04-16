@@ -4060,6 +4060,37 @@ Sounds in _Product Sound Design: Intentional and Consequential Sounds._ 2013
 
 50/51: Three domains, three conditions, and three levels of context. #Z: Products have relationships with three domains: design, embodiment, and production. Each of the three domains has a relationship with three conditions: environment, designer and manufacturer. Each domain is assosciated with a different level: user, observer, and owner.    
 
+52: the act of making.  
+
+-: Tolerances of manufacture.  
+
+53: Consequential product sound model. #Z: The consequential product sound model maps how sound moves from source to reciever through three elements: source, transmission in product, and radiation.    
+
+55: Intentional product sounds.   
+
+56: The function of intentional product sounds.  
+
+-: Discreeete and continuous feedback. #Z: In intensional product sounds, the distinction can be made between discreete and continuous feedback, for example microwave button presses (discreete) vs the backup-poximity sensor of a modern car.   
+
+-: the four main classes of intentional sounds. #Z: There are four main classes of intentional sounds: earcons, auditory icons, sonification, and continuous sonic interaction. Earcons are _symbolic_ in the Perican sense of the word---they must be learned as there is no sematic link between the way that they sound and what they represent. Auditory icons sound like what they represent and are described in terms of their sources, for example the sound of airflow from a fan communicates what setting it is on. Sonification deals with continuous data communicated in sound, such as the altimiter in a sailplane.  
+
+57: Experimental fifth type: continuous sconic interaction.  
+
+-: Creating intentional product sounds: recording and parametric synthesis.  
+
+58: the sound design process.  
+
+59: Sound analysis. #Z: In the sound design process it is important to consider the facial expressions of test users exposed to the sounds.   
+
+60: Mindmapping, bodily exporations and acting out as research methods for cenceptualizing designed sounds.  
+
+61: "PSST!" Product Sound Sketching Tool.  
+ 
+62: Disciplines used by product sound designers.  
+
+67: Toothbrush sound analysis case-study.  
+
+
 ##### Leistra-Jones, Karen. "Staging Authenticity: Joachim, Brahms and the Politics of _Werktreue_ Performance." _Journal of the American Musicological Society_ 66, no. 2 (2013):397-436.  
 
 397: Amy Fay in Weimar, 1873 to study with Franz Listz.  
