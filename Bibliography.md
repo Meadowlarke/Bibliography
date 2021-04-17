@@ -35,6 +35,10 @@
 218: Trouser roles.  
 
 
+##### Abbing, Roel Roscam. _A Thing or Two About Packet Radio_ N.D.
+
+**Fun quick start guide to local computer networking using a walkie-talkie.**
+
 ##### Abels, Birgit.  "Music, Affect and Atmospheres: Meaning and Meaningfulness in Palauan Omengeredakl."  _The International Journal of Traditional Arts,_ no. 2. (2018).
 
 >**This paper is an exploration of traditional Palauan _omengeredakl_ singing and the concept of atmosphere. In an attempt to sever the connection of affect with atmospheres in some recent scholarship, the author establishes the difference between the non-dualistic terms meaning and _meaningfulness_ and uses these analyze omengeredakl and its "power". Her research makes use of spectral analyses to find meaning in power _in between_ the vocal parts (9) and beyond the music itself**
