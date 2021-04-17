@@ -2073,11 +2073,12 @@ Agumentation and diminution
 144: How to transcribe music.  
 
 ##### Erkut, Cumhur, Stefania Serafin, Michael Hoby, and Jonniy Sårde. “Product Sound Design: Form,
+
 Function, and Experience.” _AM15_, October 2015.  
 
 1/6: The shift in human computer interactions which places emphasis on the experience and emption as much as the function.  
 
-2/6: Susini on three distinct cases of intentional sound. #Z: Susini lists three deifferent cases of intentional sound. they are notification, feedback, and interaction.  
+2/6: Susini on three distinct cases of intentional sound.   
 
 -: _Sound Emobidied_ workshop.  
 
@@ -4033,8 +4034,7 @@ Politics, Foucalt.
 
 #### L
 
-##### Langeveld, Lau, René van Egmond, Reinier Jansen, and Elif Özcan. Chap. Intentional Product
-Sounds in _Product Sound Design: Intentional and Consequential Sounds._ 2013
+##### Langeveld, Lau, René van Egmond, Reinier Jansen, and Elif Özcan. Chap. "Intentional Product Sounds" in _Product Sound Design: Intentional and Consequential Sounds._ 2013.
 
 47: Intro: The subconscious rolse of sounds in product interactions.  
 
@@ -4048,7 +4048,7 @@ Sounds in _Product Sound Design: Intentional and Consequential Sounds._ 2013
 
 -: Sound perception and perception of the product.  
 
-49: Three main media of product sound. #Z: Product sounds are manifested mainy through three media:  airbourne sounds, liquid sounds, and structure-bourne sounds. #Z: Structure-bourne sounds are the most prevalent, and are made as vibrations propagate through the body of the product.   
+49: Three main media of product sound.   
 
 -: Table of prolongational speeds of various products, indicating how well they transmit structure-bourne sounds.  
 
@@ -4058,21 +4058,21 @@ Sounds in _Product Sound Design: Intentional and Consequential Sounds._ 2013
 
 -: Six dimensions of freedom and moving parts.  
 
-50/51: Three domains, three conditions, and three levels of context. #Z: Products have relationships with three domains: design, embodiment, and production. Each of the three domains has a relationship with three conditions: environment, designer and manufacturer. Each domain is assosciated with a different level: user, observer, and owner.    
+50/51: Three domains, three conditions, and three levels of context.   
 
 52: the act of making.  
 
 -: Tolerances of manufacture.  
 
-53: Consequential product sound model. #Z: The consequential product sound model maps how sound moves from source to reciever through three elements: source, transmission in product, and radiation.    
+53: Consequential product sound model.   
 
 55: Intentional product sounds.   
 
 56: The function of intentional product sounds.  
 
--: Discreeete and continuous feedback. #Z: In intensional product sounds, the distinction can be made between discreete and continuous feedback, for example microwave button presses (discreete) vs the backup-poximity sensor of a modern car.   
+-: Discreeete and continuous feedback.   
 
--: the four main classes of intentional sounds. #Z: There are four main classes of intentional sounds: earcons, auditory icons, sonification, and continuous sonic interaction. Earcons are _symbolic_ in the Perican sense of the word---they must be learned as there is no sematic link between the way that they sound and what they represent. Auditory icons sound like what they represent and are described in terms of their sources, for example the sound of airflow from a fan communicates what setting it is on. Sonification deals with continuous data communicated in sound, such as the altimiter in a sailplane.  
+-: The four main classes of intentional sounds.   
 
 57: Experimental fifth type: continuous sconic interaction.  
 
@@ -4080,7 +4080,7 @@ Sounds in _Product Sound Design: Intentional and Consequential Sounds._ 2013
 
 58: the sound design process.  
 
-59: Sound analysis. #Z: In the sound design process it is important to consider the facial expressions of test users exposed to the sounds.   
+59: Sound analysis.  
 
 60: Mindmapping, bodily exporations and acting out as research methods for cenceptualizing designed sounds.  
 
