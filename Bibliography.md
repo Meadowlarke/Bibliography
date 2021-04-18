@@ -6818,6 +6818,35 @@ Cabaletta
 
 #### T
 
+
+##### Taruskin, Richard. "Text and Act: Essays on Music and Performance." New YorkL Oxford University press, 1995.  
+
+###### Chapter 4: 
+
+###### Chapter 6: The Modern Sound of Early Music.  
+
+164: Falacies within the early music movement.  
+
+165: Unhitosriacl sounds as central to the concept of historical performance.  
+
+165: Alfred Deller and male falsettists.  
+
+166: Historical performance is authentic to the present moment, and, ultimately making something better.  
+
+168: The lightness of early music.  
+
+169: Taste conflicts and turning a blind eye to early 20th century recordings.  
+
+-: Verdi without "woo-woo."  
+
+-: Calling musical classical instead of modern.  
+
+170: Early music as a product of the calssical value system.  
+
+171: A response to a mean letter that he got after initially publishing this paper. 
+
+#Z: The early music movement is the reseult of the classical value system and cannot escape its aesthetic predilections---Early music follows lines of taste more closely than historical evidence. This, however, is not a bad thing, and the early music movement is one of the most fotunate developments of classical music in its ability to open this world of music up to new sounds and techniques. That said, it is unfortunate that the early music movement has decided to value historical versimilitude as the marker of a good performance rather than aesthetics as, ultimately, what they have created is not something old, but something new, and frankly better: historically inforfed perforamnce is authentic to the present moment.  
+
 ##### Taruskin, Richard."The Poietic Fallacy." _The Musical Times_ 145, no. 1886 (Spring 2004): 7-34.
 
 > **This piece is actually a book review of _Arnold Schoenberg's Journey_ by Allen Shawn,however Taruskin uses it as a platform to make much larger critiques of how we view Schoenberg and classical music. The problem which he points to is the "poietic fallacy"--the idea that the important part of the music is how brilliantly it is constructed, not its aesthetic qualities. He shows how this fallacy arises out of the historiography and philosophy of Franz Brendel. We know that Schoenberg saw himself as part of the Germanic chain of being on its way toward artistic perfection and Taruskin concludes that this outdated esthetic is precisely why Schoenberg is unpopular today.**
