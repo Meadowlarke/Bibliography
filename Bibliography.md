@@ -6824,7 +6824,45 @@ Cabaletta
 
 ##### Taruskin, Richard. "Text and Act: Essays on Music and Performance." New YorkL Oxford University press, 1995.  
 
-###### Chapter 4: 
+###### Chapter 4: The pastness of the Present and the Presence of the Past.   
+
+#Z: Along the lines of speculative paliantological illustration, I am inagining a speculative musicology.  
+
+90: The use of the term "authenticity."
+
+-: Invidious antonyms.  
+
+92: Different alternative terms prefered.  
+
+93: Joe Kerman's use of the term "contextual."  
+
+94: Donald Grout: musical archaism as the sign of a disintegrating civilization.  
+
+-: "Trial by document."  
+
+95: The Tallis scholars and anachronistic, aesthtically driven descisions.  
+
+97: The question of "how a composer intended" his music to be performed. #Z: The question of how a composer intended music to be performed comes up often in discssuions of autehnticity. When it comes to early music, we do know that performers had much looset ideas of perscriptivity in performance. This is most obviously evidenced by the lack of instument designations in many part books and scores. Given this allowance, I think it is worthwhile to assume that Du Fay wouldn't be bothered by a performance of _Se la face ay pale_ on electric guitar, tuba, and vocoder.   
+
+102: The modernity inherent to historically informed performance. #Z: Hisotrically informed performacne is the most modern style of music around.   
+
+-: Discussion of modernity.  
+
+#Z: "Early Music: Past and Present" would be a fun class to teach.  
+
+109: Vitalist interpretations of Bach.  
+
+114: Conductor Fritz Reiner.  
+
+116: Barlines and metronomic playing.  
+
+132: The anti-Romantic view of art.  
+
+140: The false duality of "modern" and "historical" performance.  
+
+149: Instruments.  
+
+151: Postcript: Maturation of early music.  
 
 ###### Chapter 6: The Modern Sound of Early Music.  
 
