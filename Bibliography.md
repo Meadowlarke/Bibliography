@@ -35,6 +35,10 @@
 218: Trouser roles.  
 
 
+##### Abbing, Roel Roscam. _A Thing or Two About Packet Radio_ N.D.
+
+**Fun quick start guide to local computer networking using a walkie-talkie.**
+
 ##### Abels, Birgit.  "Music, Affect and Atmospheres: Meaning and Meaningfulness in Palauan Omengeredakl."  _The International Journal of Traditional Arts,_ no. 2. (2018).
 
 >**This paper is an exploration of traditional Palauan _omengeredakl_ singing and the concept of atmosphere. In an attempt to sever the connection of affect with atmospheres in some recent scholarship, the author establishes the difference between the non-dualistic terms meaning and _meaningfulness_ and uses these analyze omengeredakl and its "power". Her research makes use of spectral analyses to find meaning in power _in between_ the vocal parts (9) and beyond the music itself**
@@ -2073,11 +2077,12 @@ Agumentation and diminution
 144: How to transcribe music.  
 
 ##### Erkut, Cumhur, Stefania Serafin, Michael Hoby, and Jonniy Sårde. “Product Sound Design: Form,
+
 Function, and Experience.” _AM15_, October 2015.  
 
 1/6: The shift in human computer interactions which places emphasis on the experience and emption as much as the function.  
 
-2/6: Susini on three distinct cases of intentional sound. #Z: Susini lists three deifferent cases of intentional sound. they are notification, feedback, and interaction.  
+2/6: Susini on three distinct cases of intentional sound.   
 
 -: _Sound Emobidied_ workshop.  
 
@@ -4033,8 +4038,7 @@ Politics, Foucalt.
 
 #### L
 
-##### Langeveld, Lau, René van Egmond, Reinier Jansen, and Elif Özcan. Chap. Intentional Product
-Sounds in _Product Sound Design: Intentional and Consequential Sounds._ 2013
+##### Langeveld, Lau, René van Egmond, Reinier Jansen, and Elif Özcan. Chap. "Intentional Product Sounds" in _Product Sound Design: Intentional and Consequential Sounds._ 2013.
 
 47: Intro: The subconscious rolse of sounds in product interactions.  
 
@@ -4048,7 +4052,7 @@ Sounds in _Product Sound Design: Intentional and Consequential Sounds._ 2013
 
 -: Sound perception and perception of the product.  
 
-49: Three main media of product sound. #Z: Product sounds are manifested mainy through three media:  airbourne sounds, liquid sounds, and structure-bourne sounds. #Z: Structure-bourne sounds are the most prevalent, and are made as vibrations propagate through the body of the product.   
+49: Three main media of product sound.   
 
 -: Table of prolongational speeds of various products, indicating how well they transmit structure-bourne sounds.  
 
@@ -4058,21 +4062,21 @@ Sounds in _Product Sound Design: Intentional and Consequential Sounds._ 2013
 
 -: Six dimensions of freedom and moving parts.  
 
-50/51: Three domains, three conditions, and three levels of context. #Z: Products have relationships with three domains: design, embodiment, and production. Each of the three domains has a relationship with three conditions: environment, designer and manufacturer. Each domain is assosciated with a different level: user, observer, and owner.    
+50/51: Three domains, three conditions, and three levels of context.   
 
 52: the act of making.  
 
 -: Tolerances of manufacture.  
 
-53: Consequential product sound model. #Z: The consequential product sound model maps how sound moves from source to reciever through three elements: source, transmission in product, and radiation.    
+53: Consequential product sound model.   
 
 55: Intentional product sounds.   
 
 56: The function of intentional product sounds.  
 
--: Discreeete and continuous feedback. #Z: In intensional product sounds, the distinction can be made between discreete and continuous feedback, for example microwave button presses (discreete) vs the backup-poximity sensor of a modern car.   
+-: Discreeete and continuous feedback.   
 
--: the four main classes of intentional sounds. #Z: There are four main classes of intentional sounds: earcons, auditory icons, sonification, and continuous sonic interaction. Earcons are _symbolic_ in the Perican sense of the word---they must be learned as there is no sematic link between the way that they sound and what they represent. Auditory icons sound like what they represent and are described in terms of their sources, for example the sound of airflow from a fan communicates what setting it is on. Sonification deals with continuous data communicated in sound, such as the altimiter in a sailplane.  
+-: The four main classes of intentional sounds.   
 
 57: Experimental fifth type: continuous sconic interaction.  
 
@@ -4080,7 +4084,7 @@ Sounds in _Product Sound Design: Intentional and Consequential Sounds._ 2013
 
 58: the sound design process.  
 
-59: Sound analysis. #Z: In the sound design process it is important to consider the facial expressions of test users exposed to the sounds.   
+59: Sound analysis.  
 
 60: Mindmapping, bodily exporations and acting out as research methods for cenceptualizing designed sounds.  
 
@@ -4419,8 +4423,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 -: Influences of jazz and European musics.  
 
-128/129: African influences and the use of interrelated cells. #Z: On the most basic level, the Aro-Carribean contribution to mainstream dance msuic is the use of a set of interrelated rhythmic cells.    
-
+128/129: African influences and the use of interrelated cells.   
 129: the Rumba.  
 
 130: _Danzón, son,_ and the popularization of lower-class, darker-skinned music in the 1920s-30s.  
@@ -4431,7 +4434,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 -: The growing inclusion of piano solos in the 1930s.  
 
-133: Non-solositic improvisation in the accompanyment of modern Latin music. #Z: Modern Latin music is characterized by non-solistic improvisation in the accompanyment. This improvisation takes the form of small ad libs, inclusions, and microtiming variations.    
+133: Non-solositic improvisation in the accompanyment of modern Latin music.  
 
 133/134: Accompanyment patterns and improvisational affordances of the various rhythm section instruments.  
 
@@ -4439,13 +4442,13 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 135: _Guajeo_ and _montuno_ patterns in the piano.  
 
--: The improvisation of _moñas_ in the horn section. #Z: One of the most distintive forms of improvisation in Latin music is the extemporanous creation of _moñas_ by the horn section. Often occuring at the end of instrumentla solos, these collective improvisations feature two or three layered interlocking horn lines.  
+-: The improvisation of _moñas_ in the horn section.   
 
--: Chris Washburne mentions singing a line to communicate it to other players while in the middle of a performance. #Z: Put this in as is.   
+-: Chris Washburne mentions singing a line to communicate it to other players while in the middle of a performance.  
 
-136: The decline in the popularity of the _moña._ #Z: The _moña_ has seen a decline since the "classic" salsa era of 1965-1978. This is due to the increased importance of the star status of the singer, modern studio techniques of overdubing (thus removing the posibiltiy of any group improvisation,) and the sense of a need to conform to recorded versions of the song while performing live.  
+136: The decline in the popularity of the _moña._ 
 
-136: Solo improvisation. #Z: In modern Latin music solos tend to happen in the longer _montuno_ section, which can be extended indefinately by solos and the inclcusion of mambos and _moñas._  
+136: Solo improvisation.  
 
 -: Vocal solos, _soneos_ and call-and-response _inspiriaciones_.  
 
@@ -7026,7 +7029,7 @@ This experience is remeniscent of the way that headphones make the sound come ou
 
 -: _Groove_ defined.  
 
--: Summary of all three. #Z: Put this into xettlekastedn.  
+-: Summary of all three.  
 
 162: Origin of Salsa.  
 
@@ -7050,7 +7053,7 @@ This experience is remeniscent of the way that headphones make the sound come ou
 
 173: Funny story about trying to find an "unswinging record" at a Latin music record store.  
 
-174: Eddie Palmieri's "Un Día Bonito" and his complex swing. #Z: This piece has complex microtiming where all of the instuments are in sync, but out of phase. For example, the piano regularly plays ahead of the beat, while the bass counteracts this and prevents the tempo from rising by playing a similar amount behind the beat. Waterman calls this a "re-triangulation of feel."  
+174: Eddie Palmieri's "Un Día Bonito" and his complex swing.  
 
 175: Neat sawtooth diagrams illustrating inter-onset-intervals.  
 
