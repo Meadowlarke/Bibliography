@@ -3278,6 +3278,10 @@ frikaa Bombaataa's "Planet Rock," 1981.
 267: Discrimination of souds from noise.  
 
 
+##### Jenson, Richard d'A. "Birdsong and the Immitation of Birdsong in the Music of the Middle Ages and the Renaissance." _Current Musicology_ 40 (1985): 50-65.
+
+I want to read this, but I haven't.  
+
 
 ##### Jones, Jeannette Dibernardo. "Imagined Hearing: Music-Making in Deaf Culture." In _The Oxford Handbook of Music and Disability Studies,_ edited by Neil William Lerner, Jopseph Nathan Strauss, Blake Howe, and Stephaie Jense-Moulton, 54-72. Oxford: Oxford University Press, 2016.  
 
