@@ -5055,6 +5055,12 @@ Introduction: On Not Being Able to Learn Music.
 > Chord fingering
 
 
+##### Ostrofsky, Kathryn A. "An Aural History of the 1970s through the Sounds of 'Sesame Street.'" PhD diss. University of Pennsylvania, 2015.  
+
+##### Ostrofsky, Kathryn A. "Sesame Street as a Musical Comedy-Variety Show." In _Music in Comedy Television: Notes on Laughs,_ 15-30. Routledge Music and Screen Media Series. Abingdon: Routledge, 2017.  
+
+##### Ostrofsky, Kathryn A. "Talking Sesame to the Streets: Young Children's Interactions with Pop Music's Aesthetic in the 1970s." _Journal of Popular Music Studies_ 24, no. 3 (2012): 287-304.  
+
 ##### Özcan, Elif, and René van Egmond. “Basic Semantics of Product Sounds.” _International Journal of Design_ 6, no. 2 (2012): 41–54.
 
 
