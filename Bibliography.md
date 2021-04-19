@@ -5649,7 +5649,23 @@ pg. 348 has "Tutii fior"
 
 
 ##### Reich, Steve. "Music as a Gradual Process." In _Audio Culture,_ edited by Christopher Cox and Daniel Warner, 304-306. NY: Continuum International, 2004.  
+
+304: Short bio of Reich.  
   
+-: On hearing music which is itself a process.  
+
+305: The autonomy of the processes once begun.  
+
+-: Compositional practice and a sounding music which are one and the same. #Z: Steve Reich was interested in a music wherein compositional practice and sounding music were one and the same thing.  
+
+-: His distate for hidden structural elements.  
+
+306: "Drug oriented rock and roll."  
+
+-: Popular modal musics are not processes, despite moving slowly.  
+
+-: The impossibility of improvisation in process music.  
+
 
 ##### Reynolds, Christopher. "Interpreting and Dating Josquin's Missa Hercules dux ferrariae." in _Early Musical Borrowing_ edited by Honey Meconi. (2004). New York: Routledge.  
 
