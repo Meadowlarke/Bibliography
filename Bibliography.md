@@ -1589,10 +1589,10 @@ Chorus: Straight-tone (no vibrato.)
 > Anscombe's plots
 
 > ggplot(data, ase(x,y))+
-> geom_()
+> geom\_()
 
 
-##### Danielsen, Anne, "Here, There and Everywhere: Three Accounts of Pulse in D'Angelo;s 'Left and Right.'" in _Musical Rhythm in the Age of Digital Reproduction,_ edited by anne Danielsen, 19-35. Farnham, Surrey, Ashgate, 2010.  
+##### Danielsen, Anne. "Here, There and Everywhere: Three Accounts of Pulse in D'Angelo's 'Left and Right.'" in _Musical Rhythm in the Age of Digital Reproduction_ edited by anne Danielsen, 19-35. Farnham, Surrey, Ashgate, 2010.  
 
 19: Explosion of the use of microrhythm in the 1990s.  
 
@@ -1622,6 +1622,11 @@ mm. 1-2: Harmonic voice leading technique of planing.
 mm. 7: Voice leading technique of contrary motion, te-do,re-do.  
 
 
+##### De Decker, Kris. "Insulation: First the Body then the Home." _Low Tech Magazine._ (2011).
+
+Defining the clo unit.  
+
+"Pumping coefficient."  
 
 ##### Defrantz, Thomas F. "Bone-Breaking, Black Social Dance, and Queer Corporeal Orature." _The Black Scholar_ 46, no. 1 (2016): 66-74. 
 
