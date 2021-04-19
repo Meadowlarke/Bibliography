@@ -5060,6 +5060,12 @@ Introduction: On Not Being Able to Learn Music.
 > Chord fingering
 
 
+##### Ostrofsky, Kathryn A. "An Aural History of the 1970s through the Sounds of 'Sesame Street.'" PhD diss. University of Pennsylvania, 2015.  
+
+##### Ostrofsky, Kathryn A. "Sesame Street as a Musical Comedy-Variety Show." In _Music in Comedy Television: Notes on Laughs,_ 15-30. Routledge Music and Screen Media Series. Abingdon: Routledge, 2017.  
+
+##### Ostrofsky, Kathryn A. "Talking Sesame to the Streets: Young Children's Interactions with Pop Music's Aesthetic in the 1970s." _Journal of Popular Music Studies_ 24, no. 3 (2012): 287-304.  
+
 ##### Özcan, Elif, and René van Egmond. “Basic Semantics of Product Sounds.” _International Journal of Design_ 6, no. 2 (2012): 41–54.
 
 
@@ -6825,6 +6831,73 @@ Cabaletta
 270: A problem in the improviation with you can hear the performers working out. 
 
 #### T
+
+
+##### Taruskin, Richard. "Text and Act: Essays on Music and Performance." New YorkL Oxford University press, 1995.  
+
+###### Chapter 4: The pastness of the Present and the Presence of the Past.   
+
+#Z: Along the lines of speculative paliantological illustration, I am inagining a speculative musicology.  
+
+90: The use of the term "authenticity."
+
+-: Invidious antonyms.  
+
+92: Different alternative terms prefered.  
+
+93: Joe Kerman's use of the term "contextual."  
+
+94: Donald Grout: musical archaism as the sign of a disintegrating civilization.  
+
+-: "Trial by document."  
+
+95: The Tallis scholars and anachronistic, aesthtically driven descisions.  
+
+97: The question of "how a composer intended" his music to be performed. #Z: The question of how a composer intended music to be performed comes up often in discssuions of autehnticity. When it comes to early music, we do know that performers had much looset ideas of perscriptivity in performance. This is most obviously evidenced by the lack of instument designations in many part books and scores. Given this allowance, I think it is worthwhile to assume that Du Fay wouldn't be bothered by a performance of _Se la face ay pale_ on electric guitar, tuba, and vocoder.   
+
+102: The modernity inherent to historically informed performance. #Z: Hisotrically informed performacne is the most modern style of music around.   
+
+-: Discussion of modernity.  
+
+#Z: "Early Music: Past and Present" would be a fun class to teach.  
+
+109: Vitalist interpretations of Bach.  
+
+114: Conductor Fritz Reiner.  
+
+116: Barlines and metronomic playing.  
+
+132: The anti-Romantic view of art.  
+
+140: The false duality of "modern" and "historical" performance.  
+
+149: Instruments.  
+
+151: Postcript: Maturation of early music.  
+
+###### Chapter 6: The Modern Sound of Early Music.  
+
+164: Falacies within the early music movement.  
+
+165: Unhitosriacl sounds as central to the concept of historical performance.  
+
+165: Alfred Deller and male falsettists.  
+
+166: Historical performance is authentic to the present moment, and, ultimately making something better.  
+
+168: The lightness of early music.  
+
+169: Taste conflicts and turning a blind eye to early 20th century recordings.  
+
+-: Verdi without "woo-woo."  
+
+-: Calling musical classical instead of modern.  
+
+170: Early music as a product of the calssical value system.  
+
+171: A response to a mean letter that he got after initially publishing this paper. 
+
+#Z: The early music movement is the reseult of the classical value system and cannot escape its aesthetic predilections---Early music follows lines of taste more closely than historical evidence. This, however, is not a bad thing, and the early music movement is one of the most fotunate developments of classical music in its ability to open this world of music up to new sounds and techniques. That said, it is unfortunate that the early music movement has decided to value historical versimilitude as the marker of a good performance rather than aesthetics as, ultimately, what they have created is not something old, but something new, and frankly better: historically inforfed perforamnce is authentic to the present moment.  
 
 ##### Taruskin, Richard."The Poietic Fallacy." _The Musical Times_ 145, no. 1886 (Spring 2004): 7-34.
 
