@@ -5656,7 +5656,7 @@ pg. 348 has "Tutii fior"
 
 305: The autonomy of the processes once begun.  
 
--: Compositional practice and a sounding music which are one and the same. #Z: Steve Reich was interested in a music wherein compositional practice and sounding music were one and the same thing.  
+-: Compositional practice and a sounding music which are one and the same.  
 
 -: His distate for hidden structural elements.  
 
