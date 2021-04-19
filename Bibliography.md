@@ -2021,7 +2021,8 @@ Agumentation and diminution
 
 > p. 199: Note on how listening effects not only the listener, but also what is sounding. Listening enlivens the environment. (Pauline Oliveros)
 
-#### E  
+#####Z: The early music movement is the reseult of the classical value system and cannot escape its aesthetic predilections---Early music follows lines of taste more closely than historical evidence. This, however, is not a bad thing, and the early music movement is one of the most fotunate developments of classical music in its ability to open this world of music up to new sounds and techniques. That said, it is unfortunate that the early music movement has decided to value historical versimilitude as the marker of a good performance rather than aesthetics as, ultimately, what they have created is not something old, but something new, and frankly better: historically inforfed perforamnce is authentic to the present moment.  
+ E  
 
 ##### Ellingson, Ter. "Transcription." In _Ethnomusicology: An Introduction_, edited by Helen Myers, 110-152. New York: W.W. Norton and Company.
 
@@ -2080,6 +2081,9 @@ Agumentation and diminution
 142: Transcriptional alternatives.  
 
 144: How to transcribe music.  
+
+
+##### Epstein, Paul. "Pattern Structure and Process in Steve Reichs 'Piano Phase.'" _The Musical Quarterly_ 72, no. 4 (1986): 494-502.  
 
 ##### Erkut, Cumhur, Stefania Serafin, Michael Hoby, and Jonniy Sårde. “Product Sound Design: Form,
 
@@ -5643,7 +5647,10 @@ pg. 348 has "Tutii fior"
 
 40: Conclusion and the role of white musicologists.  
 
+
+##### Reich, Steve. "Music as a Gradual Process." In _Audio Culture,_ edited by Christopher Cox and Daniel Warner, 304-306. NY: Continuum International, 2004.  
   
+
 ##### Reynolds, Christopher. "Interpreting and Dating Josquin's Missa Hercules dux ferrariae." in _Early Musical Borrowing_ edited by Honey Meconi. (2004). New York: Routledge.  
 
 71: Allusion, literary or musical.  
