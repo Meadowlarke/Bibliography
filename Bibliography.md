@@ -2085,6 +2085,15 @@ Agumentation and diminution
 
 ##### Epstein, Paul. "Pattern Structure and Process in Steve Reichs 'Piano Phase.'" _The Musical Quarterly_ 72, no. 4 (1986): 494-502.  
 
+494: Summary of Reich's argument in "Music as a Gradual Process."  
+
+494/495: Analysis of "Piano Phase" as exemplary of Reich's process philosophy.  
+
+497: Free perception of phrase as the locus of mystery, not the processes. #Z: Epstein argues that rather than how Reich puts it in his manifesto, the free search for mystery that the performer takes part in in listening to process driven music is not in discovering the process, which has rather little mystery to it, but rather in the free perception of phrase which this music presents. One may move back and fourth between different psycho-acoustic hearings of the ope-ended phrases.     
+
+501: Metaphor of "Baily's Beads" and a solar eclipse.  
+
+
 ##### Erkut, Cumhur, Stefania Serafin, Michael Hoby, and Jonniy Sårde. “Product Sound Design: Form,
 
 Function, and Experience.” _AM15_, October 2015.  
