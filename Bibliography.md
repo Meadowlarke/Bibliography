@@ -6875,6 +6875,8 @@ Cabaletta
 
 ###### Chapter 4: The pastness of the Present and the Presence of the Past.   
 
+**The sound of mid-century early music is just the sound of modernism, i.e. a turn away from the big sounds of Romanticism.**
+
 90: The use of the term "authenticity."
 
 -: Invidious antonyms.  
@@ -6913,7 +6915,7 @@ Cabaletta
 
 164: Falacies within the early music movement.  
 
-165: Unhitosriacl sounds as central to the concept of historical performance.  
+165: Unhistorical sounds as central to the concept of historical performance.  
 
 165: Alfred Deller and male falsettists.  
 
