@@ -2803,6 +2803,10 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 76: Nice little conclusion/summary.  
 
+
+##### Guilbault, Jocelyne. "Discordant Beats of Pleasure Amidst Everyday Violence: The Cultural Work of Party Music in Trinidad." _MUSICultures_ 38, (2011): 7-26.   
+
+
 #### H
 
 ##### Hamilton, Kenneth. _After the Golden Age: Romantic Pianism and Modern Performance._ Oxford: Oxford University Press, 2008.  
@@ -4059,6 +4063,19 @@ Politics, Foucalt.
 
 
 #### L
+
+##### Lang, James M. "Should We Stop Grading Class Participation?" _The Chronicle of Higher Education_ April 9, 2021.  
+
+2/9: How he used to use participation as a grade boost.  
+
+3/9: Why he stopped.  
+
+5/9: Questions regarding motivating students to participate.  
+
+-: "Invitational participation" (cold-calling.)
+
+6/9: Preparing students to participate.  
+
 
 ##### Langeveld, Lau, René van Egmond, Reinier Jansen, and Elif Özcan. Chap. "Intentional Product Sounds" in _Product Sound Design: Intentional and Consequential Sounds._ 2013.
 
