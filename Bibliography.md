@@ -2906,7 +2906,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 10: Making parts easier.  
 
-11: Problems arising from the ehavy action of modenr concert pianos.  
+11: Problems arising from the heavy action of modern concert pianos.  
 
 12: Horowitz's use of specially hardened hammers.   
 
@@ -2915,8 +2915,6 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 -: Horowitz's de-tuning of the piano to increase climactic effects.  
 
 -: Horowit's sensitivity to room acoustics.  
-
-12: #Z: The "Horowitz sound" is less something that came from his fingers, but rather more the result of his particular taste for pianos and accoustics, which included at times a piano with hardened hammers and a progressivly detuned higher register.  
 
 14: Live and unedite recordings of his playing in which he plays badly.  
 
@@ -2932,7 +2930,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 23: Lizst calling Clara Schumann boring.  
 
-24/25: The author's opinion/proposal. #Z: Horowitz simply expands our ideas of what the piece can be.  
+24/25: The author's opinion/proposal.   
 
 
 ##### Harper, Paula. "Reveiving, Remixing, Recuperating 'Rebecca Black---Friday'" _American Music_ 38, no. 2 (2020): 217-239.  
@@ -5252,21 +5250,21 @@ Introduction: On Not Being Able to Learn Music.
 
 -: Psychoacoustic experiences and pleasentness/unpleasentness.  
 
--: Power perception.  #Z: Loudness and low frequencies increase perception of power.  
+-: Power perception.  
 
-42/43: The six acoustical dimensions. #Z: Özcan and Egmond list 6 "acoustical dimensions" of product sounds: air, alarm, cyclic, impact, liquid, and mechianical. These sounds are distinguished from one another by ther constitution in a two-dimensional space of sharpness and loudness vs nosiness and low frequencies.    
+42/43: The six acoustical dimensions.   
 
 43: Conceptual associations with these sounds and the semantic assosciations they elicit.  
 
 -: Overview of the study.  
 
-47: Results of study 1: 5 categories of semantic assosciations of sounds. #Z: Özcan found in a experimental study that users' semantic associations with product sounds can be grouped into 5 categories: attention, roughness, familiarity, temporal constancy, and smoothness.  
+47: Results of study 1: 5 categories of semantic assosciations of sounds.  
 
 -: Power and pleasentness perceptions.  
 
 50: Loudness and positive power judgement.  
 
-51: Conclusions. #Z: Psychoacoustic reponses preceed emotional responses. For example, in order to be percieved as powerful (an emotional response) a vacuume cleaner must be percived psychoacoustically as loud. #Z: None of the action and location descriptions used in this study (things such as bathroom,bedroom, impacting, noisy) were found by Özcan to be appropriate in describing product sounds.    
+51: Conclusions.   
 
 
 ##### Özcan, Elif, and René van Egmond. “Product Sound Design and Application: Overview.” _5th International Conference on Design and Emotion, Gothenburg, Sweden,_ 2006.  
