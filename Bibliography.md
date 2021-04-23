@@ -2021,8 +2021,6 @@ Agumentation and diminution
 
 > p. 199: Note on how listening effects not only the listener, but also what is sounding. Listening enlivens the environment. (Pauline Oliveros)
 
-#####Z: The early music movement is the reseult of the classical value system and cannot escape its aesthetic predilections---Early music follows lines of taste more closely than historical evidence. This, however, is not a bad thing, and the early music movement is one of the most fotunate developments of classical music in its ability to open this world of music up to new sounds and techniques. That said, it is unfortunate that the early music movement has decided to value historical versimilitude as the marker of a good performance rather than aesthetics as, ultimately, what they have created is not something old, but something new, and frankly better: historically inforfed perforamnce is authentic to the present moment.  
- E  
 
 ##### Ellingson, Ter. "Transcription." In _Ethnomusicology: An Introduction_, edited by Helen Myers, 110-152. New York: W.W. Norton and Company.
 
@@ -2089,7 +2087,7 @@ Agumentation and diminution
 
 494/495: Analysis of "Piano Phase" as exemplary of Reich's process philosophy.  
 
-497: Free perception of phrase as the locus of mystery, not the processes. #Z: Epstein argues that rather than how Reich puts it in his manifesto, the free search for mystery that the performer takes part in in listening to process driven music is not in discovering the process, which has rather little mystery to it, but rather in the free perception of phrase which this music presents. One may move back and fourth between different psycho-acoustic hearings of the ope-ended phrases.     
+497: Free perception of phrase as the locus of mystery, not the processes.   
 
 501: Metaphor of "Baily's Beads" and a solar eclipse.  
 
@@ -5203,7 +5201,7 @@ Introduction: On Not Being Able to Learn Music.
 
 -: How the show's creators found this path.  
 
-16: The show's staff of experienced media prodcuers (rather than child development specialists.) #Z: A defining feature of _Sesame Street_ was that rather than hiring child development and education specialists to produce the show, they used education research to inform descicions made by sesaoned tv, radio, and broadway producers, writers, composers, and actors. This descision came from the observation that children respond well to adult television and were known to recite adds for beer and cigarettes, as well as having their attetntion held by adult variety shows such as _Rowan and Martin's Laugh-In._ #Z: They also wantede to make the show entertaining enough for parents to want to watch it with their children.       
+16: The show's staff of experienced media prodcuers (rather than child development specialists.)  
 
 17: The variety show format.  
 
@@ -5215,7 +5213,7 @@ Introduction: On Not Being Able to Learn Music.
 
 21: Tailoring the show to appeal to a broad range of ages, preschool to adult.  
 
--: Guest stars. #Z: Composer Joe Rapso hoped that by presenting skilled performers playing serious music would help kids "Come away from the show with some sense  of what quality is, a taste for the very best" which they wouldn't get from other childrens' media.     
+-: Guest stars.  
 
 22: Repetition.  
 
@@ -5223,7 +5221,7 @@ Introduction: On Not Being Able to Learn Music.
 
 -: Children's preference for variety.  
 
-25: Sesame Street as "format comedy." #Z: Sesame Street can be described as "format comedy," that is, a sketch comedy that uses the format of other programs and of the boradcst medium as a tool for humour. In format comedy, media conventions and tropes are not just platforms for humorous contents, but the jokes themselves.   
+25: Sesame Street as "format comedy."  
 
 -: Saturday Night Live and Monty Python's Flying Circus.  
 
@@ -5242,7 +5240,7 @@ Introduction: On Not Being Able to Learn Music.
 
 289: Adults watching _Sesame Street_ and the commercial succes of its songs.  
 
--: #Z: Joe Rapso, the first musical director of Sesame Street said "We don't play down to kids. We just have a very short audience."  
+-: Joe Rapso, the first musical director of Sesame Street, on playing to children.  
 
 290: Focus on reaching urban minority viewers.  
 
