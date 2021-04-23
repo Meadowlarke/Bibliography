@@ -5199,6 +5199,35 @@ Introduction: On Not Being Able to Learn Music.
 
 ##### Ostrofsky, Kathryn A. "Sesame Street as a Musical Comedy-Variety Show." In _Music in Comedy Television: Notes on Laughs,_ 15-30. Routledge Music and Screen Media Series. Abingdon: Routledge, 2017.  
 
+15: Introduction ot the idea of the show as more than just educational televion, but also a sketch comedy show.  
+
+-: How the show's creators found this path.  
+
+16: The show's staff of experienced media prodcuers (rather than child development specialists.) #Z: A defining feature of _Sesame Street_ was that rather than hiring child development and education specialists to produce the show, they used education research to inform descicions made by sesaoned tv, radio, and broadway producers, writers, composers, and actors. This descision came from the observation that children respond well to adult television and were known to recite adds for beer and cigarettes, as well as having their attetntion held by adult variety shows such as _Rowan and Martin's Laugh-In._ #Z: They also wantede to make the show entertaining enough for parents to want to watch it with their children.       
+
+17: The variety show format.  
+
+18: The use of music in these comedic sketches.  
+
+-: Humor from juxaposition of seriousness music and performances, lyrics, or other contents or contexts which were inappropriate for the genera.   
+
+19: Sesame Street's parodies of popular films, television programs, and advertisements.  
+
+21: Tailoring the show to appeal to a broad range of ages, preschool to adult.  
+
+-: Guest stars. #Z: Composer Joe Rapso hoped that by presenting skilled performers playing serious music would help kids "Come away from the show with some sense  of what quality is, a taste for the very best" which they wouldn't get from other childrens' media.     
+
+22: Repetition.  
+
+23: Re-use of sketches, the short audience turnover, and cementing cultural memory.  
+
+-: Children's preference for variety.  
+
+25: Sesame Street as "format comedy." #Z: Sesame Street can be described as "format comedy," that is, a sketch comedy that uses the format of other programs and of the boradcst medium as a tool for humour. In format comedy, media conventions and tropes are not just platforms for humorous contents, but the jokes themselves.   
+
+-: Saturday Night Live and Monty Python's Flying Circus.  
+
+
 ##### Ostrofsky, Kathryn A. "Talking Sesame to the Streets: Young Children's Interactions with Pop Music's Aesthetic in the 1970s." _Journal of Popular Music Studies_ 24, no. 3 (2012): 287-304.  
 
 287: Description of _Sesame Street_'s urban visual aesthtic in 1969.  
