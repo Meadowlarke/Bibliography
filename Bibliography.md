@@ -7107,13 +7107,13 @@ Cabaletta
 
 -: Vanderveer.  
 
-105: The history of product sound design. #Z: In the second half of the 20th century industrial designers in Europe became increasingly concerend with the problem of unintentional sounds in products. The ideal which they strove for was silence. #Z: The ideal of silence in sound design persisted into the late 1980s, when tastes changed such that sounds were seen as a source of useful information about the state of the product.  
+105: The history of product sound design.   
 
--: Sound quality vs. sound design. #Z: The older field of research into "sound quality" dealth mostly with reducing objectionable nose from existing products. "Sound design" is more concerned with the study and creation of intentional sounds.   
+-: Sound quality vs. sound design.  
 
--: The difficulties in designing sounds for physical objects. #Z: Modeling physical objects is very difficult, and this places a limit on the ability of sound designers working on physical products. #Z:Sound designers do not have this problem, however, while working on digital media.   
+-: The difficulties in designing sounds for physical objects.  
 
-105/106: Unintentional sounds becomeing intentional ones. #Z: In some cases, unintentional sounds can become intentional ones if they communicate an aspect of the product which designers would like to highliht, for example the crunch of chips or the the roar of a Harly Davidson motorocycle. This  can also occur in more understated instances, such as in the design of the seound of a car door closing. This is a consequential sound, but it is engineered to sound good (i.e. not metalic ang tinny) and is in this way an intentional sound. #Z: There is some conflict between the terms "unintentional sound" and "consequential sound." It seems to me that the true axis is consequential or inconsequeinal, the former of which can be either designed or not designed (intentional or unintentional.)  
+105/106: Unintentional sounds becomeing intentional ones.  
 
 106: New possibilities for interactive sounds.  
 
@@ -7123,9 +7123,9 @@ Cabaletta
 
 108: The objectives of sound design.  
 
--: Sound design as the reverse of listening/making intentions audible. #Z: Taking a que from Pierre Schaeffer that listening implies having an intention, Susini argues that sound design is the opposite of listening: it is the process of making intentions audible. #Z: There are two kinds of intention in sound design: form and function.   
+-: Sound design as the reverse of listening/making intentions audible.  
 
--: Form and function of intention in sound design. #Z: In sound design, the intention of form is to give an object a cohesive overall sound identity. Function sees sound as a communicatory of necesary and useful information.   
+-: Form and function of intention in sound design.  
 
 -: Examples of notification, feedback, and interaction.  
 
@@ -7135,13 +7135,13 @@ Cabaletta
 
 110/111: Sound notification.  
 
-111: Sound feedback. #Z: Sonic feedback confirms the action of a user. Feedback sounds can be positive or negative, indicating the correctness of the action of the state of the system at the time of the action. #Z: Sonic interaction is a continuous process between user and object, where the characteristics of the sound are directly related to some varying characterists of the actions performed by the user or of the state of a system. #Z: The sound of the kitchen timer can be thought of as a rudimentary form of soonic feedback, as it is continuosuly updating the user on the state of the sytem. The informatino that it communicates about the system is just very simple: whether the clock is running or not---the result of the clock only having two states.   
+111: Sound feedback.  
 
 -: Sound design and sound perception research.  
 
 112: Exploring how we hear everyday sounds.  
 
-113: Questions to ask while designing sounds. lk
+113: Questions to ask while designing sounds.  
 
 -: Timbrel perception.  
 
