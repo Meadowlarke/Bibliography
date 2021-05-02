@@ -2809,6 +2809,25 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 76: Nice little conclusion/summary.  
 
 
+##### Griffiths, Paul. "Messiaen, Oliver." _Grove Music Online._ 2001.  
+
+1: Life
+
+3: "Quartet for the End of Time."   
+
+5: Theology.  
+
+6: His fascination with the meeting of the divine and the human.  
+
+7: Musical elements.  
+
+12: Quartet for the end of time, dazzlement, long cycles.   
+
+14: Works after 1950.  
+
+-: Use of birdsong.  
+
+
 ##### Guilbault, Jocelyne. "Discordant Beats of Pleasure Amidst Everyday Violence: The Cultural Work of Party Music in Trinidad." _MUSICultures_ 38, (2011): 7-26.   
 
 7: The uptick in violince in the Carribean, including Trinidad and Tobago.  
