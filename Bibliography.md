@@ -1442,6 +1442,10 @@ Chorus: Straight-tone (no vibrato.)
 > mm. 57-58: Three note motif with chromatic complication.
 
 
+##### Clash, Kevin. _My Life as a Furry Red Monster: What Being Elmo has Taught me About Life, Love, and Laughing out Loud._ New York: Broadway Books, 2006.
+
+
+
 ##### Cone, Edward T. "Stravinksy: The Progress of a Method." _Perspectives of New Music_ 1, no, 1 (1962): 18-16.  
 
 18: The question of Stravinsky's personal style.  
