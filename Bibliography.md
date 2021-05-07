@@ -7122,7 +7122,7 @@ Cabaletta
 270: A problem in the improviation with you can hear the performers working out. 
 
 
-##### Susini, Patrick, Olver Houix, and Nicolas Misdariis. "Sound Design: An Applied, Experimental Framework to Study the Perception of Everyday Sounds." _The New Soundtrack_ 4, no 2. (2014): 103-121.  
+##### Susini, Patrick, Oliver Houix, and Nicolas Misdariis. "Sound Design: An Applied, Experimental Framework to Study the Perception of Everyday Sounds." _The New Soundtrack_ 4, no 2. (2014): 103-121.  
 
 104: "Everyday souds."  
 
