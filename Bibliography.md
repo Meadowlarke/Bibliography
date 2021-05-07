@@ -7128,7 +7128,7 @@ Cabaletta
 
 -: R. Murray Shafer and _The Tuning of the World._  
 
--: Vanderveer.  
+-: Vanderveer, intentional, unintentional, sounds.  
 
 105: The history of product sound design.   
 
