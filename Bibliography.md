@@ -2,11 +2,11 @@
 
 > [Format](file:///home/harlan/Desktop/Notes%20and%20Bibliography%20Style.html)
 
-#### A
+## A
 
-##### Abbate, Carolyn and Roger Parker. _A history of Opera._ London: W. W. Norton and Company, 2012.  
+### Abbate, Carolyn and Roger Parker. _A history of Opera._ London: W. W. Norton and Company, 2012.  
 
-###### Chapter 8: Rossini and Transition.  
+#### Chapter 8: Rossini and Transition.  
 
 188: Stendhal's admiration for Rossini.  
 
@@ -26,7 +26,7 @@
 
 213: Why is Rossini popular again?  
 
-###### Chapter 9: The Tenor Comes of Age.  
+#### Chapter 9: The Tenor Comes of Age.  
 
 215: Antartic expedition and the loudness of Enrico Caruso.  
 
@@ -35,11 +35,11 @@
 218: Trouser roles.  
 
 
-##### Abbing, Roel Roscam. _A Thing or Two About Packet Radio_ N.D.
+### Abbing, Roel Roscam. _A Thing or Two About Packet Radio_ N.D.
 
 **Fun quick start guide to local computer networking using a walkie-talkie.**
 
-##### Abels, Birgit.  "Music, Affect and Atmospheres: Meaning and Meaningfulness in Palauan Omengeredakl."  _The International Journal of Traditional Arts,_ no. 2. (2018).
+### Abels, Birgit.  "Music, Affect and Atmospheres: Meaning and Meaningfulness in Palauan Omengeredakl."  _The International Journal of Traditional Arts,_ no. 2. (2018).
 
 >**This paper is an exploration of traditional Palauan _omengeredakl_ singing and the concept of atmosphere. In an attempt to sever the connection of affect with atmospheres in some recent scholarship, the author establishes the difference between the non-dualistic terms meaning and _meaningfulness_ and uses these analyze omengeredakl and its "power". Her research makes use of spectral analyses to find meaning in power _in between_ the vocal parts (9) and beyond the music itself**
 
@@ -60,7 +60,7 @@
 > p. 12: discussion of "suggestions of motion."
 
 
-##### Abraham, Otto and Erich M. von Hornbostel. "Suggested Methods for the Transcription of Exotic Music." _Ethnomusicology_ 38, no. 3 (1994): 425-456.
+### Abraham, Otto and Erich M. von Hornbostel. "Suggested Methods for the Transcription of Exotic Music." _Ethnomusicology_ 38, no. 3 (1994): 425-456.
 
 **This article, written in lots of short sections, is something of a style guide for transcription.**  
 
@@ -93,9 +93,9 @@
 
  
 
-##### Agawu, Kofi _Representing African Music: Postcolonial Notes, Queries, Positions._ New York: Routledge, 2003.
+### Agawu, Kofi _Representing African Music: Postcolonial Notes, Queries, Positions._ New York: Routledge, 2003.
 
-###### Chapter 3: The Invention of "African Rhythm"
+#### Chapter 3: The Invention of "African Rhythm"
 
 > **In this chapter, Agawu looks at the commonly held notion---even among musicologists--that African music is primarily rhythmic, and contains rhythms so foreign to the west as to be incomprehensible. This invention implies that western music is lacking in rhythm and that African music is lacking in harmony or melodic complexity. It suggests that Africa is one cultural body and it leads to research which can ultimately only prove its own wrongheaded assumptions. He makes a special point in the section "Interrogating a Lexical Gap" that the Ewe speaking people do not have a word for rhythm. He points to this fact as a way to stress the way that what we call rhythm isn't its own distinct category to the Ewe, but rather an interconnected, interterstitial, group of phenomena. Regading notation, a big part of Agawu's argument is that African music isn't an anomaly. Systems made specifically for African music in a sense "orientalize" (Australize?) African music and deny it's universality and would silo African music off away from critical musdiscourses or performance by musicians who aren't Africanists by trade. Essentially, a new notation for African music would be disempowering. Additionally, western notation is probably just fine for African music. Stravinsky notated _Rite of Spring_ just fine. The idea that we need a different notation for African music is based off of the erroneous, colonial, assumption that African music is ontologically different. In the end he is advocating that the only way out of epistemic violence is to empower post-colonial African subjects to write about themselves.**
 
@@ -130,15 +130,15 @@
 70: The ultimate goal of self-representation.  
 
   
-##### Agawu, Kofi. _The African Imagination in Music._ Oxford: Oxford Universtiy Press, 2016.  
+### Agawu, Kofi. _The African Imagination in Music._ Oxford: Oxford Universtiy Press, 2016.  
 
-###### Chapter 4: The Rhythmic Imagination.  
+#### Chapter 4: The Rhythmic Imagination.  
 
 155: The over-emphasis of rhythim in African music discourse.  
 
 
 
-###### Chapter 5: The Melodic Imagination.
+#### Chapter 5: The Melodic Imagination.
 **This chapter deals with the meldic elements of African  music, first giving an overview, then analyzing several songs.**
 
 195: The voice in music and the preexistance of melodic in speach.  
@@ -179,7 +179,7 @@
 
 
 
-##### Ahlgren, Angela K. 2016. “Butch Bodies, Big Drums:Preview the document Queering North American Taiko.” _Women & Music_ 20: 1–26.
+### Ahlgren, Angela K. 2016. “Butch Bodies, Big Drums:Preview the document Queering North American Taiko.” _Women & Music_ 20: 1–26.
 
 1: Powell Street Festical in Vancouver.  
 
@@ -208,7 +208,7 @@
 24: Embodied participatory spectatorship.  
 
 
-##### Alden, Jane. "On the Aesthetics of 15th-Century Chansonniers." _Danish Yearbook of Musicology_ 33 (2005): 17-30.
+### Alden, Jane. "On the Aesthetics of 15th-Century Chansonniers." _Danish Yearbook of Musicology_ 33 (2005): 17-30.
 
 > **This paper reads the fifteenth century chansonnier as a "polyphonic text," that is, they invited multiple and interrelated modes of reading.**
 
@@ -241,9 +241,9 @@
 > 29: These books were objects of show and aesthetics.
 
 
-##### Andre, Naomi. _Black Opera: History, Power, Engagement._ Urbana: University of Illinois Press, 2018.  
+### Andre, Naomi. _Black Opera: History, Power, Engagement._ Urbana: University of Illinois Press, 2018.  
 
-###### Chapter 1:
+#### Chapter 1:
 
 1: The study looks at how opera has meaning for contemporary audiences.  
 
@@ -289,10 +289,10 @@
 
 
 
-##### Angelini, Giorgio, dir. _Owned._   2018; Section Films. Screening.
+### Angelini, Giorgio, dir. _Owned._   2018; Section Films. Screening.
 >**This is a documentary film about the discriminatory housing practices referred to as "redlining," how they lead to intergenerational wealth, and what they meant during the 2018 housing crash.**
 
-##### Applegate, Celia. "How German Is it? Nationalism and the Idea of Serious Music in the Early Nineteenth Century." _19-th Century Music_ 21, no. 3, (1998).  
+### Applegate, Celia. "How German Is it? Nationalism and the Idea of Serious Music in the Early Nineteenth Century." _19-th Century Music_ 21, no. 3, (1998).  
 
 **Top-down nationalism wehre in the educated elites think that the national conciousness need an intellectual education involving the formation of German music as part of national cultivation.**
 
@@ -308,7 +308,7 @@
 
 
 
-##### Atlas, Allan. _Renaissance Music: Music in Western Europe, 1400-1600._ (New York: W. W. Norton and Company, Inc., 1998).
+### Atlas, Allan. _Renaissance Music: Music in Western Europe, 1400-1600._ (New York: W. W. Norton and Company, Inc., 1998).
 
 > 5: The English style.
 
@@ -330,7 +330,7 @@
 
 > 23: Humanism
 
-###### Chapter 3: Franco Flemish music
+#### Chapter 3: Franco Flemish music
 
 > 27: Ars nova
 
@@ -343,16 +343,16 @@
 > 36: Ciconia
 
 
-##### Attar, Eden.  _Diswaher Sounds._ 2021.
+### Attar, Eden.  _Diswaher Sounds._ 2021.
 
 10:01: Switch from prewash to drain cycle.  
 
 14:00: Switch to a second drain cycle.  
 
-#### B
+## B
 
 
-##### Barad, Karen. "Posthuamist Performativity: Toward and Understanding of How Matter Comes to Matter." _Sigmus: Journal of Women in Culture and Society_ 28, no. 3 (2003).
+### Barad, Karen. "Posthuamist Performativity: Toward and Understanding of How Matter Comes to Matter." _Sigmus: Journal of Women in Culture and Society_ 28, no. 3 (2003).
 
 In this essay, Barad argues against constructivist or representionalist viewpoints, but rather towads an "agential realist" view based on the non-Cartesian epistemoplogy of physicist Niels Bohr. In this viewpoint, matter is not created by culture, languge, or human observation (which would priveledge language and mind over matter) but it is "always already an ongoing historicity." On the other side of things, there is no such thing as the objective observer who exists outside of the interactions which they are observing. Instead, the viewer is themself a phenomenon of all of the ongoing "intra-actions" of agentially seperate phenomena. She proposes "onto-epistem-ology:" the study of practices of knowing inside of the phenomenon of being.
 
@@ -394,7 +394,7 @@ In this essay, Barad argues against constructivist or representionalist viewpoin
 
 829: "Onto-epistem-ology."  
 
-##### Barz, Gregory. 2011. “Interlude: Singing for Life: Songs of Hope, Healing, and HIV/AIDS in Uganda.” In The Culture of AIDS in Africa: Hope and Healing Through Music and the Arts, edited by Gregory Barz and Judah M. Cohen, 20–34. Oxford University Press.  
+### Barz, Gregory. 2011. “Interlude: Singing for Life: Songs of Hope, Healing, and HIV/AIDS in Uganda.” In The Culture of AIDS in Africa: Hope and Healing Through Music and the Arts, edited by Gregory Barz and Judah M. Cohen, 20–34. Oxford University Press.  
 
 20: Artist Fancis Wasswa and the potential for expressive culture to respond to HIV/AIDS.  
 
@@ -419,7 +419,7 @@ In this essay, Barad argues against constructivist or representionalist viewpoin
 
 
 
-##### Bashford, Christina. "Concert Listening the British Way?: Program Notes and Victorian Culture." In _The Oxford Handbook of Music Listening in the 19th and 20th Centuries,_ edited by Christian Thorau and Hansjakob Ziemer,  187-206. Oxford: Oxford University Press, 2019.
+### Bashford, Christina. "Concert Listening the British Way?: Program Notes and Victorian Culture." In _The Oxford Handbook of Music Listening in the 19th and 20th Centuries,_ edited by Christian Thorau and Hansjakob Ziemer,  187-206. Oxford: Oxford University Press, 2019.
 
 > **This chapter is an overview and analysis of show notes in Victorian England. It looks into why the were a British phenomenon and what they did to shape the listening experience.**
 
@@ -439,7 +439,7 @@ In this essay, Barad argues against constructivist or representionalist viewpoin
 
 > 200: Program notes' encouragement of linear, structural listening.
 
-##### Beethoven, Ludwig van. "Quartet no. 4." 
+### Beethoven, Ludwig van. "Quartet no. 4." 
 
 mm. 1: No introduction, we go right into the first theme.  
 
@@ -454,9 +454,9 @@ mm 13: PAC.
 mm: 42: Begin B theme, sentence structure, two-bar basic idea.  
 
   
-##### Bellman Jonathan. _The Style Hongrois in the Art Music of Western Europe._ Chicago: Northeastern University Press, 1993.  
+### Bellman Jonathan. _The Style Hongrois in the Art Music of Western Europe._ Chicago: Northeastern University Press, 1993.  
 
-###### Chapter 4: Stereotypes: The Gypsies in Literature and Popular Culture.  
+#### Chapter 4: Stereotypes: The Gypsies in Literature and Popular Culture.  
 
 69: The 19th century popular-culture gypsy.  
 
@@ -488,7 +488,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 91: "Bohemian" and musicality.  
 
-##### Chapter 5: A Lexicon for the Style Hongrois.  
+### Chapter 5: A Lexicon for the Style Hongrois.  
 
 93: The basic things that make up the style hongrois: instruments and rhythmic figures.   
 
@@ -508,7 +508,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 121: The rasied fourth.  
 
-###### Chapter 7: Schubert.  
+#### Chapter 7: Schubert.  
 
 149:Schubert's love for Weber.  
 
@@ -521,7 +521,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 <a name="Bent, 1985"></a>
 
-#####  Bent, Margaret. "Fact and Value in Contemporary Scholarship." _The Musical Times_ 127, no. 1716 (Febuary 1986): 85-89. [PDFs](/home/harlan/Downloads/School Downloads/IntroMusicology/Week1). See Also [Kerman, 1985.](#Kerman, 1985) 
+###  Bent, Margaret. "Fact and Value in Contemporary Scholarship." _The Musical Times_ 127, no. 1716 (Febuary 1986): 85-89. [PDFs](/home/harlan/Downloads/School Downloads/IntroMusicology/Week1). See Also [Kerman, 1985.](#Kerman, 1985) 
 
 > **A Review of Kerman, 1985. Bent argues that Kerman has too narrow a definition musicology, that criticism and aesthetic appreciation are already a part of musicological research, and that what we really need is just good, patient, critical scholarship.**
 
@@ -536,7 +536,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 > p. 88: Direct response to Kerman on aesthetic expirience, canon, and Kerman's idea that students go into musicology because of the aestheicc expirience of music.
 
 
-##### Berger, Anna Maria Busse, editor. _The Search for Medieval Music in Africa and Germany 1891--1961_. Chicago and London: The University of Chicago Press, 2020. 
+### Berger, Anna Maria Busse, editor. _The Search for Medieval Music in Africa and Germany 1891--1961_. Chicago and London: The University of Chicago Press, 2020. 
 
 1: Backgound on Protestant mission activity in Africa.  
 
@@ -639,7 +639,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 87: Summary of Ballanta as musicologist.  
 
   
-##### Berliner, Paul. _The Soul of Mbira: Music and traditions of the Shona People of Zimbabwe._ Berkeley: University of California Press.  
+### Berliner, Paul. _The Soul of Mbira: Music and traditions of the Shona People of Zimbabwe._ Berkeley: University of California Press.  
 
 8: Lecture demonstration of the Mbira by Dumisani Maraire.  
 
@@ -669,7 +669,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 77: Nyamaropa, and ancient mbria composition.  
 
-##### Bjerke, Kristoffer Yddal. "Timbral Relationships and Microrhythmic Tension: Shaping the Groove Experience through Sound." In _Musical Rhtyhm in the Age of Digital Reproduction,_ edited by Anne Danielsen, 74-101. Farnham, Surrey: Ashgate, 2010.  
+### Bjerke, Kristoffer Yddal. "Timbral Relationships and Microrhythmic Tension: Shaping the Groove Experience through Sound." In _Musical Rhtyhm in the Age of Digital Reproduction,_ edited by Anne Danielsen, 74-101. Farnham, Surrey: Ashgate, 2010.  
 
 **This article looks at timbre and microtiming in two pieces, "The Hustle" and "How does it feel," to analyze how they both use expressive microtiming, but thourhg different methods.**
 
@@ -700,7 +700,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 -: Comparison of the two piece.
 
 
-##### Blake, David. "Musicological Omnivory in the Neoliberal University." _The Journal of Musicology_ 34, no. 3 (2017): 319-353.  
+### Blake, David. "Musicological Omnivory in the Neoliberal University." _The Journal of Musicology_ 34, no. 3 (2017): 319-353.  
 
 **Basically, the argument here is that authors and neo-liberal institutions have been attacking a lack of diversity and so on which doesn't actually exist in contemporary musicology. In so doing, they paint musicology as a burdensom and hegemonic field. Blake argues that we should instead reframe musicology as ain inclusive field. What Blake is trying to show is that there is this norm in musicological research of omnivory. You are not being radical. Omniverous musicologists are not renegades, but rather just taking part in the omniverous turn.  
 **   
@@ -746,7 +746,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 
 
-##### Bloxam, M. Jennifer. "A Cultural Context for the Chanson Mass." In _Early Musical Borrowing_ edited by Honey Meconi. New York: Routledge, 2004.
+### Bloxam, M. Jennifer. "A Cultural Context for the Chanson Mass." In _Early Musical Borrowing_ edited by Honey Meconi. New York: Routledge, 2004.
 
 5: Le Rouge and Masses based on secular love songs.  
 
@@ -779,7 +779,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 -: Objections to the chanson Mass.  
 
 
-##### Bloxam, M. Jennifer. "'I have never seen your equal': Agricola, the Virgin, and the Creed." _Early Music_ 34, no. 3 (2006): 391-407.  
+### Bloxam, M. Jennifer. "'I have never seen your equal': Agricola, the Virgin, and the Creed." _Early Music_ 34, no. 3 (2006): 391-407.  
 
 Bloxam uses the story of the singing white hart at the feast of the pheasent to point to the  emphatic spiritual content of the chanson _Je ne vis onques la pareille_. This is apparent 1) by its appearance at this fest on the cusp of Crusade, and 2) because it was sung in duet between a boy and a white hart---a symbol of Jesus Christ. Bloxam then tracks the proliferation of the line _Je ne vis onques la pareille_---I have never seen your equal---through numerous other poems of the time. Bloxam srgues that this line shows how this secular poetry was in fact simultaneously engaged in spiritual desire and devotion for the Virgin Mary. This, in turn, made it relatively easy for composers to turn this chanson for T-mass material. The remainder of this paper is an alaysis of Agricola's use of this chanson in sacred writing, and how he musically highlihghts the Marian elements in two Credo settings.
 
@@ -797,7 +797,7 @@ Bloxam uses the story of the singing white hart at the feast of the pheasent to 
 -: Highlighitng Marian elements through the the co-ordinatrion of musical and lyrical events across the chanson and Mass Credo.  
 
 
-##### Bloxam, M. Jennifer. “Masses on Polyphonic Songs” in _The Josquin Companion_, edited by Richard Scherr, 165-72. Oxford: Oxford University press, 2000.  
+### Bloxam, M. Jennifer. “Masses on Polyphonic Songs” in _The Josquin Companion_, edited by Richard Scherr, 165-72. Oxford: Oxford University press, 2000.  
 
 165: The Graeco-Roman godess Fortuna in the middle ages and renaissance.  
 
@@ -812,12 +812,12 @@ Bloxam uses the story of the singing white hart at the feast of the pheasent to 
 -: Josquin's connection witht the _ventura_ or "search for fortune" food drive.  
 
 
-##### Bokulich, Clare. "Music in the Renaissance Period." Class taught at Washington University in Saint Louis, Fall 2020.
-###### Week 1
+### Bokulich, Clare. "Music in the Renaissance Period." Class taught at Washington University in Saint Louis, Fall 2020.
+#### Week 1
 
 > Nothing to report here.
 
-###### Week 2
+#### Week 2
 
 > Please add page numbers to discussion questions when quoting or citing. Also please bold authors names and don't be afraid to ask straight-forward, factual questions.
 
@@ -833,7 +833,7 @@ Bloxam uses the story of the singing white hart at the feast of the pheasent to 
 
 > Discussion of vocabulary: Mass ordinary, c.f., parody, imitation, so plachet.
 
-###### Week 3
+#### Week 3
 
 > Forme fixe: Rondo, ballade, and one other
 
@@ -868,7 +868,7 @@ Bloxam uses the story of the singing white hart at the feast of the pheasent to 
 > His question n this chapter is why the model was chosen, yet largely abandoned (158).
 
 
-###### Week 4
+#### Week 4
 
 > For composer presentation, start with Grove.
 
@@ -882,7 +882,7 @@ Bloxam uses the story of the singing white hart at the feast of the pheasent to 
 
 > When you hear isorhythmic motet think tenor.
 
-###### Week 5:
+#### Week 5:
 
 > Milsom:
 
@@ -910,7 +910,7 @@ Bloxam uses the story of the singing white hart at the feast of the pheasent to 
 
 > Why did the Hegelians love Palestrina? He was the earliest composer known for a while. Statuses changed as they started to incorporate earlier composers into the history.
 
-###### Week 6:
+#### Week 6:
 
 > Next week bib due for final (look for Kirkman, cultural history of the polyphonic mass and Weyman, crisis of the middle ages)
 
@@ -926,7 +926,7 @@ Bloxam uses the story of the singing white hart at the feast of the pheasent to 
 
 > Keep a notebook of how you are researching.
 
-###### Week 7:
+#### Week 7:
 
 > Now we talk about songs
 
@@ -954,7 +954,7 @@ Bloxam uses the story of the singing white hart at the feast of the pheasent to 
 
 > Different levels of variety in chansons, motets, and Masses.
 
-###### Week 9: 
+#### Week 9: 
 
 Bloxam  
 
@@ -966,7 +966,7 @@ Huizinga.
 
 Inaudible polytextuality.  
 
-###### Week 14  
+#### Week 14  
 
 Sargent and Rodin.  
 
@@ -977,7 +977,7 @@ Problems with his term "echoing."
 Questions of competition.  
 
 
-##### Booth, Wayne C., Gregory G. Colomb, and Jospeh M. Willimas. _The Craft of Research,_ 3rd ed. Chicago: The Universtiy of Chicago Press, 2008.  
+### Booth, Wayne C., Gregory G. Colomb, and Jospeh M. Willimas. _The Craft of Research,_ 3rd ed. Chicago: The Universtiy of Chicago Press, 2008.  
 
 5: Plans for writing.  
 
@@ -986,7 +986,7 @@ Questions of competition.
 18: Writer-reader relationship.  
 
 
-##### Boyer, Horace Clarence. "Contemporary Gospel Music." _The Black Perspective in Music_ 7, no. 1 (1979): 5-58.
+### Boyer, Horace Clarence. "Contemporary Gospel Music." _The Black Perspective in Music_ 7, no. 1 (1979): 5-58.
 
 5: The rise of Gospel music between 1945 to 1955.  
 
@@ -1021,7 +1021,7 @@ Questions of competition.
 35--58: Transcriptitions.  
 
 
-##### Brahms, Piano Quartet no. 2, op 26, Mvt IV.  
+### Brahms, Piano Quartet no. 2, op 26, Mvt IV.  
 
 mm 352: The dotted eighth-sixteenth rhythm, except in a diminuation such that it appears as x4 r8 x8 x4 r8 x8 r4 etc.  
 
@@ -1030,7 +1030,7 @@ mm 460:(8:33) Plucked chords built across the cello and viola sound like mandoli
 -: These strummed chords ar
 
 
-##### Brahms, Piano Quartet in C Minor, Op. 60, Mvt. I  
+### Brahms, Piano Quartet in C Minor, Op. 60, Mvt. I  
 
 Material often gets recast in a new texture.  
 
@@ -1046,7 +1046,7 @@ mm. 70: S theme. This section has a bit of a theme and varioations form.
 
 mm. 199: Recapitulatory processes begin.  
 
-##### Brahms, Johannes. String Quartet no. 3.  
+### Brahms, Johannes. String Quartet no. 3.  
 
 
 
@@ -1105,13 +1105,13 @@ Canon-like texture at H.
 
 
 
-##### Braxton, Anthony. _Composition Notes._ Lebanon, NH: Frog Peak Music, 1988.  
+### Braxton, Anthony. _Composition Notes._ Lebanon, NH: Frog Peak Music, 1988.  
 
 150: Composition 8H.  
 
 
 
-##### Burford, Mark. _Mahalia Jackson and the Black Gospel Field._ Oxford: Oxford University Press, 2019.  
+### Burford, Mark. _Mahalia Jackson and the Black Gospel Field._ Oxford: Oxford University Press, 2019.  
 
 1: Mahalia Jackson on Ed Sulklivan's _Toast of the Town._  
 
@@ -1127,7 +1127,7 @@ Canon-like texture at H.
 
 28: Charismatic artistry and the affective power of singers.  
 
-##### Burford, Mark, editor. _The Mahalia Jackson Reader._ Oxford: Oxford University Press, 2020.  
+### Burford, Mark, editor. _The Mahalia Jackson Reader._ Oxford: Oxford University Press, 2020.  
 
 **This edited volume is a collection of many short vignettes and media publications on "The Queen of Gospel Singing" Mahalia Jackson. Most of the writings are from her lifetime or immediately after her death.**  
 
@@ -1227,7 +1227,7 @@ Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."
 -: Positive concert review.  
 
 
-##### Burkholder, J. Peter. "The Value of a Music History Survey." _Journal of Music History Pedagogy_ 5, no. 2 (2015): 57-63.  
+### Burkholder, J. Peter. "The Value of a Music History Survey." _Journal of Music History Pedagogy_ 5, no. 2 (2015): 57-63.  
 
 57: Problems with music history and literature courses as they stand.  
 
@@ -1243,11 +1243,11 @@ Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."
 
 
 
-#### C
+## C
 
-##### Caplin, William E. _Classical Form: A Theory of Formal Functions for the Instrumental Music of Haydn, Mozart, and Beethoven._ Oxford: Oxford University Press, 1998.
+### Caplin, William E. _Classical Form: A Theory of Formal Functions for the Instrumental Music of Haydn, Mozart, and Beethoven._ Oxford: Oxford University Press, 1998.
 
-###### Chapter 1
+#### Chapter 1
 
 > 9: Form: the hierarchical arrangement of discrete, perceptually significant time spans---the grouping structure.
 
@@ -1269,7 +1269,7 @@ Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."
 
 
 
-###### Chapter 2: Fundamental Progressions
+#### Chapter 2: Fundamental Progressions
 
 > p.23: Short note on Hugo Riemann (functions vs scale degree)
 
@@ -1285,20 +1285,20 @@ Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."
 
 > p. 27: Cadential progressions: authentic, half (29), sequential: ascending and descending 2nds, 3rds, and 5ths.
 
-###### Chapter 3
+#### Chapter 3
 
 > 35: REal vs notated measures
 
 > 37: Basic idea bounded by a rest
 
-###### Chapter 13  
+#### Chapter 13  
 
 199: Eight-measure themes.  
 
 
 
 
-##### CADD+DSA Conference, September 26 11 AM EST.
+### CADD+DSA Conference, September 26 11 AM EST.
 
 > Michelle Grant Marie
 
@@ -1350,7 +1350,7 @@ Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."
 
 > Online interactions lose spiritual exchange.
 
-##### Castillo, Greg. "Cold War Modern Design 1945-1970." Edited by David Crowly and Jane Pavitt. (London), 2008.  
+### Castillo, Greg. "Cold War Modern Design 1945-1970." Edited by David Crowly and Jane Pavitt. (London), 2008.  
 
 64/65: West and Esat Belin, competition and permiable borders.  
 
@@ -1364,7 +1364,7 @@ Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."
 
 -: Gender, feminization of national image.  
 
-##### Chaminade, Cécile. Op. 40 Konzerstueck.  
+### Chaminade, Cécile. Op. 40 Konzerstueck.  
 
 mm. 2: Key signature of B Major, melody in the phrygian mode.  
 
@@ -1385,7 +1385,7 @@ mm. 2: Key signature of B Major, melody in the phrygian mode.
 53: Intersting hemiola in piano.  
 
 
-##### Chor, Ives. "Microtiming and Rhythmic Structures in Clave-Based Music: A Quantitative Study." In _Musical Rhythm in the age of Digital Reproduction,_ edited by Anne Danielsen, 37-50. Farnham, Surrey: Ashgate, 2010.  
+### Chor, Ives. "Microtiming and Rhythmic Structures in Clave-Based Music: A Quantitative Study." In _Musical Rhythm in the age of Digital Reproduction,_ edited by Anne Danielsen, 37-50. Farnham, Surrey: Ashgate, 2010.  
 
 39: The clave.  
 
@@ -1418,7 +1418,7 @@ mm. 2: Key signature of B Major, melody in the phrygian mode.
 48:Conclusions.  
 
 
-##### Cimini, Amy. "Vibrating Colors and Silent Bodies. Music, Sound, and Silence in Maurice-Merleau-Ponty's Critique of Dualism." _Contemporary Music Review_ 31, no. 5-6 (October-December 2012): 353-370.
+### Cimini, Amy. "Vibrating Colors and Silent Bodies. Music, Sound, and Silence in Maurice-Merleau-Ponty's Critique of Dualism." _Contemporary Music Review_ 31, no. 5-6 (October-December 2012): 353-370.
 
 > **Ponty et. al. reaiterateed mind-body duality but reemphasized the importance of the body. This paper looks at the differences between bodily and tacit knowledge.**
 
@@ -1429,11 +1429,11 @@ mm. 2: Key signature of B Major, melody in the phrygian mode.
 > That's all that I read...
 
 
-##### Clark-Sheard, Karen. "Jesus is a Love Song."  
+### Clark-Sheard, Karen. "Jesus is a Love Song."  
 
 Chorus: Straight-tone (no vibrato.)
 
-##### Clarke, Grant, Edgar Leslie, and Maurice Abrahams. "He'd Have to Get under---Get out and Get under." New York: Maurice Abrahams Mudic co., 1913.
+### Clarke, Grant, Edgar Leslie, and Maurice Abrahams. "He'd Have to Get under---Get out and Get under." New York: Maurice Abrahams Mudic co., 1913.
 
 > mm. 17-18: First appearance of three note motif.
 
@@ -1442,11 +1442,11 @@ Chorus: Straight-tone (no vibrato.)
 > mm. 57-58: Three note motif with chromatic complication.
 
 
-##### Clash, Kevin. _My Life as a Furry Red Monster: What Being Elmo has Taught me About Life, Love, and Laughing out Loud._ New York: Broadway Books, 2006.
+### Clash, Kevin. _My Life as a Furry Red Monster: What Being Elmo has Taught me About Life, Love, and Laughing out Loud._ New York: Broadway Books, 2006.
 
 
 
-##### Cone, Edward T. "Stravinksy: The Progress of a Method." _Perspectives of New Music_ 1, no, 1 (1962): 18-16.  
+### Cone, Edward T. "Stravinksy: The Progress of a Method." _Perspectives of New Music_ 1, no, 1 (1962): 18-16.  
 
 18: The question of Stravinsky's personal style.  
 
@@ -1467,7 +1467,7 @@ Chorus: Straight-tone (no vibrato.)
 25: More analysis, a bit over my head.  
 
 
-##### Cooper, David and Ian Saprio. "Ethnomuiscology in the Laboratory: From the Tonometer to the Digital Melograph." _Ethnomusicology Forum_ 15, no. 2 (2006), 301-313.  
+### Cooper, David and Ian Saprio. "Ethnomuiscology in the Laboratory: From the Tonometer to the Digital Melograph." _Ethnomusicology Forum_ 15, no. 2 (2006), 301-313.  
 
 302: Early tonometric devices.  
 
@@ -1476,7 +1476,7 @@ Chorus: Straight-tone (no vibrato.)
 306: Praat, computer program for speach analyses and synthesis.  
 
 
-##### Corbet, John. "Flutist Nicole Mitchell Uses Music to Map a Possible Paradise." _Chicago Reader,_ August 27, 2018.  
+### Corbet, John. "Flutist Nicole Mitchell Uses Music to Map a Possible Paradise." _Chicago Reader,_ August 27, 2018.  
 
 1: Little bio of Mitchell.  
 
@@ -1491,11 +1491,11 @@ Chorus: Straight-tone (no vibrato.)
 5: Mitchell's political ethos.  
 
 
-##### Crawford, Richard. _An Introduction to America’s Music._ New York: Norton, 2001.
+### Crawford, Richard. _An Introduction to America’s Music._ New York: Norton, 2001.
 
 
 
-###### Chapter 13: From Jeanie to Dixie: Parlor Songs 1800-1865”
+#### Chapter 13: From Jeanie to Dixie: Parlor Songs 1800-1865”
 
 > p. 149: The Star Spangled banner
 
@@ -1523,7 +1523,7 @@ Chorus: Straight-tone (no vibrato.)
   
   
   
-##### Csordas, Thomas J. 1993. “Somatic Modes of Attention.” _Cultural Anthropology_ 8 (2): 135–56.
+### Csordas, Thomas J. 1993. “Somatic Modes of Attention.” _Cultural Anthropology_ 8 (2): 135–56.
 
 **In this article, Csordas looks at embodiment as the existential ground of culture. He analyzes this through case studies of faith healers and their modes of intuitive sensation.**
 
@@ -1551,7 +1551,7 @@ Chorus: Straight-tone (no vibrato.)
 
 > p. 149: Indeterminacy.
 
-##### Cumming, Julia. "From Variety to Repetition: The Birth of Imitative Polyphony." _Yearbook of the Alamire Foundation_ 6, (2008): 21-44.
+### Cumming, Julia. "From Variety to Repetition: The Birth of Imitative Polyphony." _Yearbook of the Alamire Foundation_ 6, (2008): 21-44.
 
 > 21: Pervasive imitation
 
@@ -1570,7 +1570,7 @@ Chorus: Straight-tone (no vibrato.)
 > 43: Patronage as a possible reason for the shift.
 
 
-##### Czerny, Carl. _Systematic Introduction to Improvisation at the Pianoforte._ Translated by Alice Mitchell. New York: Longman, 1983.  
+### Czerny, Carl. _Systematic Introduction to Improvisation at the Pianoforte._ Translated by Alice Mitchell. New York: Longman, 1983.  
 
 42: Comparng the improvisor to an orator.  
 
@@ -1591,9 +1591,9 @@ Chorus: Straight-tone (no vibrato.)
 62: Note on ending the piece.  
 
 
-#### D
+## D
 
-##### Data Camp. _Intro to Data Visualization_
+### Data Camp. _Intro to Data Visualization_
 
 > Exploratory vs explanatory data vis
 
@@ -1603,7 +1603,7 @@ Chorus: Straight-tone (no vibrato.)
 > geom\_()
 
 
-##### Danielsen, Anne. "Here, There and Everywhere: Three Accounts of Pulse in D'Angelo's 'Left and Right.'" in _Musical Rhythm in the Age of Digital Reproduction_ edited by anne Danielsen, 19-35. Farnham, Surrey, Ashgate, 2010.  
+### Danielsen, Anne. "Here, There and Everywhere: Three Accounts of Pulse in D'Angelo's 'Left and Right.'" in _Musical Rhythm in the Age of Digital Reproduction_ edited by anne Danielsen, 19-35. Farnham, Surrey, Ashgate, 2010.  
 
 19: Explosion of the use of microrhythm in the 1990s.  
 
@@ -1624,7 +1624,7 @@ Chorus: Straight-tone (no vibrato.)
 29: The beat-bin model.  
 
 
-##### Debussy, "II Sarabande."
+### Debussy, "II Sarabande."
 
 Key area: Modal stuff.  
 
@@ -1633,13 +1633,13 @@ mm. 1-2: Harmonic voice leading technique of planing.
 mm. 7: Voice leading technique of contrary motion, te-do,re-do.  
 
 
-##### De Decker, Kris. "Insulation: First the Body then the Home." _Low Tech Magazine._ (2011).
+### De Decker, Kris. "Insulation: First the Body then the Home." _Low Tech Magazine._ (2011).
 
 Defining the clo unit.  
 
 "Pumping coefficient."  
 
-##### Defrantz, Thomas F. "Bone-Breaking, Black Social Dance, and Queer Corporeal Orature." _The Black Scholar_ 46, no. 1 (2016): 66-74. 
+### Defrantz, Thomas F. "Bone-Breaking, Black Social Dance, and Queer Corporeal Orature." _The Black Scholar_ 46, no. 1 (2016): 66-74. 
 
 66: Line dances, queerness.  
 
@@ -1656,7 +1656,7 @@ Defining the clo unit.
 72: Madonna.  
 73: Thesis.  
 
-##### Defrantz, Thomas F. "Dance On" Lecture presented by Washington University. November 13, 2020.
+### Defrantz, Thomas F. "Dance On" Lecture presented by Washington University. November 13, 2020.
 
 Black social dance's ability to promote improvisations.  
 
@@ -1687,7 +1687,7 @@ Fancing towards.
 Dancers make their body strong through a continuous remaking of the body (orientation helps with this.)  
 
 
-##### Downey, Greg. "Listening to Capoeira: Phenominology, Embodiment, and the Materiality of Music." _Ethnomusicology_ 46, no. 3 (Autumn 2002): 487-509.
+### Downey, Greg. "Listening to Capoeira: Phenominology, Embodiment, and the Materiality of Music." _Ethnomusicology_ 46, no. 3 (Autumn 2002): 487-509.
 
 > **Drawing on Barthes, Merleau-Ponty, and others, this paper moves towards a phenomenological approach to studying capoeira and its sounds. This paper argues for the enmeshment of the berimbau and its physical characteristics in the body of the martial artist.**
 
@@ -1722,7 +1722,7 @@ Dancers make their body strong through a continuous remaking of the body (orient
 > 503: Listening as social.
 
 
-##### Downey, Greg. "The dynamics of the embrace: An analysis of leading and following in Argentine tango." Washington University, March 29, 2021. 
+### Downey, Greg. "The dynamics of the embrace: An analysis of leading and following in Argentine tango." Washington University, March 29, 2021. 
 
 Tango's complicated nature of colaborative listening complicates the alleged sexism of Tango leading and following.  
 
@@ -1735,7 +1735,7 @@ Tango is inherently anti-erotic.
 Gender asymetry as cultivated illusion.
 
 
-##### Duane, Ben and Joseph Jakubowski. "Harmonic Clutsers and Tonal Cadences: Bayesian Learning without Chord Identification." _Journal of New Music Research_ 47, no. 2 (2018): 143-165.  
+### Duane, Ben and Joseph Jakubowski. "Harmonic Clutsers and Tonal Cadences: Bayesian Learning without Chord Identification." _Journal of New Music Research_ 47, no. 2 (2018): 143-165.  
 
 **I feel the need to mention here that I didn't understand a word of this.** 
 143: The importance and function of cadences.  
@@ -1757,8 +1757,8 @@ Gender asymetry as cultivated illusion.
 156: Unsupervised learnign of tonality by machines.  
 
 
-##### Duane, Ben. "Analysis 1." Class taught at Washington University in Saint Louis, Fall 2020.
-###### Week 1
+### Duane, Ben. "Analysis 1." Class taught at Washington University in Saint Louis, Fall 2020.
+#### Week 1
 
 > Spend lots of time analyzing the scores
 
@@ -1770,7 +1770,7 @@ Gender asymetry as cultivated illusion.
 
 > Schubert liked a three key structure, which functions much like the more common two key structure.
 
-###### Week 2:
+#### Week 2:
 
 > **Tuesday**
 
@@ -1797,7 +1797,7 @@ Gender asymetry as cultivated illusion.
 > Discussion of Caplin: Harmony unfolds in the bigger phrase more than moment to moment. He begins cadential progressions at the I6. Remember the sequences of the ascending V6 and descending 3rd (which sometimes alternates root and first inversion).
 
 
-###### Week 3
+#### Week 3
 
 > **Tuesday**
 
@@ -1841,7 +1841,7 @@ Gender asymetry as cultivated illusion.
 
 > Embellishments may themselves be embellished.
 
-###### Week 4
+#### Week 4
 
 > Passing 64
 
@@ -1863,7 +1863,7 @@ Gender asymetry as cultivated illusion.
 
 > Kermans critique of the Schenker Graphs: The f natural at "klinger" is the emotional peak of the piece, but it is left out of the Schenker graph. Schenker also tends to have little to say about the text. 
 
-###### Week 5:
+#### Week 5:
 
 > **Tuesday**
 
@@ -1893,7 +1893,7 @@ Gender asymetry as cultivated illusion.
 
 > Sentence and period structures and their functions.
 
-###### Week 6
+#### Week 6
 
 > Mozart Symphony 40:
 
@@ -1913,7 +1913,7 @@ Gender asymetry as cultivated illusion.
 
 > How can hypermeter be disruptive? Elisions.  
 
-###### Week 7  
+#### Week 7  
 
 Tuesday:  
 
@@ -1927,7 +1927,7 @@ You will always have tonic in an Aug6.
 
 Useage of Aug6 chords.  
 
-###### Week 8  
+#### Week 8  
 
 Tuesday:  
 
@@ -1943,13 +1943,13 @@ Ich grolle nicht.
 
 Harmonic continuity may restart at phrase boundary.  
 
-###### Week 9:  
+#### Week 9:  
 
 Neo-riemanian theory.
 
 Cohn hyper-hexatonic system.
 
-###### Week 10:
+#### Week 10:
 
 Minuet and Trio is a compound terary.   
 
@@ -1959,7 +1959,7 @@ Fonte.
 
 Lament bassline.  
 
-###### Week 13:
+#### Week 13:
 
 Medial ceasura.  
 
@@ -1981,7 +1981,7 @@ Medial ceasura declined.
 
 Contiunuous exposition (no settling into second theme.)  
 
-###### Week 14: 
+#### Week 14: 
 
 Fugues  
 
@@ -2002,7 +2002,7 @@ Agumentation and diminution
 
 
 
-##### Duffy, Michelle. 2017. “Listening Assemblages: Re-Soundig Place and Mapping the Affects of Sound” in _Musical Encounters with Deleuze and Guattari_, edited by Pirkko Moisala, Taru Leppänen, Milla Tiainen, and Hanna Väätäinen, 189–203. Bloomsbury Sound Studies. New York: Bloomsbury Academic.
+### Duffy, Michelle. 2017. “Listening Assemblages: Re-Soundig Place and Mapping the Affects of Sound” in _Musical Encounters with Deleuze and Guattari_, edited by Pirkko Moisala, Taru Leppänen, Milla Tiainen, and Hanna Väätäinen, 189–203. Bloomsbury Sound Studies. New York: Bloomsbury Academic.
 
  **Using the _Images of Home_ project as a case study, this paper looks at how the sounding world makes and takes part in the sense of place. Duffy breaks from the older, Schaferian, school of thought wherein the soundscape is a backdrop to everyday life. Instead, Duffy focuses on how the sounding world is a part of and takes part in the creation of place---we are connected to and through it. A similar attitude was taken in the creation of  _Images of Home._ Instead of viewing recorded soundscapes as a representation of space, they were used to create a listening experience open for other individuals to enter.**
 
@@ -2033,7 +2033,7 @@ Agumentation and diminution
 > p. 199: Note on how listening effects not only the listener, but also what is sounding. Listening enlivens the environment. (Pauline Oliveros)
 
 
-##### Ellingson, Ter. "Transcription." In _Ethnomusicology: An Introduction_, edited by Helen Myers, 110-152. New York: W.W. Norton and Company.
+### Ellingson, Ter. "Transcription." In _Ethnomusicology: An Introduction_, edited by Helen Myers, 110-152. New York: W.W. Norton and Company.
 
 110: The western idea of transcrpition as being essential to ethnomusicology as a science.  
 
@@ -2092,7 +2092,7 @@ Agumentation and diminution
 144: How to transcribe music.  
 
 
-##### Epstein, Paul. "Pattern Structure and Process in Steve Reichs 'Piano Phase.'" _The Musical Quarterly_ 72, no. 4 (1986): 494-502.  
+### Epstein, Paul. "Pattern Structure and Process in Steve Reichs 'Piano Phase.'" _The Musical Quarterly_ 72, no. 4 (1986): 494-502.  
 
 494: Summary of Reich's argument in "Music as a Gradual Process."  
 
@@ -2103,7 +2103,7 @@ Agumentation and diminution
 501: Metaphor of "Baily's Beads" and a solar eclipse.  
 
 
-##### Erkut, Cumhur, Stefania Serafin, Michael Hoby, and Jonniy Sårde. “Product Sound Design: Form,
+### Erkut, Cumhur, Stefania Serafin, Michael Hoby, and Jonniy Sårde. “Product Sound Design: Form,
 
 Function, and Experience.” _AM15_, October 2015.  
 
@@ -2118,11 +2118,11 @@ Function, and Experience.” _AM15_, October 2015.
 4/6: Products developed.  
 
 
-#### F
+## F
 
-##### Fallows, David. _Dufay_. London: J. M. Dent & Sons Ltd., 1982.
+### Fallows, David. _Dufay_. London: J. M. Dent & Sons Ltd., 1982.
 
-###### Chapt 15: The Cantus Firmus in Masses
+#### Chapt 15: The Cantus Firmus in Masses
 
 > **This chapter is an analysis of Dufay's _Sa la face ay pale_ mass which is based on chanson of his own authorship. This chapter analyzes this choice. It concludes that there is no reason to associate this mass with his time at the Savoy court.**
 
@@ -2137,7 +2137,7 @@ Function, and Experience.” _AM15_, October 2015.
 > p. 201: Conclusions about the Savoy years.
 
 
-##### Fallows, David. "The Last Agnus Dei or: The Cyclic Mass, 1450-1600, as forme fixe." in Polyphone Messen im 15. und 16. Jahrhundert ed. Andrea Ammendola, Daniel Glowotz, and Jürgen Heidrich. V&R Unipress.
+### Fallows, David. "The Last Agnus Dei or: The Cyclic Mass, 1450-1600, as forme fixe." in Polyphone Messen im 15. und 16. Jahrhundert ed. Andrea Ammendola, Daniel Glowotz, and Jürgen Heidrich. V&R Unipress.
 
 > **In short, this book chapter makes three arguments: That the Mass is a forme fixe, that its fixed characteristics were not liturgical but musical, and that composers saw the mass cycle "symphonically" that is, as a musical whole.**
 
@@ -2164,7 +2164,7 @@ Function, and Experience.” _AM15_, October 2015.
 > p. 62: Misa _La sol re fa mi_
 
 
-##### Faugues, Guillaume. _Miss le serviteur_
+### Faugues, Guillaume. _Miss le serviteur_
 
 
 > Faugues likes the texture where he starts with a duet and and then drops a glorious bass.
@@ -2182,7 +2182,7 @@ Function, and Experience.” _AM15_, October 2015.
 
 <a name="Feld, 2015"></a>
 
-#####  Feld, Steven. "Acoustemology" in _Keywords in Sound,_ edited by David Novak and Matt Sakakeeny, 12-21. Durham: Duke University Press Books, 2015. [PDF](file:///home/harlan/Downloads/School%20Downloads/MuiscandBody/Week1/introduction%20and%20acoustemology.pdf)  
+###  Feld, Steven. "Acoustemology" in _Keywords in Sound,_ edited by David Novak and Matt Sakakeeny, 12-21. Durham: Duke University Press Books, 2015. [PDF](file:///home/harlan/Downloads/School%20Downloads/MuiscandBody/Week1/introduction%20and%20acoustemology.pdf)  
 
 >**Feld describes the way that he coined the term "acoustemology" after he exhausted the boundaries of the term "anthropology of sound" while doing fieldwork with the Bosavi in the dense jungles of Papua New Guinea. In this essay he descries sound "as a way of knowing" and what this epistemological shift enables within the social sciences. He describes it as a case of "the master's tools will never dismantle the master's house" (p.14) where other, intellectual equipment was needed to tackle the indigenous sound worlds. "The kind of knowing that acoustemology tracks in and through sound and sounding," he says "is always experiential, contextual, fallible, changeable, contingent, emergent, opportune, subjective, constructed, selective." (p.14)**
 
@@ -2203,7 +2203,7 @@ Function, and Experience.” _AM15_, October 2015.
 >p. 18: He drops the "radical philosophical" term "interspecies cosmopolitanism."
 
 
-##### Fiumara, Anthony. “Escobedo’s Missa ‘Philippus Rex Hispanie’: A Spanish Descendant of Josquin’s ‘Hercules’ Mass.” _Early Music_ 28, no. 1 (2000): 50–62.  
+### Fiumara, Anthony. “Escobedo’s Missa ‘Philippus Rex Hispanie’: A Spanish Descendant of Josquin’s ‘Hercules’ Mass.” _Early Music_ 28, no. 1 (2000): 50–62.  
 
 50: Introduction to Escobedo's _Missa Philippus Rex Hispanie_ and its degraded sources.  
 
@@ -2216,7 +2216,7 @@ Function, and Experience.” _AM15_, October 2015.
 55: Sogetto cavato, process, origin, use by Escobedo.  
 
 
-##### Fiske, Alan Page and Tage Shakti Rai. _Virtuous Violence: Hurting and Killing to Create, Sustain, End, and Honor Social Relationships._ Cambridge: Cambridge University Press, 2015.
+### Fiske, Alan Page and Tage Shakti Rai. _Virtuous Violence: Hurting and Killing to Create, Sustain, End, and Honor Social Relationships._ Cambridge: Cambridge University Press, 2015.
 
 > **The central agrument of this book is that violence is not immoral, but rather the result of moralization itself. In short, perpetrators of violence almost always see the act as upholding or restoring a moral code in some way. This book stresses that social scientists step back and look at culture without our own moral baggage stating that "moralization is the origional sin of the behavioral sciences." Chapter four of this book contains a subsection on trial by ordeal, though it does little more than describe various forms of the practice.**
 
@@ -2240,9 +2240,9 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 55: Trial by battle.  
 
-##### Fitch, Fabrice. _Johannes Ockeghem Masses and Models._ Paris: Honore Champion Editeur, 1997.
+### Fitch, Fabrice. _Johannes Ockeghem Masses and Models._ Paris: Honore Champion Editeur, 1997.
 
-##### Chapter 3: 
+### Chapter 3: 
 
 > p. 65: _De plus en plus_
 
@@ -2252,7 +2252,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 > p. 74: "ul supra" repeat
 
-###### Chapter 5: Beyond the Cantus Firmus
+#### Chapter 5: Beyond the Cantus Firmus
 
 > p. 139: Discussion of Au travail suis, Mi-mi, Quinti toni and how abstractly they quote their source material.
 
@@ -2263,7 +2263,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 > p. 157: Relationship of Misa Au travail suis to its model.
 
 
-##### Fikentscher, Kai. 2000. “The Dancers: Working (It)” and “Underground Dancing: Autonomy and Interdependence in Music and Dance.” In “You Better Work!” Underground Dance Music in New York City, 57–67, 79-92. Hanover, NH: Wesleyan.
+### Fikentscher, Kai. 2000. “The Dancers: Working (It)” and “Underground Dancing: Autonomy and Interdependence in Music and Dance.” In “You Better Work!” Underground Dance Music in New York City, 57–67, 79-92. Hanover, NH: Wesleyan.
 
 > p. 57: "Musicking" and "collective performance."
 
@@ -2294,10 +2294,10 @@ xxiii: violence as motivated by culturally informed varients of universal social
 > p. 89: 12" vinyl and remix records.
 
 
-##### Fisk, John, looking for? Goto [Wilson, James](#Wilson).
+### Fisk, John, looking for? Goto [Wilson, James](#Wilson).
 
 
-##### Fitch, Fabrice. "Agricola and the Rhizome: An Aesthetic of the Late Cantus Firmus Mass." _Revue belge de Musicologie_ 59, (2005): 65-92.
+### Fitch, Fabrice. "Agricola and the Rhizome: An Aesthetic of the Late Cantus Firmus Mass." _Revue belge de Musicologie_ 59, (2005): 65-92.
 
 > p. 65: Note on the visibility of Agricola in scholarship.
 
@@ -2334,7 +2334,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 > p. 89: Rhizome theory.
 
 
-##### Ford, Tanisha C. and Deborah Willis. _Kwame Brathwaite: Black is Beautiful._ Aperature, 2019.  
+### Ford, Tanisha C. and Deborah Willis. _Kwame Brathwaite: Black is Beautiful._ Aperature, 2019.  
 
 11: Kwame Brathwaite and his introduction to photographing jazz and nightlife.  
 
@@ -2353,9 +2353,9 @@ xxiii: violence as motivated by culturally informed varients of universal social
 72: Black is beautiful slogan.  
 
 
-##### Ford, Tanisha C. _Liberated Threads: Black Women, Style, and the Glocal Politics of Soul._ Durham: The University of North Carolina Press, 2015.  
+### Ford, Tanisha C. _Liberated Threads: Black Women, Style, and the Glocal Politics of Soul._ Durham: The University of North Carolina Press, 2015.  
 
-###### Introduction: Black Women and the Making of a Modern Soul Style. 
+#### Introduction: Black Women and the Making of a Modern Soul Style. 
 
 1: The FBI's listing of academic and professor Angela Davis on the 10 most wanted.  
 
@@ -2391,7 +2391,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 -: Summaries of chapters.
 
-###### Chapter 1: Reimagining Africa: How Black Women Invented the Language of Soul in the 1950s.  
+#### Chapter 1: Reimagining Africa: How Black Women Invented the Language of Soul in the 1950s.  
 
 13: Miriam Makeba.  
 
@@ -2453,7 +2453,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 37: The lavish lifestyles of Nina Simore and Makeba.  
 
-###### Chapter 2: Harlem's "Natural Soul:" Selling Black Beauty to the Diaspora in the early 1960s.  
+#### Chapter 2: Harlem's "Natural Soul:" Selling Black Beauty to the Diaspora in the early 1960s.  
 
 41: Blue Note's release of Lou Donaldson's album _The Natural Soul_ in 1962.  
 
@@ -2524,7 +2524,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 65: A prelude to the next chapter on soul style in the southern U.S.  
 
 
-##### Freitas, Roger. "The Eroticism of Emasculation: Confronting the Baroque Body of the Castrato." _The Journal of Musicology_ 20, no. 2 (Spring 2003): 196-249.
+### Freitas, Roger. "The Eroticism of Emasculation: Confronting the Baroque Body of the Castrato." _The Journal of Musicology_ 20, no. 2 (Spring 2003): 196-249.
 
 >**Whereas other scholars have focused on how the castrato performed heroic roles despite his emasculation, Freitas argues that it was this very deformity that created their role as heroes. Re-analyzing the problem using contemporaneous ideas of sex and gender as described by Thomas Laquerur, Freitas shows that the castrato was considered especially sexually attractive and potent given his nature as an "in between" on the early modern sexual continuum. In this system, men and women were not fundamentally different, rather men were just of a more perfect form for they had more "vital heat." In this time period folktales did abound of men growing breasts and lactating, and women growing beards and penises. The castration of boys in early puberty or sooner preserved their young voices as well as their pre-pubescent androgyny---which was desirable both to men and women. At this time, femininity was associated with sexual appetite and lack of restraint, so the castrato was seen as especially sexually potent. In this essay, Freitas shifts the emphasis off of the nature of the castrato voice, which had been the focus of much of the previous scholarship, and onto his body. He argues that the popularity of the castrato fundamentally comes not from his voice being high and noble, or light and virtuous, but rather from sexual tastes and epistemologies of the early modern era. From a more zoomed out view, what Freitas is arguing is that the castrati can only be understood if we look at them given their sexual liminality in the early modern period.**
 
@@ -2564,7 +2564,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 >p. 248: Summary of the entry of the castrato into opera and the decline.
 
-##### Freitas, Roger. "The Art of Artlessness or Adelina Patiio Teaches Us How to be Natural."   
+### Freitas, Roger. "The Art of Artlessness or Adelina Patiio Teaches Us How to be Natural."   
 
 213: The artistic concept of the "natural" and its diversity.  
 
@@ -2593,7 +2593,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 237: Femininty.  
 
 
-##### Furman, Nelly. _Georges Bizet's Carmen._ Oxford: Oxford University Press, 2020.  
+### Furman, Nelly. _Georges Bizet's Carmen._ Oxford: Oxford University Press, 2020.  
 
 1: The history and popularity of fiction depicting Carmen.  
 
@@ -2627,10 +2627,10 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 
 
-#### G
+## G
 
 
-##### Garcia, Luis-Manuel. 2015. “Beats, Flesh, and Grain: Sonic Tactility and Affect in Electronic Dance Music.” _Sound Studies_ 1 (1): 59–76.
+### Garcia, Luis-Manuel. 2015. “Beats, Flesh, and Grain: Sonic Tactility and Affect in Electronic Dance Music.” _Sound Studies_ 1 (1): 59–76.
 
 > p. 59: Feelings as multi-modal
 
@@ -2653,7 +2653,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 
 
-##### Garcia, Luis-Manuel. 2020. "Feeling the Vibe: Sound, Vibration, and Affective Attunement in Electronic Dance Music Scenes." _Ethnomusicology Forum_ 0 (0): 1–19.
+### Garcia, Luis-Manuel. 2020. "Feeling the Vibe: Sound, Vibration, and Affective Attunement in Electronic Dance Music Scenes." _Ethnomusicology Forum_ 0 (0): 1–19.
 
 > **This article seeks to move anthropology beyond culture by bringing affect theory into conversation with ethnomusicology. Using dance music communities as case studies and members as interlocutors, this paper analyzes the ways that affect are tied up in "bass" "vibe" and the collective effervescence of the dance floor. The authors suggest an "affective musicology" which studies how music interacts with actors in a culture and how they make sense of sonic events.**
 
@@ -2690,14 +2690,14 @@ xxiii: violence as motivated by culturally informed varients of universal social
 > p. 15: Affective musicology: how music "happens" (her words, passive voice much?) to actors in a culture and how they make sense of sonic events.
 
 
-##### Gardner, Edward Foote. _Popular Songs of the 20th Century: Chart Detail & Encyclopedia, 1900-1949_. St. Paul: Paragon House, 2000.  
+### Gardner, Edward Foote. _Popular Songs of the 20th Century: Chart Detail & Encyclopedia, 1900-1949_. St. Paul: Paragon House, 2000.  
 
 I read on wikipedia that this book looks at borrowing from Madame Butterfly in "Poor Butterfly."
 
 
-##### Geurts, Kathryn Linn. 2003. “Is There a Sixth Sense?” _In Culture and the Senses: Bodily Ways of Knowing in an African Community_, 3–19. Berkeley: University of California Press.
+### Geurts, Kathryn Linn. 2003. “Is There a Sixth Sense?” _In Culture and the Senses: Bodily Ways of Knowing in an African Community_, 3–19. Berkeley: University of California Press.
 
-###### Chapter 1
+#### Chapter 1
 
 > **In this chapter, Geurts analyses the way that different cultures classify the sensorium, focusing mostly on mainstream American culture and the Anlo-Ewe-speaking people of West Africa. She argues that the a culture's sensorium, or "senory order," is not just what it means to be human, but what makes us human. (2-3) Additionally, she argues that the West's classical "five senses" are essentially a folk model.**
 
@@ -2731,7 +2731,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 > p.15: Her argument.
 
-##### Gibson, Don. "The Curricular Standards of NASM and Their Impact of Local Decision Making." _Journal of Music History Pedagogy_ 5, no. 2 (2015): 73-76.  
+### Gibson, Don. "The Curricular Standards of NASM and Their Impact of Local Decision Making." _Journal of Music History Pedagogy_ 5, no. 2 (2015): 73-76.  
 
 73: Nation Association of Schools of Music.  
 
@@ -2741,7 +2741,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
  
 
-##### Glendinning, Robert. "Eros, Agape, and Rhetoric around 1200: Gervase of Melkley's Ars poetica and Gottfried von Strassburg's Tristan." _Speculum_67, no. 4 (1992): 892-925.
+### Glendinning, Robert. "Eros, Agape, and Rhetoric around 1200: Gervase of Melkley's Ars poetica and Gottfried von Strassburg's Tristan." _Speculum_67, no. 4 (1992): 892-925.
 
 892: Oxymorons in Christianity.  
 
@@ -2760,7 +2760,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 897: Eros and agape are interchangible.  
  
 
-##### Gooley, Dana. _The Virtuoso Liszt._ Cambridge: Cambridge University Press, 2004.  
+### Gooley, Dana. _The Virtuoso Liszt._ Cambridge: Cambridge University Press, 2004.  
 
 1: Gooley presents a unified theory of virtuosity.  
 
@@ -2813,7 +2813,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 76: Nice little conclusion/summary.  
 
 
-##### Griffiths, Paul. "Messiaen, Oliver." _Grove Music Online._ 2001.  
+### Griffiths, Paul. "Messiaen, Oliver." _Grove Music Online._ 2001.  
 
 1: Life
 
@@ -2832,7 +2832,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 -: Use of birdsong.  
 
 
-##### Guilbault, Jocelyne. "Discordant Beats of Pleasure Amidst Everyday Violence: The Cultural Work of Party Music in Trinidad." _MUSICultures_ 38, (2011): 7-26.   
+### Guilbault, Jocelyne. "Discordant Beats of Pleasure Amidst Everyday Violence: The Cultural Work of Party Music in Trinidad." _MUSICultures_ 38, (2011): 7-26.   
 
 7: The uptick in violince in the Carribean, including Trinidad and Tobago.  
 
@@ -2875,9 +2875,9 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 23: Lookng forward, what future can soca music be used to cultivate?  
 
 
-#### H
+## H
 
-##### Hamilton, Kenneth. _After the Golden Age: Romantic Pianism and Modern Performance._ Oxford: Oxford University Press, 2008.  
+### Hamilton, Kenneth. _After the Golden Age: Romantic Pianism and Modern Performance._ Oxford: Oxford University Press, 2008.  
 
 101: The Romantic practice of improvising or composing a prelude to a preexisting piece.  
 
@@ -2910,7 +2910,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 138: Reluctance of modern players to reintroduce improvised elements.  
 
 
-##### Hamilton, Kennith. "Do They Still Hate Horowitz? The "Last Romanitc" Revisited." _Journal of Musicological Research._ (2020): 1-26.  
+### Hamilton, Kennith. "Do They Still Hate Horowitz? The "Last Romanitc" Revisited." _Journal of Musicological Research._ (2020): 1-26.  
 
 1: Horowitz, a pianist, was a plarizing figure.  
 
@@ -2961,7 +2961,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 24/25: The author's opinion/proposal.   
 
 
-##### Harper, Paula. "Reveiving, Remixing, Recuperating 'Rebecca Black---Friday'" _American Music_ 38, no. 2 (2020): 217-239.  
+### Harper, Paula. "Reveiving, Remixing, Recuperating 'Rebecca Black---Friday'" _American Music_ 38, no. 2 (2020): 217-239.  
 
 218: Origins, and discovery of "Friday."  
 
@@ -3010,7 +3010,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 
 
-##### Harrison, Daniel. "Suppliment to the Theory of Augmented-Sixth Chords." _Music Theory Spectrum_ 17, no 2 (1995): 170-195.  
+### Harrison, Daniel. "Suppliment to the Theory of Augmented-Sixth Chords." _Music Theory Spectrum_ 17, no 2 (1995): 170-195.  
 
 172: "unlocking +6 chords."  
 
@@ -3025,7 +3025,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 188: +6 as dom.  
 
 
-##### Haritaworn, Jinthana. "Theorizing Queer Inhumanisms: Decolonizing the Non/Human. _GLQ: A Journal of Lesbian and Gay Studies_ 21, no. 2-3 (2015): 210-213.  
+### Haritaworn, Jinthana. "Theorizing Queer Inhumanisms: Decolonizing the Non/Human. _GLQ: A Journal of Lesbian and Gay Studies_ 21, no. 2-3 (2015): 210-213.  
 
 211: Anti-humanism, the invention of "nature."  
 
@@ -3038,7 +3038,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 
 
-##### Henderson, Clayton W. "Minstrelsy, American" from _New Grove_.
+### Henderson, Clayton W. "Minstrelsy, American" from _New Grove_.
 
 > p. 1: Origins of minstrelsy with George Washington Dixon and Daddy Rice.
 
@@ -3052,7 +3052,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 > p. 3: Minstrel song structures.
 
-##### Henriques, Julian. "The Vibrations of Affect and Their Propagation on a Night Out on Kingston's Dancehall Scene." _Body & Society_ 16, no. 1 (2010): 57-89.
+### Henriques, Julian. "The Vibrations of Affect and Their Propagation on a Night Out on Kingston's Dancehall Scene." _Body & Society_ 16, no. 1 (2010): 57-89.
 
 > **This paper is an attempt to find a materialist model for affect which is based in the propagation of vibration rather than the movement or circulation of particles or bodies. As a case study and source of inspiration, Henriques looks at the night life in Kingston Jamaica and the way in which sound is materialized and affect hypothesized. His model, basically, is that affect is transmitted as energy moving toward a more of less stagnant medium, as sound energy moves via compactions and rarefactions.**
 
@@ -3079,7 +3079,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 > 79: William Jones (We a sad because we cry, mad because we strike.)
 
 
-##### Hood, Mantle. _The Ethnomusicologist_. New York: McGraw-Hill, 1971.  
+### Hood, Mantle. _The Ethnomusicologist_. New York: McGraw-Hill, 1971.  
 
 50: Taking dictation with Jaap Kunst.  
 
@@ -3154,11 +3154,11 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
   
 
-##### Hunter, Desmond. "The Implications of Fingering Indications in Virginalist Sources: Some Thoughts for Further Study." _Performance Practice Review_ 5, no.2, article 2 (Fall, 1992): 123-138. [PDFs](file:///home/harlan/Downloads/School%20Downloads/Independant/The%20Implications%20of%20Fingering%20Indications%20in%20Virginalist%20Sources%20.pdf)
+### Hunter, Desmond. "The Implications of Fingering Indications in Virginalist Sources: Some Thoughts for Further Study." _Performance Practice Review_ 5, no.2, article 2 (Fall, 1992): 123-138. [PDFs](file:///home/harlan/Downloads/School%20Downloads/Independant/The%20Implications%20of%20Fingering%20Indications%20in%20Virginalist%20Sources%20.pdf)
 
 >p. 127: Paired fingerings in scalic figuration chart.
 
-##### Hunter, Mary. “Haydn’s London Piano Trios and His Salomon String Quartets: Private vs. Public?” in _Haydn and His World_, ed. Elaine Sisman, 103-130. Princeton: Princeton University Press, 1997.
+### Hunter, Mary. “Haydn’s London Piano Trios and His Salomon String Quartets: Private vs. Public?” in _Haydn and His World_, ed. Elaine Sisman, 103-130. Princeton: Princeton University Press, 1997.
 
 >**In this book chapter, Hunter does away with the hard categories of public and private music and instead focuses on how the interplay of characteristics of chamber and orchestral music are used by Haydn to comment on the relationships between composer and performer. Her argument is that Haydn was living at a time when the relationship between composer, performer, and audience were changing. His pieces demonstrate these changing views by writing in parts which seem "improvisatory."**
 
@@ -3194,7 +3194,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 > p. 127: Structure of the court reflected in Haydn's works.
 
-##### Hunter,Mary. "`To Play as if from the Soul of the Composer:` The Idea of the Performer in Early Romantic Aesthetics." _Journal of the American Musicological Society_ 58, not. 2 (2005): 357-398.  
+### Hunter,Mary. "`To Play as if from the Soul of the Composer:` The Idea of the Performer in Early Romantic Aesthetics." _Journal of the American Musicological Society_ 58, not. 2 (2005): 357-398.  
 
 **Performance in the early Romantic era was more complicated than we often think: 19th century perforamnce practices were about collapsing dualities.**
 
@@ -3219,7 +3219,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 385: Novalis.  
 
 
-##### Hutchinson, Sydney. 2008. “Becoming the Tíguera: The Female Accordionist in Dominican Merengue Típico.” _The World of Music_ 50 (3): 37–56.  
+### Hutchinson, Sydney. 2008. “Becoming the Tíguera: The Female Accordionist in Dominican Merengue Típico.” _The World of Music_ 50 (3): 37–56.  
 
 37: Women accordianists in Dominican _Merengue típico_ style of the northern Cibao region.  
 
@@ -3255,12 +3255,12 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 51: Flexibility in gender roles.  
 
-#### I
+## I
 
   
-##### Illich, Ivan. _Tools for Convivality_. Fontana/Collins, 1975.  
+### Illich, Ivan. _Tools for Convivality_. Fontana/Collins, 1975.  
 
-###### Introduction  
+#### Introduction  
 
 9: Avoiding industrialization.  
 
@@ -3270,7 +3270,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 -: More discussion of this term.  
 
-##### Chapter 1: Two Watersheds    
+### Chapter 1: Two Watersheds    
 
 14: History of medicine, simplicity of tools, and the professionalization of the medical field.   
 
@@ -3284,7 +3284,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 22: Science as solving a crisis by escalation.  
 
-###### Chapter 2: Convivial Reconstruction
+#### Chapter 2: Convivial Reconstruction
 
 22: Inverting the structure of tool use.  
 
@@ -3317,7 +3317,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 -: The structure of tools.  
 
 
-##### Ishii, Hiroshi. _Making Digital Tangible: The Battle Against the Pixel Empire._ Talk at the University of Chicago, 11/30/20.
+### Ishii, Hiroshi. _Making Digital Tangible: The Battle Against the Pixel Empire._ Talk at the University of Chicago, 11/30/20.
 
 ClearBoard, 1992.  
 
@@ -3340,7 +3340,7 @@ Hygromorphic materials.
 Materials that grow, dance.  
 
 
-##### Iverson, Jennifer. "TR-808: Race, Groove, and Drum Machines."_University of chicago Department of Music_ Febuary 10, 2021.  
+### Iverson, Jennifer. "TR-808: Race, Groove, and Drum Machines."_University of chicago Department of Music_ Febuary 10, 2021.  
 
 Yellow Magic Orchestra.  
 
@@ -3351,7 +3351,7 @@ Musical groove and feel in drum machine music.
 frikaa Bombaataa's "Planet Rock," 1981.  
 
 
-##### Iyer, Vijay. 2002. “Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music” _Music Perception: An Interdisciplinary Journal_ 19 (3): 387–414.  
+### Iyer, Vijay. 2002. “Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music” _Music Perception: An Interdisciplinary Journal_ 19 (3): 387–414.  
 
 387: Problematizing the linguistic model of music cognition.  
 
@@ -3400,9 +3400,9 @@ frikaa Bombaataa's "Planet Rock," 1981.
 409: Ahmad Jamal and swing inversion.  
 
 
-#### J
+## J
 
-##### Jackson, Michael. "Knowledge of the Body." _Man,_ New Series 18, no. 2 (June 1983): 327-345.
+### Jackson, Michael. "Knowledge of the Body." _Man,_ New Series 18, no. 2 (June 1983): 327-345.
 
 > **In this article, Jackson writes an impressive intervention into the way that anthropologists and ethnographers write about the body and culture. Based on his field work with the Kuranko in Sierra Leone, Jackson argues that the body is not an object of society, simply absorbing "techniques," but rather an active participant in the culture. In his words, culture is "practical activity in the man-made environment." To Jackson, culture is created in the body-mind-habitus. The initiation rite of the Kuranko is akin to a Durkheimian koraboree in that it recreates and perpetuates society. Among the Kuranko, the transgressions of, for example, women dressed as men allows one to see the other though the mimetic faculty of the body thus bringing together a reciprocity of viewpoints which continue the social order.**
 
@@ -3436,7 +3436,7 @@ frikaa Bombaataa's "Planet Rock," 1981.
 
 > p. 340: Anecdote on fire making and discussion of participant observation as an end in itself.
 
-##### Jackson, Philip T. "Two Descendants of Josquin's 'Hercules' Mass." _Music & Letters_ 59, no. 2 (1978): 188-205.  
+### Jackson, Philip T. "Two Descendants of Josquin's 'Hercules' Mass." _Music & Letters_ 59, no. 2 (1978): 188-205.  
 
 **I admit that I did not read this all that closely, bu there wasn't a whole lot here from me on sogetto cavato for my project on Luython.**
 
@@ -3447,7 +3447,7 @@ frikaa Bombaataa's "Planet Rock," 1981.
 
 
 
-##### Jackson, Zakiyyah Iman. "Thoerizing Queer Inhumanisms: Outer Worlds: The persistance of Race in Movement "Beyond the Human." _GLQ: A Journal of Lesbian and Gay Studies_ 21, no. 2-3 (2015): 215-218.  
+### Jackson, Zakiyyah Iman. "Thoerizing Queer Inhumanisms: Outer Worlds: The persistance of Race in Movement "Beyond the Human." _GLQ: A Journal of Lesbian and Gay Studies_ 21, no. 2-3 (2015): 215-218.  
 
 215: Cautions against moving "beyond the human."  
 
@@ -3455,7 +3455,7 @@ frikaa Bombaataa's "Planet Rock," 1981.
 
 218: "Anamorphic view of humanity."  
 
-##### Jairazbhoy, Nazir A. "The 'Objective' and Subjective View in Music Transcription." _Ethnomusicology_ 21, no 2 (1977), 263-273.  
+### Jairazbhoy, Nazir A. "The 'Objective' and Subjective View in Music Transcription." _Ethnomusicology_ 21, no 2 (1977), 263-273.  
 
 **The promises and drawbacks of automatic trasncription.**
 
@@ -3468,12 +3468,12 @@ frikaa Bombaataa's "Planet Rock," 1981.
 267: Discrimination of souds from noise.  
 
 
-##### Jenson, Richard d'A. "Birdsong and the Immitation of Birdsong in the Music of the Middle Ages and the Renaissance." _Current Musicology_ 40 (1985): 50-65.
+### Jenson, Richard d'A. "Birdsong and the Immitation of Birdsong in the Music of the Middle Ages and the Renaissance." _Current Musicology_ 40 (1985): 50-65.
 
 I want to read this, but I haven't.  
 
 
-##### Jones, Jeannette Dibernardo. "Imagined Hearing: Music-Making in Deaf Culture." In _The Oxford Handbook of Music and Disability Studies,_ edited by Neil William Lerner, Jopseph Nathan Strauss, Blake Howe, and Stephaie Jense-Moulton, 54-72. Oxford: Oxford University Press, 2016.  
+### Jones, Jeannette Dibernardo. "Imagined Hearing: Music-Making in Deaf Culture." In _The Oxford Handbook of Music and Disability Studies,_ edited by Neil William Lerner, Jopseph Nathan Strauss, Blake Howe, and Stephaie Jense-Moulton, 54-72. Oxford: Oxford University Press, 2016.  
 
 54: Protest against non-deaf president at Gallaudet University.  
 
@@ -3504,7 +3504,7 @@ I want to read this, but I haven't.
 
 
 
-##### Johnson, Imani Kai. 2012. “Music Meant to Make You Move: Considering the Aural Kinesthetic.” _Sounding Out!_ (blog). June 18, 2012. [Link](https://soundstudiesblog.com/2012/06/18/music-meant-to-make-you-move-considering-the-aural-kinesthetic/)
+### Johnson, Imani Kai. 2012. “Music Meant to Make You Move: Considering the Aural Kinesthetic.” _Sounding Out!_ (blog). June 18, 2012. [Link](https://soundstudiesblog.com/2012/06/18/music-meant-to-make-you-move-considering-the-aural-kinesthetic/)
 
 >**Pretty short piece, not a whole lot to work off of. She does, however, introduce the intriguing concept of the "aural-kinesthetic." In my own words, the dance reflex.**
 
@@ -3519,7 +3519,7 @@ I want to read this, but I haven't.
 > Discussion of how hard it is to capture the aural-kinesthetic in prose or recordings.
 
 
-##### Johnson, Nicholas, "Carolus Luython's _Missa super Basim: Caesar Vive_ and Hermetic Astrology in Ealy Seventeenth-Century Prague." _Musica Disciplina_ 56, (2011): 419-462.
+### Johnson, Nicholas, "Carolus Luython's _Missa super Basim: Caesar Vive_ and Hermetic Astrology in Ealy Seventeenth-Century Prague." _Musica Disciplina_ 56, (2011): 419-462.
 
 >**In the early modern worldview, _music_ was a much broader category than it is to us moderns. _Music_ encompased elements of mathematics, astronomy, and human physiology. Scientists at this time, in this case Johannes Kepler, found it meaningful to relate the planetary aspects each to a musical interval. This paper looks at how Carolus Luython's _Missa super Basim: Caesar Vive_  seeks to aid his impoverished and beleaguered patron, Rudolf II, by writing a Mass which emulates his natal horoscope---the music of instruments being the human controlled analogue of the music of the spheres and able to create an actual effect on humanity.**
 
@@ -3574,7 +3574,7 @@ I want to read this, but I haven't.
 454: Why this mass was written.  
 
 
-##### Jones, Alisha. "'I Am Delivert!': The Pentecostal Altar Call and Vocalizing Black Men's Testimonies of Deliverance from Homosexuality." Online lecture presented by Washington University in St. Louis, October 9, 2020.
+### Jones, Alisha. "'I Am Delivert!': The Pentecostal Altar Call and Vocalizing Black Men's Testimonies of Deliverance from Homosexuality." Online lecture presented by Washington University in St. Louis, October 9, 2020.
 
 > **She reads these acts as performances (which maybe we don't need to take seriously.**
 
@@ -3610,7 +3610,7 @@ I want to read this, but I haven't.
 
 > Using the term "biblical literalist," not the derogatory "fundamentalist."
 
-##### Jones, Alisha Lola. 2020. “Pole Dancing for Jesus." In _Flaming?: The Peculiar Theopolitics of Fire and Desire in Black Male Gospel Performance_, 87–114. Oxford University Press.  
+### Jones, Alisha Lola. 2020. “Pole Dancing for Jesus." In _Flaming?: The Peculiar Theopolitics of Fire and Desire in Black Male Gospel Performance_, 87–114. Oxford University Press.  
 
 88: "Jungle Cat" the male pole dancer.  
 
@@ -3638,9 +3638,9 @@ I want to read this, but I haven't.
 
 
 
-#### K
+## K
 
-##### Kapchan, Deborah. "Body" in _Keywords in Sound,_ edited by David Novak and Matt Sakakeeny, 33-43. Durham: Duke University Press Books, 2015. [PDF](file:///home/harlan/Downloads/School%20Downloads/MuiscandBody/Week1/Kapchan_soundbodyinkeywords%20copy.pdf)
+### Kapchan, Deborah. "Body" in _Keywords in Sound,_ edited by David Novak and Matt Sakakeeny, 33-43. Durham: Duke University Press Books, 2015. [PDF](file:///home/harlan/Downloads/School%20Downloads/MuiscandBody/Week1/Kapchan_soundbodyinkeywords%20copy.pdf)
 
 >**In this chapter, Kapchan use the case study of Sufi 'sama to define the "sound body"---her concept through which she analyzes the way that "the body" listens to, is affected by, and affects the sonic environment.**
 
@@ -3676,7 +3676,7 @@ I want to read this, but I haven't.
 > p. 42: "Sound knowledge," or in other words, sound as a way of knowing  
 
 
-##### Kawabata, Maiko. "The Aura of Stradivari's Violins." _As Parnassum_ 12, no 3 (2014): 61-x.  
+### Kawabata, Maiko. "The Aura of Stradivari's Violins." _As Parnassum_ 12, no 3 (2014): 61-x.  
 
 61: Walter Benjamin, authenticity, aura, and Stradavari violins.  
 
@@ -3713,7 +3713,7 @@ I want to read this, but I haven't.
 -: Adorno on the "cult of the master violins."  
 
 
-##### Kedhar, Anusha. "'Hands Up! Dont' Shoot!': Gesture, Choreography, and Protest in Ferguson." _Feminist Wire_ October 6, 2014.
+### Kedhar, Anusha. "'Hands Up! Dont' Shoot!': Gesture, Choreography, and Protest in Ferguson." _Feminist Wire_ October 6, 2014.
 
 > "Hands up! Don't shoot."  
 
@@ -3729,7 +3729,7 @@ I want to read this, but I haven't.
 
 <a name= "Kerman, 1985"></a>
 
-#####  Kerman, Joseph. _Contemplating Music: Challenges to Musicology_. Cambridge: Harvard University Press, 1985. [PDFs](/home/harlan/Downloads/School Downloads/IntroMusicology/Week1)
+###  Kerman, Joseph. _Contemplating Music: Challenges to Musicology_. Cambridge: Harvard University Press, 1985. [PDFs](/home/harlan/Downloads/School Downloads/IntroMusicology/Week1)
 
 > **Should Musicologists focus on broad (and often metaphysical) questions of the field, or specifics? p.12**
 
@@ -3775,7 +3775,7 @@ I want to read this, but I haven't.
 
 <a name= "Kerman, Analysis"></a>
 
-##### Kerman, Joseph. "How We Got into Analysis, and How to Get out." _Critical Inquiry_ 7, no. 2 (Winter 1980) 311-331.
+### Kerman, Joseph. "How We Got into Analysis, and How to Get out." _Critical Inquiry_ 7, no. 2 (Winter 1980) 311-331.
 
 >See [Duane, week 4](#Duane, R4)
 
@@ -3800,7 +3800,7 @@ I want to read this, but I haven't.
 > p. 325: What Schenker misses.
 
 
-##### Kernodle, Tammy L. "Work the Works: The Role of African-American Women in the Development of Contemporary Gospel." _Black Music Research Journal_ 26, no. 1 (2006): 89-109.  
+### Kernodle, Tammy L. "Work the Works: The Role of African-American Women in the Development of Contemporary Gospel." _Black Music Research Journal_ 26, no. 1 (2006): 89-109.  
 
 89: Expanded popularity of gospel.  
 
@@ -3823,7 +3823,7 @@ I want to read this, but I haven't.
 -: The Winans.  
 
 
-##### Kirkman, Andrew. "The Invention of the Cyclic Mass." _Journal of the American Musicological Society_ 54, no. 1 (Spring 2001): 1-47.
+### Kirkman, Andrew. "The Invention of the Cyclic Mass." _Journal of the American Musicological Society_ 54, no. 1 (Spring 2001): 1-47.
 
 
 > **In this article, Kirkman makes a critical intervention into the commonly held belief of the historical importance of the "cyclic Mass" as a watershed moment in the history of western music and as a marker of the arrival of a Renaissance of music. This idea is expressed by Manfred Bukofzer, who Kirkman quotes to begin this article. In this paper Kirkman looks for the origins of this perception and compare them to contemporaneous conceptions of music. To find track these conceptions Kirkman begins with Tinctoris in the 1470s for a contemporaneous view and compares him to the enlightenment philosophers and their Hegelian ideologies of organicism and liberation.**
@@ -3874,9 +3874,9 @@ I want to read this, but I haven't.
 
 > p. 35: Critique of the idea that Renaissance composers strove for "unity" in their masses.
 
-##### Kirkman, Andrew. _The Cultural Life of the Early Polyphonic Mass: Medieval Context to Modern Revival._ Cambridge: Cambridge University Press: 2010.  
+### Kirkman, Andrew. _The Cultural Life of the Early Polyphonic Mass: Medieval Context to Modern Revival._ Cambridge: Cambridge University Press: 2010.  
 
-###### Chapter 6: The profane made sacred: outside texts and music in the Mass.  
+#### Chapter 6: The profane made sacred: outside texts and music in the Mass.  
 
 135: Maria Rika Maniates, "melos:" the idea that you hear the original words in the melody when the words have been changed.     
 
@@ -3894,7 +3894,7 @@ I want to read this, but I haven't.
 
 
 
-##### Kirkman, Andrew. “A Succinct History of the Polyphonic Mass,” in Jesse Rod and Anna Maria Busse Berger eds., The Cambridge History of Fifteenth-Century Music. Cambridge: Cambridge University Press, 2015.
+### Kirkman, Andrew. “A Succinct History of the Polyphonic Mass,” in Jesse Rod and Anna Maria Busse Berger eds., The Cambridge History of Fifteenth-Century Music. Cambridge: Cambridge University Press, 2015.
 
 > p. 665: Cantus firmus mass: why it happened when it did.
 
@@ -3934,7 +3934,7 @@ I want to read this, but I haven't.
 
 > What again is isorhythm? (695)
 
-##### Koen, Benjamin D. 2005. “Medical Ethnomusicology in the Pamir Mountains: Music and Prayer in Healing.” Ethnomusicology 49 (2): 287–311.  
+### Koen, Benjamin D. 2005. “Medical Ethnomusicology in the Pamir Mountains: Music and Prayer in Healing.” Ethnomusicology 49 (2): 287–311.  
 
 287: Medical musicology, introduction to.  
 
@@ -3967,7 +3967,7 @@ I want to read this, but I haven't.
 306: Meter of the music.  
 
 
-##### Koetting, James. "Analysis and Notation of West African Drum Ensemble Music." _Selected Reports in Ethomusicology_ 1, no. 3 (1970): 116-146.  
+### Koetting, James. "Analysis and Notation of West African Drum Ensemble Music." _Selected Reports in Ethomusicology_ 1, no. 3 (1970): 116-146.  
 
 116: Similarities between wlwments of western and African music.  
 
@@ -3994,7 +3994,7 @@ I want to read this, but I haven't.
 140: the remaining pages are an appendix of scores.  
 
 
-##### Kraidy, Ute Sartorius. "Sunny Days on _Sesame Street?_ Multiculturalism and Resistance Postmodernism." _Journal of Communication Inquiry_ 26, no. 1 (2002): 9-25.
+### Kraidy, Ute Sartorius. "Sunny Days on _Sesame Street?_ Multiculturalism and Resistance Postmodernism." _Journal of Communication Inquiry_ 26, no. 1 (2002): 9-25.
 
 9: Thesis.  
 
@@ -4039,7 +4039,7 @@ I want to read this, but I haven't.
 
 
  
-##### Kubik, Gerhard. "Composition Techniques in Kiganda Xylophone Music." _African Music Society Journal_ 4, no. 3 (1969): 22-72.  
+### Kubik, Gerhard. "Composition Techniques in Kiganda Xylophone Music." _African Music Society Journal_ 4, no. 3 (1969): 22-72.  
 
 22: Thesis.  
 
@@ -4068,7 +4068,7 @@ I want to read this, but I haven't.
 60: The remaining pages are transcriptions of pieces.  
 
 
-##### Kubik, Gerhad. _Theory of African Music,_ vol 1. Chicago: University of Chicago Press, 1994.
+### Kubik, Gerhad. _Theory of African Music,_ vol 1. Chicago: University of Chicago Press, 1994.
 
 47: "Dimple-based" pottery in Lake Victoria area.  
 
@@ -4145,7 +4145,7 @@ I want to read this, but I haven't.
 82: Appendix.  
 
   
-##### Kuppers, Petra. "Dancing Disabled: Phenomenology and Embodied Politics." In _The Oxford Handbook of Music and Disability Studies,_ edited by Neil William Lerner, Jopseph Nathan Strauss, Blake Howe, and Stephaie Jense-Moulton, 267-281. Oxford: Oxford University Press, 2016. 
+### Kuppers, Petra. "Dancing Disabled: Phenomenology and Embodied Politics." In _The Oxford Handbook of Music and Disability Studies,_ edited by Neil William Lerner, Jopseph Nathan Strauss, Blake Howe, and Stephaie Jense-Moulton, 267-281. Oxford: Oxford University Press, 2016. 
 
 267: Marion Young: women in a sexist society are physically handicapped.  
 
@@ -4174,12 +4174,12 @@ I want to read this, but I haven't.
 
 
 
-##### Kurtz, Esther. "Sound, Body, and Music." Class taught at Washington University in Saint Louis, Fall 2020.
-###### Week 1
+### Kurtz, Esther. "Sound, Body, and Music." Class taught at Washington University in Saint Louis, Fall 2020.
+#### Week 1
 
 > It's uncommon to study both the "music and the dance," i.e. the sounds and the body simultaneously. This class is about undoing this unnatural separation.
 
-###### Week 2
+#### Week 2
 
 > Percian semiotics
 
@@ -4191,13 +4191,13 @@ I want to read this, but I haven't.
 
 > Is there anything which is pre-cultural?
 
-###### Week 3
+#### Week 3
 
 > Three review articles
 
 > Embodied spaces
 
-###### Week 4
+#### Week 4
 
 > Suggestions of motion.
 
@@ -4213,7 +4213,7 @@ I want to read this, but I haven't.
 
 > Kinds of Schafferian grain
 
-###### Week 5:
+#### Week 5:
 
 > **Tuesday**
 
@@ -4229,13 +4229,13 @@ I want to read this, but I haven't.
 
 Capoeira workshop.
 
-###### Week 7: 
+#### Week 7: 
 
 > Is Dance Dance Revolution interactive or reactive?
     
 > Prorioception references multiple senses.
 
-###### Week 8:
+#### Week 8:
 
 **Tuesday**  
 
@@ -4251,7 +4251,7 @@ Discussion of film _Rising Sun_.
 
 Butch Taiko and female masculinities.  
 
-###### Week 9:  
+#### Week 9:  
 
 **Thursday**  
 
@@ -4261,13 +4261,13 @@ What is the saying about the poetics of Kuduro?
 
 She is saying that it is hard to split the world into the able bodied and the disabled.  
 
-###### Week 10:  
+#### Week 10:  
 
 Presentation by Andrew Tubbs on the deaf, sign language, and Eugenics.  
 
 Importance of ASL in the formation of the Deaf community.  
 
-###### Week 12:
+#### Week 12:
 
 Vocabulary of gender.  
 
@@ -4284,9 +4284,9 @@ Politics, Foucalt.
 
 
 
-#### L
+## L
 
-##### Lang, James M. "Should We Stop Grading Class Participation?" _The Chronicle of Higher Education_ April 9, 2021.  
+### Lang, James M. "Should We Stop Grading Class Participation?" _The Chronicle of Higher Education_ April 9, 2021.  
 
 2/9: How he used to use participation as a grade boost.  
 
@@ -4299,7 +4299,7 @@ Politics, Foucalt.
 6/9: Preparing students to participate.  
 
 
-##### Langeveld, Lau, René van Egmond, Reinier Jansen, and Elif Özcan. Chap. "Intentional Product Sounds" in _Product Sound Design: Intentional and Consequential Sounds._ 2013.
+### Langeveld, Lau, René van Egmond, Reinier Jansen, and Elif Özcan. Chap. "Intentional Product Sounds" in _Product Sound Design: Intentional and Consequential Sounds._ 2013.
 
 47: Intro: The subconscious rolse of sounds in product interactions.  
 
@@ -4356,7 +4356,7 @@ Politics, Foucalt.
 67: Toothbrush sound analysis case-study.  
 
 
-##### Leistra-Jones, Karen. "Staging Authenticity: Joachim, Brahms and the Politics of _Werktreue_ Performance." _Journal of the American Musicological Society_ 66, no. 2 (2013):397-436.  
+### Leistra-Jones, Karen. "Staging Authenticity: Joachim, Brahms and the Politics of _Werktreue_ Performance." _Journal of the American Musicological Society_ 66, no. 2 (2013):397-436.  
 
 397: Amy Fay in Weimar, 1873 to study with Franz Listz.  
 
@@ -4411,7 +4411,7 @@ Politics, Foucalt.
 429: Conclusion.  
 
   
-##### Levy, Janet M. "Covert and Casual Values in REcent Musical Writings." _The Journal of Musicology_ 5, no. 1 (Winter 1987): 3-27.
+### Levy, Janet M. "Covert and Casual Values in REcent Musical Writings." _The Journal of Musicology_ 5, no. 1 (Winter 1987): 3-27.
 
 > **In this paper, Levy criticizes the way that writings on music are often full of implicit value judgments.**
 
@@ -4434,7 +4434,7 @@ Politics, Foucalt.
 > p. 24: Convention and originality.
 
 
-##### Lewis, George E. "Purposive Patterning: Jeff Donaldson, Muhal Richard Abrams, and the Multidominance of Consciousness." _Lenox Avenue_ 5, (1999): 63-69.  
+### Lewis, George E. "Purposive Patterning: Jeff Donaldson, Muhal Richard Abrams, and the Multidominance of Consciousness." _Lenox Avenue_ 5, (1999): 63-69.  
 
 63: Assosciation of Jeff Donaldson and Muhal Richard Abrams.  
 
@@ -4454,9 +4454,9 @@ Politics, Foucalt.
 
 69: "Double consciousness" of W.E.B Du Bois.  
 
-##### Lewis, George E. _A Power Stronger Than Itself: The AACM and American Experimental Music._ Chicago: University of Chicago Press, 2008.
+### Lewis, George E. _A Power Stronger Than Itself: The AACM and American Experimental Music._ Chicago: University of Chicago Press, 2008.
 
-###### Chapter 11: Into the Third Decade.  
+#### Chapter 11: Into the Third Decade.  
 
 439: The AACM in the 1980s.  
 
@@ -4485,7 +4485,7 @@ Politics, Foucalt.
 466: Maia.  
 
 
-##### Lippman, Edward A. "What Should Musicology Be? Letter from the Editor." _Current Musicology_ 1, no 1 (1965): 55-60.  
+### Lippman, Edward A. "What Should Musicology Be? Letter from the Editor." _Current Musicology_ 1, no 1 (1965): 55-60.  
 
 55: Harrison's summary of the state of musicology in the U.S.  
 
@@ -4496,11 +4496,11 @@ Politics, Foucalt.
 58: Problematizing musical education in the U.S.  
 
 
-##### Liszt, Franz. _Reminiscences de Don Juan: Oper von  Mozart._ 1843.  
+### Liszt, Franz. _Reminiscences de Don Juan: Oper von  Mozart._ 1843.  
 
 mm. 1: Liszt begins with the theme of the statue.  
 
-##### Liszt, Franz. Widmung.  
+### Liszt, Franz. Widmung.  
 
 mm. 14: Grace note c to db in original is written as non editorial notes. The second note is just slightly truncated.   
 
@@ -4517,7 +4517,7 @@ mm. 44: Retransition (i.e. transition back to the A section.) Right hand arpeggi
 mm. 58: Page of outro material, he plays material from both the A and B section.  
 
 
-##### Lock, Graham. "What I call a Sound: Anthony Braxton's Synaesthetic Ideal and Notations for Improvisers." _Critical Studies in Improvisation_ 4, no 1 (2008): 1-23.  
+### Lock, Graham. "What I call a Sound: Anthony Braxton's Synaesthetic Ideal and Notations for Improvisers." _Critical Studies in Improvisation_ 4, no 1 (2008): 1-23.  
 
 1: A look at Braxton's composition notes.  
 
@@ -4533,9 +4533,9 @@ mm. 58: Page of outro material, he plays material from both the A and B section.
 
 9: Some Braxton graphic scores.  
 
-##### Locke, Ralph P. "Spanish Local Color in Bizet's Carmen: Unexplored Borrowings and Transformations." In _Music, Theater, and Cultural Transfer: Paris 1830-1914._ Edited by Annegret Fauser and Mark Everist. Chicago: University of Chicago Press, 2009.   
+### Locke, Ralph P. "Spanish Local Color in Bizet's Carmen: Unexplored Borrowings and Transformations." In _Music, Theater, and Cultural Transfer: Paris 1830-1914._ Edited by Annegret Fauser and Mark Everist. Chicago: University of Chicago Press, 2009.   
 
-###### Chapter 14: Spanish Local Color in Bizet's _Carmen._  
+#### Chapter 14: Spanish Local Color in Bizet's _Carmen._  
 
 316: _Carmen's_ rough initial reception.  
 
@@ -4584,7 +4584,7 @@ mm. 58: Page of outro material, he plays material from both the A and B section.
 358: The scene in _Carmen_ where this song is borrowed from.  
 
 
-##### Long, Michael. "Symbol and Ritual in Josquin's 'Missa Di Dadi.'" _Journal of the American Musicological Society_ 42, no. 1 (1989): 1-22.  
+### Long, Michael. "Symbol and Ritual in Josquin's 'Missa Di Dadi.'" _Journal of the American Musicological Society_ 42, no. 1 (1989): 1-22.  
 
 This paper first points out that, through the example of _femme desconfortée_, that the fifteenth century was full of religious imagery in secular places, and that elements like this chanson or dice in this case, could become "sacralized." Long goes to analyze how Josquin used dice in his _Missa Di dadi_ as an alegorical tool for symbolizing various liturgical aspects, as a tool for indicating the canon proportions of the tenor c.f. vs the original, and as a playful bit of "sacrelization" of an toy which has otherwise been associated with sin. 
 
@@ -4611,7 +4611,7 @@ This paper first points out that, through the example of _femme desconfortée_, 
 20: Comparing these two masses in their representations of different conventions of religious practices.  
 
 
-##### Low, Setha M. "Anthropological Theories of Body, Space, and Culture." _Space and Culture_ 6, no. 1 (February 2003): 9-18.
+### Low, Setha M. "Anthropological Theories of Body, Space, and Culture." _Space and Culture_ 6, no. 1 (February 2003): 9-18.
 
 > **This paper gives a history of anthropological theories of body, space, and culture.**
 
@@ -4631,7 +4631,7 @@ This paper first points out that, through the example of _femme desconfortée_, 
 
 > p. 15: Sitting and culture.
 
-##### Lowe, Melanie. "Rethinking the Undergraduate Music History Sequence in the Information Age." _Journal of Music History Pedagogy_ 5, no. 2 (2015): 65–71.  
+### Lowe, Melanie. "Rethinking the Undergraduate Music History Sequence in the Information Age." _Journal of Music History Pedagogy_ 5, no. 2 (2015): 65–71.  
 
 65: Vamderbuilt and some problems with the undergraduate introduction to music history.  
 
@@ -4648,9 +4648,9 @@ This paper first points out that, through the example of _femme desconfortée_, 
 71: Focusing on the future. 
 
 
-#### M
+## M
 
-##### Maler, Anabel. "Musical Expression Among Deaf and Hearing Song Singers." In _The Oxford Handbook of Music and Disability Studies,_ edited by Neil William Lerner, Jopseph Nathan Strauss, Blake Howe, and Stephaie Jense-Moulton, 73-91. Oxford: Oxford University Press, 2016.   
+### Maler, Anabel. "Musical Expression Among Deaf and Hearing Song Singers." In _The Oxford Handbook of Music and Disability Studies,_ edited by Neil William Lerner, Jopseph Nathan Strauss, Blake Howe, and Stephaie Jense-Moulton, 73-91. Oxford: Oxford University Press, 2016.   
 
 Beginning from the generaly held, erronous cultural assumption that deafness is the antithesis to music making, Anabel Maler writes to deafness as a source of musical ability. Defness, she argues, does not preclude one from musical experience and production, but rather engenders musical ability. Maler describes a four part typology of the four primary types of song-signing perfromance: Live music interpretation services, live performances by song-signing artists, videos featuring original compositions, and those faturing the performance of "covers" or translations of musical works from outside of the deaf community. Maler shows how the styles among hearing and deaf song-signers are divergent. Hearing signers tend to see their performances as accesibilty tools to allow the deaf to appreciate music. Deaf signers, on the other hand, tend to see the visual performance as a space to create a visual and kinetic form of music.
 
@@ -4687,7 +4687,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 88: Conclusion, and the hearing-centric persepctive.
 
 
-##### Manuel, Peter. "Improvisation in Latin Dance Music: History and Style." In _In the Course of Performance: Studies in the World of Musical Improvisation,_ edited by Bruno Nettl with Medlinda Russel, 127-147. Chicago, University of Chicago Press.    
+### Manuel, Peter. "Improvisation in Latin Dance Music: History and Style." In _In the Course of Performance: Studies in the World of Musical Improvisation,_ edited by Bruno Nettl with Medlinda Russel, 127-147. Chicago, University of Chicago Press.    
 
 127: The lack of research on improviation in Latin music.  
 
@@ -4744,7 +4744,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 144: An abstraction of the destinctive features of Latin rhythm.  
 
-##### Marsden, Alan. "Schenkerian Analysis by Computer: A Proof of Concept." _Journal of New Music Research_ 39, no. 3 (2010): 269-289.
+### Marsden, Alan. "Schenkerian Analysis by Computer: A Proof of Concept." _Journal of New Music Research_ 39, no. 3 (2010): 269-289.
 
 > 269: Doing analyses to music analogous to those of computational linguistics.
 
@@ -4752,7 +4752,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 > 285: The necessity and mechanics of "pruning" "bad" analyses produced by the program.
 
-##### Mauss, Marcel. 1973\[1935\]. “Techniques of the Body.” Translated by Ben Brewster. _Economy and Society_ 2 (1): 70–87.
+### Mauss, Marcel. 1973\[1935\]. “Techniques of the Body.” Translated by Ben Brewster. _Economy and Society_ 2 (1): 70–87.
 
 > **In this essay, Mauss looks at the body as an object of culture. This term "techniques of the body" simply refers to the way that people in different societies learn to use their bodies. He gives the example that Price Curt Sachs joked that he could spot the gait of a Frenchman or Englishman from some distance. In this piece he spends a good bit of time listing and classifying different techniques of the body and ultimately concludes that it is thanks to society that these ways of using the body exist, and not vice versa.**
 
@@ -4777,7 +4777,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 > p. 87: Short comment on mystic techniques.
 
 
-##### Meconi, Honey. "Art-Song Reworkings: An Overview." _Journal of the Royal Musical Association_ 119, no. 1 (1994): 1-42
+### Meconi, Honey. "Art-Song Reworkings: An Overview." _Journal of the Royal Musical Association_ 119, no. 1 (1994): 1-42
  
 > **This article is a survey of the unique late fifteenth- and early sixteenth-century phenomena of "art song reworkings" in which portions of secular songs were quoted, borrowed, or otherwise used in the creation of new works. Instead of classifying works based off of their treatment of the original material being borrowed (i.e paraphrase, parody, etc.) Meconi focuses on composition families by tracking the original material itself.**
 
@@ -4805,9 +4805,9 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 > p. 25-42: The remainder of this article is appendix.
 
-##### Meconi, Honey. "Early Musical Borrowing". In _Criticism and Analysis of Early Music_ edited by Honey Meconi. New York: Routledge, 2004.
+### Meconi, Honey. "Early Musical Borrowing". In _Criticism and Analysis of Early Music_ edited by Honey Meconi. New York: Routledge, 2004.
 
-###### Intoduction: 
+#### Intoduction: 
 
 > **This chapter is an overview of the book contents and a brief look at the question of borrowing in renaissance music. There are two kinds of borrowing: parody and imitation. There is also a second dichotomy of covert vs overt borrowing. The renaissance is characterized by overt borrowing and the 19th C. by covert. "Cantus firmus" is a bit of a sloppy term, and some writers prefer "cantus prius factus" to refer to a borrowed melody. At the end of the day, though, what would really be useful is to have an aural canon of renaissance music like we have of standard practice repertoire. Most of the music from this era is still silent on the page. If we could hear it, and be familiar with a body of work, it would be much easier to spot borrowing just by listening.**
 
@@ -4818,7 +4818,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 > p. 2: Discussion of the need for an aural repertoire.
 
 
-##### Mendelssohn, Felix. _Violin Concerto in E minor, no. 18 op. 64_.  
+### Mendelssohn, Felix. _Violin Concerto in E minor, no. 18 op. 64_.  
 
 2: End of page, solist starts showing off with fast chromatic triplets.  
 
@@ -4834,7 +4834,7 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
 
 
 
-##### Menses, Juan Diego Diaz. "Listening with the Body: An Aesthetics of Spirit Possession Outside the Terreiro." _Ethnomusicology_ 60, no. 1 (Winter 2016): 89-124.
+### Menses, Juan Diego Diaz. "Listening with the Body: An Aesthetics of Spirit Possession Outside the Terreiro." _Ethnomusicology_ 60, no. 1 (Winter 2016): 89-124.
 
 >**Drawing on interviews and fieldwork, this paper looks at how members of the Bahian Candomble religion find meaning in music which draws on Candomble ritual music outside of the ritual context. In this analysis, Menses proposes an aesthetic approach based on bodily sensations, personal memory, and myth.**
 
@@ -4881,7 +4881,7 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
 > 117: Summary: Music can be associated with trance states even outside of the ritual context.
 
 
-##### Messiaen, Oliver. _Quartour pour la fin du temps: V_ 
+### Messiaen, Oliver. _Quartour pour la fin du temps: V_ 
 
 mm. 3: Piano enters. E major sonority suggests this key.  
 
@@ -4897,9 +4897,9 @@ mm. 17: Sounds like a new section, there seems to be a II-I cadence to E.
 
 mm. 27: Long, drawn out tension on a Caug5 resolves to E/B, sheparding in the return of the A section. This sectino is interesting becuause it has returned to the same kindof E major space, but every instance of the tonic is in 6/4 inversion, suggesting a cadential motion.  
 
-##### Meintjes, Louise. 2017. Dust of the Zulu: Ngoma Aesthetics after Apartheid. Duke University Press  
+### Meintjes, Louise. 2017. Dust of the Zulu: Ngoma Aesthetics after Apartheid. Duke University Press  
 
-###### Introduction  
+#### Introduction  
 
 1: Ngoma performance, introduction, a form of participatory politics.  
 
@@ -4919,7 +4919,7 @@ mm. 27: Long, drawn out tension on a Caug5 resolves to E/B, sheparding in the re
 
 19: Naming pracitces.  
 
-###### Chapter 1  
+#### Chapter 1  
 
 28: Courting and things.  
 
@@ -4935,7 +4935,7 @@ mm. 27: Long, drawn out tension on a Caug5 resolves to E/B, sheparding in the re
 
  
 
-##### Miller, Julie. "Listening Like a Dancer." In In Miller, Kiri, 93-112. _Playable Bodies: Dance Games and Intimate Media._ Oxford University Press, 2017. 
+### Miller, Julie. "Listening Like a Dancer." In In Miller, Kiri, 93-112. _Playable Bodies: Dance Games and Intimate Media._ Oxford University Press, 2017. 
 
 > 93: Music stuck in head and body,
 
@@ -4963,7 +4963,7 @@ mm. 27: Long, drawn out tension on a Caug5 resolves to E/B, sheparding in the re
 
 
 
-##### Milson, John. "The T-Mass: quis scrutatur?." _Early Music_ 46, no. 2 (June 28, 2018).
+### Milson, John. "The T-Mass: quis scrutatur?." _Early Music_ 46, no. 2 (June 28, 2018).
 
 > **This is a book review of Stephanie P. Schagel's edited edition of Masses based on Josquin motets. However, Milson uses this as an opportunity to discuss his discomfort with certain musicological terms used to describe masses such as "parody" and "imitation." (All without dissing Schagel one bit.) He proposes the terms "T-mass" and "T-music" to refer to the transference of material from existing work. Using theory from hip-hop studies, he looks into how we can try to understand how borrowing was understood in the Renaissance.**
 
@@ -5013,7 +5013,7 @@ Micklem, James, Andrew Cooke, and Mark Stone. "Xylophone Mysic of Uganda: The _E
 44: Drumming parts.  
 
   
-##### Miner, Horace. "Body Rituals Among the Nacirema." _American Anthropologist_ 58, no. 3 (1956): 503-507.  
+### Miner, Horace. "Body Rituals Among the Nacirema." _American Anthropologist_ 58, no. 3 (1956): 503-507.  
 
 503: Overview of Nacirema culture.  
 
@@ -5024,7 +5024,7 @@ Micklem, James, Andrew Cooke, and Mark Stone. "Xylophone Mysic of Uganda: The _E
 505: Author reports sadomasichism in rituals.  
 
 
-##### "Miss Arabella Goddard." _The Musical World,_ April 23, 1853. 253.  
+### "Miss Arabella Goddard." _The Musical World,_ April 23, 1853. 253.  
 
 253: Backgound on the Bb Sonatta of Beethoven.
 
@@ -5046,7 +5046,7 @@ Micklem, James, Andrew Cooke, and Mark Stone. "Xylophone Mysic of Uganda: The _E
 
 -: Gendering. 
   
-##### Mitchel, Nicole. Liner notes for _Mandorla Awakening II: Emerging Worlds._ FPE Records 12. CD. 2017.  
+### Mitchel, Nicole. Liner notes for _Mandorla Awakening II: Emerging Worlds._ FPE Records 12. CD. 2017.  
 
 1: "Birds sing interlocking songs of imagination."
 
@@ -5057,7 +5057,7 @@ Micklem, James, Andrew Cooke, and Mark Stone. "Xylophone Mysic of Uganda: The _E
 5: "Organic expression of diversity."  
 
 
-##### Moorman, Marissa J. "Anatomy of Kuduro: Articulating the Angolan Body Politic after the War." _African Studies Review_ 57, no. 3 (2014): 21-40.  
+### Moorman, Marissa J. "Anatomy of Kuduro: Articulating the Angolan Body Politic after the War." _African Studies Review_ 57, no. 3 (2014): 21-40.  
 
 22: Descprition of Music videos.  
 
@@ -5070,7 +5070,7 @@ Micklem, James, Andrew Cooke, and Mark Stone. "Xylophone Mysic of Uganda: The _E
 37: Kuduro as an avenue for social mobility. 
   
   
-##### Morrison, Matthew D. "Race, Blacksound, and the (Re)Making of Musicological Discourse." _Journal of the American Musicological Society_ 72, no. 3 (2019): 781-823.  
+### Morrison, Matthew D. "Race, Blacksound, and the (Re)Making of Musicological Discourse." _Journal of the American Musicological Society_ 72, no. 3 (2019): 781-823.  
 
 **This paper looks at pracitices of exclusion embedded in musicology.**
 
@@ -5115,7 +5115,7 @@ Micklem, James, Andrew Cooke, and Mark Stone. "Xylophone Mysic of Uganda: The _E
 -: Conclusion.  
 
      
-##### Mozart, Wolfgang Amadeus. "Piano Sonata in 13 B Flat Major," K333, 1783.  
+### Mozart, Wolfgang Amadeus. "Piano Sonata in 13 B Flat Major," K333, 1783.  
 
 mm. 1: First theme occurs right at the top.  
 
@@ -5146,14 +5146,14 @@ mm 87: Retransition.
 mm. 86: FM.  
  
 
-##### Muñoz, José Esteban. "Theorizing Queer Inhumanisms: The Sense of Brownness." _GLQ: A Journal of Lesbian and Gay Studies_ 21, no. 2-3 (2015): 209-210.  
+### Muñoz, José Esteban. "Theorizing Queer Inhumanisms: The Sense of Brownness." _GLQ: A Journal of Lesbian and Gay Studies_ 21, no. 2-3 (2015): 209-210.  
 
 209: Browness defined.  
 
-#### N
+## N
 
 
-##### Neely, Adam. "Music and White Supremacy" on Youtube. 2020. [Link](https://www.youtube.com/watch?v=Kr3quGh7pJA)
+### Neely, Adam. "Music and White Supremacy" on Youtube. 2020. [Link](https://www.youtube.com/watch?v=Kr3quGh7pJA)
 
 >**What we call music theory is part of the white, European, and male frame of reference. It is a racial ideology which stipulates the superiority of 18th century European musical styles.**
 
@@ -5189,7 +5189,7 @@ mm. 86: FM.
 
 >Schenker's music theory is racially motivated and a product of Hitler-era racial and ethnic tensions in Germany. He was an anti-Semitic Jew.
 
-##### Nettl, Bruno. _The Study of Ethnomusicology: Thirty-One Issues and Concepts_. 2nd ed. Urbana and Chicago: University of Illinois Press, 2005.  
+### Nettl, Bruno. _The Study of Ethnomusicology: Thirty-One Issues and Concepts_. 2nd ed. Urbana and Chicago: University of Illinois Press, 2005.  
 
 **Nettl is unsure about the future of transcription, but for the time being, trasncribing by ear in western staff notation seems to be the best option.**
 
@@ -5214,7 +5214,7 @@ mm. 86: FM.
 89: Changing techniques after the '60s and more plentiful recordings.  
 
 
-##### Niranjana, Tejaswini. _Musicophilia in Mumbai: Performing Subjects and the Metropolital Unconscious._ Durham: Duke University Press, 2020.  
+### Niranjana, Tejaswini. _Musicophilia in Mumbai: Performing Subjects and the Metropolital Unconscious._ Durham: Duke University Press, 2020.  
 
 ix: Aknowledgements.  
 
@@ -5253,7 +5253,7 @@ Introduction: On Not Being Able to Learn Music.
 
 14: Overview of the chapters.  
 
-###### Chapter 1: Musicophilia and the Linga Musica in Mumbai.  
+#### Chapter 1: Musicophilia and the Linga Musica in Mumbai.  
 
 19: Mumbai in the 1860 and its entertainment industry.  
 
@@ -5275,7 +5275,7 @@ Introduction: On Not Being Able to Learn Music.
 
 -: Enthographic description of a murja performance.  
 
-###### Chapter 4: Pedagogy and the Performing Subject.  
+#### Chapter 4: Pedagogy and the Performing Subject.  
 **This chapter looks at the minutiae of hindustani musical pedagogy.**
 
 129: Accounts of the grueling practice schedules of music students in the mid-century.  
@@ -5289,7 +5289,7 @@ Introduction: On Not Being Able to Learn Music.
 152: Teaching through repetition.  
 
 
-###### Chapter 5: Nearness as Distance or Distance as Nearness.  
+#### Chapter 5: Nearness as Distance or Distance as Nearness.  
 
 162: Guru-shishya, or teacher-student relationships and a reticence of students to talk about them.  
 
@@ -5303,7 +5303,7 @@ Introduction: On Not Being Able to Learn Music.
 
 177: Neela Bhagwat's large contribution of Gwalior gharana's traditional compositions to Wikisource.  
 
-###### 181: Afterword.   
+#### 181: Afterword.   
 
 182: Hindi film _The Knock_ (1970.)  
 
@@ -5315,14 +5315,14 @@ Introduction: On Not Being Able to Learn Music.
 
 186: Her art installation.  
 
-##### Novak, David, and Matt Sakakeeny. "Introduction" in _Keywords in Sound,_ edited by David Novak and Matt Sakakeeny, 1-11. Durham: Duke University Press Books, 2015. [PDF](file:///home/harlan/Downloads/School%20Downloads/MuiscandBody/Week1/introduction%20and%20acoustemology.pdf)
+### Novak, David, and Matt Sakakeeny. "Introduction" in _Keywords in Sound,_ edited by David Novak and Matt Sakakeeny, 1-11. Durham: Duke University Press Books, 2015. [PDF](file:///home/harlan/Downloads/School%20Downloads/MuiscandBody/Week1/introduction%20and%20acoustemology.pdf)
 
 >**This chapter is just an introduction to the book, why what's in it's what's in it, and why it's organized how it is. There wasn't a lot in it for me, personally, but it did give context for the other chapter I read from it "Acoustemology" [see Feld, 2015](#Feld, 2015)**
 
 
-#### O
+## O
 
-##### Onuu, Michael U., and Aniefiok O. Akpan. “Industrial Noise in Nigeria: Measurements, Analysis, Dose and Effects.” _Building Acoustics_ 13, no. 1 (2006): 69–80.  
+### Onuu, Michael U., and Aniefiok O. Akpan. “Industrial Noise in Nigeria: Measurements, Analysis, Dose and Effects.” _Building Acoustics_ 13, no. 1 (2006): 69–80.  
 
 69: Hazardous occupational noise pollution.  
 
@@ -5331,7 +5331,7 @@ Introduction: On Not Being Able to Learn Music.
 72: Noise exposer rating, NER.  
 
 
-##### Organduo. "How to Choose the Best Fingering in Early Organ Music." 2012. [Link](https://www.organduo.lt/home/how-to-choose-the-best-fingering-in-early-organ-music)
+### Organduo. "How to Choose the Best Fingering in Early Organ Music." 2012. [Link](https://www.organduo.lt/home/how-to-choose-the-best-fingering-in-early-organ-music)
 
 > **Quick and dirty fingering guidelines for early music** 
 
@@ -5344,9 +5344,9 @@ Introduction: On Not Being Able to Learn Music.
 > Chord fingering
 
 
-##### Ostrofsky, Kathryn A. "An Aural History of the 1970s through the Sounds of 'Sesame Street.'" PhD diss. University of Pennsylvania, 2015.  
+### Ostrofsky, Kathryn A. "An Aural History of the 1970s through the Sounds of 'Sesame Street.'" PhD diss. University of Pennsylvania, 2015.  
 
-##### Ostrofsky, Kathryn A. "Sesame Street as a Musical Comedy-Variety Show." In _Music in Comedy Television: Notes on Laughs,_ 15-30. Routledge Music and Screen Media Series. Abingdon: Routledge, 2017.  
+### Ostrofsky, Kathryn A. "Sesame Street as a Musical Comedy-Variety Show." In _Music in Comedy Television: Notes on Laughs,_ 15-30. Routledge Music and Screen Media Series. Abingdon: Routledge, 2017.  
 
 15: Introduction ot the idea of the show as more than just educational televion, but also a sketch comedy show.  
 
@@ -5377,7 +5377,7 @@ Introduction: On Not Being Able to Learn Music.
 -: Saturday Night Live and Monty Python's Flying Circus.  
 
 
-##### Ostrofsky, Kathryn A. "Talking Sesame to the Streets: Young Children's Interactions with Pop Music's Aesthetic in the 1970s." _Journal of Popular Music Studies_ 24, no. 3 (2012): 287-304.  
+### Ostrofsky, Kathryn A. "Talking Sesame to the Streets: Young Children's Interactions with Pop Music's Aesthetic in the 1970s." _Journal of Popular Music Studies_ 24, no. 3 (2012): 287-304.  
 
 287: Description of _Sesame Street_'s urban visual aesthtic in 1969.  
 
@@ -5414,7 +5414,7 @@ Introduction: On Not Being Able to Learn Music.
 297: Rapso comment on the empathy engendered by exposing children to diverse music.
 
 
-##### Özcan, Elif, and René van Egmond. “Basic Semantics of Product Sounds.” _International Journal of Design_ 6, no. 2 (2012): 41–54.
+### Özcan, Elif, and René van Egmond. “Basic Semantics of Product Sounds.” _International Journal of Design_ 6, no. 2 (2012): 41–54.
 
 **This study seeks to understand weather product sounds can be described using semantic assosciations alone. These are words like powerful, hegenic, kitchen, for describing a dishwasher.**
 
@@ -5445,20 +5445,20 @@ Introduction: On Not Being Able to Learn Music.
 51: Conclusions.   
 
 
-##### Özcan, Elif, and René van Egmond. “Product Sound Design and Application: Overview.” _5th International Conference on Design and Emotion, Gothenburg, Sweden,_ 2006.  
+### Özcan, Elif, and René van Egmond. “Product Sound Design and Application: Overview.” _5th International Conference on Design and Emotion, Gothenburg, Sweden,_ 2006.  
 
 
-#### P
+## P
 
-##### Palú, Doriana Dal, Claudia De Girgi, Beatrice Lerma, and Eleonora Buiatti. _Frontiers of Sound Design: A Guide for the Development of Product Identity Through Sounds._ Springer, 2018.  
+### Palú, Doriana Dal, Claudia De Girgi, Beatrice Lerma, and Eleonora Buiatti. _Frontiers of Sound Design: A Guide for the Development of Product Identity Through Sounds._ Springer, 2018.  
 
-###### Introduction.  
+#### Introduction.  
 
 v: The body as raw material for the adaptation for hearing and sound production.  
 
 vii: The sphere of designed sound (as a historical arrival point.)  
 
-###### Foreward.  
+#### Foreward.  
 
 xi: R. Murray. Schafer and the "new soundscape."  
 
@@ -5466,7 +5466,7 @@ xi: R. Murray. Schafer and the "new soundscape."
 
 xii: The design of "intentional sounds."  
 
-###### Preface.  
+#### Preface.  
 
 xv: The "intangible world made of sounds" which we experience everyday.  
 
@@ -5482,13 +5482,13 @@ xvi: Changes in the field of product design.
 
 xvii: The digital approach to sound design.  
 
-##### Pärt, Arvo. "Der Speigel Im Speigel."
+### Pärt, Arvo. "Der Speigel Im Speigel."
 
 Melodic voice, squaring technique, tintinabulary voice.  
 
 The tintinabulary voice plays a note from the triad.  
 
-##### Parvianinen, Jaana. "Bodily Knowledge: Epistemological Reflections on Dance." _Dance Research Journal_ 34, no. 1 (summer, 2002): 11-26.
+### Parvianinen, Jaana. "Bodily Knowledge: Epistemological Reflections on Dance." _Dance Research Journal_ 34, no. 1 (summer, 2002): 11-26.
 
 > 11: Traditional epistemologies and the "justified" true belief in Platonic thought. Also known as propositional knowledge.
 
@@ -5513,9 +5513,9 @@ The tintinabulary voice plays a note from the triad.
 > 20: Injured dancers and "kinesthetic empathy"
 
 
-##### Pesic, Peter. _Polyphonic Minds: Music of the Hemispheres._ Cambridge: The MIT Press, 2017. [Review](/home/harlan/Downloads/School Downloads/Independant/Pesic,2017Review.pdf)
+### Pesic, Peter. _Polyphonic Minds: Music of the Hemispheres._ Cambridge: The MIT Press, 2017. [Review](/home/harlan/Downloads/School Downloads/Independant/Pesic,2017Review.pdf)
 
-###### Prelude:  
+#### Prelude:  
 
 1: "Multitasking."  
 
@@ -5525,11 +5525,11 @@ The tintinabulary voice plays a note from the triad.
 
 8: Description on this book.  
 
-###### Section I Polyphony Emergent.  
+#### Section I Polyphony Emergent.  
 
 **This chapter covers the early life of polyphony in all of its celebration and condemnation between its alleged (and suspect) origins in ancent Greece, its condenation by a number of papal orders, and simultaneous celebration.**
 
-###### Chapter 1: Global Contexts and Ancient Origins.  
+#### Chapter 1: Global Contexts and Ancient Origins.  
 
 **This chapter briefly mentions polyphony outside of Europe before focussing on the music of ancient Greece. Plate believed that monophonic music was most appropriate for human affaris, but that polyphonic music was the music of the devine, while Cicero saw harmony as having important political implications for the growing empire.**
 
@@ -5543,7 +5543,7 @@ The tintinabulary voice plays a note from the triad.
 
 29: Summary.
 
-###### Chapter 2: Dispassion and Deification:  
+#### Chapter 2: Dispassion and Deification:  
 
 31: The "dispassionate" monophony of early christian worship music, compared to that of the pagans.  
 
@@ -5559,7 +5559,7 @@ The tintinabulary voice plays a note from the triad.
 
 46: Summary.  
 
-###### Chapter3: The Music of the Blessed.  
+#### Chapter3: The Music of the Blessed.  
 
 47: New and more complex polyphony of the 12th and 13th centuries.  
 
@@ -5591,7 +5591,7 @@ Chapter 4: Orseme and the "New Song"
 
 -: The acutal, natural origins of magic in Orsme's view.  
 
-###### Chapter 5: Polyphonic Controversies.  
+#### Chapter 5: Polyphonic Controversies.  
 
 85: Musical controversies in the 15th century.  
 
@@ -5603,9 +5603,9 @@ Chapter 4: Orseme and the "New Song"
 
 97: The Council of Trent.  
 
-###### Section 2: Polyphony Triumphant.  
+#### Section 2: Polyphony Triumphant.  
 
-###### Chapter 6: E pluribus unum.  
+#### Chapter 6: E pluribus unum.  
 
 101: The use of cantus firmus and how it was used by different composers and theorists to make one of many. 
 
@@ -5621,7 +5621,7 @@ Chapter 4: Orseme and the "New Song"
 
 -: Josquin, "leave it to me," and the Turkish Prince Cem Sultan.  
 
-###### Chapter 7: Polyphony and Power.  
+#### Chapter 7: Polyphony and Power.  
 
 119: The Medicis and Striggio.  
 
@@ -5631,7 +5631,7 @@ Chapter 4: Orseme and the "New Song"
 
 129: Janet Cardiff reproducing Talis' motet for forty on forty speakers as an installment.  
 
-###### Chapter 8: Controlling Dissonance.  
+#### Chapter 8: Controlling Dissonance.  
 
 131: Overview of intervals.  
 
@@ -5675,9 +5675,9 @@ Chapter 10: In Back's Hands.
 
 174: Bach's single-line pseudo-polyphony.  
 
-###### Section 3: Polyphonic Horizons.  
+#### Section 3: Polyphonic Horizons.  
 
-###### Chapter 11: Polyphony Extended.  
+#### Chapter 11: Polyphony Extended.  
 
 183: Composers who make use of polyphony.  
 
@@ -5693,7 +5693,7 @@ Chapter 10: In Back's Hands.
 
 204: Conlon Nancarrow's compositions too difficult for humans and irrational canons.  
 
-###### Chapter 12: Contrapuntal Radio and Polyphonic Fields.  
+#### Chapter 12: Contrapuntal Radio and Polyphonic Fields.  
 
 209: Glenn Gould's polyphonic voice experiments.  
 
@@ -5703,9 +5703,9 @@ Chapter 10: In Back's Hands.
 
 224: Merce Cunningham.  
 
-###### Section 4: Polyphonic Brains.  
+#### Section 4: Polyphonic Brains.  
 
-######Chapter 13: Polyphonic Selves.  
+####Chapter 13: Polyphonic Selves.  
 
 229: Eighteenth century ideas of multiple selves or personalities.  
 
@@ -5719,7 +5719,7 @@ Chapter 10: In Back's Hands.
 
 242: Polyphony and dissonance in sociology.  
 
-###### Chapter 14: Tuning the Brain.  
+#### Chapter 14: Tuning the Brain.  
 
 248: Hans Berger and brain waves.  
 
@@ -5727,7 +5727,7 @@ Chapter 10: In Back's Hands.
 
 257: ADHD.  
 
-##### Chapter 15: Music of the Hemispheres.  
+### Chapter 15: Music of the Hemispheres.  
 
 259: The study of polyphonic rhythms on in breain in the 21st century.  
 
@@ -5741,14 +5741,14 @@ Chapter 10: In Back's Hands.
 
 270: Coordinatino of neural systems.  
 
-###### Postlude.  
+#### Postlude.  
 
 273: Aperformance of John Luther Adam's _Sila._  
 
 274: the body in polyphony.  
 
 
-##### Phillips-Silver, Jessica, and Peter Keller. 2012. “Searching for Roots of Entrainment and Joint Action in Early Musical InteractionsPreview the document.” Frontiers in Human Neuroscience 6.  
+### Phillips-Silver, Jessica, and Peter Keller. 2012. “Searching for Roots of Entrainment and Joint Action in Early Musical InteractionsPreview the document.” Frontiers in Human Neuroscience 6.  
 
 1: "Entrainment."  
 
@@ -5773,9 +5773,9 @@ Chapter 10: In Back's Hands.
 7: Development of sensorimotor synchronizaiton.  
 
 
-##### Pinson, K. Heather. _The Jazz Image: Seeing Music through Herman Leonard's Photography._ Jackson: University Press of Missippi, 2010.  
+### Pinson, K. Heather. _The Jazz Image: Seeing Music through Herman Leonard's Photography._ Jackson: University Press of Missippi, 2010.  
 
-###### Introduction.  
+#### Introduction.  
 
 3: the photographs of Herman Leonard.  
 
@@ -5802,7 +5802,7 @@ Chapter 10: In Back's Hands.
 13: Outline of the book.  
 
 
-##### Porcello, Thomas, Louise Meintjes, Ana Maria Ochoa, and David W. Samuels. "The Reorganization of the Sensory World." _Annual Review of Anthropology_ 39, (2010): 51-66.
+### Porcello, Thomas, Louise Meintjes, Ana Maria Ochoa, and David W. Samuels. "The Reorganization of the Sensory World." _Annual Review of Anthropology_ 39, (2010): 51-66.
 
 > **This paper follows different sensory genealogies which have found use in anthropology. The paper concludes that more multi-sensory approaches should be used in anthropological research.**
 
@@ -5827,9 +5827,9 @@ Chapter 10: In Back's Hands.
 > p. 60: Language.
 
 
-##### Poriss, Hilary. _Changing the Score: Arias, Prima Donnas, and the Authority of Performance._ Oxford: Oxford U Press, 2009.
+### Poriss, Hilary. _Changing the Score: Arias, Prima Donnas, and the Authority of Performance._ Oxford: Oxford U Press, 2009.
 
-###### Introduction  
+#### Introduction  
 
 3: Ana del Lagrange and her "trunk aria."  
 
@@ -5839,7 +5839,7 @@ Chapter 10: In Back's Hands.
 
 8: The power of prima donnas in 1800 to 1840.  
 
-###### Chapter 2: Selecting a "Perfect" Entrance.  
+#### Chapter 2: Selecting a "Perfect" Entrance.  
 
 37: The enduring cultural significance of making a spectacular entrance.  
 
@@ -5852,7 +5852,7 @@ Chapter 10: In Back's Hands.
 53: Ugher, voice types, conflicts over what to sing.  
 
 
-##### Pressing, Jeff. "Rhythmic Design in the Support Drums of _Agbadza_." _African Msuic_ 6, no. 3 (1983): 4-15.  
+### Pressing, Jeff. "Rhythmic Design in the Support Drums of _Agbadza_." _African Msuic_ 6, no. 3 (1983): 4-15.  
 
 4: The instruments of the Ewe music of Ghana.  
 
@@ -5861,7 +5861,7 @@ Chapter 10: In Back's Hands.
 9: Sorting levels of phrasing (Looks almost Schenkerian).  
 
 
-##### Przybylski, Liz. _Hybrid Ethnography: Online, Offline, and In Between._ Thousand Oaks, California: Sage Publications, 2020.  
+### Przybylski, Liz. _Hybrid Ethnography: Online, Offline, and In Between._ Thousand Oaks, California: Sage Publications, 2020.  
 
 xiii: Why this book exists.  
 
@@ -5930,15 +5930,15 @@ xxi: Author bio.
 
 
 
-##### Puccini. _Madamme Butterfly_.  
+### Puccini. _Madamme Butterfly_.  
 
 pg. 348 has "Tutii fior"
 
 
 
-#### R
+## R
 
-##### Ramsey, Guthrie P. Jr. _Race Music: Black Cultures from Bebop to Hip-Hop_. Berkeley: University of California Press, 2003.  
+### Ramsey, Guthrie P. Jr. _Race Music: Black Cultures from Bebop to Hip-Hop_. Berkeley: University of California Press, 2003.  
 
 1: Will Smith's remix of Stevie Wonder's "I Wish."  
 
@@ -5951,7 +5951,7 @@ pg. 348 has "Tutii fior"
 12: Preaching 
 
 
-##### Ramsey, Guthrie P. Jr. "Who Hears Here? Black Music, Critial Bias, and the Musicological Skin Trade." _The Musical Quarterly_ 85, no. 1 (2001): 1-52.  
+### Ramsey, Guthrie P. Jr. "Who Hears Here? Black Music, Critial Bias, and the Musicological Skin Trade." _The Musical Quarterly_ 85, no. 1 (2001): 1-52.  
 
 1: Musicological anxieties at the turn of the millenia.  
 
@@ -6020,7 +6020,7 @@ pg. 348 has "Tutii fior"
 40: Conclusion and the role of white musicologists.  
 
 
-##### Reich, Steve. "Music as a Gradual Process." In _Audio Culture,_ edited by Christopher Cox and Daniel Warner, 304-306. NY: Continuum International, 2004.  
+### Reich, Steve. "Music as a Gradual Process." In _Audio Culture,_ edited by Christopher Cox and Daniel Warner, 304-306. NY: Continuum International, 2004.  
 
 304: Short bio of Reich.  
   
@@ -6039,7 +6039,7 @@ pg. 348 has "Tutii fior"
 -: The impossibility of improvisation in process music.  
 
 
-##### Reynolds, Christopher. "Interpreting and Dating Josquin's Missa Hercules dux ferrariae." in _Early Musical Borrowing_ edited by Honey Meconi. (2004). New York: Routledge.  
+### Reynolds, Christopher. "Interpreting and Dating Josquin's Missa Hercules dux ferrariae." in _Early Musical Borrowing_ edited by Honey Meconi. (2004). New York: Routledge.  
 
 71: Allusion, literary or musical.  
 
@@ -6060,7 +6060,7 @@ pg. 348 has "Tutii fior"
 -: Possible allusions.  
   
   
-###### Robertson, Anne Walters. "The Man with the Pale Face, the Shroud, and Du Fay's Missa Se la face ay pale." _The Journal of Musicology_ 27, no. 4 (2010): 377-434.  
+#### Robertson, Anne Walters. "The Man with the Pale Face, the Shroud, and Du Fay's Missa Se la face ay pale." _The Journal of Musicology_ 27, no. 4 (2010): 377-434.  
 
 I find the way that Robertson presents the primary source very transparent. This in and of itself makes it worthy of publication in my eye. I like that Robertson makes these connections to things like contemporaneous paintings or "the Golden Legend," and then shows how Du Fay would have had access to them. She wants us to think of this Mass as the first of certain type of masses, which gave birth to the _L'homme arme_ masses.
 
@@ -6129,7 +6129,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 
 
-##### Rodin, Jesse. "The _L'homme arme_ Tradition --- and the Limits of Musical Borrowing." In _The Cambridge History of Fifteenth-Century Music,_ edited by Anna Maria Bausse Berger and Jesse Rodin, 69-84. Cambridge: Cambridge University Press, 2015.  
+### Rodin, Jesse. "The _L'homme arme_ Tradition --- and the Limits of Musical Borrowing." In _The Cambridge History of Fifteenth-Century Music,_ edited by Anna Maria Bausse Berger and Jesse Rodin, 69-84. Cambridge: Cambridge University Press, 2015.  
 
 69: The L'homme arme tradition.  
 
@@ -6156,7 +6156,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 
 
-##### Rothstein, William Nathan. _Phrase Rhythm in Tonal Music_. New York: Schirmer Books, 1989.
+### Rothstein, William Nathan. _Phrase Rhythm in Tonal Music_. New York: Schirmer Books, 1989.
 
 > **Phrase is hard to define, but this Shenkerian thinks of it as motion from one cadence to the next. Hypermeter is the mixture of strong and weak bars.**
 
@@ -6178,16 +6178,16 @@ I find the way that Robertson presents the primary source very transparent. This
 
 
 
-##### Rotman, Brian. _Becoming Beside Ourselves: The Alphabet, Ghosts, and Distributed Human Beings._ Durham and London: Duke Universtity Press, 2008.
+### Rotman, Brian. _Becoming Beside Ourselves: The Alphabet, Ghosts, and Distributed Human Beings._ Durham and London: Duke Universtity Press, 2008.
 
-##### Roust, Colin. "The End of the Undergraduate Music History Sequence?" _Journal of Music History Pedagogy_ 5, no. 2 (2015): 49-51.  
+### Roust, Colin. "The End of the Undergraduate Music History Sequence?" _Journal of Music History Pedagogy_ 5, no. 2 (2015): 49-51.  
 
 50: Quick review of various alternative ways of teaching undergraduate music history.  
 
 
-##### Rudinow, Joel. _Soul Music: Tracking the Spritual Roots of Pop from Plato to Motown._ The University of Michicagn Press, 2010.
+### Rudinow, Joel. _Soul Music: Tracking the Spritual Roots of Pop from Plato to Motown._ The University of Michicagn Press, 2010.
 
-###### Chapter 1: What is Soul?  
+#### Chapter 1: What is Soul?  
 
 8: The author's failure to succeed as a classical pianist and preference for popular piano styles in his youth.  
 
@@ -6221,38 +6221,38 @@ I find the way that Robertson presents the primary source very transparent. This
  
 
 
-##### Russell, Henry. "I'm Afloat! I'm Afloat!." Boston: George P. Reed., n.d.
+### Russell, Henry. "I'm Afloat! I'm Afloat!." Boston: George P. Reed., n.d.
 
 > Descriptive of the pirate life.
 
 
-##### Russell, Henry. "Land Ho!." Boston: Oliver Diston., n.d.
+### Russell, Henry. "Land Ho!." Boston: Oliver Diston., n.d.
 
 > Piano introduction and minor key, very homophonic texture.
 
 > Three act structure: Up with the signal, land ho---the signal is waving, the signal is answered
 
-##### Russell, Henry. "A Life on the Ocean Wave." New York: James L. Hewitt & Co., n.d.
+### Russell, Henry. "A Life on the Ocean Wave." New York: James L. Hewitt & Co., n.d.
 
 > Tripartite narrative, march sounding.
 
-##### Russell, Henry. "The Corsair Glee." n.p., n.d.
+### Russell, Henry. "The Corsair Glee." n.p., n.d.
 
 > The water is described as glassy, and still as death, which is somehow joyful.
 
 > The poem, which is by Russell, is mostly descriptive, not narrative.
 
 
-##### Russell, Henry. "The Ship on Fire." New York: James L. Hewitt & Co., n.d.
+### Russell, Henry. "The Ship on Fire." New York: James L. Hewitt & Co., n.d.
 
 > Three act structure: storm and mother, fire, and rescue.
 
 
-#### S
+## S
 
-##### Salkind, Micah. _Do you Remember House?: Chicago's Queer of Color Undergrounds._ New York: Oxford University Press, 2019
+### Salkind, Micah. _Do you Remember House?: Chicago's Queer of Color Undergrounds._ New York: Oxford University Press, 2019
 
-###### Chapter 5: "Is it all Over my Face?"
+#### Chapter 5: "Is it all Over my Face?"
 
 > **This chapter gives the history and social backgound of the Chicago Southside (particularly the greater Hyde Park area) outdoor house music gatherings.**
 
@@ -6288,7 +6288,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 170: House as memory culture.  
 
-###### Chapter 7: Dancing in Brave Spaces.
+#### Chapter 7: Dancing in Brave Spaces.
 
 > **This chapter is mostly composed of ethnographic material and social implications drawn therefrom.**
 
@@ -6305,7 +6305,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 234: Youtube.  
 
-##### Samuels, David W., Louise Meintjes, Ana Maria Ochoa, and Thomas Porcello. "Soundscapes: Towards a Sounded Anthropology." _Annual Review of Anthropology_ 30, (2010), 329-345.
+### Samuels, David W., Louise Meintjes, Ana Maria Ochoa, and Thomas Porcello. "Soundscapes: Towards a Sounded Anthropology." _Annual Review of Anthropology_ 30, (2010), 329-345.
 
 > **This paper looks at the history of listening and recording in the social sciences and art. It concludes that anthropologists should reexamine the history of the discipline to acknowledge the importance of the study of sound as more than simply a tool for gathering data.**
 
@@ -6338,7 +6338,7 @@ I find the way that Robertson presents the primary source very transparent. This
 > p. 339: Implications of all this for Anthropology.
 
 
-##### Santoro, Daniella. "The Dancing Ground: Emboided Knowledge, Disability, and Visability in New Orleans Second Lines." In _The Oxford Handbook of Music and Disability Studies,_ edited by Neil William Lerner, Jopseph Nathan Strauss, Blake Howe, and Stephaie Jense-Moulton, 305-326. Oxford: Oxford University Press, 2016.  
+### Santoro, Daniella. "The Dancing Ground: Emboided Knowledge, Disability, and Visability in New Orleans Second Lines." In _The Oxford Handbook of Music and Disability Studies,_ edited by Neil William Lerner, Jopseph Nathan Strauss, Blake Howe, and Stephaie Jense-Moulton, 305-326. Oxford: Oxford University Press, 2016.  
 
 305: Skelly Well, a wheelchair dancer in New Orleans.  
 
@@ -6364,7 +6364,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 322: "Push for change" campaign.  
 
-##### Sargent, Joseph. "Morales, Josquin, and the _L'homme arme_ Tradition." _Early Music History_ 30, (2011): 177-212.  
+### Sargent, Joseph. "Morales, Josquin, and the _L'homme arme_ Tradition." _Early Music History_ 30, (2011): 177-212.  
 
 177: The L'homme arme tradition.  
 
@@ -6401,7 +6401,7 @@ I find the way that Robertson presents the primary source very transparent. This
 208: Block repetition.  
 
 
-##### Schneider, Rebecca. "That the Past May Yet Have Another Futire: Gesture in the Times of Hands Up." _Theatre Journal_ 70 (2018): 285-306.  
+### Schneider, Rebecca. "That the Past May Yet Have Another Futire: Gesture in the Times of Hands Up." _Theatre Journal_ 70 (2018): 285-306.  
 
 285: Greetings, and polysemantics of the raised hand.  
 
@@ -6419,7 +6419,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 305: Research as building a relationship.  
 
-##### Schubert, Franz. _Piano Sonata in A_ D. 959. 1828.
+### Schubert, Franz. _Piano Sonata in A_ D. 959. 1828.
 
 > mm. 1-5: Tonic prolongation.
 
@@ -6466,7 +6466,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 
 
-##### Schuetze, George C. _An Introduction to Faugues._ Brooklyn: Institute of Mediaeval Music, 1960.
+### Schuetze, George C. _An Introduction to Faugues._ Brooklyn: Institute of Mediaeval Music, 1960.
 
 > 1: Biographical information, or lack thereof.
 
@@ -6539,14 +6539,14 @@ I find the way that Robertson presents the primary source very transparent. This
 > 93: Parallel 5th and 8vs.
 
 
-##### Seaton, Douglas. "Reconsidering Undergraduate Music History: Some Introductory Thoughts." _Journal of Music History Pedagogy_ 5, no. 2 (2015): 53-56.  
+### Seaton, Douglas. "Reconsidering Undergraduate Music History: Some Introductory Thoughts." _Journal of Music History Pedagogy_ 5, no. 2 (2015): 53-56.  
 
 54: Questions of history.  
 
 55: What should students learn to do?  
 
 
-##### Serwadda, Moses, and Hewitt Pantaleoni. "A Possible Notation for African Dance Drumming." _African Music_ 4, no. 2 (1968): 47-52.  
+### Serwadda, Moses, and Hewitt Pantaleoni. "A Possible Notation for African Dance Drumming." _African Music_ 4, no. 2 (1968): 47-52.  
 47: Problems to be solved.  
 
 -: A drum tabulature exlpained in detail.  
@@ -6554,7 +6554,7 @@ I find the way that Robertson presents the primary source very transparent. This
 50: the problems with western beaming.  
 
 
-##### Shouse, Eric. "Feeling, Emotion, Affect." _M/C Journal_ 8.6 (2005).
+### Shouse, Eric. "Feeling, Emotion, Affect." _M/C Journal_ 8.6 (2005).
 
 > **This article gives a concise and comprehensive definition of affect.**
 
@@ -6571,7 +6571,7 @@ I find the way that Robertson presents the primary source very transparent. This
 > p. 15: The power of affect lies in its abstractivity.
 
 
-##### Silvers, Michael. "Attending to the Nightengale: On a Multispecies Ethnomusicology." _Ethnomusicology_ 64, no. 2 (2020): 199-224.  
+### Silvers, Michael. "Attending to the Nightengale: On a Multispecies Ethnomusicology." _Ethnomusicology_ 64, no. 2 (2020): 199-224.  
 
 199: Ethnomusicology and post-humanism.  
 
@@ -6606,7 +6606,7 @@ What is a human?
 215: Summary.  
 
 
-##### Siminson, Mary. "Screening the Diva." In _The Arts of the Prima Donna in the Long Nineteenth Century,_ edited by Rachel Cowgill and Hilary Poriss, 83-100. Oxford: Oxford University Press, 2012.  
+### Siminson, Mary. "Screening the Diva." In _The Arts of the Prima Donna in the Long Nineteenth Century,_ edited by Rachel Cowgill and Hilary Poriss, 83-100. Oxford: Oxford University Press, 2012.  
 
 83: _Photoplay Magazine's_ announcement in 1915 that TGeraldine Farrar would appear in silent movies.  
 
@@ -6652,7 +6652,7 @@ What is a human?
 
 97: Summary and conclusions.  
 
-##### Smith, Leo. "(M1) American Music." _The Black Perspective in Music_ 2, no. 2 (1974): 111-116.  
+### Smith, Leo. "(M1) American Music." _The Black Perspective in Music_ 2, no. 2 (1974): 111-116.  
 
 111: Creative vs classical music.  
 
@@ -6667,7 +6667,7 @@ What is a human?
 116: The future: "world music."  
 
 
-##### Snarrenberg, Robert. "WesterParse: A Transition-Based Dependency Parser for Simple Tonal Lines." 2020.
+### Snarrenberg, Robert. "WesterParse: A Transition-Based Dependency Parser for Simple Tonal Lines." 2020.
 
 > 1: Why he wrote the program.
 
@@ -6684,11 +6684,11 @@ What is a human?
 > 14: Looking forward.
 
 
-##### Sparks, Edgar. _Cantus Firmus in Mass and Motet: 1420–1520_. New York: Da Capo Press, 1975.
+### Sparks, Edgar. _Cantus Firmus in Mass and Motet: 1420–1520_. New York: Da Capo Press, 1975.
 
 > **This book is first and foremost concerned with collecting facts regarding the use of cantus firmi (c.f.) in the renaissance. Until the time of this survey, there had been very little written which systematically investigated how c.f. were actually used in their time. This being an expository book, he saves his criticism regarding how other researchers have analyzed c.f. for the appendix. Sparks presents this book as a tool for better analyzing music of this time period. He argues that the c.f. must be understood in a much broader sense than we understand it today. In its time, it referred to any preexisting melody which is used as the basis of a new composition (not just a series of whole notes, conservative in motion). 3The melody line was not often copied literally, but was more often modified as per the needs of the composer. Pt. one of this book discusses the way that the c.f. was quoted and altered up until 1450. He presents two broad categories of c.f.: structural tenor and melodic paraphrase. It is not his intention to use these terms as systematic classifications, but rather as guiding principles for organization of discussion. He has also taken great pains to transcribe the scores, so please read them as part of the text.(1-4)**
 
-###### “The Structural Cantus Firmus,” 83–93
+#### “The Structural Cantus Firmus,” 83–93
 
 > **This chapter is a survey of the use of structural vs. melodic cantus firmi.**
 
@@ -6707,7 +6707,7 @@ What is a human?
 > p. 91: The pedagogical cantus firmus
 
 
-###### “Cantus Firmus in the Mass,” 94–106.
+#### “Cantus Firmus in the Mass,” 94–106.
 
 > **In this chapter, Sparks looks into the ways that c.f. were used in writing mass cycles. In short, c.f. were chosen because of their text, not their musical characteristics. Paraphrasing was used to bring the melody in line with melodic needs. There was little distinction made regarding the use of sacred or secular sources: sacred respect was expressed though the workmanship of the composer.**
 
@@ -6724,7 +6724,7 @@ What is a human?
 > p. 99: Analysis of works.
 
 
-##### Stanyek, Jason, Fernando Benadon, Tara Browner, Parag Chordia, Anne Danielsen, Emilia Gómez, Sumanth Gopinath, Dai Griffiths, Kiri Miller, Rachel Mundy, Jennifer Roth-Gordon, David Rothenberg, and Michael Tenzer. “Forum on Transcription.” _Twentieth-Century Music_ 11, no. 1 (2014): 101-161.  
+### Stanyek, Jason, Fernando Benadon, Tara Browner, Parag Chordia, Anne Danielsen, Emilia Gómez, Sumanth Gopinath, Dai Griffiths, Kiri Miller, Rachel Mundy, Jennifer Roth-Gordon, David Rothenberg, and Michael Tenzer. “Forum on Transcription.” _Twentieth-Century Music_ 11, no. 1 (2014): 101-161.  
 
 101: Fundamental and enduring challenges to transcription.  
 
@@ -6775,9 +6775,9 @@ What is a human?
 155: Representing continuous information.  
 
 
-##### Stefaniak, Alexander. _Becoming Clara Schumann: Performance Strategies and Aesthetics in the Culture of the Musical Canon_ (Indiana U Press, forthcoming 2021).
+### Stefaniak, Alexander. _Becoming Clara Schumann: Performance Strategies and Aesthetics in the Culture of the Musical Canon_ (Indiana U Press, forthcoming 2021).
 
-###### Introduction
+#### Introduction
 
 1: Introduction to Clara Shuman at the height of her career.  
 
@@ -6809,7 +6809,7 @@ What is a human?
 
 24: Summary of the chapters to follow.
 
-###### Chapter 2  
+#### Chapter 2  
 
 1: Clara Schumann and the ethic of performer merging with the spirit of the composer.  
 
@@ -6821,7 +6821,7 @@ What is a human?
 
   
 
-###### Chapter 3
+#### Chapter 3
 
 1: Introduction to chapter.  
 
@@ -6849,7 +6849,7 @@ What is a human?
 
 24: Effects of these modifications.  
 
-###### Chapter 6: Revelatory Interpretation and the Performance of Memory.  
+#### Chapter 6: Revelatory Interpretation and the Performance of Memory.  
 
 1: Schumann portraid as a pianist who transcended time.  
 
@@ -6912,7 +6912,7 @@ What is a human?
 46: Conclusion.  
 
 
-##### Stefaniak, Alexander. "Clara Schumann's Interiorities and the Cutting Edge of Popular Pianism." _Journal of the American Musicological Society_ 70, no. 3 (2017): 697-765.  
+### Stefaniak, Alexander. "Clara Schumann's Interiorities and the Cutting Edge of Popular Pianism." _Journal of the American Musicological Society_ 70, no. 3 (2017): 697-765.  
 
 697: Clara Shumans concert repetoir.  
 
@@ -6955,7 +6955,7 @@ What is a human?
 
 
 
-##### Stefaniak, Alexander. _Schumann's Virtuosity._ Bloomington: Indiana U Press, 2017.
+### Stefaniak, Alexander. _Schumann's Virtuosity._ Bloomington: Indiana U Press, 2017.
 
 >**The selections from which the below notes are from discuss the "postclassical" style of piano playing.**
 
@@ -6980,7 +6980,7 @@ What is a human?
 > p. 31: Cznery and public tastes.
 
 
-##### Stefaniak, Alexander and Joe Davies "Women, Pianos, and Virtuosity, 1800--1900." In _The Cambridge Companion to Women Composers._ Forthcoming.  
+### Stefaniak, Alexander and Joe Davies "Women, Pianos, and Virtuosity, 1800--1900." In _The Cambridge Companion to Women Composers._ Forthcoming.  
 
 Historical and social context for women composers and performers.
 
@@ -6993,9 +6993,9 @@ Clara Schumann's renditions of her late husband's work.
 Sophie Menter.  
 
   
-##### Stefaniak, Alex. "Introduction to Musicological Research." Class taught at Washington University in Saint Louis, Fall 2020.
+### Stefaniak, Alex. "Introduction to Musicological Research." Class taught at Washington University in Saint Louis, Fall 2020.
 
-###### Week 1
+#### Week 1
 
 > **In this class session we went over the basics of how the class will look. Then we had a discussion about [Kerman's _Contemplating Music_](#Kerman, 1985) and [Bent's "Fact and Value in Contemporary Scholarship."](#Bent, 1985)**
 
@@ -7017,11 +7017,11 @@ Sophie Menter.
 
 > Kermans view of what is musicology is very narrow. He is oriented only toward the individual "work"
 
-###### Office Hours, 1T
+#### Office Hours, 1T
 
 Casting castrati only makes sense if you take into account Early Modern sexuality.
 
-###### Week 2
+#### Week 2
 
 > Discussion of the anatomy of a scholarly article.
 
@@ -7030,7 +7030,7 @@ Casting castrati only makes sense if you take into account Early Modern sexualit
 > Score as script
 
 
-###### Week 3
+#### Week 3
 
 > **Library tour, example: Rebekah Clarke**
 
@@ -7076,7 +7076,7 @@ Casting castrati only makes sense if you take into account Early Modern sexualit
 
 > Composers can't be where music history ends.
 
-###### Week 4
+#### Week 4
 
 > Discussion of sheet music archive
 
@@ -7094,11 +7094,11 @@ Casting castrati only makes sense if you take into account Early Modern sexualit
 
 > Minstrelsy was popular in the Northeast.
 
-###### Week 5:
+#### Week 5:
 
 > Transparency is the gold standard in the humanities. It is like replicability in the sciences. 
 
-###### Week 6: 
+#### Week 6: 
 
 > Discussion with Dan Fister and Elena.
 
@@ -7112,7 +7112,7 @@ Casting castrati only makes sense if you take into account Early Modern sexualit
 
 
 
-###### Week 7: 
+#### Week 7: 
 
 > Westergaard
 
@@ -7127,7 +7127,7 @@ Casting castrati only makes sense if you take into account Early Modern sexualit
 > Stephen King's book on writing.
 
 
-###### Week 8: 
+#### Week 8: 
 
 Kira Thurman guest.  
 
@@ -7135,19 +7135,19 @@ How do you get published in the New Yoker?
 
 Minimization of black women.  
 
-###### Week 9: 
+#### Week 9: 
 
 Specificity of ideal paper.  
 
 Getting stuedents to hear what you want them to hear in the music.
 
-###### Week 10:
+#### Week 10:
 
 Problems with posthumanism.  
 
 Ralph Locke's definintion of exoticism.  
 
-###### Week 11:  
+#### Week 11:  
 
 Guest: Paula Harper.  
 
@@ -7161,7 +7161,7 @@ Stafaniak: How does singing the piece give us something which we don't get from 
 
 
 
-###### Week 12:
+#### Week 12:
 
 What is neoliberalism? A political and economic system or framework about free market capitalism and globalization. All about profit and economic gain, often at the expense of cutting social safety nets. Profit is everything.  
 
@@ -7175,7 +7175,7 @@ It is good to point to tJ. Peter Burkholder - "Borrowing" in NG2 he messiness of
 
 "Engaged musicology" and/vs "presentist" readings.  
 
-###### Week 13:  
+#### Week 13:  
 
 J. Peter Burkholder - "Borrowing" in NG2  
 
@@ -7191,7 +7191,7 @@ Interiority "not just a keyboard athlete."
 
 Eduard Hanslick, 1856: "Subordination of her own subjectivity to the intention of the composer" is why Hanslick though that Clara Schumann was such a good performer.  
 
-###### Week 14:  
+#### Week 14:  
 
 Redesinging the undergrad music history core.  
 
@@ -7199,9 +7199,9 @@ Peer review, how does a journal article get published?
 
 How to get a book published.  
 
-##### Stefaniak, Alex. "Virtuosity." Class taught at Washington University in Saint Louis, Spring 2021.  
+### Stefaniak, Alex. "Virtuosity." Class taught at Washington University in Saint Louis, Spring 2021.  
 
-####### Tuesday, week 1
+##### Tuesday, week 1
 
 VIRTUOSITY 
 higher than average ability, particularly technical (but maybe not limited to technique) 
@@ -7227,7 +7227,7 @@ Exaggerating, widening the leaps - variations that show off her bel canto style.
 Top of p. 6: singer uses virtuosic display to underline specific part of the libretto - emphasizes the "ma." 
 Cabaletta   
   
-##### Steinbeck, Paul. "Improvisation and Collaboration in Anthony Braxton's _Composition 76._" _Journal of Music Theory_ 62, no. 2 (2018): 249-278:  
+### Steinbeck, Paul. "Improvisation and Collaboration in Anthony Braxton's _Composition 76._" _Journal of Music Theory_ 62, no. 2 (2018): 249-278:  
 
 249: Braxton's _Composition 76._  
 
@@ -7260,7 +7260,7 @@ Cabaletta
 270: A problem in the improviation with you can hear the performers working out. 
 
 
-##### Susini, Patrick, Oliver Houix, and Nicolas Misdariis. "Sound Design: An Applied, Experimental Framework to Study the Perception of Everyday Sounds." _The New Soundtrack_ 4, no 2. (2014): 103-121.  
+### Susini, Patrick, Oliver Houix, and Nicolas Misdariis. "Sound Design: An Applied, Experimental Framework to Study the Perception of Everyday Sounds." _The New Soundtrack_ 4, no 2. (2014): 103-121.  
 
 104: "Everyday souds."  
 
@@ -7307,12 +7307,12 @@ Cabaletta
 -: Timbrel perception.  
 
 
-#### T
+## T
 
 
-##### Taruskin, Richard. _Text and Act: Essays on Music and Performance._ New York Oxford University press, 1995.  
+### Taruskin, Richard. _Text and Act: Essays on Music and Performance._ New York Oxford University press, 1995.  
 
-###### Chapter 4: The pastness of the Present and the Presence of the Past.   
+#### Chapter 4: The pastness of the Present and the Presence of the Past.   
 
 **The sound of mid-century early music is just the sound of modernism, i.e. a turn away from the big sounds of Romanticism.**
 
@@ -7350,7 +7350,7 @@ Cabaletta
 
 151: Postcript: Maturation of early music.  
 
-###### Chapter 6: The Modern Sound of Early Music.  
+#### Chapter 6: The Modern Sound of Early Music.  
 
 164: Falacies within the early music movement.  
 
@@ -7373,7 +7373,7 @@ Cabaletta
 171: A response to a mean letter that he got after initially publishing this paper. 
 
 
-##### Taruskin, Richard."The Poietic Fallacy." _The Musical Times_ 145, no. 1886 (Spring 2004): 7-34.
+### Taruskin, Richard."The Poietic Fallacy." _The Musical Times_ 145, no. 1886 (Spring 2004): 7-34.
 
 > **This piece is actually a book review of _Arnold Schoenberg's Journey_ by Allen Shawn,however Taruskin uses it as a platform to make much larger critiques of how we view Schoenberg and classical music. The problem which he points to is the "poietic fallacy"--the idea that the important part of the music is how brilliantly it is constructed, not its aesthetic qualities. He shows how this fallacy arises out of the historiography and philosophy of Franz Brendel. We know that Schoenberg saw himself as part of the Germanic chain of being on its way toward artistic perfection and Taruskin concludes that this outdated esthetic is precisely why Schoenberg is unpopular today.**
 
@@ -7425,7 +7425,7 @@ Cabaletta
 
 > p. 33: Why Schoenberg is unpopular (old fashioned esthetic.)
 
-##### Thurman, Kira. "Performing Lieder, Hearing Race: Debating Blackness, Whiteness, and German Identity in Interwar Central Europe." _Journal of the American Musicological Society_ 72, no. 3 (2019): 825-868.
+### Thurman, Kira. "Performing Lieder, Hearing Race: Debating Blackness, Whiteness, and German Identity in Interwar Central Europe." _Journal of the American Musicological Society_ 72, no. 3 (2019): 825-868.
 
 825: Depictions of blacks in 1928 German essay.  
 
@@ -7468,7 +7468,7 @@ Cabaletta
 856: Performance of spirituals. (Often seen as "authentic".)  
 
 
-##### Taylor, William "Billy." "Jazz: America's Classical Music." _The Black Perspctive in Music,_ 14, no. 1 (1986): 21-25.
+### Taylor, William "Billy." "Jazz: America's Classical Music." _The Black Perspctive in Music,_ 14, no. 1 (1986): 21-25.
 
 21: Author describes jazz as "serious," though fun to play.    
 
@@ -7483,7 +7483,7 @@ Cabaletta
 25: Bias against jazz.  
 
   
-##### Thurman, Kira. "When Marian Anderson Defied the Nazis." _The New Yorker._ (July 15, 2020).
+### Thurman, Kira. "When Marian Anderson Defied the Nazis." _The New Yorker._ (July 15, 2020).
 
 P1: Marian Anderson known for singing on the steps of the Lincoln Memorial.  
 
@@ -7504,16 +7504,16 @@ P12: Anderson's final European concert.
 P14: Return to Europe at request of US Military.  
 
   
-##### Tracy, Andrew. "The Matepe Music of Rhodesia."  
+### Tracy, Andrew. "The Matepe Music of Rhodesia."  
 
 38: Shona chord sequence.  
 
 
 
 
-#### V
+## V
 
-##### Väätäinen, Hanna. 2017. “Forming Common Notions in a Kinetic Research Collaboration” 205–22. In _Musical Encounters with Deleuze and Guattari_, edited by Pirkko Moisala, Taru Leppänen, Milla Tiainen, and Hanna Väätäinen. Bloomsbury Sound Studies. New York: Bloomsbury Academic.
+### Väätäinen, Hanna. 2017. “Forming Common Notions in a Kinetic Research Collaboration” 205–22. In _Musical Encounters with Deleuze and Guattari_, edited by Pirkko Moisala, Taru Leppänen, Milla Tiainen, and Hanna Väätäinen. Bloomsbury Sound Studies. New York: Bloomsbury Academic.
 
 > **This chapter details a series collaborative dance sessions by Väätäinen and Anneli Tiilikainen while viewing the film _Point_. Väätäinen coins the term kinecepts_ to refer to the way that movements can be used as analytic tools. She does this to challenge the privileging of concepts in research and ethnography. In short, she is proposing that movement be used as a serious tool in ethnographic and other social research.**
 
@@ -7540,7 +7540,7 @@ P14: Return to Europe at request of US Military.
 > p. 218: She uses the phrase "formation of a body". I am not sure what this means, but it is related to the composite body above.
 
 
-##### Van de Werf, Hendrik. "The Trouvere Chansons As Creations of a Notationless Musical Culture." _Current Musicology_ 1, no 1 (1965): 61-68.  
+### Van de Werf, Hendrik. "The Trouvere Chansons As Creations of a Notationless Musical Culture." _Current Musicology_ 1, no 1 (1965): 61-68.  
 
 **This paper suggets that notational differences across different manuscripts of chansons is not the result of scribal error, as commonly assumed, but a representation of how oral and aural this cualture was, and of how the piece was essential a multiplicity of performances form the level of the troubadour to the scribe.**
 
@@ -7555,7 +7555,7 @@ P14: Return to Europe at request of US Military.
 66: Corrections made by scribes to "inaccuracies" of the illiterate troubadours.    
 
 
-##### Virtual Dervish Experience.
+### Virtual Dervish Experience.
 
 There are musical clues to end each cycle, to raise and lower arms, and to stop whirling.  
 
@@ -7568,9 +7568,9 @@ Music in 4th salute is more rhytmic, feels happier, and more open/comclusive.
 This experience is remeniscent of the way that headphones make the sound come out of your own head. This looks like a halucination.
 
 
-#### W
+## W
 
-##### Washburne, Christopher. "Play It _Con Filin!_: The Swing and Expression of Salsa." _Latin American Music Review_ 19, no 2 (1998): 160-185.  
+### Washburne, Christopher. "Play It _Con Filin!_: The Swing and Expression of Salsa." _Latin American Music Review_ 19, no 2 (1998): 160-185.  
 
 160: Origin of the phrase "con ifilin."  
 
@@ -7617,7 +7617,7 @@ This experience is remeniscent of the way that headphones make the sound come ou
 180: Musicians dancing in order to feel the music, and problems thereof.  
 
 
-##### Waterman, Ellen. "'I Dreamed of Other Worlds:' An Interview with Nicole Mitchell, May 8, 2008." _Critical Studies in Improvisation_ 4, no. 1 (2008): 1-6.  
+### Waterman, Ellen. "'I Dreamed of Other Worlds:' An Interview with Nicole Mitchell, May 8, 2008." _Critical Studies in Improvisation_ 4, no. 1 (2008): 1-6.  
 
 1: Mitchell on her mother, improvising, starting from blankness, and writing music visually.  
 
@@ -7626,7 +7626,7 @@ This experience is remeniscent of the way that headphones make the sound come ou
 4: Pedagogy.  
 
 
-##### Weber, William, "Musical Canons." In _The Oxford Handbook to Music and Itellectual Culture in the Nineteenth Century, ed. Paul Watt, Sarah Collins, and Michael Allis._ Oxford: Oxford University Press, 2020.  
+### Weber, William, "Musical Canons." In _The Oxford Handbook to Music and Itellectual Culture in the Nineteenth Century, ed. Paul Watt, Sarah Collins, and Michael Allis._ Oxford: Oxford University Press, 2020.  
 
 319: Gradual replacement of "classical music" with "the canon."  
 
@@ -7656,7 +7656,7 @@ This experience is remeniscent of the way that headphones make the sound come ou
 
 
 
-##### Wegman, Rob C. "Faugues, Guillaume." _Oxford Music Online._ 2001
+### Wegman, Rob C. "Faugues, Guillaume." _Oxford Music Online._ 2001
 
 > P1: Biographical details.
 
@@ -7668,7 +7668,7 @@ This experience is remeniscent of the way that headphones make the sound come ou
 
 > P5: Structural repetition
 
-##### Wegman, Rob C. "Guillaume Faugues and the Anonymous Masses 'Au chnat de l'aloute' and 'Vinnus vina.'" _Yijdschrift van de Vereniging voor Nederlandse Muziekgeschiedenis_ 41, no. 1 (1991): 27-64.
+### Wegman, Rob C. "Guillaume Faugues and the Anonymous Masses 'Au chnat de l'aloute' and 'Vinnus vina.'" _Yijdschrift van de Vereniging voor Nederlandse Muziekgeschiedenis_ 41, no. 1 (1991): 27-64.
 
 > 27: Question of lasting influence.
 
@@ -7709,7 +7709,7 @@ This experience is remeniscent of the way that headphones make the sound come ou
 >
 
 
-##### White, Kimberly. "Setting the Standard: Singers, Theatre Practices, and the Operatic Canon in Nineteenth-Century France." In _The Oxford Handbook to the Operatic Canon._ ed. William Weber and Cormac Newark. Oxford: Oxford University Press, 2020.  
+### White, Kimberly. "Setting the Standard: Singers, Theatre Practices, and the Operatic Canon in Nineteenth-Century France." In _The Oxford Handbook to the Operatic Canon._ ed. William Weber and Cormac Newark. Oxford: Oxford University Press, 2020.  
 
 342: Labor system of the Opera-Comique.  
 
@@ -7730,14 +7730,14 @@ This experience is remeniscent of the way that headphones make the sound come ou
 
 <a name= "Wilson"></a>
 
-##### Wilson, James Grant and John Fiske, eds. _Appletons' Cyclopædia of American Biography_. New York: D. Appleton and Company, 1900
+### Wilson, James Grant and John Fiske, eds. _Appletons' Cyclopædia of American Biography_. New York: D. Appleton and Company, 1900
 
 > p. 353: The voice of Henry Russel is described as having had "a heavy baritone voice of small compass, but in declamatory delivery it was highly impressive."
 
 > p. 353: Henry Russel is describes as writing in a "manly vein."
 
 
-##### Wilson, Oly. "The Heterogenous Sound Ideal." in _Signigyin(g), Sanctifyin', and Slam Dunking_. edited by Gena Dagel Caponi, 157-xx. Amherst: University of Massachusetts Press, 1999.  
+### Wilson, Oly. "The Heterogenous Sound Ideal." in _Signigyin(g), Sanctifyin', and Slam Dunking_. edited by Gena Dagel Caponi, 157-xx. Amherst: University of Massachusetts Press, 1999.  
 
 157: Duke Ellington "It don't mean a thing if it aint got that swing."  
 
@@ -7750,7 +7750,7 @@ This experience is remeniscent of the way that headphones make the sound come ou
 165: Singing with the "holler, cry, or moan."  
 
 
-##### Wong, Deborah. “Taiko and the Asian/American Body: Drums, ‘Rising Sun,’ and the Question of Gender.” _The World of Music_ 42, no. 3 (2000): 67–78. 
+### Wong, Deborah. “Taiko and the Asian/American Body: Drums, ‘Rising Sun,’ and the Question of Gender.” _The World of Music_ 42, no. 3 (2000): 67–78. 
 
 67: Taiko and American orientalization.  
 
@@ -7764,9 +7764,9 @@ This experience is remeniscent of the way that headphones make the sound come ou
 
 
 
-#### Y
+## Y
 
-##### Yang, Mina. _Planet Beethoven: Classical Music at the Turn of the Millennium._ Middletown, CT: Wesleyan University Press, 2014.
+### Yang, Mina. _Planet Beethoven: Classical Music at the Turn of the Millennium._ Middletown, CT: Wesleyan University Press, 2014.
 
 Chapter 3: East Meets West in the Concert Hall.  
 
@@ -7829,7 +7829,7 @@ Chapter 3: East Meets West in the Concert Hall.
 89: Looking forward: aknowledging rather than denying race.  
 
 
-##### Yong Jeon, Jin, Jin You, and Ho Yeon Chang. "Sound Radiation and Sound Quality Characteristics of Refrigerator Noise in Real Living Environments." _Applied Acoustics_ 68 (2007): 1118-1134.  
+### Yong Jeon, Jin, Jin You, and Ho Yeon Chang. "Sound Radiation and Sound Quality Characteristics of Refrigerator Noise in Real Living Environments." _Applied Acoustics_ 68 (2007): 1118-1134.  
 
 1118: Rising concern over the sound of household appliances.  
 
@@ -7846,7 +7846,7 @@ Chapter 3: East Meets West in the Concert Hall.
 1129: Semantic description test.  
 
 
-##### Yoshihara Mari. _Musicians from a Different Shore: Asians and Asian Americans in Classical Music._ Philadelphia: Temple University Press, 2007.
+### Yoshihara Mari. _Musicians from a Different Shore: Asians and Asian Americans in Classical Music._ Philadelphia: Temple University Press, 2007.
 
 Introduction.  
 
@@ -7913,7 +7913,7 @@ Chapter 2: Roots and Routes of Asian Musicians.
 99: Conclusion/summary of chapter.  
 
 
-##### Young, Alan. _Woke Me up this Morning: Black Gospel Singers and the Gospel Life._ Jackson: University Press of Mississippi, 1997.  
+### Young, Alan. _Woke Me up this Morning: Black Gospel Singers and the Gospel Life._ Jackson: University Press of Mississippi, 1997.  
 
 222: COGIC: Church of God in Christ.  
 
@@ -7925,7 +7925,7 @@ Chapter 2: Roots and Routes of Asian Musicians.
 
 
 
-##### Young, Hershini. "`Sound of Kuduro knocking at my door'" Kuduro Dance and the Poetics of Debility. _African American Review_ 45, no. 3 (2012): 391-402.  
+### Young, Hershini. "`Sound of Kuduro knocking at my door'" Kuduro Dance and the Poetics of Debility. _African American Review_ 45, no. 3 (2012): 391-402.  
 
 391: Angola dancer Costuleta.  
 
@@ -7944,7 +7944,7 @@ Chapter 2: Roots and Routes of Asian Musicians.
 Is this a divergent ability? A disabled ability akin to a female masculinity?    
 
 
-##### Younge, Paschal Yao. _Music and Dance Traditions of Ghana: History, Performance, and Teaching._ Jefferson, N.C.: McFarland & Company, 2011.  
+### Younge, Paschal Yao. _Music and Dance Traditions of Ghana: History, Performance, and Teaching._ Jefferson, N.C.: McFarland & Company, 2011.  
 
 46: Agbadza.  
 
@@ -7957,9 +7957,9 @@ Is this a divergent ability? A disabled ability akin to a female masculinity?
 316-349: Appendix of transcriptions.  
   
 
-#### Z
+## Z
 
-##### Zayaruznaya, Anna. "What Fortune can Do to a Minim." _Journal of the American Musicological Society_ 65, no. 2 (2012): 313-381.  
+### Zayaruznaya, Anna. "What Fortune can Do to a Minim." _Journal of the American Musicological Society_ 65, no. 2 (2012): 313-381.  
 
 313: _Roman de la rose_.  
 
@@ -8008,7 +8008,7 @@ Is this a divergent ability? A disabled ability akin to a female masculinity?
 
 
 
-##### Zazulia, Emily. "'Corps Contre Corps,' Voix Contre Voix: Conflicting Codes of Discourses in the Combinative Chanson." _Early Music_ 30, no. 3 (August 20): 347-359.
+### Zazulia, Emily. "'Corps Contre Corps,' Voix Contre Voix: Conflicting Codes of Discourses in the Combinative Chanson." _Early Music_ 30, no. 3 (August 20): 347-359.
 
 > 347: Vulgar language in chansonniers.
 
@@ -8035,7 +8035,7 @@ Is this a divergent ability? A disabled ability akin to a female masculinity?
 > 355: Music articulates social order.
 
 
-#### Lost and Found
+## Lost and Found
 
 > Songs vs. mass, example: Dufay recycling Se la face ay pale from a madrigal into a mass.
 
