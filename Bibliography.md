@@ -1,6 +1,6 @@
 # Bibliography
 
-> [Format](file:///home/harlan/Desktop/Notes%20and%20Bibliography%20Style.html)
+[Format](file:///home/harlan/Desktop/Notes%20and%20Bibliography%20Style.html)
 
 ## A
 
@@ -97,7 +97,7 @@
 
 #### Chapter 3: The Invention of "African Rhythm"
 
-> **In this chapter, Agawu looks at the commonly held notion---even among musicologists--that African music is primarily rhythmic, and contains rhythms so foreign to the west as to be incomprehensible. This invention implies that western music is lacking in rhythm and that African music is lacking in harmony or melodic complexity. It suggests that Africa is one cultural body and it leads to research which can ultimately only prove its own wrongheaded assumptions. He makes a special point in the section "Interrogating a Lexical Gap" that the Ewe speaking people do not have a word for rhythm. He points to this fact as a way to stress the way that what we call rhythm isn't its own distinct category to the Ewe, but rather an interconnected, interterstitial, group of phenomena. Regading notation, a big part of Agawu's argument is that African music isn't an anomaly. Systems made specifically for African music in a sense "orientalize" (Australize?) African music and deny it's universality and would silo African music off away from critical musdiscourses or performance by musicians who aren't Africanists by trade. Essentially, a new notation for African music would be disempowering. Additionally, western notation is probably just fine for African music. Stravinsky notated _Rite of Spring_ just fine. The idea that we need a different notation for African music is based off of the erroneous, colonial, assumption that African music is ontologically different. In the end he is advocating that the only way out of epistemic violence is to empower post-colonial African subjects to write about themselves.**
+**In this chapter, Agawu looks at the commonly held notion---even among musicologists--that African music is primarily rhythmic, and contains rhythms so foreign to the west as to be incomprehensible. This invention implies that western music is lacking in rhythm and that African music is lacking in harmony or melodic complexity. It suggests that Africa is one cultural body and it leads to research which can ultimately only prove its own wrongheaded assumptions. He makes a special point in the section "Interrogating a Lexical Gap" that the Ewe speaking people do not have a word for rhythm. He points to this fact as a way to stress the way that what we call rhythm isn't its own distinct category to the Ewe, but rather an interconnected, interterstitial, group of phenomena. Regading notation, a big part of Agawu's argument is that African music isn't an anomaly. Systems made specifically for African music in a sense "orientalize" (Australize?) African music and deny it's universality and would silo African music off away from critical musdiscourses or performance by musicians who aren't Africanists by trade. Essentially, a new notation for African music would be disempowering. Additionally, western notation is probably just fine for African music. Stravinsky notated _Rite of Spring_ just fine. The idea that we need a different notation for African music is based off of the erroneous, colonial, assumption that African music is ontologically different. In the end he is advocating that the only way out of epistemic violence is to empower post-colonial African subjects to write about themselves.**
 
 55: The persistant notion that African music is fundamentally rhythmic.  
 
@@ -210,35 +210,35 @@
 
 ### Alden, Jane. "On the Aesthetics of 15th-Century Chansonniers." _Danish Yearbook of Musicology_ 33 (2005): 17-30.
 
-> **This paper reads the fifteenth century chansonnier as a "polyphonic text," that is, they invited multiple and interrelated modes of reading.**
+**This paper reads the fifteenth century chansonnier as a "polyphonic text," that is, they invited multiple and interrelated modes of reading.**
 
-> 17: Chansonniers as polyphonic text
+17: Chansonniers as polyphonic text
 
-> 17: Different ways to read the chansonniers.
+17: Different ways to read the chansonniers.
 
-> 18: Separation of illustration and writing in illuminated manuscripts.
+18: Separation of illustration and writing in illuminated manuscripts.
 
-> 19: Chivalric love poetry.
+19: Chivalric love poetry.
 
-> 20: Illumination.
+20: Illumination.
 
-> 21: Song anthologies.
+21: Song anthologies.
 
-> 22: Musical score written in pearls on a coat of Charles d'Orleans.
+22: Musical score written in pearls on a coat of Charles d'Orleans.
 
-> 22: Music notation was valued as an aesthetic object even by the musically illiterate and outside of performance contexts.
+22: Music notation was valued as an aesthetic object even by the musically illiterate and outside of performance contexts.
 
-> 23: These books were aesthetic, not practical objects.
+23: These books were aesthetic, not practical objects.
 
-> 23: Works tended to fit on to one opening.
+23: Works tended to fit on to one opening.
 
-> 24: Interpretive activity of the reader.
+24: Interpretive activity of the reader.
 
-> 24: Borders and boundaries.
+24: Borders and boundaries.
 
-> 26: In the middle ages, art for art's sake did not exist. (via Hans Belting)
+26: In the middle ages, art for art's sake did not exist. (via Hans Belting)
 
-> 29: These books were objects of show and aesthetics.
+29: These books were objects of show and aesthetics.
 
 
 ### Andre, Naomi. _Black Opera: History, Power, Engagement._ Urbana: University of Illinois Press, 2018.  
@@ -310,37 +310,37 @@
 
 ### Atlas, Allan. _Renaissance Music: Music in Western Europe, 1400-1600._ (New York: W. W. Norton and Company, Inc., 1998).
 
-> 5: The English style.
+5: The English style.
 
-> 8: Fauburden (36 triads) in England.
+8: Fauburden (36 triads) in England.
 
-> 10: Fauxbourdon: the continental counterpart.
+10: Fauxbourdon: the continental counterpart.
 
-> 12: c.f. masses as English invention.
+12: c.f. masses as English invention.
 
-> 15: English tuning of 3rds.
+15: English tuning of 3rds.
 
-> 16: Isorhythm: Color and talea
+16: Isorhythm: Color and talea
 
-> 17: Isomelism
+17: Isomelism
 
-> 19: Carol
+19: Carol
 
-> 22: Some historical geography, 100 years war, schism and Council of Constance.
+22: Some historical geography, 100 years war, schism and Council of Constance.
 
-> 23: Humanism
+23: Humanism
 
 #### Chapter 3: Franco Flemish music
 
-> 27: Ars nova
+27: Ars nova
 
-> 27: Ars subtilior
+27: Ars subtilior
 
-> 31: new style
+31: new style
 
-> 33: Some music theory
+33: Some music theory
 
-> 36: Ciconia
+36: Ciconia
 
 
 ### Attar, Eden.  _Diswaher Sounds._ 2021.
@@ -421,23 +421,23 @@ In this essay, Barad argues against constructivist or representionalist viewpoin
 
 ### Bashford, Christina. "Concert Listening the British Way?: Program Notes and Victorian Culture." In _The Oxford Handbook of Music Listening in the 19th and 20th Centuries,_ edited by Christian Thorau and Hansjakob Ziemer,  187-206. Oxford: Oxford University Press, 2019.
 
-> **This chapter is an overview and analysis of show notes in Victorian England. It looks into why the were a British phenomenon and what they did to shape the listening experience.**
+**This chapter is an overview and analysis of show notes in Victorian England. It looks into why the were a British phenomenon and what they did to shape the listening experience.**
 
-> 187: Printed program notes.
+187: Printed program notes.
 
-> 188: Concert organizations attempted to enlighten and shape the listening experience though program notes.
+188: Concert organizations attempted to enlighten and shape the listening experience though program notes.
 
-> 191: This contributed to the cannonization of classical music. 
+191: This contributed to the cannonization of classical music. 
 
-> 192: Importance of the piano transcription in familiarity with pieces before recordings.
+192: Importance of the piano transcription in familiarity with pieces before recordings.
 
-> 193: Cost of notes.
+193: Cost of notes.
 
-> 195: The Bible and religious tones at concerts.
+195: The Bible and religious tones at concerts.
 
-> 199: Why program notes were only found in Britain until the late 19th century.
+199: Why program notes were only found in Britain until the late 19th century.
 
-> 200: Program notes' encouragement of linear, structural listening.
+200: Program notes' encouragement of linear, structural listening.
 
 ### Beethoven, Ludwig van. "Quartet no. 4." 
 
@@ -523,7 +523,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 ###  Bent, Margaret. "Fact and Value in Contemporary Scholarship." _The Musical Times_ 127, no. 1716 (Febuary 1986): 85-89. [PDFs](/home/harlan/Downloads/School Downloads/IntroMusicology/Week1). See Also [Kerman, 1985.](#Kerman, 1985) 
 
-> **A Review of Kerman, 1985. Bent argues that Kerman has too narrow a definition musicology, that criticism and aesthetic appreciation are already a part of musicological research, and that what we really need is just good, patient, critical scholarship.**
+**A Review of Kerman, 1985. Bent argues that Kerman has too narrow a definition musicology, that criticism and aesthetic appreciation are already a part of musicological research, and that what we really need is just good, patient, critical scholarship.**
 
 86: Discussion of positivism.
 
@@ -815,144 +815,144 @@ Bloxam uses the story of the singing white hart at the feast of the pheasent to 
 ### Bokulich, Clare. "Music in the Renaissance Period." Class taught at Washington University in Saint Louis, Fall 2020.
 #### Week 1
 
-> Nothing to report here.
+Nothing to report here.
 
 #### Week 2
 
-> Please add page numbers to discussion questions when quoting or citing. Also please bold authors names and don't be afraid to ask straight-forward, factual questions.
+Please add page numbers to discussion questions when quoting or citing. Also please bold authors names and don't be afraid to ask straight-forward, factual questions.
 
-> Discussion of how to read a scholarly paper.
+Discussion of how to read a scholarly paper.
 
-> Demonstration of Josquin Research Project and other sources of scores.
+Demonstration of Josquin Research Project and other sources of scores.
 
-> Discussion of borrowing.
+Discussion of borrowing.
 
-> How is the mass significant for borrowing?
+How is the mass significant for borrowing?
 
-> Why does Meconi call them "art songs?"
+Why does Meconi call them "art songs?"
 
-> Discussion of vocabulary: Mass ordinary, c.f., parody, imitation, so plachet.
+Discussion of vocabulary: Mass ordinary, c.f., parody, imitation, so plachet.
 
 #### Week 3
 
-> Forme fixe: Rondo, ballade, and one other
+Forme fixe: Rondo, ballade, and one other
 
-> Rondo form: ABaAabAB. Uppercase=text and music repeat, lowercase=music repeats with new text.
+Rondo form: ABaAabAB. Uppercase=text and music repeat, lowercase=music repeats with new text.
 
-> Dijon song book (beautiful penmanship)
+Dijon song book (beautiful penmanship)
 
-> **Fitch, Agricola and the  Rhizome** 
+**Fitch, Agricola and the  Rhizome** 
 
-> Things fit together is the idea of the rhizome.
+Things fit together is the idea of the rhizome.
 
-> He is putting Ockagam into a broader look at the use or lack thereof of c.f. material.
+He is putting Ockagam into a broader look at the use or lack thereof of c.f. material.
 
-> Discussion of meaning of "polyphonic quotation"
+Discussion of meaning of "polyphonic quotation"
 
-> Parody Masses tend to be based on motets.
+Parody Masses tend to be based on motets.
 
-> The opposite of rhizomatic is arborescent.
+The opposite of rhizomatic is arborescent.
 
-> Agricola doesn't fit in the arborescent view.
+Agricola doesn't fit in the arborescent view.
 
-> Josquin Generation: Group of composers who wrote a lot at the end of the 15th century.
+Josquin Generation: Group of composers who wrote a lot at the end of the 15th century.
 
 
 
-> **Fitch, Beyond cantus firmus**
+**Fitch, Beyond cantus firmus**
 
-> The use of only duple mensuration is unusual.
+The use of only duple mensuration is unusual.
 
-> He's using different texture type t shape different subsections of the text.
+He's using different texture type t shape different subsections of the text.
 
-> His question n this chapter is why the model was chosen, yet largely abandoned (158).
+His question n this chapter is why the model was chosen, yet largely abandoned (158).
 
 
 #### Week 4
 
-> For composer presentation, start with Grove.
+For composer presentation, start with Grove.
 
-> **Kirkman **
+**Kirkman **
 
-> Mainly looking at contrapuntal elements.
+Mainly looking at contrapuntal elements.
 
-> Voice and text relationships in _Misa caput_.
+Voice and text relationships in _Misa caput_.
 
-> Masses were sponsored in order to reduce the patrons time in purgatory.
+Masses were sponsored in order to reduce the patrons time in purgatory.
 
-> When you hear isorhythmic motet think tenor.
+When you hear isorhythmic motet think tenor.
 
 #### Week 5:
 
-> Milsom:
+Milsom:
 
-> Interlocks: A contrapuntal reduction. A monophonic fragment made to fit with itself polyphonically. (a) and (c ) in Milsom take the same material and interlock it differently. 
+Interlocks: A contrapuntal reduction. A monophonic fragment made to fit with itself polyphonically. (a) and (c ) in Milsom take the same material and interlock it differently. 
 
-> Interlocks were probably not written in the period, but rather conceptualized. In other words, they were aware of them.
+Interlocks were probably not written in the period, but rather conceptualized. In other words, they were aware of them.
 
-> The ideal listener knows the model and previous masses based on it.
+The ideal listener knows the model and previous masses based on it.
 
-> Reception and creation as non-distinct acts. Composition as a meaningful act of reception.
+Reception and creation as non-distinct acts. Composition as a meaningful act of reception.
 
-> Mass as remix (Andrew Tubbs said this)
+Mass as remix (Andrew Tubbs said this)
 
-> Contrafact: new words for the same melody.
+Contrafact: new words for the same melody.
 
-> Kirkman:
+Kirkman:
 
-> Variety vs unity: the c.f. was not a unifying device, rather, something from which to build variety. 
+Variety vs unity: the c.f. was not a unifying device, rather, something from which to build variety. 
 
-> It it useful to look for the worth of th mass in other sources, like the material culture of illuminated manuscripts.
+It it useful to look for the worth of th mass in other sources, like the material culture of illuminated manuscripts.
 
-> How does Kirkman clash with Fallows and the "symphonic" mass? 
+How does Kirkman clash with Fallows and the "symphonic" mass? 
 
-> Fuck Ambros. Don't read music with emotion, read as an ethnographer.
+Fuck Ambros. Don't read music with emotion, read as an ethnographer.
 
-> Why did the Hegelians love Palestrina? He was the earliest composer known for a while. Statuses changed as they started to incorporate earlier composers into the history.
+Why did the Hegelians love Palestrina? He was the earliest composer known for a while. Statuses changed as they started to incorporate earlier composers into the history.
 
 #### Week 6:
 
-> Next week bib due for final (look for Kirkman, cultural history of the polyphonic mass and Weyman, crisis of the middle ages)
+Next week bib due for final (look for Kirkman, cultural history of the polyphonic mass and Weyman, crisis of the middle ages)
 
-> Week after is midterm presentation
+Week after is midterm presentation
 
-> Songs tend to be one-to-one line of text to phrase of song.
+Songs tend to be one-to-one line of text to phrase of song.
 
-> 15th century songs tend to be composed from scratch, except for re-workings as discussed by Meconi.
+15th century songs tend to be composed from scratch, except for re-workings as discussed by Meconi.
 
-> A rondeu will always have just one line of text under the descantus and the rest in a footer.
+A rondeu will always have just one line of text under the descantus and the rest in a footer.
 
-> Section mass
+Section mass
 
-> Keep a notebook of how you are researching.
+Keep a notebook of how you are researching.
 
 #### Week 7:
 
-> Now we talk about songs
+Now we talk about songs
 
-> Alden:
+Alden:
 
->  Comparing chansonniers to poetry anthologies, books of hours, and books of history. (p 20
+ Comparing chansonniers to poetry anthologies, books of hours, and books of history. (p 20
 
-> the readers were nobles interested in mythologizing themselves
+the readers were nobles interested in mythologizing themselves
 
-> Viralei are a much more rare and longer forme fixe. They wouldn't fit on one opening of a chansonnier.
+Viralei are a much more rare and longer forme fixe. They wouldn't fit on one opening of a chansonnier.
 
-> Zazulia:
+Zazulia:
 
-> High-low dichotomy.
+High-low dichotomy.
 
-> Alden and Zazulia are looking atht eh same manuscripts.
+Alden and Zazulia are looking atht eh same manuscripts.
 
-> Cumming:
+Cumming:
 
-> Aesthetic shift away from variety toward unity.
+Aesthetic shift away from variety toward unity.
 
-> Late fifteenth century music gets less complex and more enjoyable.
+Late fifteenth century music gets less complex and more enjoyable.
 
-> _Fuga_ specifically refers to repetition.
+_Fuga_ specifically refers to repetition.
 
-> Different levels of variety in chansons, motets, and Masses.
+Different levels of variety in chansons, motets, and Masses.
 
 #### Week 9: 
 
@@ -1249,33 +1249,33 @@ Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."
 
 #### Chapter 1
 
-> 9: Form: the hierarchical arrangement of discrete, perceptually significant time spans---the grouping structure.
+9: Form: the hierarchical arrangement of discrete, perceptually significant time spans---the grouping structure.
 
-> 9: Sentence: 8 measure with a 2 measure basic idea containing several distinct motives. The presentation phrase has tonic harmony. The continuation is characterized by fragmentation and harmonic acceleration. The continuation moves with 1 bar harmonic units.
+9: Sentence: 8 measure with a 2 measure basic idea containing several distinct motives. The presentation phrase has tonic harmony. The continuation is characterized by fragmentation and harmonic acceleration. The continuation moves with 1 bar harmonic units.
 
-> 11: Liquidation
+11: Liquidation
 
-> Continuation ends with a half cadence.
+Continuation ends with a half cadence.
 
-> 12: The period. mm 3-4 bring a contrasting idea (not a fragmented continuation). the basic idea returns at mm 5-6.
+12: The period. mm 3-4 bring a contrasting idea (not a fragmented continuation). the basic idea returns at mm 5-6.
 
-> 13: Small ternary: ABA'. A is exposition of period or sentence structure. B is standing on the dominant. B is not often composed as a conventional theme type. A' completes harmonic melodic processes left open at the end of B. It often eliminates some repetitions of A and has further development. It has a new contrasting idea.
+13: Small ternary: ABA'. A is exposition of period or sentence structure. B is standing on the dominant. B is not often composed as a conventional theme type. A' completes harmonic melodic processes left open at the end of B. It often eliminates some repetitions of A and has further development. It has a new contrasting idea.
 
-> 16: Codetta/closing section.
+16: Codetta/closing section.
 
-> 16: "Standing on the dominant"
+16: "Standing on the dominant"
 
-> 17: Sonata exposition.
+17: Sonata exposition.
 
 
 
 #### Chapter 2: Fundamental Progressions
 
-> p.23: Short note on Hugo Riemann (functions vs scale degree)
+p.23: Short note on Hugo Riemann (functions vs scale degree)
 
 23: Overview of scale-degree theory
 
-24: IV --> V vs II6 --> V
+24: IV --V vs II6 --V
 
 24: Discussion of various pre-dominants
 
@@ -1287,9 +1287,9 @@ Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."
 
 #### Chapter 3
 
-> 35: REal vs notated measures
+35: REal vs notated measures
 
-> 37: Basic idea bounded by a rest
+37: Basic idea bounded by a rest
 
 #### Chapter 13  
 
@@ -1300,55 +1300,55 @@ Nat Hentoff, "You Can Still Hear her Voice When the Music Has Stopped."
 
 ### CADD+DSA Conference, September 26 11 AM EST.
 
-> Michelle Grant Marie
+Michelle Grant Marie
 
-> Michael J. Love
+Michael J. Love
 
-> Imana Ma'at AnkhmanRa Amen
+Imana Ma'at AnkhmanRa Amen
 
-> Carl Paris
+Carl Paris
 
-> Poetics of Black dance---ancestral, about listening, receiving, and being a conduit.
+Poetics of Black dance---ancestral, about listening, receiving, and being a conduit.
 
-> Acenstral dance movement memory.
+Acenstral dance movement memory.
 
-> "You come from the pelvis and everyone is trying to get in your pelvis."
+"You come from the pelvis and everyone is trying to get in your pelvis."
 
-> Yoga warm-up.
+Yoga warm-up.
 
-> **Holistic Teaching Methods, Imani Amen**
+**Holistic Teaching Methods, Imani Amen**
 
-> Reverse the "side effects" of oppression. 
+Reverse the "side effects" of oppression. 
 
-> Classroom as a community.
+Classroom as a community.
 
-> As a Black woman, "document everything"
+As a Black woman, "document everything"
 
-> Colective healing sessions: "unmasking thyself" while thinking about how masks are used in traditional African dance.
+Colective healing sessions: "unmasking thyself" while thinking about how masks are used in traditional African dance.
 
-> Spontaneity of African drum performances. It is sustainable music (as in you only need a Djembe, a cowbell, and one other drum.)
+Spontaneity of African drum performances. It is sustainable music (as in you only need a Djembe, a cowbell, and one other drum.)
 
-> Appropriation contract at African dance classes.
+Appropriation contract at African dance classes.
 
-> **Michael J. Love, performance**
+**Michael J. Love, performance**
 
-> Tap dance loops starting with electronic metronome.
+Tap dance loops starting with electronic metronome.
 
-> Looking for a queer perspective in the Jazz archive.
+Looking for a queer perspective in the Jazz archive.
 
-> Decolonizing the Black Body
+Decolonizing the Black Body
 
-> "Black Rest"
+"Black Rest"
 
-> **General comments**
+**General comments**
 
-> "Make me a man who questions." — Carl Paris quoting Fanon.
+"Make me a man who questions." — Carl Paris quoting Fanon.
 
-> Racism is a pandemic.
+Racism is a pandemic.
 
-> Ancestors are surrounding us and are ever present.
+Ancestors are surrounding us and are ever present.
 
-> Online interactions lose spiritual exchange.
+Online interactions lose spiritual exchange.
 
 ### Castillo, Greg. "Cold War Modern Design 1945-1970." Edited by David Crowly and Jane Pavitt. (London), 2008.  
 
@@ -1420,13 +1420,13 @@ mm. 2: Key signature of B Major, melody in the phrygian mode.
 
 ### Cimini, Amy. "Vibrating Colors and Silent Bodies. Music, Sound, and Silence in Maurice-Merleau-Ponty's Critique of Dualism." _Contemporary Music Review_ 31, no. 5-6 (October-December 2012): 353-370.
 
-> **Ponty et. al. reaiterateed mind-body duality but reemphasized the importance of the body. This paper looks at the differences between bodily and tacit knowledge.**
+**Ponty et. al. reaiterateed mind-body duality but reemphasized the importance of the body. This paper looks at the differences between bodily and tacit knowledge.**
 
-> 353: Descarts
+353: Descarts
 
-> 354: Hermeneutics and Gnostics
+354: Hermeneutics and Gnostics
 
-> That's all that I read...
+That's all that I read...
 
 
 ### Clark-Sheard, Karen. "Jesus is a Love Song."  
@@ -1435,11 +1435,11 @@ Chorus: Straight-tone (no vibrato.)
 
 ### Clarke, Grant, Edgar Leslie, and Maurice Abrahams. "He'd Have to Get under---Get out and Get under." New York: Maurice Abrahams Mudic co., 1913.
 
-> mm. 17-18: First appearance of three note motif.
+mm. 17-18: First appearance of three note motif.
 
-> mm 37-38: Return of three note motif, but used for the car.
+mm 37-38: Return of three note motif, but used for the car.
 
-> mm. 57-58: Three note motif with chromatic complication.
+mm. 57-58: Three note motif with chromatic complication.
 
 
 ### Clash, Kevin. _My Life as a Furry Red Monster: What Being Elmo has Taught me About Life, Love, and Laughing out Loud._ New York: Broadway Books, 2006.
@@ -1519,7 +1519,7 @@ Chorus: Straight-tone (no vibrato.)
 
 163: "Dixie" (popular because it was just a good song!)
 
-> 168: Note on mindless brutality.  
+168: Note on mindless brutality.  
   
   
   
@@ -1553,21 +1553,21 @@ Chorus: Straight-tone (no vibrato.)
 
 ### Cumming, Julia. "From Variety to Repetition: The Birth of Imitative Polyphony." _Yearbook of the Alamire Foundation_ 6, (2008): 21-44.
 
-> 21: Pervasive imitation
+21: Pervasive imitation
 
-> 25: Imitation in the mid-fifteenth century (was very different to imitation in Josquin generation. Varietas changed to unity.)
+25: Imitation in the mid-fifteenth century (was very different to imitation in Josquin generation. Varietas changed to unity.)
 
-> 28: Tinctoris on repetition.
+28: Tinctoris on repetition.
 
-> 30: Tinctoris on _fuga_ (means repetition.)
+30: Tinctoris on _fuga_ (means repetition.)
 
-> 31: Genre hierarchy: Chanson, motet, and Mass in Tinctoris.
+31: Genre hierarchy: Chanson, motet, and Mass in Tinctoris.
 
-> 37: Imitation used in song motets to bring out the structure of the text. It is more common in duet and trio sections.
+37: Imitation used in song motets to bring out the structure of the text. It is more common in duet and trio sections.
 
-> 41: Origins of the Milan motet.
+41: Origins of the Milan motet.
 
-> 43: Patronage as a possible reason for the shift.
+43: Patronage as a possible reason for the shift.
 
 
 ### Czerny, Carl. _Systematic Introduction to Improvisation at the Pianoforte._ Translated by Alice Mitchell. New York: Longman, 1983.  
@@ -1595,12 +1595,12 @@ Chorus: Straight-tone (no vibrato.)
 
 ### Data Camp. _Intro to Data Visualization_
 
-> Exploratory vs explanatory data vis
+Exploratory vs explanatory data vis
 
-> Anscombe's plots
+Anscombe's plots
 
-> ggplot(data, ase(x,y))+
-> geom\_()
+ggplot(data, ase(x,y))+
+geom\_()
 
 
 ### Danielsen, Anne. "Here, There and Everywhere: Three Accounts of Pulse in D'Angelo's 'Left and Right.'" in _Musical Rhythm in the Age of Digital Reproduction_ edited by anne Danielsen, 19-35. Farnham, Surrey, Ashgate, 2010.  
@@ -1689,37 +1689,37 @@ Dancers make their body strong through a continuous remaking of the body (orient
 
 ### Downey, Greg. "Listening to Capoeira: Phenominology, Embodiment, and the Materiality of Music." _Ethnomusicology_ 46, no. 3 (Autumn 2002): 487-509.
 
-> **Drawing on Barthes, Merleau-Ponty, and others, this paper moves towards a phenomenological approach to studying capoeira and its sounds. This paper argues for the enmeshment of the berimbau and its physical characteristics in the body of the martial artist.**
+**Drawing on Barthes, Merleau-Ponty, and others, this paper moves towards a phenomenological approach to studying capoeira and its sounds. This paper argues for the enmeshment of the berimbau and its physical characteristics in the body of the martial artist.**
 
-> 487: Objectification of music as recordings.
+487: Objectification of music as recordings.
 
-> 487/8: Geertz and the imperceptibility of the experience of our interlocutors.
+487/8: Geertz and the imperceptibility of the experience of our interlocutors.
 
-> 488: Merleau-ponty
+488: Merleau-ponty
 
-> 490: Phenomelogical exploration of capoaeria.
+490: Phenomelogical exploration of capoaeria.
 
-> 491: Genre bending in capoera
+491: Genre bending in capoera
 
-> 492: Musical accompaniment
+492: Musical accompaniment
 
-> 493: Berimbau as referee/moderator.
+493: Berimbau as referee/moderator.
 
-> 494: Other instruments
+494: Other instruments
 
-> 496: Gren de la voix and the berimbau
+496: Gren de la voix and the berimbau
 
-> 497: the complex of body and listening.
+497: the complex of body and listening.
 
-> 503: Experience and bodily enmeshment of sound.
+503: Experience and bodily enmeshment of sound.
 
-> 501: Gren de la voix: erotics
+501: Gren de la voix: erotics
 
-> 501: Sound of the berimbau and information on evasion of blows.
+501: Sound of the berimbau and information on evasion of blows.
 
-> 502: Mauss, imitation, learning.
+502: Mauss, imitation, learning.
 
-> 503: Listening as social.
+503: Listening as social.
 
 
 ### Downey, Greg. "The dynamics of the embrace: An analysis of leading and following in Argentine tango." Washington University, March 29, 2021. 
@@ -1760,158 +1760,158 @@ Gender asymetry as cultivated illusion.
 ### Duane, Ben. "Analysis 1." Class taught at Washington University in Saint Louis, Fall 2020.
 #### Week 1
 
-> Spend lots of time analyzing the scores
+Spend lots of time analyzing the scores
 
-> Aug 6 chords
+Aug 6 chords
 
-> Sonata form
+Sonata form
 
-> Schubert's "purple patch"
+Schubert's "purple patch"
 
-> Schubert liked a three key structure, which functions much like the more common two key structure.
+Schubert liked a three key structure, which functions much like the more common two key structure.
 
 #### Week 2:
 
-> **Tuesday**
+**Tuesday**
 
-> Minuet and trio forms.
+Minuet and trio forms.
 
-> Kinds of non-chord tones.
+Kinds of non-chord tones.
 
-> **Thursday**
+**Thursday**
 
-> Don Giovani, Il mio tesoro: The passage at 12 is a bit ambiguous. The g on the downbeat happens on a dom7 and doesn't sound like la. However, individual chords can evolve over time [David Lewin, "Music Theory Phenomenology and Modes of Perception."] That is what we have in this case. We are approaching by la and leaving by re. The phrase structure of this piece is very flexible and based on the text (phrase labels were invented for instrumental music). The new phrase at 19 is bracketed off by the sequence and key change. It has a small, nested sentence structure. It is lead into by the dissolution of energy via the triplets at 18.
+Don Giovani, Il mio tesoro: The passage at 12 is a bit ambiguous. The g on the downbeat happens on a dom7 and doesn't sound like la. However, individual chords can evolve over time [David Lewin, "Music Theory Phenomenology and Modes of Perception."] That is what we have in this case. We are approaching by la and leaving by re. The phrase structure of this piece is very flexible and based on the text (phrase labels were invented for instrumental music). The new phrase at 19 is bracketed off by the sequence and key change. It has a small, nested sentence structure. It is lead into by the dissolution of energy via the triplets at 18.
 
-> The trick with modulations is to analyze in both keys and look for the moment when the chords stop making sense in the old key.:
+The trick with modulations is to analyze in both keys and look for the moment when the chords stop making sense in the old key.:
 
-> Bb: I V7/V V42/V V6 vi6(weird) 
+Bb: I V7/V V42/V V6 vi6(weird) 
 
-> F: IV V7 V64 I6 ii6 V644-753 I
+F: IV V7 V64 I6 ii6 V644-753 I
 
-> Sentence: Basic idea, basic idea, continuation, cadence. (Think Ludwig van Beethoven Symphony No. 5 in C minor, Op. 67 BUM BUM BUM BUM… BUM BUM BUM BUM… bum bum bum bum, bum bum bum bum...)
+Sentence: Basic idea, basic idea, continuation, cadence. (Think Ludwig van Beethoven Symphony No. 5 in C minor, Op. 67 BUM BUM BUM BUM… BUM BUM BUM BUM… bum bum bum bum, bum bum bum bum...)
 
-> Period: Antecedent (a) and half cadence, consequent (a') and perfect authentic cadence.
+Period: Antecedent (a) and half cadence, consequent (a') and perfect authentic cadence.
 
-> Small ternary: a, b, a' (but often more varied)
+Small ternary: a, b, a' (but often more varied)
 
-> Discussion of Caplin: Harmony unfolds in the bigger phrase more than moment to moment. He begins cadential progressions at the I6. Remember the sequences of the ascending V6 and descending 3rd (which sometimes alternates root and first inversion).
+Discussion of Caplin: Harmony unfolds in the bigger phrase more than moment to moment. He begins cadential progressions at the I6. Remember the sequences of the ascending V6 and descending 3rd (which sometimes alternates root and first inversion).
 
 
 #### Week 3
 
-> **Tuesday**
+**Tuesday**
 
-> The most important part of analysis is identifying phrases.
+The most important part of analysis is identifying phrases.
 
-> Brahms:
+Brahms:
 
-> Hemioa vs. cross rhythm.
+Hemioa vs. cross rhythm.
 
-> Lots of rhythmic conflict
+Lots of rhythmic conflict
 
-> a a' b a'' form
+a a' b a'' form
 
-> You can have an elided authentic cadence.
+You can have an elided authentic cadence.
 
-> Hybrid phrase type: bi, ci, cont.
+Hybrid phrase type: bi, ci, cont.
 
-> "Tonicized half cadence"
+"Tonicized half cadence"
 
 **Thursday**
 
-> Cook (on Schenker):
+Cook (on Schenker):
 
-> Schenker is going out of fashion for many reasons.
+Schenker is going out of fashion for many reasons.
 
-> Reduction to most basic structural form is the number one goal.
+Reduction to most basic structural form is the number one goal.
 
-> Background, middleground, foreground.
+Background, middleground, foreground.
 
-> What is the middlegound can be ambiguous.
+What is the middlegound can be ambiguous.
 
-> Ersatz and earlymean.
+Ersatz and earlymean.
 
-> Fundamental line: descending 3rd, 5th, or 8v to tonic.
+Fundamental line: descending 3rd, 5th, or 8v to tonic.
 
-> Fundamental structure is two-part counterpoint, Ex: e, d, c over c, g, c harmonized I V I.
+Fundamental structure is two-part counterpoint, Ex: e, d, c over c, g, c harmonized I V I.
 
-> Predominants do not, strictly speaking, belong in the background.
+Predominants do not, strictly speaking, belong in the background.
 
-> "Unfolding" is basically arpeggiation to which you may add a dissonant passing tone or a neighbor.
+"Unfolding" is basically arpeggiation to which you may add a dissonant passing tone or a neighbor.
 
-> Embellishments may themselves be embellished.
+Embellishments may themselves be embellished.
 
 #### Week 4
 
-> Passing 64
+Passing 64
 
-> Ascending 2nds in Mozart: 5-6 ascending V sequence + chromatic passing tones.
+Ascending 2nds in Mozart: 5-6 ascending V sequence + chromatic passing tones.
 
-> Sequences are more about pairs of chords than individuals.
+Sequences are more about pairs of chords than individuals.
 
-> **Thursday** 
+**Thursday** 
 
 <a name= "Duane, R4"></a>
 
-> Discussion of [Kerman, "How We Got into Analysis, and How to Get out."](#Kerman, Analysis)
+Discussion of [Kerman, "How We Got into Analysis, and How to Get out."](#Kerman, Analysis)
 
-> Analysis vs criticism?
+Analysis vs criticism?
 
-> The field of music theory is pretending that it is doing something greater than it really is. It takes a scientistic approach which adds a veneer of objectivism to a fundamentally ideological and aesthetic pursuit. What has been called "analysis" is just another form of criticism. Shchenker was already subjective.
+The field of music theory is pretending that it is doing something greater than it really is. It takes a scientistic approach which adds a veneer of objectivism to a fundamentally ideological and aesthetic pursuit. What has been called "analysis" is just another form of criticism. Shchenker was already subjective.
 
-> Instead, Kerman would like to see a willingness to involve aesthetic evaluations.
+Instead, Kerman would like to see a willingness to involve aesthetic evaluations.
 
-> Kermans critique of the Schenker Graphs: The f natural at "klinger" is the emotional peak of the piece, but it is left out of the Schenker graph. Schenker also tends to have little to say about the text. 
+Kermans critique of the Schenker Graphs: The f natural at "klinger" is the emotional peak of the piece, but it is left out of the Schenker graph. Schenker also tends to have little to say about the text. 
 
 #### Week 5:
 
-> **Tuesday**
+**Tuesday**
 
-> Bach fantasia:
+Bach fantasia:
 
-> seq in bars 9-10: E-F to D-Eb
+seq in bars 9-10: E-F to D-Eb
 
-> Schema theory
+Schema theory
 
-> Evaded cadence mm 25.
+Evaded cadence mm 25.
 
-> Elided cadence mm 28.
+Elided cadence mm 28.
 
-> Half cadence mm 33.
+Half cadence mm 33.
 
-> Dominant arrival.
+Dominant arrival.
 
-> **Thursday**
+**Thursday**
 
-> Caplin:
+Caplin:
 
-> Formal function: you can hear the funciton, even without reading or listening to the whole piece. "At the needle drop."
+Formal function: you can hear the funciton, even without reading or listening to the whole piece. "At the needle drop."
 
-> Transitions sound like transitions no matter what.
+Transitions sound like transitions no matter what.
 
-> Syntax and formal function (17)
+Syntax and formal function (17)
 
-> Sentence and period structures and their functions.
+Sentence and period structures and their functions.
 
 #### Week 6
 
-> Mozart Symphony 40:
+Mozart Symphony 40:
 
-> mm. 1: theme 1
+mm. 1: theme 1
 
-> mm. 44: Theme 2
+mm. 44: Theme 2
 
-> Transition candidates: 20 and 28
+Transition candidates: 20 and 28
 
-> Rothstein:
+Rothstein:
 
-> What is a phrase 
+What is a phrase 
 
-> Rothstein is a Shenkerian. Phrase has a minddle ground aspect to it.
+Rothstein is a Shenkerian. Phrase has a minddle ground aspect to it.
 
-> Hypermeter: Meter at the bar to bar level---strong and weak bars like strong and weak beats. It is not equal to phrase.
+Hypermeter: Meter at the bar to bar level---strong and weak bars like strong and weak beats. It is not equal to phrase.
 
-> How can hypermeter be disruptive? Elisions.  
+How can hypermeter be disruptive? Elisions.  
 
 #### Week 7  
 
@@ -2124,7 +2124,7 @@ Function, and Experience.” _AM15_, October 2015.
 
 #### Chapt 15: The Cantus Firmus in Masses
 
-> **This chapter is an analysis of Dufay's _Sa la face ay pale_ mass which is based on chanson of his own authorship. This chapter analyzes this choice. It concludes that there is no reason to associate this mass with his time at the Savoy court.**
+**This chapter is an analysis of Dufay's _Sa la face ay pale_ mass which is based on chanson of his own authorship. This chapter analyzes this choice. It concludes that there is no reason to associate this mass with his time at the Savoy court.**
 
 194: Se la face ay pale
 
@@ -2139,7 +2139,7 @@ Function, and Experience.” _AM15_, October 2015.
 
 ### Fallows, David. "The Last Agnus Dei or: The Cyclic Mass, 1450-1600, as forme fixe." in Polyphone Messen im 15. und 16. Jahrhundert ed. Andrea Ammendola, Daniel Glowotz, and Jürgen Heidrich. V&R Unipress.
 
-> **In short, this book chapter makes three arguments: That the Mass is a forme fixe, that its fixed characteristics were not liturgical but musical, and that composers saw the mass cycle "symphonically" that is, as a musical whole.**
+**In short, this book chapter makes three arguments: That the Mass is a forme fixe, that its fixed characteristics were not liturgical but musical, and that composers saw the mass cycle "symphonically" that is, as a musical whole.**
 
 53: Fixed forms: rondeu, virelai, and ballade.
 
@@ -2167,17 +2167,17 @@ Function, and Experience.” _AM15_, October 2015.
 ### Faugues, Guillaume. _Miss le serviteur_
 
 
-> Faugues likes the texture where he starts with a duet and and then drops a glorious bass.
+Faugues likes the texture where he starts with a duet and and then drops a glorious bass.
 
-> Kyrie, mm. 1-3: Clear quotation of the tenor line from model. Tenor=Tenor. Also direct quotation of the descant. The contraenors seem to be new material. i.e. he is writing on a two voice parody. Everything is at 4x the model.
+Kyrie, mm. 1-3: Clear quotation of the tenor line from model. Tenor=Tenor. Also direct quotation of the descant. The contraenors seem to be new material. i.e. he is writing on a two voice parody. Everything is at 4x the model.
 
-> Kyrie, mm. 3-: the tenor line now slows down to 8x speed of the model, but maintains the same melodic and rhythmic content as the song.
+Kyrie, mm. 3-: the tenor line now slows down to 8x speed of the model, but maintains the same melodic and rhythmic content as the song.
 
-> Kyrie, mm. 22-25: nice moment of imitation across the three low voices
+Kyrie, mm. 22-25: nice moment of imitation across the three low voices
 
-> Kyrie, mm 27: imitation in top two voices.
+Kyrie, mm 27: imitation in top two voices.
 
-> Gloria, mm.1: Begins, like the Kyrie, with a direct two voice parody of the song's descant and tenor.
+Gloria, mm.1: Begins, like the Kyrie, with a direct two voice parody of the song's descant and tenor.
 
 
 <a name="Feld, 2015"></a>
@@ -2218,7 +2218,7 @@ Function, and Experience.” _AM15_, October 2015.
 
 ### Fiske, Alan Page and Tage Shakti Rai. _Virtuous Violence: Hurting and Killing to Create, Sustain, End, and Honor Social Relationships._ Cambridge: Cambridge University Press, 2015.
 
-> **The central agrument of this book is that violence is not immoral, but rather the result of moralization itself. In short, perpetrators of violence almost always see the act as upholding or restoring a moral code in some way. This book stresses that social scientists step back and look at culture without our own moral baggage stating that "moralization is the origional sin of the behavioral sciences." Chapter four of this book contains a subsection on trial by ordeal, though it does little more than describe various forms of the practice.**
+**The central agrument of this book is that violence is not immoral, but rather the result of moralization itself. In short, perpetrators of violence almost always see the act as upholding or restoring a moral code in some way. This book stresses that social scientists step back and look at culture without our own moral baggage stating that "moralization is the origional sin of the behavioral sciences." Chapter four of this book contains a subsection on trial by ordeal, though it does little more than describe various forms of the practice.**
 
 xv: "Moralization is the original sin of the behavioral sciences."  
 
@@ -2287,7 +2287,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 84: Pacing and macrorhythm.
 
-> P. 84: Guest spots, time, and expectation.
+P. 84: Guest spots, time, and expectation.
 
 85: High volume.
 
@@ -2655,7 +2655,7 @@ xxiii: violence as motivated by culturally informed varients of universal social
 
 ### Garcia, Luis-Manuel. 2020. "Feeling the Vibe: Sound, Vibration, and Affective Attunement in Electronic Dance Music Scenes." _Ethnomusicology Forum_ 0 (0): 1–19.
 
-> **This article seeks to move anthropology beyond culture by bringing affect theory into conversation with ethnomusicology. Using dance music communities as case studies and members as interlocutors, this paper analyzes the ways that affect are tied up in "bass" "vibe" and the collective effervescence of the dance floor. The authors suggest an "affective musicology" which studies how music interacts with actors in a culture and how they make sense of sonic events.**
+**This article seeks to move anthropology beyond culture by bringing affect theory into conversation with ethnomusicology. Using dance music communities as case studies and members as interlocutors, this paper analyzes the ways that affect are tied up in "bass" "vibe" and the collective effervescence of the dance floor. The authors suggest an "affective musicology" which studies how music interacts with actors in a culture and how they make sense of sonic events.**
 
 1: Queer raves.
 
@@ -2699,7 +2699,7 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 #### Chapter 1
 
-> **In this chapter, Geurts analyses the way that different cultures classify the sensorium, focusing mostly on mainstream American culture and the Anlo-Ewe-speaking people of West Africa. She argues that the a culture's sensorium, or "senory order," is not just what it means to be human, but what makes us human. (2-3) Additionally, she argues that the West's classical "five senses" are essentially a folk model.**
+**In this chapter, Geurts analyses the way that different cultures classify the sensorium, focusing mostly on mainstream American culture and the Anlo-Ewe-speaking people of West Africa. She argues that the a culture's sensorium, or "senory order," is not just what it means to be human, but what makes us human. (2-3) Additionally, she argues that the West's classical "five senses" are essentially a folk model.**
 
 1: Discussion of the senses as a social construct.
 
@@ -2721,15 +2721,15 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 9: Senses as the embodiments of cultural categories.
 
-> p 10: Sapir-Whorf.
+p 10: Sapir-Whorf.
 
-> p 10: Genealogy of the study of the senses in anthropology.
+p 10: Genealogy of the study of the senses in anthropology.
 
-> p 12: List of her research questions.
+p 12: List of her research questions.
 
-> p 14: Problems with modern anthropology.
+p 14: Problems with modern anthropology.
 
-> p.15: Her argument.
+p.15: Her argument.
 
 ### Gibson, Don. "The Curricular Standards of NASM and Their Impact of Local Decision Making." _Journal of Music History Pedagogy_ 5, no. 2 (2015): 73-76.  
 
@@ -3054,29 +3054,29 @@ I read on wikipedia that this book looks at borrowing from Madame Butterfly in "
 
 ### Henriques, Julian. "The Vibrations of Affect and Their Propagation on a Night Out on Kingston's Dancehall Scene." _Body & Society_ 16, no. 1 (2010): 57-89.
 
-> **This paper is an attempt to find a materialist model for affect which is based in the propagation of vibration rather than the movement or circulation of particles or bodies. As a case study and source of inspiration, Henriques looks at the night life in Kingston Jamaica and the way in which sound is materialized and affect hypothesized. His model, basically, is that affect is transmitted as energy moving toward a more of less stagnant medium, as sound energy moves via compactions and rarefactions.**
+**This paper is an attempt to find a materialist model for affect which is based in the propagation of vibration rather than the movement or circulation of particles or bodies. As a case study and source of inspiration, Henriques looks at the night life in Kingston Jamaica and the way in which sound is materialized and affect hypothesized. His model, basically, is that affect is transmitted as energy moving toward a more of less stagnant medium, as sound energy moves via compactions and rarefactions.**
 
-> 58: Feeling and vibration
+58: Feeling and vibration
 
-> 58: Vibrations as a materialist model of affect.
+58: Vibrations as a materialist model of affect.
 
-> 58: Transmission of affect is the energetic patterning of frequencies, not the circulation of objects nor the movements of bodies.
+58: Transmission of affect is the energetic patterning of frequencies, not the circulation of objects nor the movements of bodies.
 
-> 58: "Rhythms are material"
+58: "Rhythms are material"
 
-> 61: Cycles in the dancehall 
+61: Cycles in the dancehall 
 
-> 63: Bass culture
+63: Bass culture
 
-> 64: DJs "Perform the archive"
+64: DJs "Perform the archive"
 
-> 65-67: A section on waves and transmission (which I found to be largely speculative and misinformed.)
+65-67: A section on waves and transmission (which I found to be largely speculative and misinformed.)
 
-> 72: Sheets-Johnson: Feeling is the embodiment of movement.
+72: Sheets-Johnson: Feeling is the embodiment of movement.
 
-> 75: Affect.
+75: Affect.
 
-> 79: William Jones (We a sad because we cry, mad because we strike.)
+79: William Jones (We a sad because we cry, mad because we strike.)
 
 
 ### Hood, Mantle. _The Ethnomusicologist_. New York: McGraw-Hill, 1971.  
@@ -3404,9 +3404,9 @@ frikaa Bombaataa's "Planet Rock," 1981.
 
 ### Jackson, Michael. "Knowledge of the Body." _Man,_ New Series 18, no. 2 (June 1983): 327-345.
 
-> **In this article, Jackson writes an impressive intervention into the way that anthropologists and ethnographers write about the body and culture. Based on his field work with the Kuranko in Sierra Leone, Jackson argues that the body is not an object of society, simply absorbing "techniques," but rather an active participant in the culture. In his words, culture is "practical activity in the man-made environment." To Jackson, culture is created in the body-mind-habitus. The initiation rite of the Kuranko is akin to a Durkheimian koraboree in that it recreates and perpetuates society. Among the Kuranko, the transgressions of, for example, women dressed as men allows one to see the other though the mimetic faculty of the body thus bringing together a reciprocity of viewpoints which continue the social order.**
+**In this article, Jackson writes an impressive intervention into the way that anthropologists and ethnographers write about the body and culture. Based on his field work with the Kuranko in Sierra Leone, Jackson argues that the body is not an object of society, simply absorbing "techniques," but rather an active participant in the culture. In his words, culture is "practical activity in the man-made environment." To Jackson, culture is created in the body-mind-habitus. The initiation rite of the Kuranko is akin to a Durkheimian koraboree in that it recreates and perpetuates society. Among the Kuranko, the transgressions of, for example, women dressed as men allows one to see the other though the mimetic faculty of the body thus bringing together a reciprocity of viewpoints which continue the social order.**
 
-> **Additionally he argues that assigning semiotic meaning to practices undercuts their meaning as direct expressions. Anthropological analysis, he says, should be consistent with the understandings of the culture at hand. For preliterate societies, these understandings are often embedded in the very practices of theirs which we study. A semiotic analysis (i.e. structuralist) which breaks these acts up into ideas says nothing because the acts themselves never symbolized anything. They just were. Ultimately, he argues that participant observation should be seen as an end in itself and that anthropologists should focus on learning the practical, physical, techniques of the society in order to build an archive of embodied understanding from which interpretations may be made.**
+**Additionally he argues that assigning semiotic meaning to practices undercuts their meaning as direct expressions. Anthropological analysis, he says, should be consistent with the understandings of the culture at hand. For preliterate societies, these understandings are often embedded in the very practices of theirs which we study. A semiotic analysis (i.e. structuralist) which breaks these acts up into ideas says nothing because the acts themselves never symbolized anything. They just were. Ultimately, he argues that participant observation should be seen as an end in itself and that anthropologists should focus on learning the practical, physical, techniques of the society in order to build an archive of embodied understanding from which interpretations may be made.**
 
 328: Discussion of the over-emphasis of the cognitive and linguistic in science and studies of culture.
 
@@ -3508,15 +3508,15 @@ I want to read this, but I haven't.
 
 >**Pretty short piece, not a whole lot to work off of. She does, however, introduce the intriguing concept of the "aural-kinesthetic." In my own words, the dance reflex.**
 
-> Discussion of disco and go-go.
+Discussion of disco and go-go.
 
-> Discussion of "social dance" as defined by Julie Malning: "community as a _result_ of dancing." (emphasis original)
+Discussion of "social dance" as defined by Julie Malning: "community as a _result_ of dancing." (emphasis original)
 
-> Her focus is on "a visceral, embodied, kinesthetic response to dance music in a particular social space, which is not explicitly directed by the lyrics or a set of moves but by the feel of a song as a whole."
+Her focus is on "a visceral, embodied, kinesthetic response to dance music in a particular social space, which is not explicitly directed by the lyrics or a set of moves but by the feel of a song as a whole."
 
-> Sound takes up and creates space. The aural kinesthetic is a spatial practice.
+Sound takes up and creates space. The aural kinesthetic is a spatial practice.
 
-> Discussion of how hard it is to capture the aural-kinesthetic in prose or recordings.
+Discussion of how hard it is to capture the aural-kinesthetic in prose or recordings.
 
 
 ### Johnson, Nicholas, "Carolus Luython's _Missa super Basim: Caesar Vive_ and Hermetic Astrology in Ealy Seventeenth-Century Prague." _Musica Disciplina_ 56, (2011): 419-462.
@@ -3576,39 +3576,39 @@ I want to read this, but I haven't.
 
 ### Jones, Alisha. "'I Am Delivert!': The Pentecostal Altar Call and Vocalizing Black Men's Testimonies of Deliverance from Homosexuality." Online lecture presented by Washington University in St. Louis, October 9, 2020.
 
-> **She reads these acts as performances (which maybe we don't need to take seriously.**
+**She reads these acts as performances (which maybe we don't need to take seriously.**
 
-> This talk is made from chapter 1 of her book _Flaming?._
+This talk is made from chapter 1 of her book _Flaming?._
 
-> Donnie McClurkin: a gospel singer who was "delivered" from his homosexuality. He is an "ex-gay."
+Donnie McClurkin: a gospel singer who was "delivered" from his homosexuality. He is an "ex-gay."
 
-> She is investigating the social contradictions of deliverance from homosexuality.
+She is investigating the social contradictions of deliverance from homosexuality.
 
-> Deliverance traditionally referes to a release from physical or spiritual ailments.
+Deliverance traditionally referes to a release from physical or spiritual ailments.
 
-> Discussion of Men's vs women's descriptions of deliverance. It tends that women's deliverance is not spoken about because it is not found to be remarkable.
+Discussion of Men's vs women's descriptions of deliverance. It tends that women's deliverance is not spoken about because it is not found to be remarkable.
 
-> Daryl Coley: gay and diabetic. He was cured which launched him into a life of music.
+Daryl Coley: gay and diabetic. He was cured which launched him into a life of music.
 
-> Jones did a linguistic analysis of Coley's singing, noting his use of rolled rs as proof that he is no longer gay. The thought is that an afflicted man could not speak in tongues.
+Jones did a linguistic analysis of Coley's singing, noting his use of rolled rs as proof that he is no longer gay. The thought is that an afflicted man could not speak in tongues.
 
-> Deliverance is a euphemism for orgasm.
+Deliverance is a euphemism for orgasm.
 
-> Problematic sermon at COGIC: Menstruation as punishment and affliction, "I'm not gay no more" guy Andrew Caldwell.
+Problematic sermon at COGIC: Menstruation as punishment and affliction, "I'm not gay no more" guy Andrew Caldwell.
 
-> It was suggested by some that Caldwell was paid or planted? He used conspicuous hyperpluralization "mens" and "womens." 
+It was suggested by some that Caldwell was paid or planted? He used conspicuous hyperpluralization "mens" and "womens." 
 
-> It is thought that manner of speach can be used to determine queerness and affliction.
+It is thought that manner of speach can be used to determine queerness and affliction.
 
-> Phrase "love the sinner, hate the sin."
+Phrase "love the sinner, hate the sin."
 
-> Africans as "the lady of the races" by 19th C. European racial theory.
+Africans as "the lady of the races" by 19th C. European racial theory.
 
-> Sexual assault among black man in the slaveocracy.
+Sexual assault among black man in the slaveocracy.
 
-> Counter-deliverence: radical self-acceptance.
+Counter-deliverence: radical self-acceptance.
 
-> Using the term "biblical literalist," not the derogatory "fundamentalist."
+Using the term "biblical literalist," not the derogatory "fundamentalist."
 
 ### Jones, Alisha Lola. 2020. “Pole Dancing for Jesus." In _Flaming?: The Peculiar Theopolitics of Fire and Desire in Black Male Gospel Performance_, 87–114. Oxford University Press.  
 
@@ -3715,7 +3715,7 @@ I want to read this, but I haven't.
 
 ### Kedhar, Anusha. "'Hands Up! Dont' Shoot!': Gesture, Choreography, and Protest in Ferguson." _Feminist Wire_ October 6, 2014.
 
-> "Hands up! Don't shoot."  
+"Hands up! Don't shoot."  
 
 -: Suspicion of the mundane movements of black people.  
 
@@ -3731,15 +3731,15 @@ I want to read this, but I haven't.
 
 ###  Kerman, Joseph. _Contemplating Music: Challenges to Musicology_. Cambridge: Harvard University Press, 1985. [PDFs](/home/harlan/Downloads/School Downloads/IntroMusicology/Week1)
 
-> **Should Musicologists focus on broad (and often metaphysical) questions of the field, or specifics? p.12**
+**Should Musicologists focus on broad (and often metaphysical) questions of the field, or specifics? p.12**
 
 20: A history of musical developments sice WWII
 
 24: A discussion of LPs and their effects on popular, but more importantly, classical music.
 
-> p 26: A discussion of the influencenes on post-war American musicology departments.
+p 26: A discussion of the influencenes on post-war American musicology departments.
 
-> p.28: Thurston Dart
+p.28: Thurston Dart
 
 29: Too much gets published
 
@@ -3768,7 +3768,7 @@ I want to read this, but I haven't.
 132: Synchronic vs. diachronic
 
 141: Musicology orieted toward Criticism
-> 
+
 149: Bluring of boundaires in contemporaneous musicology
 
 150 Charles Rosen _The Classical Style_
@@ -3826,7 +3826,7 @@ I want to read this, but I haven't.
 ### Kirkman, Andrew. "The Invention of the Cyclic Mass." _Journal of the American Musicological Society_ 54, no. 1 (Spring 2001): 1-47.
 
 
-> **In this article, Kirkman makes a critical intervention into the commonly held belief of the historical importance of the "cyclic Mass" as a watershed moment in the history of western music and as a marker of the arrival of a Renaissance of music. This idea is expressed by Manfred Bukofzer, who Kirkman quotes to begin this article. In this paper Kirkman looks for the origins of this perception and compare them to contemporaneous conceptions of music. To find track these conceptions Kirkman begins with Tinctoris in the 1470s for a contemporaneous view and compares him to the enlightenment philosophers and their Hegelian ideologies of organicism and liberation.**
+**In this article, Kirkman makes a critical intervention into the commonly held belief of the historical importance of the "cyclic Mass" as a watershed moment in the history of western music and as a marker of the arrival of a Renaissance of music. This idea is expressed by Manfred Bukofzer, who Kirkman quotes to begin this article. In this paper Kirkman looks for the origins of this perception and compare them to contemporaneous conceptions of music. To find track these conceptions Kirkman begins with Tinctoris in the 1470s for a contemporaneous view and compares him to the enlightenment philosophers and their Hegelian ideologies of organicism and liberation.**
 
 1: The idea of the cyclic Mass as masterwork.
 
@@ -3860,11 +3860,11 @@ I want to read this, but I haven't.
 
 22: Ambros.
 
-> Why was Palestrina so loved by the Hegelians? (25)
+Why was Palestrina so loved by the Hegelians? (25)
 
 27: "Warmth" in music (presentation of emotion) as virtuous to Ambros.
 
-> What is "black notation?" (28)
+What is "black notation?" (28)
 
 30: Dialectics.
 
@@ -3902,13 +3902,13 @@ I want to read this, but I haven't.
 
 667: "Sine ex nominie": Masses which lack known antecedents.
 
-> What does it mean for mevemts to be paired or separate?
+What does it mean for mevemts to be paired or separate?
 
 668: Origins of cycle mass.
 
 674: Misa caput
 
-> How were pieces "transmitted" from england to continent at this time?
+How were pieces "transmitted" from england to continent at this time?
 
 675/6: "Double crusis" and "head motif"
 
@@ -3916,7 +3916,7 @@ I want to read this, but I haven't.
 
 678: Listening like a 15th century person.
 
-> What is C3 mensuration? (680)
+What is C3 mensuration? (680)
 
 682: _Se la face ay pale_
 
@@ -3932,7 +3932,7 @@ I want to read this, but I haven't.
 
 694: New structure in Obrecht's mature Masses.
 
-> What again is isorhythm? (695)
+What again is isorhythm? (695)
 
 ### Koen, Benjamin D. 2005. “Medical Ethnomusicology in the Pamir Mountains: Music and Prayer in Healing.” Ethnomusicology 49 (2): 287–311.  
 
@@ -4177,63 +4177,63 @@ I want to read this, but I haven't.
 ### Kurtz, Esther. "Sound, Body, and Music." Class taught at Washington University in Saint Louis, Fall 2020.
 #### Week 1
 
-> It's uncommon to study both the "music and the dance," i.e. the sounds and the body simultaneously. This class is about undoing this unnatural separation.
+It's uncommon to study both the "music and the dance," i.e. the sounds and the body simultaneously. This class is about undoing this unnatural separation.
 
 #### Week 2
 
-> Percian semiotics
+Percian semiotics
 
-> Semiotic vs phenomelogical analysis of dance and music.
+Semiotic vs phenomelogical analysis of dance and music.
 
-> Somatic modes of attention: to and with ones bodies (p. 138 of )
+Somatic modes of attention: to and with ones bodies (p. 138 of )
 
-> Ponty: The object is created though our perception.
+Ponty: The object is created though our perception.
 
-> Is there anything which is pre-cultural?
+Is there anything which is pre-cultural?
 
 #### Week 3
 
-> Three review articles
+Three review articles
 
-> Embodied spaces
+Embodied spaces
 
 #### Week 4
 
-> Suggestions of motion.
+Suggestions of motion.
 
-> Contraction and expansion in listening examples from Abels.
+Contraction and expansion in listening examples from Abels.
 
-> **Abels**
+**Abels**
 
-> Meaningfullness is the greatness of culture. Atmosphere is all those things which make it work.
+Meaningfullness is the greatness of culture. Atmosphere is all those things which make it work.
 
-> The idea of affect as pre-cultural is hard to sustain while doing fieldwork in actual cultures.
+The idea of affect as pre-cultural is hard to sustain while doing fieldwork in actual cultures.
 
-> **Thursday**
+**Thursday**
 
-> Kinds of Schafferian grain
+Kinds of Schafferian grain
 
 #### Week 5:
 
-> **Tuesday**
+**Tuesday**
 
-> Dancehall videos
+Dancehall videos
 
-> Henriques discussion
+Henriques discussion
 
-> Radical potential of affect
+Radical potential of affect
 
-> How does affect destabilize the individual subject.
+How does affect destabilize the individual subject.
 
-> **Thursday**
+**Thursday**
 
 Capoeira workshop.
 
 #### Week 7: 
 
-> Is Dance Dance Revolution interactive or reactive?
+Is Dance Dance Revolution interactive or reactive?
     
-> Prorioception references multiple senses.
+Prorioception references multiple senses.
 
 #### Week 8:
 
@@ -4413,7 +4413,7 @@ Politics, Foucalt.
   
 ### Levy, Janet M. "Covert and Casual Values in REcent Musical Writings." _The Journal of Musicology_ 5, no. 1 (Winter 1987): 3-27.
 
-> **In this paper, Levy criticizes the way that writings on music are often full of implicit value judgments.**
+**In this paper, Levy criticizes the way that writings on music are often full of implicit value judgments.**
 
 3: Kerman and criticisms.
 
@@ -4613,7 +4613,7 @@ This paper first points out that, through the example of _femme desconfortée_, 
 
 ### Low, Setha M. "Anthropological Theories of Body, Space, and Culture." _Space and Culture_ 6, no. 1 (February 2003): 9-18.
 
-> **This paper gives a history of anthropological theories of body, space, and culture.**
+**This paper gives a history of anthropological theories of body, space, and culture.**
 
 10: Definition of "embodied spaces"
 
@@ -4746,15 +4746,15 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 ### Marsden, Alan. "Schenkerian Analysis by Computer: A Proof of Concept." _Journal of New Music Research_ 39, no. 3 (2010): 269-289.
 
-> 269: Doing analyses to music analogous to those of computational linguistics.
+269: Doing analyses to music analogous to those of computational linguistics.
 
-> 270: Grammars based on harmony or on notes.
+270: Grammars based on harmony or on notes.
 
-> 285: The necessity and mechanics of "pruning" "bad" analyses produced by the program.
+285: The necessity and mechanics of "pruning" "bad" analyses produced by the program.
 
 ### Mauss, Marcel. 1973\[1935\]. “Techniques of the Body.” Translated by Ben Brewster. _Economy and Society_ 2 (1): 70–87.
 
-> **In this essay, Mauss looks at the body as an object of culture. This term "techniques of the body" simply refers to the way that people in different societies learn to use their bodies. He gives the example that Price Curt Sachs joked that he could spot the gait of a Frenchman or Englishman from some distance. In this piece he spends a good bit of time listing and classifying different techniques of the body and ultimately concludes that it is thanks to society that these ways of using the body exist, and not vice versa.**
+**In this essay, Mauss looks at the body as an object of culture. This term "techniques of the body" simply refers to the way that people in different societies learn to use their bodies. He gives the example that Price Curt Sachs joked that he could spot the gait of a Frenchman or Englishman from some distance. In this piece he spends a good bit of time listing and classifying different techniques of the body and ultimately concludes that it is thanks to society that these ways of using the body exist, and not vice versa.**
 
 70: Introduction to the techniques of the body
 
@@ -4779,7 +4779,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 ### Meconi, Honey. "Art-Song Reworkings: An Overview." _Journal of the Royal Musical Association_ 119, no. 1 (1994): 1-42
  
-> **This article is a survey of the unique late fifteenth- and early sixteenth-century phenomena of "art song reworkings" in which portions of secular songs were quoted, borrowed, or otherwise used in the creation of new works. Instead of classifying works based off of their treatment of the original material being borrowed (i.e paraphrase, parody, etc.) Meconi focuses on composition families by tracking the original material itself.**
+**This article is a survey of the unique late fifteenth- and early sixteenth-century phenomena of "art song reworkings" in which portions of secular songs were quoted, borrowed, or otherwise used in the creation of new works. Instead of classifying works based off of their treatment of the original material being borrowed (i.e paraphrase, parody, etc.) Meconi focuses on composition families by tracking the original material itself.**
 
 1: Basing classification of Renaissance polyphony on original material, not the technique applied to it.
 
@@ -4809,7 +4809,7 @@ In ending this chapter, Maler suggests that hearing could be seen as a disabilit
 
 #### Intoduction: 
 
-> **This chapter is an overview of the book contents and a brief look at the question of borrowing in renaissance music. There are two kinds of borrowing: parody and imitation. There is also a second dichotomy of covert vs overt borrowing. The renaissance is characterized by overt borrowing and the 19th C. by covert. "Cantus firmus" is a bit of a sloppy term, and some writers prefer "cantus prius factus" to refer to a borrowed melody. At the end of the day, though, what would really be useful is to have an aural canon of renaissance music like we have of standard practice repertoire. Most of the music from this era is still silent on the page. If we could hear it, and be familiar with a body of work, it would be much easier to spot borrowing just by listening.**
+**This chapter is an overview of the book contents and a brief look at the question of borrowing in renaissance music. There are two kinds of borrowing: parody and imitation. There is also a second dichotomy of covert vs overt borrowing. The renaissance is characterized by overt borrowing and the 19th C. by covert. "Cantus firmus" is a bit of a sloppy term, and some writers prefer "cantus prius factus" to refer to a borrowed melody. At the end of the day, though, what would really be useful is to have an aural canon of renaissance music like we have of standard practice repertoire. Most of the music from this era is still silent on the page. If we could hear it, and be familiar with a body of work, it would be much easier to spot borrowing just by listening.**
 
 1: Why we study borrowing.
 
@@ -4838,47 +4838,47 @@ pg 45: Crazy showing off with quick alternations between pizz chords and arc arp
 
 >**Drawing on interviews and fieldwork, this paper looks at how members of the Bahian Candomble religion find meaning in music which draws on Candomble ritual music outside of the ritual context. In this analysis, Menses proposes an aesthetic approach based on bodily sensations, personal memory, and myth.**
 
-> 89: Spirit possession.
+89: Spirit possession.
 
-> 90: Listening to ritual music outside of the ritual.
+90: Listening to ritual music outside of the ritual.
 
-> 91: Black Salvador
+91: Black Salvador
 
-> 92: Black pride, primitivism.
+92: Black pride, primitivism.
 
-> 93: Construction of Candomble as religious.
+93: Construction of Candomble as religious.
 
-> 94: Hotness and coolness in black and Candomble culture.
+94: Hotness and coolness in black and Candomble culture.
 
-> 93: Genealogy of embodied pleasure in western philosophy.
+93: Genealogy of embodied pleasure in western philosophy.
 
-> 96: Deities and spirit possession.
+96: Deities and spirit possession.
 
-> 98: "Somasthetics"
+98: "Somasthetics"
 
-> 98: "Intensity factor" and it's relation to hotness.
+98: "Intensity factor" and it's relation to hotness.
 
-> 99: Evocation of the ritual possession in the music of Rumpilezz.
+99: Evocation of the ritual possession in the music of Rumpilezz.
 
-> 100: The three stages on the path to possession
+100: The three stages on the path to possession
 
-> 100: Rumpilezz and how they create an aura of mysticism.
+100: Rumpilezz and how they create an aura of mysticism.
 
-> 102: "Xire^s" = circle
+102: "Xire^s" = circle
 
-> 104: Rumpilezz recreation of magic ceremony on stage.
+104: Rumpilezz recreation of magic ceremony on stage.
 
-> 106: Rumpilezz Jazz instrumentarium.
+106: Rumpilezz Jazz instrumentarium.
 
-> 107: "Floresta Azul" analysis
+107: "Floresta Azul" analysis
 
-> 113: Representation of Candomble in prestigious venues.
+113: Representation of Candomble in prestigious venues.
 
-> 113: Blackness and authenticity.
+113: Blackness and authenticity.
 
-> 116: Secrecy.
+116: Secrecy.
 
-> 117: Summary: Music can be associated with trance states even outside of the ritual context.
+117: Summary: Music can be associated with trance states even outside of the ritual context.
 
 
 ### Messiaen, Oliver. _Quartour pour la fin du temps: V_ 
@@ -4937,37 +4937,37 @@ mm. 27: Long, drawn out tension on a Caug5 resolves to E/B, sheparding in the re
 
 ### Miller, Julie. "Listening Like a Dancer." In In Miller, Kiri, 93-112. _Playable Bodies: Dance Games and Intimate Media._ Oxford University Press, 2017. 
 
-> 93: Music stuck in head and body,
+93: Music stuck in head and body,
 
-> 93: Just Dance, Rock Band, and Dance Central video games.
+93: Just Dance, Rock Band, and Dance Central video games.
 
-> 94: Dance games don't react to good or bad dancing.
+94: Dance games don't react to good or bad dancing.
 
-> 95: Multisensory nature of dance games.
+95: Multisensory nature of dance games.
 
-> 96: PAX EAST, a penny arcade game expo.
+96: PAX EAST, a penny arcade game expo.
 
-> 97: Interview with Matt Bock, lead designer for Bock Band.
+97: Interview with Matt Bock, lead designer for Bock Band.
 
-> 98: Choreography for dance games.
+98: Choreography for dance games.
 
-> 99: Reactive vs interactive.
+99: Reactive vs interactive.
 
-> 102: Proprioception.
+102: Proprioception.
 
-> 104: Online player discourses.
+104: Online player discourses.
 
-> 108: Dance transmission
+108: Dance transmission
 
-> 108: "Expertise effects"
+108: "Expertise effects"
 
 
 
 ### Milson, John. "The T-Mass: quis scrutatur?." _Early Music_ 46, no. 2 (June 28, 2018).
 
-> **This is a book review of Stephanie P. Schagel's edited edition of Masses based on Josquin motets. However, Milson uses this as an opportunity to discuss his discomfort with certain musicological terms used to describe masses such as "parody" and "imitation." (All without dissing Schagel one bit.) He proposes the terms "T-mass" and "T-music" to refer to the transference of material from existing work. Using theory from hip-hop studies, he looks into how we can try to understand how borrowing was understood in the Renaissance.**
+**This is a book review of Stephanie P. Schagel's edited edition of Masses based on Josquin motets. However, Milson uses this as an opportunity to discuss his discomfort with certain musicological terms used to describe masses such as "parody" and "imitation." (All without dissing Schagel one bit.) He proposes the terms "T-mass" and "T-music" to refer to the transference of material from existing work. Using theory from hip-hop studies, he looks into how we can try to understand how borrowing was understood in the Renaissance.**
 
->  p. 319: Stephanie Schlagel's edition of Masses based on Josquin motets.
+ p. 319: Stephanie Schlagel's edition of Masses based on Josquin motets.
 
 320: Analyzing how we make sense of parody via hip-hop scholarship.
 
@@ -4985,7 +4985,7 @@ mm. 27: Long, drawn out tension on a Caug5 resolves to E/B, sheparding in the re
 
 322: Ideal listener
 
-> How do I read these interlock charts?
+How do I read these interlock charts?
 
 325: Composers started from interlocks!
 
@@ -5161,7 +5161,7 @@ mm. 86: FM.
 
 >Philip A. Ewell says "music theory is a racial ideology"
 
-> Discussion of figured bass/continuo and it's lack of relevance.
+Discussion of figured bass/continuo and it's lack of relevance.
 
 >"The white racial frame of music theory"
 
@@ -5169,7 +5169,7 @@ mm. 86: FM.
 
 >Vicente Lusitano was a mixed race renaissance composer who famously debated Vicentino.
 
-> Robin James: "The epistemology of ignorance" which refers to the intentional separation of of analysis from culture. It is "the practice that materializes the commonsense intuition of the most privileged members of society as objective knowledge."
+Robin James: "The epistemology of ignorance" which refers to the intentional separation of of analysis from culture. It is "the practice that materializes the commonsense intuition of the most privileged members of society as objective knowledge."
 
 >Pt. 3: George Russel's "Lysidan chromatic concept"
 
@@ -5183,7 +5183,7 @@ mm. 86: FM.
 
 >Pt. 5: Schenker
 
-> Shchenker theorizes that there is background, midground, and foreground structure. He looks for "deep structure" which he calls Ursatz. This is essentially mapping a V-I progression over an entire piece or section as a superstructure.
+Shchenker theorizes that there is background, midground, and foreground structure. He looks for "deep structure" which he calls Ursatz. This is essentially mapping a V-I progression over an entire piece or section as a superstructure.
 
 >Shcenker relies on figured bass, which is why we learn it in school.
 
@@ -5333,15 +5333,15 @@ Introduction: On Not Being Able to Learn Music.
 
 ### Organduo. "How to Choose the Best Fingering in Early Organ Music." 2012. [Link](https://www.organduo.lt/home/how-to-choose-the-best-fingering-in-early-organ-music)
 
-> **Quick and dirty fingering guidelines for early music** 
+**Quick and dirty fingering guidelines for early music** 
 
-> Paired fingerings
+Paired fingerings
 
-> Position fingering
+Position fingering
 
-> Interval Fingering
+Interval Fingering
 
-> Chord fingering
+Chord fingering
 
 
 ### Ostrofsky, Kathryn A. "An Aural History of the 1970s through the Sounds of 'Sesame Street.'" PhD diss. University of Pennsylvania, 2015.  
@@ -5490,27 +5490,27 @@ The tintinabulary voice plays a note from the triad.
 
 ### Parvianinen, Jaana. "Bodily Knowledge: Epistemological Reflections on Dance." _Dance Research Journal_ 34, no. 1 (summer, 2002): 11-26.
 
-> 11: Traditional epistemologies and the "justified" true belief in Platonic thought. Also known as propositional knowledge.
+11: Traditional epistemologies and the "justified" true belief in Platonic thought. Also known as propositional knowledge.
 
-> 12: The senses and knowledge.
+12: The senses and knowledge.
 
-> 12: Rationalism.
+12: Rationalism.
 
-> 13: Feminist epistemology
+13: Feminist epistemology
 
-> 13: "How" do dancers know.
+13: "How" do dancers know.
 
-> 14: Sheets-Johnstone and movement as precursor and progenitor of cognition.
+14: Sheets-Johnstone and movement as precursor and progenitor of cognition.
 
-> 15: Thesis: Bodily knowledge forms a source for dance knowledge.
+15: Thesis: Bodily knowledge forms a source for dance knowledge.
 
-> 15: Edmund Hurssel and the physical vs lived body
+15: Edmund Hurssel and the physical vs lived body
 
-> 17: Knowledge, tacit and focal (Michael Polangi)
+17: Knowledge, tacit and focal (Michael Polangi)
 
-> 19: Learning a bodily skill.
+19: Learning a bodily skill.
 
-> 20: Injured dancers and "kinesthetic empathy"
+20: Injured dancers and "kinesthetic empathy"
 
 
 ### Pesic, Peter. _Polyphonic Minds: Music of the Hemispheres._ Cambridge: The MIT Press, 2017. [Review](/home/harlan/Downloads/School Downloads/Independant/Pesic,2017Review.pdf)
@@ -5804,7 +5804,7 @@ Chapter 10: In Back's Hands.
 
 ### Porcello, Thomas, Louise Meintjes, Ana Maria Ochoa, and David W. Samuels. "The Reorganization of the Sensory World." _Annual Review of Anthropology_ 39, (2010): 51-66.
 
-> **This paper follows different sensory genealogies which have found use in anthropology. The paper concludes that more multi-sensory approaches should be used in anthropological research.**
+**This paper follows different sensory genealogies which have found use in anthropology. The paper concludes that more multi-sensory approaches should be used in anthropological research.**
 
 52: History of interest in sensory experience by social scientists.
 
@@ -6158,23 +6158,23 @@ I find the way that Robertson presents the primary source very transparent. This
 
 ### Rothstein, William Nathan. _Phrase Rhythm in Tonal Music_. New York: Schirmer Books, 1989.
 
-> **Phrase is hard to define, but this Shenkerian thinks of it as motion from one cadence to the next. Hypermeter is the mixture of strong and weak bars.**
+**Phrase is hard to define, but this Shenkerian thinks of it as motion from one cadence to the next. Hypermeter is the mixture of strong and weak bars.**
 
-> 3: Defining "phrase"
+3: Defining "phrase"
 
-> 5: Phrase: a directed motion in time from one tonal entity to another. It is dependent on cadences.
+5: Phrase: a directed motion in time from one tonal entity to another. It is dependent on cadences.
 
-> 11: Phrasing.
+11: Phrasing.
 
-> 11: Phrasing slurs.
+11: Phrasing slurs.
 
-> 12: Phrase rhythm.
+12: Phrase rhythm.
 
-> 12: Hypermeter.
+12: Hypermeter.
 
-> 16: Period.
+16: Period.
 
-> 17: Hypermeasures.
+17: Hypermeasures.
 
 
 
@@ -6223,29 +6223,29 @@ I find the way that Robertson presents the primary source very transparent. This
 
 ### Russell, Henry. "I'm Afloat! I'm Afloat!." Boston: George P. Reed., n.d.
 
-> Descriptive of the pirate life.
+Descriptive of the pirate life.
 
 
 ### Russell, Henry. "Land Ho!." Boston: Oliver Diston., n.d.
 
-> Piano introduction and minor key, very homophonic texture.
+Piano introduction and minor key, very homophonic texture.
 
-> Three act structure: Up with the signal, land ho---the signal is waving, the signal is answered
+Three act structure: Up with the signal, land ho---the signal is waving, the signal is answered
 
 ### Russell, Henry. "A Life on the Ocean Wave." New York: James L. Hewitt & Co., n.d.
 
-> Tripartite narrative, march sounding.
+Tripartite narrative, march sounding.
 
 ### Russell, Henry. "The Corsair Glee." n.p., n.d.
 
-> The water is described as glassy, and still as death, which is somehow joyful.
+The water is described as glassy, and still as death, which is somehow joyful.
 
-> The poem, which is by Russell, is mostly descriptive, not narrative.
+The poem, which is by Russell, is mostly descriptive, not narrative.
 
 
 ### Russell, Henry. "The Ship on Fire." New York: James L. Hewitt & Co., n.d.
 
-> Three act structure: storm and mother, fire, and rescue.
+Three act structure: storm and mother, fire, and rescue.
 
 
 ## S
@@ -6254,7 +6254,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 #### Chapter 5: "Is it all Over my Face?"
 
-> **This chapter gives the history and social backgound of the Chicago Southside (particularly the greater Hyde Park area) outdoor house music gatherings.**
+**This chapter gives the history and social backgound of the Chicago Southside (particularly the greater Hyde Park area) outdoor house music gatherings.**
 
 148: "Chosen Few" house music picnic  
 
@@ -6290,7 +6290,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 #### Chapter 7: Dancing in Brave Spaces.
 
-> **This chapter is mostly composed of ethnographic material and social implications drawn therefrom.**
+**This chapter is mostly composed of ethnographic material and social implications drawn therefrom.**
 
 224: Theory background.  
 
@@ -6307,7 +6307,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 ### Samuels, David W., Louise Meintjes, Ana Maria Ochoa, and Thomas Porcello. "Soundscapes: Towards a Sounded Anthropology." _Annual Review of Anthropology_ 30, (2010), 329-345.
 
-> **This paper looks at the history of listening and recording in the social sciences and art. It concludes that anthropologists should reexamine the history of the discipline to acknowledge the importance of the study of sound as more than simply a tool for gathering data.**
+**This paper looks at the history of listening and recording in the social sciences and art. It concludes that anthropologists should reexamine the history of the discipline to acknowledge the importance of the study of sound as more than simply a tool for gathering data.**
 
 330: Academic background.
 
@@ -6421,46 +6421,46 @@ I find the way that Robertson presents the primary source very transparent. This
 
 ### Schubert, Franz. _Piano Sonata in A_ D. 959. 1828.
 
-> mm. 1-5: Tonic prolongation.
+mm. 1-5: Tonic prolongation.
 
-> mm. 6-7: Evaded cadence: V ii, plus unextpected metrical-textural shift to triplets.
+mm. 6-7: Evaded cadence: V ii, plus unextpected metrical-textural shift to triplets.
 
-> mm. 7-15: Transitional material, flirting withthe key of G. Characterized by triplets and key-instablity.
+mm. 7-15: Transitional material, flirting withthe key of G. Characterized by triplets and key-instablity.
 
-> mm. 16: We arrive at what feels like it could be the body of the text (the past 15 bars being introduction)
+mm. 16: We arrive at what feels like it could be the body of the text (the past 15 bars being introduction)
 
-> mm. 22: Triplets return, but this time they feel safe and diatonic.
+mm. 22: Triplets return, but this time they feel safe and diatonic.
 
-> mm. 22 and 24 are the only triplets on the frst couple of pages which aren't assosciated with any chromaticism.
+mm. 22 and 24 are the only triplets on the frst couple of pages which aren't assosciated with any chromaticism.
 
-> mm. 36-54: Transitional material built on triplets.
+mm. 36-54: Transitional material built on triplets.
 
-> mm. 50-51: Transition from triplets to staccato 8ths.
+mm. 50-51: Transition from triplets to staccato 8ths.
 
-> mm. 55: Arrival in the key of E. And B, built on the dominant.
+mm. 55: Arrival in the key of E. And B, built on the dominant.
 
-> mm. 62: Okay, now we've moved to D. Sonata form evaded.
+mm. 62: Okay, now we've moved to D. Sonata form evaded.
 
-> mm. 95: New theme? Key area of E minor and E major.
+mm. 95: New theme? Key area of E minor and E major.
 
-> mm. 105-107: Bars half in triplets and half in 8ths
+mm. 105-107: Bars half in triplets and half in 8ths
 
-> mm. 123-129: Transitional triplets heighten tension.
+mm. 123-129: Transitional triplets heighten tension.
 
-> mm. 131: We begin the development, key f C minor.
+mm. 131: We begin the development, key f C minor.
 
-> mm. 136: 16th notes dominate, and the kay areas qre easier and more stable.
+mm. 136: 16th notes dominate, and the kay areas qre easier and more stable.
 
 
-> mm. 198 (10:05 in Volodos recording) is the recapitulation.
+mm. 198 (10:05 in Volodos recording) is the recapitulation.
 
-> mm. 349: Triplet arpeggio on A.
+mm. 349: Triplet arpeggio on A.
 
-> mm. 351: Triplet arpeggio on Bb.
+mm. 351: Triplet arpeggio on Bb.
 
-> mm 352: +6 on Bb
+mm 352: +6 on Bb
 
-> mm 353: Triplet arpeggio on A.
+mm 353: Triplet arpeggio on A.
 
 
 
@@ -6468,75 +6468,75 @@ I find the way that Robertson presents the primary source very transparent. This
 
 ### Schuetze, George C. _An Introduction to Faugues._ Brooklyn: Institute of Mediaeval Music, 1960.
 
-> 1: Biographical information, or lack thereof.
+1: Biographical information, or lack thereof.
 
-> 1: Use of counterfact.
+1: Use of counterfact.
 
-> 1: Tinctoris.
+1: Tinctoris.
 
-> 8: Mention of Faugues in _Musica de canto ilano y de orgeno._
+8: Mention of Faugues in _Musica de canto ilano y de orgeno._
 
-> 9: Mention of Faugues in a motet by Compere.
+9: Mention of Faugues in a motet by Compere.
 
-> 10: Note on mensuration in edition.
+10: Note on mensuration in edition.
 
-> 14: Note on fifteenth century text underlay.
+14: Note on fifteenth century text underlay.
 
-> 16: Faugues c.f. masses.
+16: Faugues c.f. masses.
 
-> 16: L'Homme arme is a cannon mass
+16: L'Homme arme is a cannon mass
 
-> 17: Techniques used by Faugues in _Le serviteur_: rhythmic augmentation, melodic deviation, and insertion of rests.
+17: Techniques used by Faugues in _Le serviteur_: rhythmic augmentation, melodic deviation, and insertion of rests.
 
-> 18: Comparison of tenor statements from song to _Missa Le serviteur._ (really great)
+18: Comparison of tenor statements from song to _Missa Le serviteur._ (really great)
 
-> 23: More elements of Faugues style in _Missa L'Homme arme_: insertions at the end f c.f. statements, omissions, use of the contratenor altus as the c.f. bearing voice. 
+23: More elements of Faugues style in _Missa L'Homme arme_: insertions at the end f c.f. statements, omissions, use of the contratenor altus as the c.f. bearing voice. 
 
-> 23: Missas _La basse danse_ and _Je suis en la mer_ use these same techniques as the other masses and no new techniques.
+23: Missas _La basse danse_ and _Je suis en la mer_ use these same techniques as the other masses and no new techniques.
 
-> 24: Reconstruction of A Base Danse
+24: Reconstruction of A Base Danse
 
-> 26: Reconstruction of Je suis en la mer
+26: Reconstruction of Je suis en la mer
 
-> 29: Talk of unifying power of c.f.
+29: Talk of unifying power of c.f.
 
-> 29: Structural repetition in _Missa Le serviteur_ and _Missa L'Homme arme_
+29: Structural repetition in _Missa Le serviteur_ and _Missa L'Homme arme_
 
-> 30: Faugues uses a rondo-like form en the Sistina-Verona version of _Missa L'Homme arme_.
+30: Faugues uses a rondo-like form en the Sistina-Verona version of _Missa L'Homme arme_.
 
-> 31: Number of voices in Faugues' works (_a_ 4)
+31: Number of voices in Faugues' works (_a_ 4)
 
-> 32: Parody in _Missa Le serviteur_ (He draws on all four voices of the Chanson)
+32: Parody in _Missa Le serviteur_ (He draws on all four voices of the Chanson)
 
-> 33: Literal quotation at the begging of the Kyrie of _Missa Le serviteur_. Subsequent quotations are more covert.
+33: Literal quotation at the begging of the Kyrie of _Missa Le serviteur_. Subsequent quotations are more covert.
 
-> 33: Retention of imitative passages from model.
+33: Retention of imitative passages from model.
 
-> 64: Free imitation.
+64: Free imitation.
 
-> 78: Line shape (preference for descent, occurs in a 12:1 ratio)
+78: Line shape (preference for descent, occurs in a 12:1 ratio)
 
-> 79: Melodic intervals: ascending 6ths only, preference for descending 5ths (2:1)
+79: Melodic intervals: ascending 6ths only, preference for descending 5ths (2:1)
 
-> 82: Disjunct and conjunct voices
+82: Disjunct and conjunct voices
 
-> 83: Table of leap frequency. Tenor lines are the smoothest part.
+83: Table of leap frequency. Tenor lines are the smoothest part.
 
-> 83: Use of imperfect intervals.
+83: Use of imperfect intervals.
 
-> 83: non-harmonic tones.
+83: non-harmonic tones.
 
-> 84: Passing tones, accented.
+84: Passing tones, accented.
 
-> 86: Anticipations
+86: Anticipations
 
-> 88: Suspensions (he likes 7-6 in superius)
+88: Suspensions (he likes 7-6 in superius)
 
-> 89: Double suspensions.
+89: Double suspensions.
 
-> 90: Cambiatae
+90: Cambiatae
 
-> 93: Parallel 5th and 8vs.
+93: Parallel 5th and 8vs.
 
 
 ### Seaton, Douglas. "Reconsidering Undergraduate Music History: Some Introductory Thoughts." _Journal of Music History Pedagogy_ 5, no. 2 (2015): 53-56.  
@@ -6556,7 +6556,7 @@ I find the way that Robertson presents the primary source very transparent. This
 
 ### Shouse, Eric. "Feeling, Emotion, Affect." _M/C Journal_ 8.6 (2005).
 
-> **This article gives a concise and comprehensive definition of affect.**
+**This article gives a concise and comprehensive definition of affect.**
 
 2: Feeling vs affect.
 
@@ -6669,28 +6669,28 @@ What is a human?
 
 ### Snarrenberg, Robert. "WesterParse: A Transition-Based Dependency Parser for Simple Tonal Lines." 2020.
 
-> 1: Why he wrote the program.
+1: Why he wrote the program.
 
-> 2: Westergarard theorized a linear view of tonality (i.e. lines, not chords.)
+2: Westergarard theorized a linear view of tonality (i.e. lines, not chords.)
 
-> 2: Schenker
+2: Schenker
 
-> 4: Why an object oriented language was needed.
+4: Why an object oriented language was needed.
 
-> 5: Linguistics and "transition based dependency parser."
+5: Linguistics and "transition based dependency parser."
 
-> 11: Transitions.
+11: Transitions.
 
-> 14: Looking forward.
+14: Looking forward.
 
 
 ### Sparks, Edgar. _Cantus Firmus in Mass and Motet: 1420–1520_. New York: Da Capo Press, 1975.
 
-> **This book is first and foremost concerned with collecting facts regarding the use of cantus firmi (c.f.) in the renaissance. Until the time of this survey, there had been very little written which systematically investigated how c.f. were actually used in their time. This being an expository book, he saves his criticism regarding how other researchers have analyzed c.f. for the appendix. Sparks presents this book as a tool for better analyzing music of this time period. He argues that the c.f. must be understood in a much broader sense than we understand it today. In its time, it referred to any preexisting melody which is used as the basis of a new composition (not just a series of whole notes, conservative in motion). 3The melody line was not often copied literally, but was more often modified as per the needs of the composer. Pt. one of this book discusses the way that the c.f. was quoted and altered up until 1450. He presents two broad categories of c.f.: structural tenor and melodic paraphrase. It is not his intention to use these terms as systematic classifications, but rather as guiding principles for organization of discussion. He has also taken great pains to transcribe the scores, so please read them as part of the text.(1-4)**
+**This book is first and foremost concerned with collecting facts regarding the use of cantus firmi (c.f.) in the renaissance. Until the time of this survey, there had been very little written which systematically investigated how c.f. were actually used in their time. This being an expository book, he saves his criticism regarding how other researchers have analyzed c.f. for the appendix. Sparks presents this book as a tool for better analyzing music of this time period. He argues that the c.f. must be understood in a much broader sense than we understand it today. In its time, it referred to any preexisting melody which is used as the basis of a new composition (not just a series of whole notes, conservative in motion). 3The melody line was not often copied literally, but was more often modified as per the needs of the composer. Pt. one of this book discusses the way that the c.f. was quoted and altered up until 1450. He presents two broad categories of c.f.: structural tenor and melodic paraphrase. It is not his intention to use these terms as systematic classifications, but rather as guiding principles for organization of discussion. He has also taken great pains to transcribe the scores, so please read them as part of the text.(1-4)**
 
 #### “The Structural Cantus Firmus,” 83–93
 
-> **This chapter is a survey of the use of structural vs. melodic cantus firmi.**
+**This chapter is a survey of the use of structural vs. melodic cantus firmi.**
 
 83: Discussion of the two forms of cantus firmi: paraphrased melody and structural tenor.
 
@@ -6709,7 +6709,7 @@ What is a human?
 
 #### “Cantus Firmus in the Mass,” 94–106.
 
-> **In this chapter, Sparks looks into the ways that c.f. were used in writing mass cycles. In short, c.f. were chosen because of their text, not their musical characteristics. Paraphrasing was used to bring the melody in line with melodic needs. There was little distinction made regarding the use of sacred or secular sources: sacred respect was expressed though the workmanship of the composer.**
+**In this chapter, Sparks looks into the ways that c.f. were used in writing mass cycles. In short, c.f. were chosen because of their text, not their musical characteristics. Paraphrasing was used to bring the melody in line with melodic needs. There was little distinction made regarding the use of sacred or secular sources: sacred respect was expressed though the workmanship of the composer.**
 
 94: Origin of the mass cycle.
 
@@ -6997,25 +6997,25 @@ Sophie Menter.
 
 #### Week 1
 
-> **In this class session we went over the basics of how the class will look. Then we had a discussion about [Kerman's _Contemplating Music_](#Kerman, 1985) and [Bent's "Fact and Value in Contemporary Scholarship."](#Bent, 1985)**
+**In this class session we went over the basics of how the class will look. Then we had a discussion about [Kerman's _Contemplating Music_](#Kerman, 1985) and [Bent's "Fact and Value in Contemporary Scholarship."](#Bent, 1985)**
 
-> "Uncle" Joe Kerman was writing about what kinds of questions musicologists should be studying.
+"Uncle" Joe Kerman was writing about what kinds of questions musicologists should be studying.
 
-> Examples of positivism to Kerman are producing critical editions, chronologies, and questions of authorship.
+Examples of positivism to Kerman are producing critical editions, chronologies, and questions of authorship.
 
-> The Bach chronology studies changed how we view Bach as a composer and how his pieces stand alone as individuals. He recycled a lot of material, which brings into question how we look at individual works as individuals.
+The Bach chronology studies changed how we view Bach as a composer and how his pieces stand alone as individuals. He recycled a lot of material, which brings into question how we look at individual works as individuals.
 
-> Critical musicology, as advocated by Kerman, is interested in what the music meant in its cultural context. (Kerman, _Contemplating Music_. 14)
+Critical musicology, as advocated by Kerman, is interested in what the music meant in its cultural context. (Kerman, _Contemplating Music_. 14)
 
-> Critical musicology is a dialog between context and analysis. Scholars should keep using all of their archaeological tools, but ultimately what we want is a close reading of the music which is informed by historical context and gives historical context for future researchers.
+Critical musicology is a dialog between context and analysis. Scholars should keep using all of their archaeological tools, but ultimately what we want is a close reading of the music which is informed by historical context and gives historical context for future researchers.
 
-> Kerman essentially wants music criticism to look like literary criticism.
+Kerman essentially wants music criticism to look like literary criticism.
 
-> All of this brings us to meaning and value.
+All of this brings us to meaning and value.
 
-> Bent defends edition making, calling it an act of analysis.
+Bent defends edition making, calling it an act of analysis.
 
-> Kermans view of what is musicology is very narrow. He is oriented only toward the individual "work"
+Kermans view of what is musicology is very narrow. He is oriented only toward the individual "work"
 
 #### Office Hours, 1T
 
@@ -7023,108 +7023,108 @@ Casting castrati only makes sense if you take into account Early Modern sexualit
 
 #### Week 2
 
-> Discussion of the anatomy of a scholarly article.
+Discussion of the anatomy of a scholarly article.
 
-> Discussion of Freitas.
+Discussion of Freitas.
 
-> Score as script
+Score as script
 
 
 #### Week 3
 
-> **Library tour, example: Rebekah Clarke**
+**Library tour, example: Rebekah Clarke**
 
-> Start with New Grove (not updated frequently). It will give you a bibliography.
+Start with New Grove (not updated frequently). It will give you a bibliography.
 
-> JSTOR (Lib>Databases>J)
+JSTOR (Lib>Databases>J)
 
-> RILM (Lib>Quicklinks)
+RILM (Lib>Quicklinks)
 
-> Actually browse the library stacks.
+Actually browse the library stacks.
 
-> Classic Catalog (request=recall)
+Classic Catalog (request=recall)
 
-> World Cat (send ILL request to ILLIAD, it will take about 1 week. You can also get PDFs of chapters.)
+World Cat (send ILL request to ILLIAD, it will take about 1 week. You can also get PDFs of chapters.)
 
-> BEST WAY to get journal articles: Type name of Journal into classic catalog to get institutional subscription
+BEST WAY to get journal articles: Type name of Journal into classic catalog to get institutional subscription
 
-> **Levy**
+**Levy**
 
-> Discussion of the idea that the composers are  "real men" by their economy.
+Discussion of the idea that the composers are  "real men" by their economy.
 
-> Levy is mostly looking at documents made for the public, i.e. textbooks, program nores, concert reviews, etc.
+Levy is mostly looking at documents made for the public, i.e. textbooks, program nores, concert reviews, etc.
 
-> We need to recognize the history of chamber music as connoisseur's music.
+We need to recognize the history of chamber music as connoisseur's music.
 
-> We need to gt around value judgments by understanding historically why they wrote these things and valued them in their time.
+We need to gt around value judgments by understanding historically why they wrote these things and valued them in their time.
 
-> We need to think about appropriate categories like physicality in "intellectual" music or abundance of thematic material in Mozart rather than economy.
+We need to think about appropriate categories like physicality in "intellectual" music or abundance of thematic material in Mozart rather than economy.
 
-> **Agawu**
+**Agawu**
 
-> Research needs to begin with the assumption that we are similar in order to see our differences and not Orientalize eachother.
+Research needs to begin with the assumption that we are similar in order to see our differences and not Orientalize eachother.
 
-> Agawu points to the idea that rhythm is about the body and harmony about the mind.
+Agawu points to the idea that rhythm is about the body and harmony about the mind.
 
-> If you are thinking in binary terms you are probably doing violence to the subject.
+If you are thinking in binary terms you are probably doing violence to the subject.
 
-> Think about the history of dirty deeds of the field.
+Think about the history of dirty deeds of the field.
 
-> **Taruskin**
+**Taruskin**
 
-> There is no such thing as listening to music without a preexistent lens. (No pure, unmediated view. We can't expirience music without mediation, nor could critics nor Schoenberg's audiences.)
+There is no such thing as listening to music without a preexistent lens. (No pure, unmediated view. We can't expirience music without mediation, nor could critics nor Schoenberg's audiences.)
 
-> Composers can't be where music history ends.
+Composers can't be where music history ends.
 
 #### Week 4
 
-> Discussion of sheet music archive
+Discussion of sheet music archive
 
-> Jeanine with the light brown hair
+Jeanine with the light brown hair
 
-> Women were the stereo systems of the 19th C.
+Women were the stereo systems of the 19th C.
 
-> Bring in other music in project to set up context. You might, for example, look at Stephen Foster's songs as a body. Or see if there were other variation sets of the same theme.
+Bring in other music in project to set up context. You might, for example, look at Stephen Foster's songs as a body. Or see if there were other variation sets of the same theme.
 
-> If you don't see a pattern. that can be a thesis.
+If you don't see a pattern. that can be a thesis.
 
-> Henderson calls the music not especially harmonically interesting, but rhythmically active. This is reductionist and boring.
+Henderson calls the music not especially harmonically interesting, but rhythmically active. This is reductionist and boring.
 
-> Minstrelsy touched all of American music.
+Minstrelsy touched all of American music.
 
-> Minstrelsy was popular in the Northeast.
+Minstrelsy was popular in the Northeast.
 
 #### Week 5:
 
-> Transparency is the gold standard in the humanities. It is like replicability in the sciences. 
+Transparency is the gold standard in the humanities. It is like replicability in the sciences. 
 
 #### Week 6: 
 
-> Discussion with Dan Fister and Elena.
+Discussion with Dan Fister and Elena.
 
-> Career center
+Career center
 
-> Read to get the what and the why, not for minutia.
+Read to get the what and the why, not for minutia.
 
-> Working all the time leads to burn out.
+Working all the time leads to burn out.
 
-> 24hr period once a week with no work.
+24hr period once a week with no work.
 
 
 
 #### Week 7: 
 
-> Westergaard
+Westergaard
 
-> Jackenof's problem is that the binary tree works for language but not passing tones in music.
+Jackenof's problem is that the binary tree works for language but not passing tones in music.
 
-> Snarenberg learned lot about music cognition though his project WesterParse.
+Snarenberg learned lot about music cognition though his project WesterParse.
 
-> there is no good competing theory of tonal music the Schenkerian analysis.
+there is no good competing theory of tonal music the Schenkerian analysis.
 
-> Use "I argue" not "This paper argues"
+Use "I argue" not "This paper argues"
 
-> Stephen King's book on writing.
+Stephen King's book on writing.
 
 
 #### Week 8: 
@@ -7375,7 +7375,7 @@ Cabaletta
 
 ### Taruskin, Richard."The Poietic Fallacy." _The Musical Times_ 145, no. 1886 (Spring 2004): 7-34.
 
-> **This piece is actually a book review of _Arnold Schoenberg's Journey_ by Allen Shawn,however Taruskin uses it as a platform to make much larger critiques of how we view Schoenberg and classical music. The problem which he points to is the "poietic fallacy"--the idea that the important part of the music is how brilliantly it is constructed, not its aesthetic qualities. He shows how this fallacy arises out of the historiography and philosophy of Franz Brendel. We know that Schoenberg saw himself as part of the Germanic chain of being on its way toward artistic perfection and Taruskin concludes that this outdated esthetic is precisely why Schoenberg is unpopular today.**
+**This piece is actually a book review of _Arnold Schoenberg's Journey_ by Allen Shawn,however Taruskin uses it as a platform to make much larger critiques of how we view Schoenberg and classical music. The problem which he points to is the "poietic fallacy"--the idea that the important part of the music is how brilliantly it is constructed, not its aesthetic qualities. He shows how this fallacy arises out of the historiography and philosophy of Franz Brendel. We know that Schoenberg saw himself as part of the Germanic chain of being on its way toward artistic perfection and Taruskin concludes that this outdated esthetic is precisely why Schoenberg is unpopular today.**
 
 7: The "din" surrounding Schoenberg.
 
@@ -7407,9 +7407,9 @@ Cabaletta
 
 23: "Emancipation of dissonance."
 
-> 25: Ideas of organicism in analyzing the tone-row.
+25: Ideas of organicism in analyzing the tone-row.
 
-> 26: Critical look at _Der Mondfleck_
+26: Critical look at _Der Mondfleck_
 
 28: Pantonality and androgyny.
 
@@ -7515,7 +7515,7 @@ P14: Return to Europe at request of US Military.
 
 ### Väätäinen, Hanna. 2017. “Forming Common Notions in a Kinetic Research Collaboration” 205–22. In _Musical Encounters with Deleuze and Guattari_, edited by Pirkko Moisala, Taru Leppänen, Milla Tiainen, and Hanna Väätäinen. Bloomsbury Sound Studies. New York: Bloomsbury Academic.
 
-> **This chapter details a series collaborative dance sessions by Väätäinen and Anneli Tiilikainen while viewing the film _Point_. Väätäinen coins the term kinecepts_ to refer to the way that movements can be used as analytic tools. She does this to challenge the privileging of concepts in research and ethnography. In short, she is proposing that movement be used as a serious tool in ethnographic and other social research.**
+**This chapter details a series collaborative dance sessions by Väätäinen and Anneli Tiilikainen while viewing the film _Point_. Väätäinen coins the term kinecepts_ to refer to the way that movements can be used as analytic tools. She does this to challenge the privileging of concepts in research and ethnography. In short, she is proposing that movement be used as a serious tool in ethnographic and other social research.**
 
 205: Collaborative dance as research.
 
@@ -7658,53 +7658,53 @@ This experience is remeniscent of the way that headphones make the sound come ou
 
 ### Wegman, Rob C. "Faugues, Guillaume." _Oxford Music Online._ 2001
 
-> P1: Biographical details.
+P1: Biographical details.
 
-> P2: Tinctorius loved Faugues.
+P2: Tinctorius loved Faugues.
 
-> P3: Borrowing style of Faugues.
+P3: Borrowing style of Faugues.
 
-> P4: Wegman trashes Faugues!
+P4: Wegman trashes Faugues!
 
-> P5: Structural repetition
+P5: Structural repetition
 
 ### Wegman, Rob C. "Guillaume Faugues and the Anonymous Masses 'Au chnat de l'aloute' and 'Vinnus vina.'" _Yijdschrift van de Vereniging voor Nederlandse Muziekgeschiedenis_ 41, no. 1 (1991): 27-64.
 
-> 27: Question of lasting influence.
+27: Question of lasting influence.
 
-> 28: Quick summary of extant works.
+28: Quick summary of extant works.
 
-> 28: "Flexible literalism."
+28: "Flexible literalism."
 
-> 28: Misa _Le serviteur_ (early instance of parody)
+28: Misa _Le serviteur_ (early instance of parody)
 
-> 28: Multi-part imitation
+28: Multi-part imitation
 
-> 29: "Je sui en la mer" (now lost)
+29: "Je sui en la mer" (now lost)
 
-> 29: Descant=Descant in _Le serviteur_
+29: Descant=Descant in _Le serviteur_
 
-> 31: Structural repetition
+31: Structural repetition
 
-> 32: Table of quotations
+32: Table of quotations
 
-> 34: Faugues' style
+34: Faugues' style
 
-> 38: Structural repetition
+38: Structural repetition
 
-> 40: Wegman keeps docking Faugues points for being derivative. (But what of Milsom's borrowing as aesthetic response?)
+40: Wegman keeps docking Faugues points for being derivative. (But what of Milsom's borrowing as aesthetic response?)
 
-> 43: _Miss Vinnus_ scribal ambiguity of name.
+43: _Miss Vinnus_ scribal ambiguity of name.
 
-> 45: Reconstruction of original melody of _Missa vinnus_
+45: Reconstruction of original melody of _Missa vinnus_
 
-> 47: _Vinnus Vina_ resembles _L'Homme arme_
+47: _Vinnus Vina_ resembles _L'Homme arme_
 
-> 48: No structural repetitions in _Vinnus vinna_ (which were a big part of his style)
+48: No structural repetitions in _Vinnus vinna_ (which were a big part of his style)
 
-> 49: Literal quotations in _Vinnus vina_
+49: Literal quotations in _Vinnus vina_
 
-> 55: Gaffurius
+55: Gaffurius
 
 >
 
@@ -8010,33 +8010,33 @@ Is this a divergent ability? A disabled ability akin to a female masculinity?
 
 ### Zazulia, Emily. "'Corps Contre Corps,' Voix Contre Voix: Conflicting Codes of Discourses in the Combinative Chanson." _Early Music_ 30, no. 3 (August 20): 347-359.
 
-> 347: Vulgar language in chansonniers.
+347: Vulgar language in chansonniers.
 
-> 347: Contrasting musical styles and texts in different voices.
+347: Contrasting musical styles and texts in different voices.
 
-> 347: Discussion of the courtly/popular dichotomy.
+347: Discussion of the courtly/popular dichotomy.
 
-> 348: Close reading of "Corpus Contre Corpus."
+348: Close reading of "Corpus Contre Corpus."
 
-> 349: By the mid fifteenth century, chansons go less dirty. 
+349: By the mid fifteenth century, chansons go less dirty. 
 
-> 349: Different rhythmic profile of different voices.
+349: Different rhythmic profile of different voices.
 
-> What happened?
+What happened?
 
-> 354: Anti-courtly language.
+354: Anti-courtly language.
 
-> 354: Low voices sang dirty lines.
+354: Low voices sang dirty lines.
 
-> Was there an association of high with noble?
+Was there an association of high with noble?
 
-> 355: Glossing of subtext in discursive voices. (Sort of like the Jungian shadow.)
+355: Glossing of subtext in discursive voices. (Sort of like the Jungian shadow.)
 
-> 355: Music articulates social order.
+355: Music articulates social order.
 
 
 ## Lost and Found
 
-> Songs vs. mass, example: Dufay recycling Se la face ay pale from a madrigal into a mass.
+Songs vs. mass, example: Dufay recycling Se la face ay pale from a madrigal into a mass.
 
-> The mass is a narrative of the life and death of Jesus.
+The mass is a narrative of the life and death of Jesus.
