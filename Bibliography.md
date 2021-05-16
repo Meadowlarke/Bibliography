@@ -83,14 +83,6 @@
 448: Calculation with cents.  
 
 452: Computation of scales.  
-
-
-
-
-
-
-
-
  
 
 ### Agawu, Kofi _Representing African Music: Postcolonial Notes, Queries, Positions._ New York: Routledge, 2003.
@@ -702,8 +694,7 @@ mm: 42: Begin B theme, sentence structure, two-bar basic idea.
 
 ### Blake, David. "Musicological Omnivory in the Neoliberal University." _The Journal of Musicology_ 34, no. 3 (2017): 319-353.  
 
-**Basically, the argument here is that authors and neo-liberal institutions have been attacking a lack of diversity and so on which doesn't actually exist in contemporary musicology. In so doing, they paint musicology as a burdensom and hegemonic field. Blake argues that we should instead reframe musicology as ain inclusive field. What Blake is trying to show is that there is this norm in musicological research of omnivory. You are not being radical. Omniverous musicologists are not renegades, but rather just taking part in the omniverous turn.  
-**   
+**Basically, the argument here is that authors and neo-liberal institutions have been attacking a lack of diversity and so on which doesn't actually exist in contemporary musicology. In so doing, they paint musicology as a burdensom and hegemonic field. Blake argues that we should instead reframe musicology as ain inclusive field. What Blake is trying to show is that there is this norm in musicological research of omnivory. You are not being radical. Omniverous musicologists are not renegades, but rather just taking part in the omniverous turn.**   
 
 320: The zeitgeist of equitable inclusion in the university.  
 
@@ -872,7 +863,7 @@ His question n this chapter is why the model was chosen, yet largely abandoned (
 
 For composer presentation, start with Grove.
 
-**Kirkman **
+**Kirkman**
 
 Mainly looking at contrapuntal elements.
 
