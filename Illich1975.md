@@ -72,4 +72,18 @@
 
 #### Chapter 3: The Multiple Balance.  
 
+60: The demands made by tools.  
 
+61: The "Overgrowth" of tools.  
+
+61: Six ways that all people of the world are threatened by industrial development.  
+
+62: Biological degradation.  
+
+65: Radical monopoly.  
+
+66: #Z: A "radical monopoly" is the dominance not of one brand, but of one kind of product, for example a car in Los Angeles.  
+
+67: Health care forcing people to play the role of the sick.  
+
+71: "Overprogramming."  
