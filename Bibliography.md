@@ -3307,6 +3307,24 @@ p.15: Her argument.
 
 -: The structure of tools.  
 
+40: Human metabolic power.  
+
+44: New power.  
+
+48: Examples of de-professionalization.  
+
+50: Example of tools causing problems: transportation in Mexico.   
+
+51: Social stratification of speed.  
+
+52: _Klongs_ (canal waterways) in Thailand.  
+
+54: Quantization of present tools.  
+
+#### Chapter 3: The Multiple Balance.  
+
+
+
 
 ### Ishii, Hiroshi. _Making Digital Tangible: The Battle Against the Pixel Empire._ Talk at the University of Chicago, 11/30/20.
 
