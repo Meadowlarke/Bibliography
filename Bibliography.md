@@ -2732,7 +2732,7 @@ p.15: Her argument.
 
  
 
-### Glendinning, Robert. "Eros, Agape, and Rhetoric around 1200: Gervase of Melkley's Ars poetica and Gottfried von Strassburg's Tristan." _Speculum_67, no. 4 (1992): 892-925.
+### Glendinning, Robert. "Eros, Agape, and Rhetoric around 1200: Gervase of Melkley's Ars poetica and Gottfried von Strassburg's Tristan." _Speculum_ 67, no. 4 (1992): 892-925.
 
 892: Oxymorons in Christianity.  
 
