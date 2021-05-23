@@ -12,13 +12,13 @@
 
 12: Argument that _Sesame Street_'s cultural pedagogy influences its audience.  
 
--: The socio-cultural impact of the show, and its productions in other countries. #Z: There is an Arabic/Hebrew coproduction of Sesame Street made by an Israeli and Palestinian production team.   
+-: The socio-cultural impact of the show, and its productions in other countries.   
 
 13: _Sesame Street_ as a cultural program which gives kids cultural context.  
 
 14: Postmodern critique.  
 
--: Criticism of _Sesame Street_ by _The Economist._ #Z: In 1992, The Economist criticized _Sesame Street_ for its "hyper-tolerance" and described this as an "intolerance which has come to be known as 'political correctness.'"
+-: Criticism of _Sesame Street_ by _The Economist._   
 
 15: Ludic postmodernism. 
 
@@ -28,11 +28,11 @@
 
 -: Clips from people around the world.  
 
-18: How the program addresses difference, but focuses of the recognition of likeness. #Z: Copy. 
+18: How the program addresses difference, but focuses of the recognition of likeness.  
 
 -: Accents (or the lack of) and language.  
 
-19: #Z: The latino family on _Sesame Street_ was the first Latino family on U.S. Television.  
+19: The latino family on _Sesame Street_ as one of the the first Latino families on U.S. Television.  
 
 20: Skits featuring cross-cultural friendship.  
 
