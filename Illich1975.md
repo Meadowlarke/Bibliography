@@ -87,3 +87,11 @@
 67: Health care forcing people to play the role of the sick.  
 
 71: "Overprogramming."  
+
+73: The commidification of learning. 
+
+77: Education as social control under capitalism. 
+
+78: The alphabet and the printing press as ideal convivial tools. #Z: The alphabet and the printing press have deprofessionalized the recorded word.    
+
+80: Contraception.  
