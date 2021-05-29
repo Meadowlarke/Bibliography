@@ -1,4 +1,4 @@
-### Illich, Ivan. _Tools for Convivality_. Fontana/Collins, 1975.  
+# Illich, Ivan. _Tools for Convivality_. Fontana/Collins, 1975.  
 
 #### Introduction  
 
@@ -10,7 +10,7 @@
 
 -: More discussion of this term.
 
-### Chapter 1: Two Watersheds    
+## Chapter 1: Two Watersheds    
 
 14: History of medicine, simplicity of tools, and the professionalization of the medical field.
 
@@ -24,7 +24,7 @@
 
 22: Science as solving a crisis by escalation.
 
-#### Chapter 2: Convivial Reconstruction
+## Chapter 2: Convivial Reconstruction
 
 22: Inverting the structure of tool use.
 
@@ -70,7 +70,7 @@
 
 54: Quantization of present tools.  
 
-#### Chapter 3: The Multiple Balance.  
+## Chapter 3: The Multiple Balance.  
 
 60: The demands made by tools.  
 
@@ -119,3 +119,32 @@
 97: Negative returns in medicine.  
 
 98: #Z: Don't make faster vehicles, instead, design a world for slow transit.  
+
+## Chapter 4: Recovery.  
+
+99: Two ranges in the growth of tools.   
+
+100: The de-mythologization of science.  
+
+101: The inability for people to decide for themselves.  
+
+103: The conservation of energy.  
+
+104: The industrialization of language.  
+
+108: Law as a tool for inversion, objections to.  
+
+110; Common law.  
+
+## Chapter 5: Political Inversion.
+
+117: The breakdown of industrial society.  
+
+119: Misunderstanding the coming crisis.  
+
+121: Conviviality used to prevent the institutionalization of revolution.  
+
+125: Reconstruction for poor countries.  
+
+-: How to do it! (kindof)   
+
