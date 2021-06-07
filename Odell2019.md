@@ -14,8 +14,6 @@
 
 14: "Old Survivor" as a navigational aid.  
 
--: #Z: Redwood trees were used as navigational tool in by sailors in the San Francisco Bay. When they were logged, the Army Corps of Engineers had to blow up Blossom Rock, which the Sailors had been using the trees to avoid.   
-
 -: Daoist parable of the useless tree.  
 
 17: Cursory outline of the book.   
