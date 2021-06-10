@@ -28,4 +28,4 @@ xi: Samuel Delany on "contact" and "networking."
 
 13: A history of going online.  
 
-14: From discipline to control (Foucault to Deluze) in computer networks. #Z: Networks are not always liberating, they cane be built on preexisting systems of control, and are not necessarily more free than centralized systems.  
+14: From discipline to control (Foucault to Deluze) in computer networks.  

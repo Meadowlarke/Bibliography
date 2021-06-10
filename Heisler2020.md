@@ -47,3 +47,15 @@
 57: Inspecting values/variables.  
 
 60: Comments.  
+
+## Chapter 4: Strings and String Method 
+
+66: Strings.  
+
+67: "String literal."  
+
+69: String length.  
+
+70: Multi-line strings.  
+
+73: Concatenating, indexing, and slicing strings.  

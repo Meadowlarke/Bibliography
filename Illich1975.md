@@ -40,7 +40,7 @@
 
 -: John Amos Cormenius.
 
-32: Redefinition of learning as schooling. #Z: Learning has been redefined as "schooling".
+32: Redefinition of learning as schooling.  
 
 34: Defining tools.
 
@@ -84,8 +84,6 @@
 
 65: Radical monopoly.  
 
-66: #Z: A "radical monopoly" is the dominance not of one brand, but of one kind of product, for example a car in Los Angeles.  
-
 67: Health care forcing people to play the role of the sick.  
 
 71: "Overprogramming."  
@@ -94,7 +92,7 @@
 
 77: Education as social control under capitalism. 
 
-78: The alphabet and the printing press as ideal convivial tools. #Z: The alphabet and the printing press have deprofessionalized the recorded word.    
+78: The alphabet and the printing press as ideal convivial tools.  
 
 80: Contraception.  
 
@@ -102,7 +100,7 @@
 
 87: Equal work rather than equal pay.  
 
--: Industrial society and women. #Z: Industrial society is able to exist only because women continue to do the non-industrial labor of the household and child-rearing/bearing.  
+-: Industrial society is able to exist only because women continue to do the non-industrial labor of the household and child-rearing/bearing.  
 
 88: Change and obsolescence.  
 
@@ -110,17 +108,13 @@
 
 94: Compulsory maddening behaviour.  
 
--: Commuter system inefficiency of scale. #Z: Anything faster than a bicycle adds inefficiency to the system.   
+-: Commuter system inefficiency of scale.  
 
 95: High output and lack of time.  
-
--: #Z: Taking for granted speedy transportation renders time scarce as they require more and more labor from the user and time spent in transportation. This is even the case for public transportation, which, when speedy transport is taken for granted is run infrequently and only a few routes due to their expense.   
 
 96: Analyses of percentages of energy used in transportation (around 33 percent in the U.S.)
 
 97: Negative returns in medicine.  
-
-98: #Z: Don't make faster vehicles, instead, design a world for slow transit.  
 
 ## Chapter 4: Recovery.  
 
