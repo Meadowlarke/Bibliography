@@ -65,3 +65,5 @@
 -: #Z: "Childhood" as a period of life separate from infancy, adolescence, or youth did not begin to appear until the Renaissance, and not in its present form until industrialization.  
 
 X: #Z: Does _Sesame Street_'s insistence on only having a "very short audience" reflect a reduced acknowledgement of the distinctity of childhood? 
+
+14: Childhood as a burden.  
