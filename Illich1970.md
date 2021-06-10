@@ -47,3 +47,21 @@
 11: More on his proposed computer system.  
 
 -: Incidental education and the modern world.  
+
+12: Mark, child labor and educational alienation.  
+
+-: #Z: It is delusional to think that we can determine what is necessary education for others and what is not.  
+
+-: Durkheim  and the division of society.  
+
+-: #Z: Obligatory schooling divides society into the realms of the "academic" and the non-academic. It renders education non-worldly and the world non-educational.  
+
+## Chapter 2: The Phenomenology of School.  
+
+13: Defining school.  
+
+-: The history of the concept of "childhood."  
+
+-: #Z: "Childhood" as a period of life separate from infancy, adolescence, or youth did not begin to appear until the Renaissance, and not in its present form until industrialization.  
+
+X: #Z: Does _Sesame Street_'s insistence on only having a "very short audience" reflect a reduced acknowledgement of the distinctity of childhood? 
