@@ -8,7 +8,7 @@
 
 -: Modernization of poverty.  
 
--: Poverty defined in contradistinction to the advertised ideal of consumption. #Z: Poverty is defined by the affluent in contradistinction to their advertised ideal of consumption.   
+-: Poverty defined in contradistinction to the advertised ideal of consumption.   
 
 4: Criticism of Title One (and the attitude that education can be improved by pumping in more money.)
 
@@ -54,10 +54,6 @@
 
 -: The history of the concept of "childhood."  
 
--: #Z: "Childhood" as a period of life separate from infancy, adolescence, or youth did not begin to appear until the Renaissance, and not in its present form until industrialization.  
-
-X: #Z: Does _Sesame Street_'s insistence on only having a "very short audience" reflect a reduced acknowledgement of the distinctity of childhood? 
-
 14: Childhood as a burden.  
 
 15: Teacher as super-powered authority figure.  
@@ -66,17 +62,11 @@ X: #Z: Does _Sesame Street_'s insistence on only having a "very short audience" 
 
 -: The hidden curriculum of schooling.  
 
--: #Z: To understand how to deschool society, and not just reform the educational establishment, we need to understand the hidden curricula of schooling.  
-
 ## Chapter 3: Ritualization of Progress.  
 
 17: Education and consumer standards.  
 
 -: The medieval university.  
-
--: #Z: "The modern university has forfeited its chance to provide a simple setting for encounters which are both autonomous and anarchic, focussed yet unplanned and ebullient, and has chosen instead to manage the process by which so-called research and instruction are produced."  
-
--: #Z: The modern university, unlike the medieval university in many ways, no longer provides a setting for anarchic and autonomous discourse and discovery, preferring instead to  strictly manage and commodify the processes of research and instruction.    
 
 18: The freedom that the modern university enables.  
 
@@ -86,13 +76,13 @@ X: #Z: Does _Sesame Street_'s insistence on only having a "very short audience" 
 
 19: Students resisting learning.  
 
-20: The American cult of growth.  lk
+20: The American cult of growth.  
 
--: The ritual game of school.  #Z: School is a ritual game.   
+-: The ritual game of school.  
 
 21: Understanding school as an industry.  
 
-22: #Z: Deschooling is necessary for any movement for human liberation.   
+22: Deschooling and human liberation.   
 
 -: Liberation from schooling.  
 
@@ -120,9 +110,9 @@ X: #Z: Does _Sesame Street_'s insistence on only having a "very short audience" 
 
 33: "Opportunity web" for education.  
 
-34: TV vs cassette tapes.  lk
+34: TV vs cassette tapes.  
 
--: #Z: Educational institutions should not be planned based on the question "what should someone learn" but rather "what resources and people might learners want to have access to." 
+-: Planning educational institutions based on the question "what resources and people might learners want to have access to." 
 
 -: Outline of the learning web.  
 
@@ -134,15 +124,13 @@ X: #Z: Does _Sesame Street_'s insistence on only having a "very short audience" 
 
 38: Skill exchanges, teacher to student.  
 
-39: #Z: Schools create a shortage of skilled people, as the job market and educational system require that skills be scarce in order to function.  
-
 39: The role of schools in the shortage of skilled persons.  
 
 -: Peer matching.  
 
 42: Professional educators.  
 
-43: #Z: Illich proposes that in the deschooled world we will have pedagogical counselors who would advise a student on where to seek instruction, what methods of learning would be appropriate for their skills, and the like. Skills more like that of a subject librarian or a museum curator.  
+43: Pedagogical counselors in the deschooled world.  
 
 -: Aristotle and Aquinas on true master-disciple relationships.  
 
