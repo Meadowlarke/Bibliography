@@ -48,8 +48,6 @@
 
 46: Stone on directing childrens' television at parents.  
 
--: #Z: The idea of adressing certain aspects of childrens' television at paretns, older siblings, or other caretakers who might be present likely first appeared on the program _Captain Kangaroo._  
-
 46: Adds on _Captain Kangaroo,_ and Keeshan's refusal to market to parents through children or promote weapons.  
 
 49: Edward R. Murrow.  
@@ -79,8 +77,6 @@
 ## Chapter 5.  
 
 74: The early life of Jim Henson.  
-
-77: #Z: Jim Henson majored in home economics.  
 
 77: The early history of Henson's puppetry.  
 
