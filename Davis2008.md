@@ -63,3 +63,33 @@
 54: Beverly Ogg/Owen.  
 
 -: #Z: Edward R. Murrow said that the role of television was to make the world aware of itself.  
+
+59: The _Captain Kangaroo_ team quitting in the early 60s.  
+
+-: Newton Minow.  
+
+-: _Exploring._  
+
+## Chapter 4.  
+
+66: _The Potential Uses of Television in Preeschool Education_ by Coony.   
+
+67: Addresing the educational income gap.  
+
+## Chapter 5.  
+
+74: The early life of Jim Henson.  
+
+77: #Z: Jim Henson majored in home economics.  
+
+77: The early history of Henson's puppetry.  
+
+79: _Sam and Friends._  
+
+81: The technical aspects of shooting _Sam and Friends._  
+
+82: The _Muppets_ in television commercials in the 50s.  
+
+84: Adds for La Choy canned Chinese food.  
+
+## Chapter 5.  
