@@ -150,6 +150,93 @@
 
 92: Occupying the third space within the attention economy.  
 
+## Chapter 4: Exercises in Attention.  
+
+95: Growing up in Cupertino.  
+
+96: David Hockney and painting and photographing time.  
+
+99: Hockney's _Pearblossom Highway._  
+
+100: Hockney's _Yorkshire Landscapes._  
+
+-: #Z: Hockney said, comparing _Yorkshire Landscapes_ to television that "if you show the world better, it's more beautiful, a lot more beautiful. The process of looking is the beauty."  
+
+101: John Cage and listening with new ears.    
+
+104: Curiosity, transcendence of the self.  
+
+-: Buber's _I Though._  
+
+105: Emily Dickensons's "A Bird Came Down The Walk."  
+
+107: Barnett Newman's _Onement VI_ and the palpability of attention.   
+
+109: The above artworks as training apparati for attention.  
+
+-: ULTIMYES visual attention training app.  
+
+110: Inattentional blindness.  
+
+111: Implicit racial bias.  
+
+112: Discipline and attention.  
+
+114: Persuasive design techniques in the attention economy.  
+
+116: The agency vs structure debate regarding attention.  
+
+118: _Blindspotting_.  
+
+120: Rendering.  
+
+122: Attentional remapping, increased ecological awareness.    
+
+-: Bioregionalism.  
+
+123: Rediscovering Calabazas creek in Cupertino.  
+
+## Chapter 5: Ecology of Strangers.  
+
+128: Witnessing a stranger having a seizure.  
+
+129: David Foster Wallace on living a compassionat life.  
+
+131: Louis Althusser's _Philosphy of the Encounter._  
+
+132: Care.  
+
+134: Neighbors.  
+
+136: Spotify, radio, music taste, the self, algorithms.    
+
+139: Living without encountering plurality.  
+
+140: The fuzziness of the boundaries of the self.  
+
+141: The oxymoron of being "alone in nature."  
+
+142: Recognizing the ecological nature of all communities.  
+
+143: "Species lonliness."  
+
+144: iNaturalist.  
+
+146: David Abram and what is lost when we see the rest of the world as less than animate.  
+
+148: The importance of bioregionalism.  
+
+149: Atmospheric rivers.  
+
+151: The anit-essentialism of ecology.  
+
+152: Audre Lorde on difference as strength.  
+
+153: The passivity that accompanies gentrification.  
+
+154: Attention as the grounds for ethics.  
+
+-: #Z: Odell places attention as the center of ethics. We decide who is seen, who is heard, and who has agency, through acts of attention.   
 
 
 ## Chapter 6: Restoring the Grounds for Thought.  
@@ -164,7 +251,7 @@
 
 248: Social networks with context.  
 
--: Public Bulletin Board System, 1972.  
+- We decide who is seen, who is heard, and who has agency, through acts of attention. 
 
 251: Nextdoor app.  
 
