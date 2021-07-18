@@ -110,8 +110,6 @@
 
 -: "Standing apart."  
 
--: #Z: Odell proposes "standing apart"---taking the view of the outsider without leaving---as a form of refusal and resistance.  
-
 ## Chapter 3: Anatomy of a Refusal.  
 
 63: Pilvi Takala's _The Trainee._  
@@ -134,8 +132,6 @@
 
 82: Rosa Parks.  
 
--#Z The lives of Rosa Parks and her family were nearly ruined by her arrest, after which she was unable to find full employment for 10 years, lost weight, and had to be hospitalized for ulcers.  
-
 83: Affording refusal.  
 
 85: The "new contract" of labor with no margin for protest.  
@@ -157,8 +153,6 @@
 99: Hockney's _Pearblossom Highway._  
 
 100: Hockney's _Yorkshire Landscapes._  
-
--: #Z: Hockney said, comparing _Yorkshire Landscapes_ to television that "if you show the world better, it's more beautiful, a lot more beautiful. The process of looking is the beauty."  
 
 101: John Cage and listening with new ears.    
 
@@ -233,9 +227,6 @@
 153: The passivity that accompanies gentrification.  
 
 154: Attention as the grounds for ethics.  
-
--: #Z: Odell places attention as the center of ethics. We decide who is seen, who is heard, and who has agency, through acts of attention.   
-
 
 ## Chapter 6: Restoring the Grounds for Thought.  
 
