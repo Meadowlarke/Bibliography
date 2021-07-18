@@ -246,7 +246,7 @@
 
 159: "Context collapse."  
 
-239/341: Joshua Mayrowitz _No Sense of Place,_ and telling stories differently based on audience.  
+239/341: Joshua Mayrowitz _No Sense of Place,_ and telling stories differently based on audience.
 
 248: Social networks with context.  
 
@@ -266,8 +266,26 @@
 
 ## Conclusion: Manifest Dismantling.  
 
-279: Manifest Dismantling: undoing the damage done by progress.  
+186: Aldo Leopold on round river, "seeing the marks of death in a community."  
 
--: Removal of the San Clemente dam.  
+188: Manifest destiny.  
 
-283: Fukuoka's "do-nothing farming."   
+189/190: Manifest Dismantling: undoing the damage done by progress.  
+
+190: Removal of the San Clemente dam.  
+
+193: Fukuoka's "do-nothing farming."   
+
+194: Fukoka's encounter with a night-heron.  
+
+195: Maintenance.  
+
+196: Peter Berg's project in manifest dismanteling.  
+
+197: Ohlone Save West Berkeley Shellmound and Village Site.  
+
+198: Class, access to parks, and the priveledge of resisting the attention economy.    
+
+200: Abandoning harmony, goal without telos.  
+
+204: "When we pry open the cracks in the concrete we stand to encounter life itself---nothing less and nothing more, as if there could be more."  
