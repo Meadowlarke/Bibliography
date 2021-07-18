@@ -90,8 +90,6 @@
 
 52: _Walden Two,_ differences, alliances, politics.  
 
--: #Z: Difference and alliances lead to politics. Politics arrise from any two individuals with free will.  
-
 -: The inability for new tech to create new spaces for freedom.  
 
 52: Utopia and the distance between image and reality.  
