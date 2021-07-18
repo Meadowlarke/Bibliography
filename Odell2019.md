@@ -230,13 +230,23 @@
 
 ## Chapter 6: Restoring the Grounds for Thought.  
 
-232/341: Birds and context.  
+155: Attention  and context.  
 
-236: Lack of context on social media.  
+-: #Z: Paying close attention can help us better understand the nuanced ecologies of being and identities.  
 
-238: "Context collapse."  
+-: #Z: The ecological, attention-based understanding of the world requires that one gives up the idea of discrete entities, simple origin stories, and simple one-to-one causalities, and abova all, time. 
 
-239: Joshua Mayrowitz _No Sense of Place,_ and telling stories differently based on audience.  
+-: #Z: Context is the direct product of attention. The longer that the attention is held, the more context appears.  
+
+-: Birds and context.  
+
+157: Seeing ecological relationships rather than individal birds or species.  
+
+158: Lack of context on social media.  
+
+159: "Context collapse."  
+
+239/341: Joshua Mayrowitz _No Sense of Place,_ and telling stories differently based on audience.  
 
 248: Social networks with context.  
 
