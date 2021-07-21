@@ -232,12 +232,6 @@
 
 155: Attention  and context.  
 
--: #Z: Paying close attention can help us better understand the nuanced ecologies of being and identities.  
-
--: #Z: The ecological, attention-based understanding of the world requires that one gives up the idea of discrete entities, simple origin stories, and simple one-to-one causalities, and abova all, time. 
-
--: #Z: Context is the direct product of attention. The longer that the attention is held, the more context appears.  
-
 -: Birds and context.  
 
 157: Seeing ecological relationships rather than individal birds or species.  
