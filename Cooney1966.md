@@ -26,8 +26,6 @@
 
 20: Commercials as effective teachers.  
 
--: #Z: Children who watch TV at home have a 1 year advantage in vocabulary over non-watchers when reporting to school.  
-
 21: Television's effect on middle-class vs disadvantaged students.  
 
 ## Section 3: What Leading Educators Think about a Television Series for Preschoolers.  
@@ -35,8 +33,6 @@
 22: What the educators wanted to see in a program.  
 
 23: Encoraging active viewing.  
-
--: #Z: Almost all of the experts interviewed by Cooney wanted to see preschoolers tought _how_ to think, not what to think.  
 
 -: Accompanying the program with kits and books.  
 
@@ -76,8 +72,6 @@
 
 38: General comments on teaching through television.  
 
--: #Z: In order to keep up with the non-educational television compotition only a turn of the dial away, televised preschool education would have to be just as entertaining.  
-
 39: Inviting guest stars.  
 
 -: Presentig the program as an experiment which needs flexibility.  
@@ -88,15 +82,11 @@
 
 41: Description of the accompanying parent's program.  
 
-42: #Z: Cooney's prposal for what became _Sesame Street_ incuded an accompanying program for parents which, in addition to discussing the material which their children were learning, would advise parents on parenting topics, such as the effects of a move or a divorce on their child's emotional well-being.  
-
 ## Section 6: Television and the Disadvantaged Child.  
 
 43: Description of slum life, suggestions for cultivating better home-viewing/learning environments.  
 
 44: "Roundabout," a series of educational specials by WETA-TV specically for disadvantaged children.  
-
--: #Z: At the time of Cooney's report, a program tittled "Roundabout" was being piloted by WETA-TV in Washigton, DC produced specifcally for poor urban black children.  
 
 ## Section 7: Kits and Books.  
 
