@@ -34,6 +34,70 @@
 
 22: What the educators wanted to see in a program.  
 
-23: 
+23: Encoraging active viewing.  
 
 -: #Z: Almost all of the experts interviewed by Cooney wanted to see preschoolers tought _how_ to think, not what to think.  
+
+-: Accompanying the program with kits and books.  
+
+-: Discussion of the ideal gender for the host.  
+
+24: A suggested accompanying weekly program for adults.  
+
+-: Disagreement over value to both middle and lower classes.  
+
+25: Objections to the program.  
+
+## Section 4: Reccomendations for a Television Series.  
+
+26: Outline of the aims of the program.  
+
+29: Fostering cultural development.  
+
+-: Teaching to multiple ages.  
+
+30: Discussion of magazine format and host.  
+
+31: How to both entertain and teach.  
+
+32: Presentation of storybooks.  
+
+33: The format of teaching various other things.  
+
+34: National Film Board of Canada.  
+
+35: Emotional education, _The Tottles._  
+
+-: Scientific demonstrations.  
+
+36: Teaching music on television.  
+
+37: Arts and crafts.  
+
+38: General comments on teaching through television.  
+
+-: #Z: In order to keep up with the non-educational television compotition only a turn of the dial away, televised preschool education would have to be just as entertaining.  
+
+39: Inviting guest stars.  
+
+-: Presentig the program as an experiment which needs flexibility.  
+
+## Section 5: Television for Parents.  
+
+40: Parental anxieties over education.  
+
+41: Description of the accompanying parent's program.  
+
+42: #Z: Cooney's prposal for what became _Sesame Street_ incuded an accompanying program for parents which, in addition to discussing the material which their children were learning, would advise parents on parenting topics, such as the effects of a move or a divorce on their child's emotional well-being.  
+
+## Section 6: Television and the Disadvantaged Child.  
+
+43: Description of slum life, suggestions for cultivating better home-viewing/learning environments.  
+
+44: "Roundabout," a series of educational specials by WETA-TV specically for disadvantaged children.  
+
+-: #Z: At the time of Cooney's report, a program tittled "Roundabout" was being piloted by WETA-TV in Washigton, DC produced specifcally for poor urban black children.  
+
+## Section 7: Kits and Books.  
+
+45: Some ideas for distributing kits and books.  
