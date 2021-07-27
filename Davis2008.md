@@ -148,7 +148,7 @@
 
 ## Chapter 11.  
 
-146: John Leonad was skeptical of the CTW and its high profile patrons, saying: "Any project seducing the philanthropies of two private foundations and a government agency is suspect." With this statemant he was questioning the ability of the prograw to be truley socially liberal institution, stating that "Government agencies are permitted to exist... only so long as they use hair sprays to attack our various social Medusas."  
+146: John Leonard's skepticism.   
 
 148: _Laugh In._  
 
@@ -159,3 +159,37 @@
 154: Choosing the urban set.  
 
 156: Choosing the title.  
+
+158: Enter Joe Rapso.  
+
+159: The theme song.  
+
+162: Henson, animations.  
+
+164: _Sesame Street's_ monsters.  
+
+## Chapter 12.  
+
+166: Development of Bert, Ernie, and Grover.  
+
+167: Auditing a cast.  
+
+168: Loretta Long.  
+
+172: Robert "Bobby/Bob" Emmett McGrath. 
+
+177: Character actor Will Lee.   
+
+180: Davis's outreach to black neighborhoods.  
+
+184: Recruiting Spinney, who would play Big Bird and Oscar Grouch.  
+
+185: Bluring the line between fantasy and reality by including muppets in street scenes.  
+
+186: Designing Oscar Grouch.  
+
+188: The first episode.  
+
+## Chapter 13: Intermission.  
+
+192: Thick descriptions of the first episodes.  
