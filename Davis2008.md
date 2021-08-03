@@ -48,8 +48,6 @@
 
 46: Stone on directing childrens' television at parents.  
 
--: #Z: The idea of adressing certain aspects of childrens' television at paretns, older siblings, or other caretakers who might be present likely first appeared on the program _Captain Kangaroo._  
-
 46: Adds on _Captain Kangaroo,_ and Keeshan's refusal to market to parents through children or promote weapons.  
 
 49: Edward R. Murrow.  
@@ -61,8 +59,6 @@
 52: Gibbon.  
 
 54: Beverly Ogg/Owen.  
-
--: #Z: Edward R. Murrow said that the role of television was to make the world aware of itself.  
 
 59: The _Captain Kangaroo_ team quitting in the early 60s.  
 
@@ -79,8 +75,6 @@
 ## Chapter 5.  
 
 74: The early life of Jim Henson.  
-
-77: #Z: Jim Henson majored in home economics.  
 
 77: The early history of Henson's puppetry.  
 
@@ -112,13 +106,11 @@
 
 107: Howe and funding for _Sesame Street._  
  
--: #Z: Harold Howe II, the United States Office of Education commissioner at the time (1967) is largely responsibe for the creation of _Sesame Street._ So impressed by Cooney's proposal, he strong-armed departmental research funds from multiple government agencies to start the program.  
-
 108: How all the fund raising and grants worked out.  
 
 111: Origins of public television.  
 
-112: #Z: "Public television" was a label promoted by the Ford Foundation in the 1960s.    
+112: "Public television" and the Ford Foundation.   
 
 114: Rejection of the program by NBC and CBS.  
 
@@ -131,8 +123,6 @@
 118: The scientific backbone of the program.  
 
 119: The Public Broadcasting Laboratory and its special on race relations.  
-
-121: #Z: At the same time that what would become _Sesame Street_ was being established by the Carnegie Corporation, the Ford Foundation was considering giving its support to a rival program, aimed particularly at underprivilaged, inner-city children. Ultimately, this proposal was dropped and Ford backed _Sesame Street._   
 
 122: Management structure and the stifled failure of the Public Television Laboratory.  
 
@@ -158,7 +148,7 @@
 
 ## Chapter 11.  
 
-146: John Leonad was skeptical of the CTW and its high profile patrons, saying: "Any project seducing the philanthropies of two private foundations and a government agency is suspect." With this statemant he was questioning the ability of the prograw to be truley socially liberal institution, stating that "Government agencies are permitted to exist... only so long as they use hair sprays to attack our various social Medusas."  
+146: John Leonard's skepticism.   
 
 148: _Laugh In._  
 
@@ -168,8 +158,253 @@
 
 154: Choosing the urban set.  
 
--: #Z: Inspired by a PSA on the urban life of children as part of the "Give a Damn" ad campaign by the New York Urban Coalition, Jon Stone decided that the show have an urban set. This came in part from the realization that "For a preschool child in Harlem, the street is where the action is. As often as not she is housebound all day while her mother works, aand, from the vantage point of her apartment, the sidewalk outside must look like Utopia. Outside there are kids hollering, jumping double Dutch, running through the open hydrants, playing stickball. Our set had to be an inner-city street, and more particularly it had to be a brownstone so that the cast and kids could 'stoop' in the age-old New York tradition, sitting on the front steps and watching the world go by." The set was modeled after the atual streets and builings of Harlem by set designer Charles Rosen. In particular, Stone wantd a movie style set, in all its detail, not the cardboard and canvas of childrens television at the time.  
-
-155: #Z: Cooney was known for taking a hands-off approach to leadership. Stone recalls that when he presented her with his radical idea of modelling the set after Harlem she "said something to the effect that we were the  people she chose to create this program, and if this is how I saw it, so be it."  
-
 156: Choosing the title.  
+
+158: Enter Joe Rapso.  
+
+159: The theme song.  
+
+162: Henson, animations.  
+
+164: _Sesame Street's_ monsters.  
+
+## Chapter 12.  
+
+166: Development of Bert, Ernie, and Grover.  
+
+167: Auditing a cast.  
+
+168: Loretta Long.  
+
+172: Robert "Bobby/Bob" Emmett McGrath. 
+
+177: Character actor Will Lee.   
+
+180: Davis's outreach to black neighborhoods.  
+
+181: Matt Robinson.  
+
+184: Recruiting Spinney, who would play Big Bird and Oscar Grouch.  
+
+-: Designing Big Bird.   
+
+185: Bluring the line between fantasy and reality by including muppets in street scenes.  
+
+186: Designing Oscar Grouch.  
+
+188: The first episode.  
+
+## Chapter 13: Intermission.  
+
+192: Thick descriptions of the first episodes.  
+
+## Chapter 14  
+
+196: _Sesame Street's_ debut.  
+
+-: Beginnig of Tim Cooney's alchoholism.  
+
+197: Positive reception.  
+
+198: Positive reception by Dr. Spock and President Nixion.  
+
+199: Keeshan's response.  
+
+-: Criticism of _Sesame Street_ by traditional and more cutting edge educators.  
+201/202: Broadcast ban in Mississippi.  
+
+202: _Sesame Street_-_Captain Cangaroo_ competition. 
+
+203: Finding continued funding.  
+
+-: Product liscensing.  
+
+206: Emily Perl Kaplin.  
+
+209: Mike Dan and Exporting _Sesame Street_ around the world in the summer of 1970.  
+
+210: _Sesame Street_ in Germany.  
+
+211: Broadcasting in Britain.  
+
+-: Henson's _Hey, Cinderella_ and muppet add controversy.  
+
+213: Marying Gordon and Susan, resulting feminist criticism.  
+
+215: Hispanic inclusion.  
+
+216: Developing a second program specifically to teach reading.  
+
+217: _The Electric Company,_ staring Bill Cosby, Rita Moreno, and Morgan Freeman.  
+
+218: The Nixon administration's move against public television and _Sesame Street._  
+
+## Chapter 15.  
+
+### Profiles of members of the production team.  
+
+220: John Stone.  
+
+221: Non-sexist hiring practices.  
+
+-: Ducy Singer.  
+
+223: The O'Brien brothers.  
+
+224: Chris Cerf and the Polish Sausage joke he played on Cooney.  
+
+### Profiles of members of the cast.  
+
+226: Sonia Manzano, who played Maria.  
+
+229: Nothern Caloway.  
+
+230: Emilio Delgado and fighting for better representations of Chicanos.  
+
+231: Jason Kingsly, Down's syndrom representation.  
+
+234: Linda Bove.  
+
+235: Buffy Saine Marie.  
+
+237: Judy Collins.  
+
+### Muppets  
+
+240: Richard Hunt.  
+
+246: The Cookie Monster.  
+
+247: Roosavelt Franklin.  
+
+250: Fran Brill.  
+
+251: James Taylor.  
+
+253: Taylor on *Sesame Street* as art.  
+
+## Chapter 16.  
+
+**This chapter seems to be on conflicts.**
+
+254: Rapso being a pain in the ass.  
+
+255: Rapso's clash with other music writer Jeff Moss.  
+
+256: Songwriter's licensing structure.  
+
+-: "Bein' Green."  
+
+258: Jim Henson's mid-career crisis, of sorts.  
+
+261: The Cooney's and their semi-adopted inner-city black child.  
+
+263: Tim Cooney's alchoholism and their separation.  
+
+264: Joan Cooney's breast cancer.  
+
+266: CTW federal audit.  
+
+267: Misappropriation scare and *The Enquirer.*  
+
+268: The beginnig of Northern Calloway's demise.  
+
+## Chapter 17.  
+
+271: Closeup on John Stone as a program supervisor and a parent.  
+
+273: *Christmas Eve on Sesame Street.*  
+
+276: Paul Fristenberg and *A Sesame Street Christmas.*    
+
+277: Nothern Calloway's mental breakdown and assault.  
+
+279: The death of Will Lee, who played Hooper.  
+
+281: Writing a script to memorialize Lee and Hooper, and teach children about death.  
+
+285: Elmo.  
+
+-: Anything Muppets.  
+
+286: Kevin Clash.  
+
+290: Klash and Kermit Love.  
+
+-: Klash on *Captain Kangaroo.*  
+
+291: Teen actor Allison Bartlett.  
+
+293: Maria and Luis wedding episode.  
+
+## Chapter 18.  
+
+295: Calloway's death.  
+
+296: Firing him.  
+
+297: On-ocreen relationship with Maria.  
+
+## Death of Henson.  
+
+297: Stefanie D'Abruzzo of *Avenue Q* recounts the death of Jim Henson.  
+
+299: Jerry Nelson and the death of Henson.  
+
+300: Bernie Brillstein and the death of Henson.  
+
+302: Failure of Henson's darker movies.  
+
+-: Henson's memorial service.  
+
+304: Spinnney, memorial service performance, pay, divorce, marriage.  
+
+306: Jane Henson's speach.  
+
+307: Death of Rapso.  
+
+311: Henson Selling company to Disney.  
+
+315: Disney-Henson lawsuit.  
+
+316: Richard Hunt's death from HIV.  
+
+317: *Barney.*  
+
+320: "Around the Corner" set addition.  
+
+321: Introducing Zoe and market research.  
+
+325: The death of Connel.  
+
+328: Death of Evelyn Payne.  
+
+328: Jon Stone's later years.  
+
+331: Death of Jeff Moss.  
+
+336: Tickle Me Elmo.  
+
+337: *Avenue Q.*  
+
+338: Leaving the magazine format.  
+
+339: Elmo's World.  
+
+## Epilogue.  
+
+340: Cooney after *Sesame Street.*  
+
+343: The "Talking Big Bird" toy, and its role in saving the CTW financially.  
+
+344: Puppet Abby Cadaby.  
+
+-: Morriset after the program.  
+
+345: On-demand viewing of *Sesame Street.*  
+
+346: Selling the the Henson Company.  
+
+348: The CTW buying The Sesame Street Muppets.  
+
+349: The final purchase of the classic Muppets by Disney.  
