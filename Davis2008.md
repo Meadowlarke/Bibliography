@@ -182,7 +182,11 @@
 
 180: Davis's outreach to black neighborhoods.  
 
+181: Matt Robinson.  
+
 184: Recruiting Spinney, who would play Big Bird and Oscar Grouch.  
+
+-: Designing Big Bird.   
 
 185: Bluring the line between fantasy and reality by including muppets in street scenes.  
 
@@ -193,3 +197,214 @@
 ## Chapter 13: Intermission.  
 
 192: Thick descriptions of the first episodes.  
+
+## Chapter 14  
+
+196: _Sesame Street's_ debut.  
+
+-: Beginnig of Tim Cooney's alchoholism.  
+
+197: Positive reception.  
+
+198: Positive reception by Dr. Spock and President Nixion.  
+
+199: Keeshan's response.  
+
+-: Criticism of _Sesame Street_ by traditional and more cutting edge educators.  
+201/202: Broadcast ban in Mississippi.  
+
+202: _Sesame Street_-_Captain Cangaroo_ competition. 
+
+203: Finding continued funding.  
+
+-: Product liscensing.  
+
+206: Emily Perl Kaplin.  
+
+209: Mike Dan and Exporting _Sesame Street_ around the world in the summer of 1970.  
+
+210: _Sesame Street_ in Germany.  
+
+211: Broadcasting in Britain.  
+
+-: Henson's _Hey, Cinderella_ and muppet add controversy.  
+
+213: Marying Gordon and Susan, resulting feminist criticism.  
+
+215: Hispanic inclusion.  
+
+216: Developing a second program specifically to teach reading.  
+
+217: _The Electric Company,_ staring Bill Cosby, Rita Moreno, and Morgan Freeman.  
+
+218: The Nixon administration's move against public television and _Sesame Street._  
+
+## Chapter 15.  
+
+### Profiles of members of the production team.  
+
+220: John Stone.  
+
+221: Non-sexist hiring practices.  
+
+-: Ducy Singer.  
+
+223: The O'Brien brothers.  
+
+224: Chris Cerf and the Polish Sausage joke he played on Cooney.  
+
+### Profiles of members of the cast.  
+
+226: Sonia Manzano, who played Maria.  
+
+229: Nothern Caloway.  
+
+230: Emilio Delgado and fighting for better representations of Chicanos.  
+
+231: Jason Kingsly, Down's syndrom representation.  
+
+234: Linda Bove.  
+
+235: Buffy Saine Marie.  
+
+237: Judy Collins.  
+
+### Muppets  
+
+240: Richard Hunt.  
+
+246: The Cookie Monster.  
+
+247: Roosavelt Franklin.  
+
+250: Fran Brill.  
+
+251: James Taylor.  
+
+253: Taylor on *Sesame Street* as art.  
+
+## Chapter 16.  
+
+**This chapter seems to be on conflicts.**
+
+254: Rapso being a pain in the ass.  
+
+255: Rapso's clash with other music writer Jeff Moss.  
+
+256: Songwriter's licensing structure.  
+
+-: "Bein' Green."  
+
+258: Jim Henson's mid-career crisis, of sorts.  
+
+261: The Cooney's and their semi-adopted inner-city black child.  
+
+263: Tim Cooney's alchoholism and their separation.  
+
+264: Joan Cooney's breast cancer.  
+
+266: CTW federal audit.  
+
+267: Misappropriation scare and *The Enquirer.*  
+
+268: The beginnig of Northern Calloway's demise.  
+
+## Chapter 17.  
+
+271: Closeup on John Stone as a program supervisor and a parent.  
+
+273: *Christmas Eve on Sesame Street.*  
+
+276: Paul Fristenberg and *A Sesame Street Christmas.*    
+
+277: Nothern Calloway's mental breakdown and assault.  
+
+279: The death of Will Lee, who played Hooper.  
+
+281: Writing a script to memorialize Lee and Hooper, and teach children about death.  
+
+285: Elmo.  
+
+-: Anything Muppets.  
+
+286: Kevin Clash.  
+
+290: Klash and Kermit Love.  
+
+-: Klash on *Captain Kangaroo.*  
+
+291: Teen actor Allison Bartlett.  
+
+293: Maria and Luis wedding episode.  
+
+## Chapter 18.  
+
+295: Calloway's death.  
+
+296: Firing him.  
+
+297: On-ocreen relationship with Maria.  
+
+## Death of Henson.  
+
+297: Stefanie D'Abruzzo of *Avenue Q* recounts the death of Jim Henson.  
+
+299: Jerry Nelson and the death of Henson.  
+
+300: Bernie Brillstein and the death of Henson.  
+
+302: Failure of Henson's darker movies.  
+
+-: Henson's memorial service.  
+
+304: Spinnney, memorial service performance, pay, divorce, marriage.  
+
+306: Jane Henson's speach.  
+
+307: Death of Rapso.  
+
+311: Henson Selling company to Disney.  
+
+315: Disney-Henson lawsuit.  
+
+316: Richard Hunt's death from HIV.  
+
+317: *Barney.*  
+
+320: "Around the Corner" set addition.  
+
+321: Introducing Zoe and market research.  
+
+325: The death of Connel.  
+
+328: Death of Evelyn Payne.  
+
+328: Jon Stone's later years.  
+
+331: Death of Jeff Moss.  
+
+336: Tickle Me Elmo.  
+
+337: *Avenue Q.*  
+
+338: Leaving the magazine format.  
+
+339: Elmo's World.  
+
+## Epilogue.  
+
+340: Cooney after *Sesame Street.*  
+
+343: The "Talking Big Bird" toy, and its role in saving the CTW financially.  
+
+344: Puppet Abby Cadaby.  
+
+-: Morriset after the program.  
+
+345: On-demand viewing of *Sesame Street.*  
+
+346: Selling the the Henson Company.  
+
+348: The CTW buying The Sesame Street Muppets.  
+
+349: The final purchase of the classic Muppets by Disney.  
