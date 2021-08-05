@@ -32,4 +32,10 @@
 
 -: The writers of the Carnegie Commission on Educational Television's report *Public Television, A Program for action* stressed the artistic and transformative value of the medium and the importance of using it to resist the pressure toward uniformity found in commercial television and instead seek out and satisfy the needs of the nation's diversity.    
 
+411: Financing public television.  
 
+412: Foreign solutions to the problem.  
+
+-: #Z: England and Canada had public broadcasting first and added commercial stations later, whereas the United States went the other way around.  
+
+413: The Public Broadcast Laboratory.  
