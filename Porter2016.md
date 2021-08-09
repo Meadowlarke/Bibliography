@@ -10,8 +10,6 @@
 
 185: Recreating cinema verité with sound (the now-iconic "public radio sound.")  
 
--: #Z: The "public radio soud" so recognizable by its lack of a narrator was pioneered by the "founding mother" of NPR Susan Stamberg. She was inspired by the cinema verité of the time, saying that "The idea "was to tell a story without telling it—just sound through chunks." This was met with some resistence.  
-
 186: Criticism that the network has lost its creativity.  
 
 186/187: The professionalization of the network.  
@@ -34,11 +32,7 @@
 
 192: *All Things Considered's* debut, covering an anti-war protest.  
 
-194: #Z: *NPR's* *All Things Considered* debuted with the chaotic coverage of what at the time was the biggest anti-Vietnam war protest. It consisted of tape gathered from multiple reporters at the event with no overarching narrative. It was unlike anything of its time. Its chaos was intended to capture the chaos of the moment, but was also part of a larger aesthetic and political trend on the program to hear the voices of normal Americans, which is now recognizable as the "public radir sound." Regarding the debut, Susan Stamberg sad that "There was no interfering narrator."  
-
 194: *All Things Considered* refusing to hire an authoratative varrator.  
-
--: *NPR* turned down $300,000 from the Ford Foundation as it was attatched to them hiring bradcast journalist Edward P. Morgan as host of *All Things Considered,* who would have brought the young network credibility, fearing that it would get in the way of the alternative voices the program wanted to showcase.  
 
 195: "Stories of little consequence."  
 
@@ -49,8 +43,6 @@
 -: Glenn Gould.  
 
 197: *NPR* taking inspiration from Glenn Gould and making use of cross-talk.  
-
--: The "Cross talk" style of *All Things Considered* where two voices are layered onto one another was inspired by Glenn Gould's "contrapuntal storytelling" in *The Solitude Trilogy.*  
 
 ## Experimental Storytellers: Joe Frank and Ken Nordine.  
 
