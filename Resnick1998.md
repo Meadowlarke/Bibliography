@@ -223,3 +223,31 @@ xvii: Gödel, Escher, Bach.
 ### Traffic Jams  
 
 68: The counterintuitive nature af traffic.  
+
+-: Traffic "snaking."  
+
+69: The student's traffic experiment.  
+
+74: The behavior of collective structures vs the individuals.  
+
+### Termites  
+
+75: The architecture and collective behavior of termites. 
+
+76: Very simple termite experiment.  
+
+80: "Trapped states."  
+
+### Turtles and Frogs  
+
+82: Neighborhood diversity experiment with frogs and turtles.  
+
+85: Analysis of the experiment.  
+
+86: Thomas Schelling's "On the Ecology of Micromotives."  
+
+87: Cocktail party gender-cluster example.  
+
+### Turtle Ecology  
+
+88: Student's natural selectin experiment.  
