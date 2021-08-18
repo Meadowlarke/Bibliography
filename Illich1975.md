@@ -143,5 +143,3 @@
 125: Reconstruction for poor countries.  
 
 -: How to do it! (kindof)   
-
--: #Z: If a society has control of its tools, imperialists may maim and kill, but will never conquer.  
