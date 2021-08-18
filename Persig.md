@@ -18,7 +18,7 @@
 
 293: Stuckness.  
 
-298: The ugliness of technology. #Z: Technological ugliness comes not from the design, material, or manufacture, of the technology, but from the relationship---or lack thereof---with its creator. For technology to be beautiful, it must be identified with, and the maker must collapse their subject/object duality into what is essentially one _I-thou._   
+298: The ugliness of technology. #Z:   
 
 302: Piece of mind as pre-requisite of good work.  
 
