@@ -10,8 +10,6 @@ x: "Just a tool falacy."
 
 -: The development of uses of technology.  
 
-#Z: All new technologies go through the same pattern of development: first they are used to do what is already being done, but in new ways. In time new uses arise, as do new categories of people who use these tools. For example, the first motion pictures were "photographed theatre." in time however, the "movie" emerged along with directors, screen actors and special-effects designers.  
-
 xi: The "decentralized mindset" of Resnick.  
 
 -: The "two way street" of mutual enrichment between education and science.  
@@ -41,8 +39,6 @@ xvii: Gödel, Escher, Bach.
 -: The *centralized mindset.*  
 
 5: Central questions of the book.  
-
-#Z: The best way to get a better intuitive understanding of decentralized systems is to make and play with them.  
 
 6: StarLogo (vs Logo.)  
 
@@ -116,19 +112,11 @@ xvii: Gödel, Escher, Bach.
 
 24: Instructionism.  
 
-#Z: Seymour Papert lays out a dichotomy between the contsrutionist and instructionist approaches to learning and education. Constructionism asserts that learning takes place by in an active process in which people actively construct knowledge from their experiences of the world. Futhermore, new knowledge is most effectively constructed when people are engaged in projects which are personally meaningful.  
-
-#Z: When it comes to improving education, instructionism focuses on new ways that teachers can instruct, whereas contsrutionism focusus on new ways for learners to construct knowledge.   
-
-#Z: "Educators need to design things that allow students to design things."
-
 #### LEGO/LOGO  
 
 25: LEGO/LOGO: A progamable erector set.  
 
 27: The "snapping together" of LOGO commands.  
-
-#Z: (My idea, not Resnick's) The Lifelong Kindergarten and related projects have seemed to focus on education into math and, computers, and the physical sciences. I would like to develop a related way of understanding education in the humanities. How can we design an educational world such that concepts and resources be creatively "snapped together?"   
 
 28: The shortcommings of "hads on" education.  
 
@@ -189,8 +177,6 @@ xvii: Gödel, Escher, Bach.
 49: *Stimulation* rather than *simulation.*  
 
 50: Microworlds.  
-
-#Z: Mitchel Resnick writes that with his programming language StarLogo, the goal was not to simulate particular complex systems in the world, say meteorlogical patterns, but rather to "probe challenge, and disrupt" the way that people think about and experience complex systems more generally.  
 
 ### Slime Mold  
 
