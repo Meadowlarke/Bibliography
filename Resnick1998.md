@@ -237,3 +237,41 @@ xvii: Gödel, Escher, Bach.
 ### Turtle Ecology  
 
 88: Student's natural selectin experiment.  
+
+## 4: Reflections  
+
+### The centralized mindset.  
+
+120: The inclination towards centralized thinking.  
+
+123: Conspiracy theories.  
+
+#### By Lead or by Seed  
+
+#### Dead Ants  
+
+124: Dead ant experiment, centralized thinking.  
+
+126: Looking at the traffic experiment again, centralized thinking.  
+
+127: Robots and gold.  
+
+### Why the Centralized Mindset?  
+
+129: Why the centralized mindset is prevalent.  
+
+130: The "centralization spiral."  
+
+### Beyond the Centralized Mindset  
+
+#### The Allure of Decentralization  
+
+131: The attraction to decentralized systems.
+
+133: Different people's responses de decentralized systems experiments.  
+
+### Guiding Heuristics for Decentralized Thinking  
+
+135: The negative appraisal of positive feedback.  
+
+
