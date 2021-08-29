@@ -59,3 +59,77 @@
 70: Multi-line strings.  
 
 73: Concatenating, indexing, and slicing strings.  
+
+81: Manipulating strings with methods.  
+
+82: Converting string case.  
+
+83: Removing whitespace from a string.  
+
+85: Determining starting and ending of a string.  
+
+91: Strings and numbers.  
+
+93: Converting strings to numbers.  
+
+95: Converting numbers to strings.  
+
+99: Find a substring.  
+
+## Chapter 5: Numbers and Math.  
+
+106: Intergers and floating point numbers.  
+
+110: Arithmetic Operators and Operands.  
+
+113: The integer division operator.  
+
+114: Exponents.  
+
+115: Modulus operator.  
+
+117: Arithmetic operations.  
+
+119: Floating point representation errors.  
+
+121: Math functions and number methods.  
+
+-: round()  
+
+123: abs(), the absolute value function.  
+
+124: pow(), the power function.  
+
+-: Integrality.  
+
+126: Formatting specifications.  
+
+129: Complex numbers.  
+
+## Chapter 6: Functions and Loops.  
+
+136: Functions.  
+
+137: del keyword.  
+
+140: Defining your own functions.  
+
+143: Indenting.  
+
+145: Calling the funciton.  
+
+147: Documenting your functions.  
+
+148: Docstrings.  
+
+150: Loops.  
+
+151: while loop.  
+
+152: Infiniate loops.  
+
+154: for loops.  
+
+156: range().  
+
+157: Nested loops.  
