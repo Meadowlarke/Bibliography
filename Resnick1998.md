@@ -287,5 +287,3 @@ xvii: Gödel, Escher, Bach.
 ### Guiding Heuristics for Decentralized Thinking  
 
 135: The negative appraisal of positive feedback.  
-
-
