@@ -55,3 +55,39 @@ xiii : University of Chicago and historically inspired improvisation.
 23: Musical duel, Apollo v. Marsayas.  
 
 24: Brutality in games.  
+
+-: *Homo Ludens.*  
+
+26: Musical duels.  
+
+28: Different musical games.  
+
+29: Mimicry.  
+
+#### 1-1 Beyond Work and Play.  
+
+33: Work and play.  
+
+39: *Ave maris stella.* (chessboard puzzle canon.)  
+
+#### 1-3 The Sond of Gunplay.  
+
+43: Digital games.  
+
+46: War.  
+
+47: *Tennis for Two.*  
+
+-: *Space Invaders.*  
+
+#### 1-4 Beats and Bits.  
+
+Beatmania, rockband, 
+
+#### 1-5 Playing Undead.  
+
+61: Speedruns, *Frederic*.  
+
+### Key 2: Digital analogies.  
+
+
