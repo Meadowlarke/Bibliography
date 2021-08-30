@@ -35,3 +35,13 @@
 14: Capitalism and non oppositional difference.  
 
 15: The differing experiences of capitalism.  
+
+16: Capitalism.  
+
+17: Ways out of capitalist art-making.  
+
+-: Phil Ford!  
+
+18: The normalization and spread of neoliberal ideas.  
+
+19: The US, crisis for neoliberalism.  
