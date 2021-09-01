@@ -24,11 +24,7 @@ x: Friedrich Froebel and "kindergarten."
 
 6: Kindergarten as a greatest invention.  
 
-#Z: Mitchel Resnick sees kindergarten as the greatest invention of the past thousand years.  
-
 7: The "broadcast approach" to education vs interactive models.    
-
-#Z: Mitchel Resnick contrasts interactive models of education, such as those developed by Friedrich Froebel for kindergarten, with the "broadcast approach" to education, where the teacher stands at the front of the class ond the students note down what the teacher says. 
 
 8: Froebel's gifts.  
 

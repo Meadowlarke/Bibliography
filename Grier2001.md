@@ -54,8 +54,6 @@
 
 -: Stemmatic filliation.  
 
-#Z: In the creation of edited music from older sources, stemmatic filliation can be used to determine ancestry of sources and to locate errors. This technique postulates that when several sources are in agreement on the same error, you can assume that it came from a single common ancestor, and that that error was copied to the surving documents, rather than made indepetdantly by each scribe.  
-
 9: The limitations of stemmatic filliation.  
 
 -: The non-authority of a single compositional moment.  
@@ -87,5 +85,3 @@
 14: The critical commetary.  
 
 -: The lack of objectivity in humanistic studies.  
-
-#Z: The advatage of a critical edition is that it provides guidence in interpretation of the work from an expert who has dedicated time to it. It is not to provide an authoritative or otherwise "true" reading of the work.  
