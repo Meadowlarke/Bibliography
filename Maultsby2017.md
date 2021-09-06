@@ -1,0 +1,1 @@
+# Maultsby, Portia K. "The Politics of Race Erasure in Defining Black Popular Music Origins." In *Issues in African American Music: Power, Gender, Race, Representation,* edited by Portia K. Maultsby and Mellonee V. Burnim, 47-65. New York, NY: Routledge, 2017.
