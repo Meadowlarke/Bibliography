@@ -29,3 +29,55 @@
 296: Musical knives (music etched into knives.)  
 
 ## Designing Music  
+
+-: The development of notation.  
+
+297: Use of the text-line as a fixed pitch reference and other book technolgies which became music technologies.  
+
+298: Changes in the form of liturgical books.  
+
+## Early Polyphony  
+
+-: The first depictions of polyphony.  
+
+299: Polyphony in the 12th century.  
+
+-: Presenting multiple voices.  
+
+### Magnus liber organi  
+
+300: Books in the 13th century.  
+
+301: Organization of books from this era.  
+
+### Chansonniers  
+
+305: Time lag between the creation of songs and their recordings.  
+
+-: Possible ephemeral transcription media for channsoniers.  
+
+306: The forms of representation af the channsoniers.  
+
+306/307: The system of organization af channsoniers.  
+
+310: Romances, *Roman de la rose.*  
+
+### The later Middle Ages  
+
+-: *Ars Nova.*  
+
+313: Gillaume de Machut in the mid-14th century.  
+
+314: Internationalism and shifitng identities.  r
+
+-: Development of a uniform language for the layout of polyphony.  
+
+### Traces  
+
+315: Analyzing palimpcests and other bibliographic traces and what they tall us about the status of books.  
+
+### Future bound  
+
+317: Contemplating the future of the study of medieval manuscripts.  
+
+318: The internet.  
