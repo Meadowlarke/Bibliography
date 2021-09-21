@@ -138,3 +138,55 @@
 ### Conclusion  
 
 58: Very short summary.  
+
+## Chapter 3: Postwar Hollywood, 1947-1967. Nathan Platte.  
+
+59: Page Cooks tirade against "unrelated" music in films.  
+
+60: "Noisy" qualities of sound and music in postwar Hollywood and the adoption af magnetic tape.  
+
+61: Hugo Friedhofer.  
+
+62: *The Best Years of Our Lives.*  
+
+63: The volitile era of Hollywood.  
+
+-: Outsider composers.  
+
+### What's that sound?  
+
+64: The adoption of magnetic tape.  
+
+65: The creative possibilities of magnetic tape. 
+
+66: Experimental tape music.  
+
+### Stereophonic spectacles.  
+
+67: Slow adoption of magnetic tape by theatres.  
+
+68: New stereophonic technologies.  
+
+70: The non-linear trajectory of playback quality.  
+
+### Movie music albums and stylistic divergences: Film music's new frontiers.  
+
+73: Soundtrack albums.  
+
+74: Elmer Bernstein.  
+
+76: Broadcast media.  
+
+77: *The Third Man* and the postwar era's musical divergence.  
+
+78: The Decline of the studio orchestra.  
+
+79: Continued interest in orchestral scores and soundtrack albums.  
+
+-: *The Sand Pebbles.*  
+
+80: Quincy Jones, *In Cold Blood.*  
+
+82: Jones, *In the Heat of the Night.*   
+
+-: Dolby.  
