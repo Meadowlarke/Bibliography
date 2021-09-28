@@ -190,3 +190,85 @@
 82: Jones, *In the Heat of the Night.*   
 
 -: Dolby.  
+
+## Chapter 4: The Arteur Renaissance: 1968-1980.  
+
+83: Changes and instabillity in the 1960s.  
+
+-: Taking of risks.  
+
+84: Sound and solid state technology.  
+
+### The Hollywood Renaissance  rgo
+
+-: Big budget bombs.  
+
+85: Blind director Norman Taurog.  
+
+-: Big returns on small budget films.  
+
+86: Contemporary themes and tapping into civil rights.  
+
+### Changes in film sound tecnologies  
+
+-: Adoption of magnetic tape.  
+
+87: The Nagra portable recorder.  
+
+-: Unions and shinking sound crews.  
+
+88: Outsourcing of post-production.  
+
+-: The decline of the use of sound libraries.  
+
+89: Noise reduction technology.  
+
+90: Dolby.  
+
+91:Noise reduction on optical soundtracks.  
+
+-: Robert Altman.  
+
+92: Altman's use of wireless mics.  
+
+-: Altman and multitrack recording.  
+
+### Film music during the Hollywood Renaissance  
+
+93: The continued importance of the classical Hollywood score.  
+
+94:Updating the style.  
+
+95: The use of microtonality by Henry Mancini.  
+
+-: The use of pop and rock.  
+
+-: Music revenue from films.  
+
+97: Hybrid scores in the late 70s.  
+
+-: Film composer John Williams.  
+
+### Sound duesigners in the Hollywood Renaissance  
+
+99: Sound design.  
+
+#### Walter Merch.  
+
+100: Walter Merch's sound design for *American Grafitti* and *The Conversation*.  
+
+#### Ben Burt  
+
+101: *Star Wars.*  
+
+#### Alan Splet  
+
+102: Alan Splet's "audio expessionism."  
+
+103: Mechanical sounds.  
+
+-: *The Elephant Man.*  
+
+105: Summary.  
+
+106: Transition to the "New Hollywood Era."  
