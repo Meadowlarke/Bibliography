@@ -62,7 +62,7 @@
 
 ### This Volume.  
 
-16: Overview of the book.  
+16: Overview of the book and its theory of film.  
 
 18: Narratology.  
 
