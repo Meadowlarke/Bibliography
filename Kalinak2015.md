@@ -247,7 +247,7 @@
 
 97: Hybrid scores in the late 70s.  
 
--: Film composer John Williams.  
+-: Film composer John Williams and the "hyperclassical" film score.   
 
 ### Sound duesigners in the Hollywood Renaissance  
 
