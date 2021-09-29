@@ -21,3 +21,21 @@
 69: The answer! (as to why use conflicting signatures.)  
 
 -: #Z: In some early music you see different voices written in different key signatures. This is most likely to have been used to prevent vertical imperfect fifths and provide leading tones in the upper parts at some cadences.  
+
+# Chapter 4:
+
+76: Summary of acceptable melodic tritones.  
+
+## Chapter 5: Vertical and cross relations
+
+93: Mi agaist fa prohibitions.  
+
+-: The fourth as a dissonance.  
+
+95: Tinctoris.  
+
+96: The contexts in which mi-fa is acceptable.  
+
+101: Veritcal vs melodic considerations.  
+
+-: Dimished fifth follawed or preceeded by perfect fifth.  
