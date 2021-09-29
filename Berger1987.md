@@ -24,6 +24,8 @@
 
 # Chapter 4:
 
+74: Intervening notes in tritone.  
+
 76: Summary of acceptable melodic tritones.  
 
 ## Chapter 5: Vertical and cross relations
@@ -38,4 +40,6 @@
 
 101: Veritcal vs melodic considerations.  
 
--: Dimished fifth follawed or preceeded by perfect fifth.  
+-: Dimished fifth followed or preceeded by perfect fifth.  
+
+
