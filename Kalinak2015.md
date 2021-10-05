@@ -272,3 +272,99 @@
 105: Summary.  
 
 106: Transition to the "New Hollywood Era."  
+
+## Chapter 5: The New Hollywood, 1981-1999.  
+
+107: The priveledging of dialogue and divisions in sound production.  
+
+108: New roles for sound designers.  
+
+### The 1980s and sound design  
+
+-: The appearance of "acousic auterus."  
+
+#### Walter Murch and the emergence of sound design  
+
+-: Walter Murch's start as a sound designer.  
+
+-: *Apocalypse Now.*  
+
+#### Frank Serafine and sound effects construction  
+
+110: Frank Serafine and sound synthesis.  
+
+111: Sound effects synthesis vs sound design.  
+
+#### Ben Burtt and the philosophy of the soundtrack  
+
+-: Ben Burt with George Lucas.  
+
+112: Stylistic continuity.  
+
+-: Academy awards for sound editors and mixers.  
+
+#### Alan Splet's "audio expressionism."  
+
+113: Alan Splet's work with David Lynch.  
+
+### The soundtrack: new sounds, new methods
+
+117: New trends in the motion picture score.  
+
+#### The synthesizer score and new composers  
+
+118: Wendy Carlos, Gil Mellé, use of synthesizers in film scores.  
+
+-: Criticism of the overuse of synthesizers.  
+
+#### The instrumental rock scene  
+
+119: Rock composers.  
+
+-: Hans Zimmer.  
+
+120: Danny Elfman, *Pee-wee's Big Adventure.*   
+
+#### Synergy and the compilation score  
+
+121: Compilation soundtracks.  
+
+### Dolby Stereo: A tale of two formats  
+
+123: Dolby Stereo Variable Optical Format.  
+
+124: "Magic surround" artifact.  
+
+#### Mulitcannel and Surround Sound  
+
+125: Dolby, surround, and *Apocalypse Now.*  
+
+126: *Indiana Jones and the Last Crusade* and the use of surround.  
+
+### The 1990s and the digital decade  
+
+127: The adoption of digital audio.  
+
+#### Multitrack recording and mixing  
+
+-: The move away form "sproketed media."  
+
+#### Digital audio workstations  
+
+128: Digital storage and random access.  
+
+129: Early DAWs, George Lucas.  
+
+#### The art of foley  
+
+130: New styles of foley.  
+
+-: "Foley effects artist."  
+
+131: Foley studio as laboratory.  
+
+#### Digital release formats  
+
+-: New formats for film sound.  
+
+132: "5.1 sound."  
