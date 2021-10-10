@@ -337,7 +337,7 @@
 
 #### Mulitcannel and Surround Sound  
 
-125: Dolby, surround, and *Apocalypse Now.*  
+125: Dolby, surround, and *Apocalypse Now* (1979.)    
 
 126: *Indiana Jones and the Last Crusade* and the use of surround.  
 
