@@ -62,3 +62,20 @@ III
 
 49: Gaffurius on short and long syllables.  
 
+50: Additional rules from Zarlino.  
+
+IV  
+
+51: The relationship between Lanfranco's and Zarlino's rules.  
+
+52: Stocker on the breaking of rules.  
+
+-: Lanfranco on history ond geneologies of theory and practice.  
+
+53: Willaert and the author questioning Zarlino's integrity.  
+
+-: Crediting Lanfranco rather than Zarlino.  
+
+54: The origin of Zarlino's interest in text underlay.  
+
+55: Drawing the geneology from Lanfranco back to Josquin.  
