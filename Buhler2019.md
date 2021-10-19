@@ -110,3 +110,62 @@
 
 ### Perceptual Realism  
 
+-:Pudovkin's use of perceptual realism.  
+
+33: Pudovkin on perceptual attention.  
+
+### Béla Balázs and the Physiognomy of the Voice  
+
+34: Balázs's advacation for an asynchronus treatment of sound.  
+
+35: Balázs on silent film and the equality of humans and objects.  
+#Z: Hungarian critic, librettist, screenwriter, and director Béla Balázs wrote that silent film created an equality between humans and objects, as they all shared the quality of silence, enhancing the significanco and vitality of the object.    
+
+-: Balázs on dialogue.  
+
+-: Microphone as microscope.  
+
+36: Balázs on counterpoint.  
+
+37: Balázs's use of the reaction shot.  
+
+38: The power and dissonance of asynchronus sound.  
+
+#Z:The power of asynchronus sound is its dissonance. This makes it as powerful as it is perilous.  
+
+-: Sound and space.  
+
+39: The outher critisizes Balázs's understading of audio recording.
+
+### Rudolph Arnheim and the Unity of Sound  
+
+40: Introductin tho Rudolph Arnheim.  
+
+-: Arnheim's suspiscion of the artistic viability of sound film.  
+41: Film as peepshow.  
+
+42: Sound montage.  
+
+43: Arnheim's doubts about the reaction shot.  
+
+44: Mobility.  
+
+-:Magical effects from sound incongruence.  
+
+45: Sound film, art, and reality.  
+
+46: Arnheim on the indexicality of sound film.  
+
+#Z: (Self) I wonder if the reverberant voice-over can be thought of as a kind of asynchronus sound whose indexicality is being shifted away from the on-screen action by the reverb, which implies a different space?
+
+-: Music and Voiceover.  
+
+47: Arnheim on the ambiguity of accompanyment.  
+
+48: Arnheim on music and melodrama.  
+
+49: Arnheim on counterpoint.  
+
+50: The author's criticism of Arnheim.  
+
+### Harry Potamkin and the Compound Cinema  
