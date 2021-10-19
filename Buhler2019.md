@@ -169,3 +169,9 @@
 50: The author's criticism of Arnheim.  
 
 ### Harry Potamkin and the Compound Cinema  
+
+51: Introduction to Potamkin.  
+
+52: Compound (vs puro and simple) cinema.  
+
+54: Potamkin's understanding of sound recording as representation.  
