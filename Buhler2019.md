@@ -67,3 +67,46 @@
 18: Narratology.  
 
 19: Neoformalism.  
+
+## Chapter 2: Early Theories of Sound Film  
+
+### Introduction: The Specificity of Sound Film  
+
+23: Early theories of sound film.  
+
+-: Gilbent Seldes.  
+
+24: Perceptual realism.  
+
+#Z: American custural critic Gilbert Seldes argued against the tread of perceptual realism in film, suggesting that rather than have the movie camera compromise its mobility for the stationary micrphone, the technological differences between the two instruments could be put into aesthetic play. In trying to capture the voice and represent it with memetic synchronization filmmakers arrived not at a new art form but instead at a combination of movie and gramaphone. 
+
+#Z: Perceptual realism is a doctrine that the recording technology should mimic should mimic hman perception.  
+
+25: Overview of the chapter.  
+
+### The Statement on Sound and the Concept of Counterpoint.  
+
+26: Reception of sound film in the USSR by Soviet filmmakers.  
+
+### Sergei Einstein and Counterpoint.  
+
+27: Sergei Einstein and "absolute sound cinema."  
+
+28: Einstein on dialogue.  
+
+### Vsevolod Pudovkin and Asynchronous Sound  
+
+29: Pudovkin on the conflict betwoon montage and dialogue.  
+
+#### The Case of Deserter  
+
+30: Pudovkin's *Deserter* (1933) and muisc and image complimenting eachother.  
+
+31: Pudovkin's use of "real sounds."  
+
+-: Sounds of crowds.  
+
+32: Music and collectiveization.  
+
+### Perceptual Realism  
+
