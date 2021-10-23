@@ -111,3 +111,29 @@
 #Z: Freire calls for *co-intentional* education as revolutionary leadership. In this model, teachers and students are both agentic subjects co-intent on unraveling reality, understanding it critically, and also recreating that knowledge through commited involvement. This is all attaiond through common reflection and action.   
 
 ## Chapter 2
+
+71: The narrative character of traditional pedagogy.  
+
+#Z: Friere says that education suffers from "narration sickness." What this means is that teachers talk about reality as if it were static and expounds on topics which are completely foreign to the lived experience of the students. With this, the students are "filled" with the contents of this narration, that is, they record and memorize these things without understanding their meaning or significance.   
+
+72: Students as receptacles.  
+
+-: The "banking" concept of education.  
+
+#Z: In the "banking" concept of education, the students are depositories of education and the scope of action allowed to them is only to recieve, store, and regurgitate these depositories.  
+
+#Z: Knowledge emerges only through invention and reinvention through inquiry. Apart from inquiry individuals cannot be human.  
+
+#Z: The traditional model of education mirrors the Hegelian master-slave dialectic where the teacher is is presents themself to the students as their necessary opposite, painting their ignorance as absolute and justifying their own existence. The students, acting accordingly to the Hegelian model, are alienated and accept their ignorance as justifying the dynamic between them and their teacher.  
+
+#Z: Education must begin with the solution of the teacher-student dialectic. These poles must be reconciled so that both are simultaneously student and teacher.  
+
+74: The opressors changing the consciousness of the oppressed.  
+
+#Z: The "humanitarian" interests of the oppressing class use the "banking" concept of education and the paternalistic social action apparatus to change the consciousness of the oppressed, rather than the situation which oppresses them. Under this system, the oppressed recieve the euphemistic tittle of "welfare recipients" and are treated as marginal persons who deviate from good and just society. The oppressed, Freire says, "are regarded as the pathology of the healthy society" which must uplift these incompetant and lazy deviants by changing their mentality and incorporating them into healthy society.  
+
+#Z: The real solution, however, comes from the realization that these people are not "outside" of society, but have always lived inside of the structure which marginalized them. The solution, then, is not to "integrate" them, but rather transform the structure of socio-cultural-political reality so that they can humanize themselves. This is never done, as it would obviously undermine the purposes and status of the oppressors.   
+
+#Z: The banking model of education seeks to turn people into automita.  
+
+
