@@ -31,3 +31,83 @@
 25: Etymology of pedagogy.  
 
 ## Foreward  
+
+30: The life of Freire.  
+
+32: Changing power relationships in learning and teaching.  
+
+33: Awareness of self after learning to read as an adult.  
+
+34: Education as either coercion or freedom.  
+
+#Z: There is no such thing as a politically and socially neutral process of eductaion. Eductaior functions either as an instrument to bring the younger generation into the logic of the present system and cultivate conformity to it, or eductaior becomes itself the practice of freedom and a process by which people engage critically and creatively with their world and discover how to participate in its transformation.   
+
+## Preface  
+
+35: Conscientização.  
+
+-: Fear of freedom.  
+
+#Z: Freire uses the term conscientização, which one might translate to wokeness, in the original meaning of the term. Conscientização refers to learning to percieve social, political, and ecenomic contradictions and to take action against oppresive elements.    
+
+36: Confusing freedom with the status quo.  
+
+37: Problematizing all forms of sectarianism.  
+
+38: Rightist vs leftist sectarian fanaticism.  
+
+#Z: Freire says that the fundamental difference between fanatics on the riht and fanatics on the left is one of time. Rightists want the past to continue uninterrupted into the present, while leftists want the present to continue uninterrupted to a pretedermined and destined future.  
+
+## Chapter 1  
+
+43: Hemanization and dehumanization.  
+
+-: Vocation.  
+
+44: Liberation of both the oppressors and the oppressed.  
+
+45: False charity.  
+
+47: Opression and *prescription.*  
+
+48: Summary of the topic of the book.  
+
+49: Solidarity.  
+
+50: Objectivity ond subjectivity.  
+
+53: Reflectiono
+
+54: The opressed as models for their own liberation.  
+
+-: The problem of political power.  
+
+55: Violence.  
+
+#Z: It is impossible for violence to be initiated by the opressed, as the oppressed are themselves the result of the violence of the oppresors.  
+
+56: The oppressed liberating the oppressors.o
+
+#Z: The opressed restore not just their own, but also their opressors humanity when they rebel. In this way, what looks like an act of violence can actually be an act of love.  
+
+57/58: The oppressor consciousness.  
+
+61: Requirements of "conversion to the people."  
+
+62: The opressed longing te be the opressors.   
+
+63: The self-depreciation of the oppressed.  
+
+65: The emotional dependency of the oppressed.  
+
+66: The importance of self liberation.  
+
+67: Dialogue as revolutionary leadership.  
+
+#Z: The correct method of revolutionary leadership is dalogue.  
+
+69: Co-intentional education.  
+
+#Z: Freire calls for *co-intentional* education as revolutionary leadership. In this model, teachers and students are both agentic subjects co-intent on unraveling reality, understanding it critically, and also recreating that knowledge through commited involvement. This is all attaiond through common reflection and action.   
+
+## Chapter 2
