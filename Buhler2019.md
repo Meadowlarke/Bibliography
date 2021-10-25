@@ -175,3 +175,105 @@
 52: Compound (vs puro and simple) cinema.  
 
 54: Potamkin's understanding of sound recording as representation.  
+
+## Chapter 3: Theories of the Classical Sound Film   
+
+### Introduction   
+
+57: The codification of sound film practices in the '30s and new theories.  
+
+58: The privileging of music in the study of film sound.  
+
+59: The necessity of sound for realism.  
+
+-: Overview of the chapter.  
+
+### Sergei Eisenstein and the Vertical Montage  
+
+60: Eisenstein's two propositions on sound.  
+
+62: Eisenstein on montage in sound film.  
+
+-: Vertical montage.  
+
+64: Synchronicity.  
+
+### Aaron Copland and the Functions of Film Music  
+
+65: Overview of Copland.  
+
+#### Basic functions of film music    
+
+-: Basic finctions of film music.  
+
+-: Establish place and time.  
+
+66: Signifier of interiority.  
+
+-: Neutral background.  
+
+67: Continuity.  
+
+-: Dynamic shapnig of a scene and giving film a sense of finish.  
+
+-: Source music.  
+
+#### Copland's reservations  
+
+-: Copland's criticism of film music idiom.  
+
+68: Copland's criticism of the leitmotif in fim music.  
+
+-: Copland's criticism of mickey mousing.  
+
+### Hasn Eisler and Theodor W. Adorno and Critical Theory  
+
+#### Contra Eisenstein  
+
+69: Adorno and Eisler's criticism of Eisenstein.  
+
+-: The alleged incompatibility between sound and image.  
+
+#### The Negative Thesis: Sham Identity  
+
+70: Introduction for *Composing for Film.*  
+
+71: The author problematizes Adorno and Eisler's conception of film music.  
+
+-: Their Marxist critique of film music.  
+
+72: Adorno and Eisler's problematization of sound film.  
+
+#### Bad Habbits  
+
+73: More criticism by Adorno and Eisler.  
+
+-: Leitmotif.  
+
+74: Melody and euphony.  
+
+-: Unobtrusiveness.  
+
+-: "Visual justification", or source music.  
+
+75: Illustration.  
+
+-: Geography and history.  
+
+-: Stock music.  
+
+-: Cliches.  
+
+### The Classical System and the Typological Analysis  
+
+76: Typological thinking and memetic synchronization.  
+
+77: Basic binaries in film music.  
+
+-: Direct vs indirect relationship between image and soundtrack.  
+
+### Raymond Spottiswoode and Film Grammar  
+
+-: Introduction to Spottiswoode.  
+
+-: The numeric and the intensive scales.  
