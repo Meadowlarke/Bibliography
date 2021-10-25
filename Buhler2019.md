@@ -277,3 +277,37 @@
 -: Introduction to Spottiswoode.  
 
 -: The numeric and the intensive scales.  
+
+78: Prallel/contrastive dichotomy.  
+
+80: Spottiswoode's classifications of non-diagetic sounds.  
+
+### Siegfried Kracauer and the Types of Cinematic Sound  
+
+-: Kracauer's uptake of Spottiswoode's classifications.  
+
+81: Parallelism of narrative implications.  
+
+82: Kracauer's lack of a critique on the centrality of dialogue.  
+
+### Roger Manvell and John Huntley and "Functional" Music
+
+-: Overview of their theories.  
+
+-: Speech, music, and effects.  
+
+#Z: Roger Manvell and John Huntley break the soundtrack into speech, music and effects, and then further devide each into stylized or realistic.  
+
+#Z: Manvell and Huntley break sound effects down along the stylized or realistic dichotomy into "spot" and "library," spot sounds being recorded on the set and library sounds added later.  
+
+83: More dichotomies and the author's commentary.  
+
+#Z: Manvell and Huntley's dichotomies are more based in production than function or aesthetics.  
+
+### On the Difference between Realistic and Nonrealistic Music  
+
+-: The terms "realistic" and "non-realistic" for different theorists.  
+
+85: Realism and the use of silent era methods.  
+
+-: The author's criticism of the terms realistic and non-realistic.  
