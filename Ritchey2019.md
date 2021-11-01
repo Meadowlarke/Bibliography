@@ -72,8 +72,6 @@
 
 28: Joseph Schumpeter and "creative destruction."    
 
-#Z: Marx uses the term "creative destruction" to describe the constant destruction of labor and ways of life by capitalist innovation.  
-
 29: Classical music's percieved death spiral.  
 
 30: "Dragging classical music into the real world."  
@@ -85,10 +83,6 @@
 ### Innovation and Labor  
 
 33: Technological innovation as a weapon of class warfare.  
-
-#Z: Marx argues that technological innovation is itself a form of class warfare which keeps workers constantly "deskilled" and forced to learn new skills in order to remain employed, preventing them from getting promotions and higher wages as they are always moving within the ever-changing work environment. This is a part of "creative destruction."    
-
-#Z: This is actualy a stated goal of Milton Friedman, who argues that complete employment is undesireable and "labor mobility" is preferable.  
 
 34: Unpaid labor as the cost of gaining experience.   
 
@@ -103,9 +97,6 @@
 36: Origins of multicultuarlism in the civil rights movement.  
 
 -: Multiculturalim co-opted by governments and businesses in the 1980s.  
-
-#Z: The word "multiculturalism" as we use it today has its roots in the civil rights movement. However, it was co-opted by businesses and governments in the 1980s, which used institutional emphases on cultural diversity as an alternative to fighting systematic racism.  
-
 -: Friedman on the end of racism, author's critique of.  
 
 37: Americal foreign policy, "spreading freedom."  
