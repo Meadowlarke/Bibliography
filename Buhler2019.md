@@ -311,3 +311,293 @@
 85: Realism and the use of silent era methods.  
 
 -: The author's criticism of the terms realistic and non-realistic.  
+
+## Chapter 4  
+
+### The Linguistic Analogy  
+
+87: The trend of alayzing film according to the analogy of language.  
+
+88: Semiotics, music, and film.  
+
+### Jean Mitry and Language and Rhythm  
+
+#Z: Mitry sets up an analog of continuity editing to harmony and intensied continuity to chromatic harmony (A term from Bordwell.) (need page no.)  
+
+89: Introduction to Jean Mitry.  
+
+-: Reality vs representation.  
+
+90: More on film and language.  
+
+91: Film as images.  
+
+-: Mitry on grammar.  
+
+92: Axes of dialogue and image.  
+
+93: Mitry's Peirceian semiotics of images.  
+
+94: Extending this to sound.  
+
+-: Mitry's views on music.  
+
+95: Mitry on the use of music in the film *Stagecoach* (1939.)  
+
+96: Analysis of the music in *Stagecoach.*  
+
+97: Musical rhythm.  
+
+### Semiotics of Film/Semiotics of Music  
+
+98: Summary of semiotics.  
+
+99: Metz: Film is not a language system.  
+
+100: Phillip Tagg and applied semiotics of film music.  
+
+### Christian Metz and Aural Objects  
+
+101: The indexicality of sound.   
+
+### Gilles Deleuze and the Movement-Image  
+
+#Z: Prception, affection impulse, action, reflection, relation:
+    Point of view, close up, fragment, subjects in the film taking action, images that interpret other images, interrets other images:
+    Point of audition, background music, sound effects, voice/dialogue, ?, musical performance. 
+
+102: Introduction to Deleuze.  
+
+103: Summary of Deleuze's thoughts on film image, music, and semiotics.   
+
+#### Zero-Point: Perception Image  
+
+-: Definition of the "perception-image."  
+
+#### Firstness: Affection-image  
+
+104: Affection-image.  
+
+#### First intermediary stage: Impulse-image  
+
+106: Impulse-image.  
+
+#### Secondness: Action-Image  
+
+108: Action-image.   
+
+109: Large action form and its laws.   
+
+#Z: The Deleuzian "large action form" of cinema follows the formal structure S-A-S': situation, action, modified situation.  
+
+112: Small action form.  
+
+#Z: The Deleuzian "small action form" of cinema follows the formal structure A-S-A': action, situation, modified action.  
+
+113: The one law of the small form.  
+
+#### Second Intermediary Stage: Reflection-Image  
+
+114: Reflection-image.  
+
+#### Thirdness: Relation-Image   
+
+116: Relation-image.  
+
+## Chapter 5: Neoformalism and Four Models of the Soundtrack  
+
+### Introduction: Semiotics and Formalism  
+
+119: Comparing semiotics and formalism.  
+
+### Neoformalism  
+
+-: The emergence of neoformalism.  
+
+120: Relationship with aparatus theory.  
+
+### Kristen Thompson and the Analytical Approach  
+
+121: Thompson and meaning.  
+
+122: "Analysis," not "readings."  
+
+-: The neutrality of music theory.  
+
+### David Bordwell and the Music(ologic)al Analogy  
+
+123: Treating film like music.  
+
+124: Film and music as mulitple systems.  
+
+### Noël Carroll and Modifying Music  
+
+-: The backgrounding of music in neofarmalist studies.  
+
+125: Carroll on the way that music modifies the film image.  
+
+-: Music as a symbol system.  
+
+### Formal Models of Music and Film  
+
+127: Introduction to Gorbman.  
+
+### Kathryn Kalinak and *Captain Blood*  
+
+-: Introduction to Kalinak.  
+
+128: Kalinak forgrouding music in film.  
+
+#Z: Whereas other film theorists have brackgrouded muisc, for example neoformalists reading it as "modifying" the film image, Kalinak views music as part of the process that creates narrative.  
+
+129: Kalinak's "working model" of film music and analysis of *Captain Blood.*  
+
+#### General Considerations  
+
+-: Spotting.  
+
+-: Structural unity.  
+
+130: Leitmotif.  
+
+131: Idiom.  
+
+#### Explicit Relations of Music to Narrative.  
+
+132: Kalinak on how music relates to narrative.  
+
+-: Modifying music.  
+
+-: Mickey-mousing.  
+
+133: Spectacle.  
+
+#### Implicit Relations of Music to Narrative  
+
+-: Kalinak on music drawing out what is implicit.  
+
+134: Emotion.  
+
+-: Subjectivity.  
+
+#### Combining Implicit and Explicit Relations of Music to Narative  
+
+135: Mood.  
+
+-: Underscoring.  
+
+### Nicholas Cook and Multemedia Systems  
+
+136: Introduction to Cook and the interaction of different media.  
+
+137: Reciprocal interactions of film and music in *Psyscho.*  
+
+-: "Jumping the diagetic gap."  
+
+138: The emergent effects of multimedia.  
+
+139: Cook's three models.  
+
+### David Neumeyer and Vococentrism  
+
+140: Introductien to vococentrism.  
+
+### Annabel Cohen and the Congruence-Association Model  
+
+145: Psycological approach to film music: Congruence-Association Model.  
+
+## Chapter 6: Narratology and the Soundtrack  
+
+### Introduction  
+
+151: Introduction to the questions of narrative in sound film.  
+
+### Narratology and film  
+
+152: Semiotics and Russian narrative theory.  
+
+#Z: Narrative theory differentiates between the time of the story and the time of narration. In this framework, narrative is an interpretive act, story has the appearance of truth, and the narrator can decide what is their relationship to the story.   
+
+153: Narration and distances in time.  
+
+154: The importance of montage in film narrative.  
+
+155: Narratology and neoformalism.  
+
+-: Bordwell and cognitive science.  
+
+156: Edward Branigan, cognition, and narrative theory.  
+
+157: Branigan's levels of narration.  
+
+158: Focalization.  
+
+### Narratology and the Soundtrack  
+
+#### Claudia Gorbman and Narrative Functions
+
+159: Gorbman's principles.  
+
+160: Gorbman's diagetic nondiagetic binary.  
+
+#Z: Claudia Gorbman invented the distinction between diegtig and nondiagetic film sound.  
+
+161: Metadiagetic.  
+
+### Sarah Kozloff and the narrative functions of dialogue
+
+-: Introduction to Kozloff.  
+
+162: Kozloff's isx narrative functions.  
+
+-: Comparison to Gorbman's rules.  
+
+### Michel Chion and the audiovisual scene  
+
+163: Introduction to Chion.  
+
+164: The frame, onscreen and offscreen dichotomy.  
+
+165: Chion's audiovisual scene.  
+
+166: Rendering.  
+
+### Giorgio Biancorosso and the cinematic imagination
+
+167: A closer look at nondiagetic music.  
+
+168: Nondiagetic music as a "vector."  
+
+### Robynn Stilwell and the fantastical gap
+
+-: Stilwell on the bounday between diagetic and nondiagetic.  
+
+### Jeff Smith and film narration
+
+169: Smith on narrative, naration and the diagetic-nondiagetic binary.  
+
+170: Fabula and syuzhet.  
+
+### Ben Winters and the nondiegetic fallacy
+
+172: Winters's antirealist "musicalized narrative space."  
+
+173: Janathan Dancy on antirealism.  
+
+175: The author counters Winters's position.  
+
+### Guido Heldt and levels of narration
+
+176: Introduction to Heldt.  
+
+### Music and Focalization  
+
+177: Focalization.  
+
+#### Focalization in *Casablanca*  
+
+182: Focalization analysis of *Casablanca.*  
+
+### Conclusion
+
+186: Conclusion.  
