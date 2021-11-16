@@ -27,3 +27,15 @@ The decsion to have an in-house orchestra at eah studio comes from the movie pal
 The minor studos (none of their own theatres.)  
 
 "The Oscars is a trade show."  
+
+## Week 7?
+
+### Tuesday
+
+Rhythm of films and 
+
+Off-screen space.  
+
+Representation vs reproduction.  
+
+Affordances.  

@@ -48,7 +48,7 @@ II
 
 44: Ending a phrase.  
 
--: #Z: Lanfranco writes that if the piece has more notes than syllables, the last syllable is te be held out over the remaining notes. Zarlino adds to this that the pentultimate syllable must be accented.  
+-: #Z: Lanfranco writes that if the piece has more notes than syllables, the pentultimate syllable is te be held out over the remaining notes untill one reaches the cadence, which recieves the final syllable. Zarlino adds to this that the pentultimate syllable must be accented.  
 
 45: The last note.  
 
