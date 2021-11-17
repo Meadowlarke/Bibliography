@@ -516,7 +516,7 @@
 
 152: Semiotics and Russian narrative theory.  
 
-#Z: Narrative theory differentiates between the time of the story and the time of narration. In this framework, narrative is an interpretive act, story has the appearance of truth, and the narrator can decide what is their relationship to the story.   
+#Z: Narrative theory differentiates between the time of the story and the time of narration. In this framework, narrative, *synzhet,* is an interpretive act, story has the appearance of truth, and the narrator can decide what is their relationship to the story.  The story, *fabula,* is the events in chronological order while the plot is the order and style of the narration.   
 
 153: Narration and distances in time.  
 
@@ -548,7 +548,7 @@
 
 -: Introduction to Kozloff.  
 
-162: Kozloff's isx narrative functions.  
+162: Kozloff's six narrative functions.  
 
 -: Comparison to Gorbman's rules.  
 
