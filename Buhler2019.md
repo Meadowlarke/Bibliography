@@ -601,3 +601,138 @@
 ### Conclusion
 
 186: Conclusion.  
+
+## Chapter 7: Critical Theory and the Soundtrack  
+
+### Introduction  
+
+187: Difficulties with semiotic readings of film.  
+
+188: Enter "critical theory."  
+
+189: Hermaneutics of suspiscion.  
+
+### Ideology of Content(1): Topic Theory.  
+
+-: The ideology of content.  
+
+190: Musical topics.  
+
+191: Primitivism in flim music.  
+
+-: Use of black music.  
+
+194: Power, orientalism.  
+
+### Ideology of Content (2): The table of knowledge and Communicative Efficiency  
+
+-: The tabular nature of topics in Holywood.  
+
+195: Musical motifs in *Stagecoach.*  
+
+### Musical Topics: A Post-Colonial Critique  
+
+197: Seymor Stern and the prcoss of subjectification.  
+
+198: Stereotypes.  
+
+### Ideology of System  
+
+199: Sound film and labor.  
+
+200: Shift toward electronic and digital sounds.  
+
+### Ideology of Apparatus  
+
+202: Rick Altman and mimetic synchronization.  
+
+203: Ideology critique.  
+
+### Gender, Sexuality, and the Soundtrack  
+
+### Soundtrack Theory and Feminist Theory  
+
+204: Amy Lawrence and feminne film sound.  
+
+205: Laura Mulvy.  
+
+-: Coding music as feminine.  
+
+206: Doane on the burden of music.  
+
+-: Emotion within the construction of gender.  
+
+207: Gender constructions of interiority in Classical Holywood.  
+
+208: Music and men.  
+
+### Soundtrack Theory and Queer Theory  
+
+-: Queer theory.  
+
+209: Articulation of power and sexuality.  
+
+### Queer Asynchronous Sound  
+
+210: Asynchronous sound as a queer aesthetic.  
+
+### Queerness and Spectacle  
+
+211: Camp approach.  
+
+212: "Epistemology of the closet."  
+
+#### *Suddenly, Last Summer* (1959) and the Economy of Sacrifice  
+
+-: *Suddenly, Last Summer* (1959).  
+
+213: The film's representations of homosexuality.  
+
+214: Heterosexual desire.  
+
+215: Sacrifice.  
+
+### *The Hours* (2002) and Sacrificial Inversion  
+
+218: *The Hours* (2002), music by Philp Glass, and ejeciting norms through sacrifice.  
+
+## Psychoanalysis, Apparatus Theory, and Subjectivity
+
+### Introduction  
+
+221: Critical use of psychoanalysis.  
+
+222: Turning psychoanalysis back on itself.  
+
+223: Psychoanalysis and the psychic mechanism of ideology.  
+
+### The *Appareli*  
+
+#### Jean-Louis Baudry and the Basic Cinematographic Apparatus  
+
+225: Technology as the unconscisous of film.  
+
+#### Jean-Louis Comolli and technique and ideology  
+
+226: Comolli.  
+
+### Mary Ann Doane and the ideology of sound editing  
+
+227: Appatus theory.  
+
+-: Speech in apparatus theory.  
+
+### Rick Altman and the heterogeneity of sound  
+
+228: Disposiif and appareil.  
+
+230: Homogenaity ond heterogenaity.  
+
+231: Reality and representation.  
+
+### James Lastra and representational technology
+
+
+
+
+
