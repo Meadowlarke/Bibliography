@@ -33,4 +33,48 @@
 
 -: #Z: Assigning seminar papers teaches writing that is not representative of what academics actually do. This creates inequity as it reinforces the advantages of the students who came into school prepared---who tend to be more traditional students.  
 
-## Chapter 3  
+## Chapter 3: Eight Strategies for Getting Writing Done    
+
+18: The author's fear of academic writing.  
+
+-: Writing fear.  
+
+-: Eight rules (strategies) to get writing done.  
+
+19: Writing every day.  
+
+21: Cultivating a flow state.  
+
+22: Why dissetations take a long time to write/leaning to write a diss as you write it.  
+
+23: Making small achievable goals.  
+
+#Z: Missig occasional dailsy goals does not interfere with the development of them as habbits.  
+
+24: Keep writing when you are stuck.  
+
+-: Froowriting to get unstuck.  
+
+25: Talking problems out with others.  
+
+27: Avoiding virtunos procrastination.  
+
+-: The parasitic lure of the classroom.  
+
+29: Unwillingness to finish a project.  
+
+30: Fear as an ally.  
+
+32: Pruning too much of the paper.  
+
+#Z: Don't cut and purne too much or too early in the paper. This is a dongerous form of self-abnegation where you don't see your ideas as valuable.  
+
+33: Writing without knowing where you are going.  
+
+-: Treating research and revision as writing.  
+
+34: Revision as part onf the writing process.  
+
+35: Take the advice of this book.  
+
+## Chapter 4: Institutional Contexts  
