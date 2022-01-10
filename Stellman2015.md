@@ -46,3 +46,45 @@
 29: Fractured perspective.  
 
 30: Failure to adopt agile perspective.  
+
+33: The Agile Manifesto.   
+
+34: Individuals and interactions over processes and tools.  
+
+-: Working software over comprehensive documentation.  
+
+35: Working software.  
+
+#Z: Working software is software that adds value to tho organization.  
+
+-: Customer collaboration over contract negotiation.  
+
+36: Respond to change over following a plan.  
+
+37: Task boards.  
+
+-: Principles over practices.  
+
+39: More on fractured perspective; Sufi elephant story.    
+
+-: "Throwing it over the wall."  
+
+42: Agile methodologies.  
+
+-: Scrum.  
+
+43: eXtreme Programming.  
+
+44: Iterative programming.  
+
+-: Timeboxing.  
+
+-: Lean.  
+
+-: Kanban.  
+
+47: Chapter FAQ.  
+
+-: Planning in Scrum and Agile.  
+
+## Chapter 3: The Agile Principles  
