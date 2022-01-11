@@ -78,3 +78,52 @@
 35: Take the advice of this book.  
 
 ## Chapter 4: Institutional Contexts  
+
+36: Audience and context.  
+
+37: Example of writing for the audience of a journal.  
+
+38: Academic publishers.  
+
+-: Hypotactic vs paratactic writing, US vs France.  
+
+39: Chinese writing style.  
+
+## Chapter 5: Dissertations and Books  
+
+41: From dissertation to book.  
+
+42: Differences between dissertations and books.  
+
+-: Writing your dissertation as a book.  
+
+43: Books as more than the sum of their parts.  
+
+-: Books-as-containers (which are bad.)  
+
+45: Balancing chapters, problems adapting seminar papers.  
+
+## Chapter 6: A Materialist Theory of Writing  
+
+47: Sentences and ideas.  
+
+48: The power of language.  
+
+49: Writing for yourself.  
+
+## Chapter 7: How do Readers Work?  
+
+51: The differece in perspective between reader and writer.  
+
+52: Writing academic writing like its fiction.  
+
+53: The maleability of pages.  
+
+#Z: Every sentence in a work should know about every other sentence in it.  
+
+-: Pyschological arc of the work.  
+
+54: Managing the reader's experience.  
+
+## Chapter 8: The Uneven U  
+
