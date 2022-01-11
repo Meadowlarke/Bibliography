@@ -106,3 +106,30 @@
 
 74: The opressors changing the consciousness of the oppressed.  
 
+75: Reality as a process.   
+
+#Z: Reality is a process, not a static bank of laws.  
+
+-: The false dichotomy between human beings and the world.  
+
+#Z: The banking model of education believes in a dichotomy between human beings and the world. Humans are in the world, not members of it.  
+
+77: Necrophily.  
+
+79: The shortcommings of those who propose liberation.  
+
+80: The two stages of action of the educator in the banking model.  
+
+81: Eductaion as the process of freedom, rather than domination.  
+
+83: The liberatory effect of problem-posing education.  
+
+84: #Z: Problem-posing education affirms learners as unfinished beings in an unfinished reality, all in the process of becoming.  
+
+85: Having.  
+
+86: The necesity of dialogical education now, not later.  
+
+## Chapter 3  
+
+
