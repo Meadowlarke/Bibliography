@@ -44,15 +44,11 @@ xviii: Acknowledgements.
 
 474: Smooth and striated: nomad and sedentary.  
 
-#Z: No space is only smooth, or only striated, but must be an ever-changing mixture of the two as one gives rise to the other.  
-
 ### The technological model  
 
 475: Analogy to fabric.  
 
 477: Quilts.  
-
-#Z: Smooth means amorphous, not homogeneous.  
 
 -: Development of the patchwork quilt.  
 
