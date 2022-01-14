@@ -42,7 +42,7 @@ This is where I stopped.
 
 116: Influences.  
 
-#Z: Annea Lockwood had a friendship which began in the late 1960s.  
+-: Friendship with Oliveros.  
 
 -: River Archive.  
 
@@ -50,19 +50,13 @@ This is where I stopped.
 
 -: Electronic synthesis.  
 
-#Z: Annea Lockwood created a project in the 1960s with the goal of recording and archiving the sound of every river on the planet.  
-
 118: Selecting locations and sounds for recording.  
 
 121: Sound processing.  
 
--: Interviewing the people who live and work on the river.  
+-: Interviewing the "river people," people who live and work on the river.  
 
-#Z: Annea Lockwood's river recordings sometimes include the sound of what she calls the "river people," or the people who live and work on the river, mixed in.   
-
-122: Rhythm of memory.  
-
-#Z: Annea Lockwood's recording of "river people" are never translated, and at times seek just to capture what she calls "the rhythm of memory," or the way that the speed and energy of an oral recollection ebbs and flows as the speaker gropes for a shaky memory.  
+122: Rhythm of memory; (no) translation.  
 
 -: Burning pianos.  
 
