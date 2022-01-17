@@ -30,7 +30,7 @@ xxiv:
 
 -: Jerol Donovan.  
 
--: Leroy Jenkin.  
+-: Leroy Jenkins.  
 
 3: Redlining in Chicago.  
 
@@ -100,6 +100,15 @@ xxiv:
 
 ## Chapter 2: New Music, New York  
 
+29: "Aesthetic of spontaneity."  
+
+30: White consumption yet intellectual maginalization of jazz.  
+
+-: The oxymororn of black experimentalism.  
+
+31: Poets Ted Joans and Leroy Jones.  
+
+32: Integration and segrogation of the Greenwich village art world.  
 
 
 ## Chapter 11: Into the Third Decade.  
