@@ -297,6 +297,10 @@ xxiv:
 
 98: The first meeting of the AACM.  
 
+99: Metaphor of the ring shout.   
+
+100: Original music.  
+
 
 
 ## Chapter 11: Into the Third Decade.  
