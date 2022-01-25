@@ -166,6 +166,49 @@ xxiv:
 
 ## Chapter 3: The Development of the Experimental Band  
 
+55: Sun Ra.  
+
+56: Forming the Space Trio and the Arkestra.  
+
+57: Moving the Arkestra to NYC.  
+
+-: Philip Cohran playing with Sun Ra, foray into the occult.  
+
+-: Abrams.  
+
+58: Schillinger and the founding of Berklee.  
+
+59: Schillinger's teaching.  
+
+-: The Schillinger system and black composers.  
+
+60: Steve McCall in the Air Force.  
+
+-: Self education at the C&C lounge at 63rd and Cottage Grove.  
+
+62: The Experimental Band.  
+
+-: Roscoe Mitchell.  
+
+-: Joseph Jarman.  
+
+63: Radio and television.  
+
+-: Racist media and block role models.  
+
+64: Mitchell and Jarman's young exposure to jazz.  
+
+65: Mitchell and Jarman military service.  
+
+66: Jarman's discharge and muteness syndrome.  
+
+-: Mitchell's discharge, music college, meeting Jarman.  
+
+-: Richard Wang.  
+
+67: Mitchell and Favors playing together.  
+
+69: Alternative pedagogy at the C&C Lounge.  
 
 
 ## Chapter 11: Into the Third Decade.  
