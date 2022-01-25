@@ -259,6 +259,46 @@ xxiv:
 
 ## Chapter 4: Founding the Collective  
 
+85: The 1960s and the disappearance of the South Side club scene.  
+
+86: Reasons for the demise.  
+
+#Z: Some theorists have argued that the South Side Chicago club scene collapsed because of tastes changing back to more danceable music, citing record sale figures. Lewis argues that a more complete answer can be found in the context of the larger urban and social disinvestment in Black neighborhoods in the 50s and 60s.  
+
+87: Government funded "youth gangs."  
+
+-: Contemporaneous accounts of the new music scene.  
+
+88: The communalist Clef Club.  
+
+-: Classical music at the Clef Club.  
+
+89: Self-ownership of music, complications, exploitation by labels.  
+
+90: John Coltrane on self-help.  
+
+-: Alternative venues.  
+
+-: "Newport Rebels" and bad review by *Downbeat.*  
+
+-: Formation of the Jazz Artists Guild.  
+
+91: Forming an independent performance space and booking agency.  
+
+93: Divergence of views within the guild.  
+
+94: Race and pain in the guild's demise.  
+
+95: Archie Shepp leaving the guild.  
+
+-: End of the guild.  
+
+96: The beginnings of the AACM.  
+
+98: The first meeting of the AACM.  
+
+
+
 ## Chapter 11: Into the Third Decade.  
 
 439: The AACM in the 1980s.  
