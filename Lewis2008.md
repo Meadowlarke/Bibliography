@@ -210,6 +210,54 @@ xxiv:
 
 69: Alternative pedagogy at the C&C Lounge.  
 
+70: Abrams as a teacher.  
+
+-: Charles Eugine Dinwiddie.  
+
+-: Bus driving.  
+
+71: Dinwiddie joining the Experimental Band.  
+
+-: Troy Robinson.  
+
+72: Henry Threadgill.  
+
+73: Threadgill's introductions to music.  
+
+74: Threadgill meeting Jarman.  
+
+75: Threadgill's switch to alto sax, plaing at church.  
+
+76: Leonard Jones.  
+
+-: Move to Stateway Gardens.  
+
+77: Introduction to music.  
+
+-: Jones's military service.  
+
+78: Discharge.  
+
+-: Picking up the bass.  
+
+79: Joining the Experimental Band.  
+
+-: Spiritual awakening.  
+
+-: M'Chaka Uba/Allen Joyner.  
+
+80: Early life and music.  
+
+81: Studying music.   
+
+-: Relationship with street culture.  
+
+82: Lack of recordings or performances of the Experimental band.  
+
+83: The Experimental Band as a tool for personal growth.  
+
+
+## Chapter 4: Founding the Collective  
 
 ## Chapter 11: Into the Third Decade.  
 
