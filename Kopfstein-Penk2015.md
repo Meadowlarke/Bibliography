@@ -82,4 +82,10 @@ xxxiii: Legacy.
 
 ## Chapter 2: Decisions: 
 
+13: Selecting topics.  
 
+14: Criticism of traditional music appreciation.  
+
+#Z: Berstein was critical of the traditional modes of music appreciation, which he described as falling either into the categories of anecdotes and nothing about music or analysis, and calls the first one coy and the second dull. Instead, he chose to focus on the mystery of meaning in music. He breaks musical meaning into four categories: narrative-literary meanings, atmospheric-pictorial meanings,  affective-reactive meanings (like triumph or melancholy), and purely musical meanings.  
+
+-: The evolution of the topics chosen over the course of the program.  
