@@ -301,6 +301,23 @@ xxiv:
 
 100: Original music.  
 
+102: The AACM arriving at a definition of original music.  
+
+103: The creative role of musicians.  
+
+104: Pay and relationship with the union.  
+
+105: Dues and the self-supporting organization.  
+
+-: The second meeting.  
+
+107: Folradine Geemes and the structure of the organization.  
+
+108: Spirituality in the meetings and facing east.  
+
+-: Due forgiveness.  
+
+109: Becomming a non-profit.  
 
 
 ## Chapter 11: Into the Third Decade.  
