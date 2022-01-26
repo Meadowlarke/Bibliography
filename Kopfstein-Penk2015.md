@@ -86,6 +86,35 @@ xxxiii: Legacy.
 
 14: Criticism of traditional music appreciation.  
 
-#Z: Berstein was critical of the traditional modes of music appreciation, which he described as falling either into the categories of anecdotes and nothing about music or analysis, and calls the first one coy and the second dull. Instead, he chose to focus on the mystery of meaning in music. He breaks musical meaning into four categories: narrative-literary meanings, atmospheric-pictorial meanings,  affective-reactive meanings (like triumph or melancholy), and purely musical meanings.  
+#Z: Bernstein was critical of the traditional modes of music appreciation, which he described as falling either into the categories of anecdotes and nothing about music or analysis, and calls the first one coy and the second dull. Instead, he chose to focus on the mystery of meaning in music. He breaks musical meaning into four categories: narrative-literary meanings, atmospheric-pictorial meanings,  affective-reactive meanings (like triumph or melancholy), and purely musical meanings.  
 
 -: The evolution of the topics chosen over the course of the program.  
+
+15: Classifying topics.  
+
+#Z: Topics for the Young People's Concerts were chosen in order to showcase the Philharmonic.  
+
+16: Ideas coming from outside the philharmonic.  
+
+17: Outside ideas that were rejected.  
+
+-: Bob Kesshan---Captain Kangaroo---approached Bernstein offering his services for the Young People's Concerts. His offer was turned down, perhaps because he was considered a children's entertainer.  
+
+18: Suggestions for topics from his family.  
+
+19: Ideas for the Young People's Concerts before Bernstein.  
+
+20: Ideas from the production crew.  
+
+21: Bernstein's own ideas, based in asking questions.  
+
+-: Working in popular culture.  
+
+
+
+
+
+
+
+
+
