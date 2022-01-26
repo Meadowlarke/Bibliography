@@ -319,6 +319,13 @@ xxiv:
 
 109: Becomming a non-profit.  
 
+110: Choosing the name AACM.  
+
+111: Name creative musicians vs. creative music.    
+
+112: Race and membership.  
+
+113: Black separatism as self-empowerment.   
 
 ## Chapter 11: Into the Third Decade.  
 
