@@ -69,3 +69,43 @@
 -: Racial disharmony.  
 
 213: Changing racial discourse.  
+
+#Z: Ruth Frankberg says that after WWII there was a period of transition wherein discourses of race and racism in the united states shifted from power and color evasiveness, wherein we are all the same under the skin and have the same chances to succeed materially, to one of race cognizance which draws attention to how race is socially, culturally, and economically constructed as a fundamental structure of American society.   
+
+214: Black nationalism and race cognizance.  
+
+-: BARTS and HARYOU.  
+
+215: The Black Arts movement.  
+
+216: Racial exclusion and the Guild.  
+
+-: Masculinity.  
+
+217: Black Arts and biological essentialism.  
+
+218: Purity.   
+
+219: Harold Cruse and changes in racial attitudes in political action.    
+
+220: Dixon being more welcoming to whites than Bakara.  
+
+221: Self-actualization.  
+
+-: Differences in the meaning of the word "freedom" to white and black artists.  
+
+222: Difficulty of Dixon breaking out of the label of jazz.  
+
+224: More on racial divisions.  
+
+225: Carla Bley's racial rejection and leaving the group.  
+
+226: More breaches of trust.  
+
+227: Survival and economic reality/pragmatism/hardship.  
+
+-: Shepp's Impulse! deal. 
+
+228: Conflicting ideas about the goals of the guild.  
+
+230: Summary of the paper.  
