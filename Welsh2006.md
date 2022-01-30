@@ -30,3 +30,18 @@ Welsh, Fred. *Welsh's Synthesizer Cookbook.* 2006.
 9: Pulse width.  
 
 -: Syncing.  
+
+22: Envelopes.  
+
+24: LFOs.
+
+25: Pulse-width modulation.  
+
+26: Beat effects.  
+
+27: Keyboard expression.  
+
+-: Velocity sensitivity.  
+
+-: Aftertouch.  
+
