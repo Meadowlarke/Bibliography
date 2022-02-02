@@ -426,3 +426,67 @@ xxiv:
 141: First commercial recording of the AACM:Roscoe Mitchell's*Sound*.
 
 142: Difficulties in recording the music.  
+
+143: Stylistic decisions and limitations in the recording media.  
+
+144: Christopher Gaddy.  
+
+-: Detroit.  
+
+145: Differences between Chicago and New York.  
+
+-: Anthony Braxton.  
+
+146: New religious experiences for Braxton.  
+
+-: Braxton's elementary and high school.  
+
+147: Braxton in college.  
+
+-: Time in the Army.  
+
+-: Racism in the Army.  
+
+148: Return to Chicago, joining the Experimental Band and the AACM.  
+
+-: *Levels and Degrees of Light.*  
+
+-: Use of electronics by Abrams and Harris; controversy and criticism by Welburn.  
+
+149: Questions of authenticity and contemporaneous rock music.  
+
+150: First major feature article on an AACM musician.  
+
+-: Terence Martin, writing about the AACM.  
+
+151: AACM skits.  
+
+152: Jarman's *Bridge Piece*: a bizarre performance with "happening" vibes and dress codes.  
+
+153: Riview of *Bridge Piece* in *Coda.* 
+
+-: "Total expression."  
+
+154: Feature on Richard Abrams in *Down Beat.*  
+
+-: Abrams on extemporaneous composition and writing less.  
+
+155: The revolution implicit in collective music.  
+
+156: The influence of Sun Ra on the AACM.  
+
+157: Questioning this influence.  
+
+158: Sun Ra as catalyst for collective music.  
+
+159: More challenging of the Sun Ra genealogy by the author.  
+
+160: Sun Ra's conventionality while in Chicago.  
+
+161: Sun Ra's New York music as tho beginning of his radicality.  
+
+-: Sun Ra claiming centrality to the AACM's origins.  
+
+162: Differences in power structure between the Arkestra and the Experimental Band.  
+
+## Chapter 6: The AACM Takes off  
