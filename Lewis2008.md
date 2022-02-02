@@ -355,4 +355,74 @@ xxiv:
 
 466: Maia.  
 
+## Chapter 5: Firest Fruits  
 
+115: Chartering the AACM as a non-profit.  
+
+116: The image of jazz as socially deviant.  
+
+-: The nine purposes of the AACM.  
+
+117: Some bylaws.  
+
+118: Language which invoked classical music more than jazz in announcement to the *Chicago Defender.*  
+
+-: "Great Black Music."  
+
+-: The first AACM event.  
+
+119: Relationships with the press.  
+
+120: Difficulty in maintaining stable leadership.  
+
+121: Debates over whether to play exclusively original music.  
+
+124: Questions of purpose.  
+
+125: People leaving the AACM.    
+
+-: Claudine Myers.  
+
+127: Myers's early career as an adult.  
+
+128: Myers in Chicago.  
+
+-: Contemporary Music Society at the University of Chicago.  
+
+129: Jarman's concert with John Cage.  
+
+130: Differing reviews of the concert.  
+
+132: Jackson.    
+
+133: Picking up the trumpet at 40 and joining the AACM.  
+
+134: Taking part in local jam sessions.  
+
+-: Leroy Jenkins.  
+
+136: Lester Bowie.  
+
+137: His bad behavior in the army.  
+
+-: Introduction to music.  
+
+-: Racism regarding music at Lincoln University.  
+
+138: Bowie meets the Experimental Band.  
+
+-: Maurice Benford McIntyre.  
+
+139: Typo? "all black Hyde Park high school."
+
+-: Introduction to music.  
+
+-: Drug habit.  
+
+-: Jail time.  
+
+140: Life as a professional musician.  
+
+141: First commercial recording of the AACM:Roscoe Mitchell's*Sound*.
+
+142: Difficulties in recording the music.  
