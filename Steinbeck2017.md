@@ -82,4 +82,24 @@
 
 -: Jarman's debut album *Song For.*  
 
+56: "Non-Cognitive Aspects of the City."  
 
+57: Jarman's visits to the Artists Workshop in Detroit.  
+
+-: Jarman's poetry.  
+
+-: *Bridge Piece* at Ida Noyes.  
+
+58: Dress code of *Bridge Piece.*  
+
+-: Decline of Christopher Gaddy's health.  
+
+59: Larayne Black meets Jarman.   
+
+-: Performances at the Buddhist Temple of Chicago.  
+
+-: Jarman is joined by Bowie, Favors, and Mitchell.  
+
+-: Sudden death of Clark.  
+
+## Chapter 3: The Art Ensemble of Paris  
