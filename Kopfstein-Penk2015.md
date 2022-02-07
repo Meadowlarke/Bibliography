@@ -82,6 +82,8 @@ xxxiii: Legacy.
 
 ## Chapter 2: Decisions: 
 
+**This chapter analyzes the web of factors that guided Bernstien in his selection of program topics, something which he did largely alone.**
+
 13: Selecting topics.  
 
 14: Criticism of traditional music appreciation.  
@@ -110,11 +112,26 @@ xxxiii: Legacy.
 
 -: Working in popular culture.  
 
+22: Choosing topics personally close to him.  
 
+23: Program on Hindemith; the composer's death.  
 
+24: Criticism of Bernstein.  
 
+25: Bernstein's attack on critics in an installation of the YPC.  
 
+27: Describing Hindemith as a fun composer.  
 
+-: Selecting orchestral repertoire.  
 
+28: #Z: For economic reasons, Bernstein often chose pieces which had recently been performed or were about to be performed, to reduce the amount of additional rehearsal time necessary.  
 
+30: Record sales.  
 
+31: Performing Ives.  
+
+-: Truncating music.  
+
+32: Selecting young performers.  
+
+## Chapter 3: The Postmodernist
