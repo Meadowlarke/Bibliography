@@ -176,3 +176,35 @@ xxxiii: Legacy.
 
 53: Use of non-threatening syntax.  
 
+54: Explaining syncopation to different audiences.  
+
+-: Sports analogies.  
+
+55: Referencing films, The Marx Brothers.  
+
+56: Including lowbrow references in the highbrow: the Beatles and The Kinks.  
+
+57: Including material specifically focussed at children.  
+
+#Z: Bernstein referenced the Kazoo five times across the series and even programmed a kazoo concerto.   
+
+58: The integrality of fun in Bernstein's pedagogy.  
+
+59: Integrating a select few highbrow references.  
+
+60: Taunting highbrows.  
+
+-: Referencing musicals.  
+
+61: References to television and movies.  
+
+62: Referencing jazz and Rock music. 
+
+63: Bernstein's love of the Beatles.   
+
+#Z: In his public pedagogy, Bernstein worked to convince people to appreciate the "lowbrow" music of jazz, folk, and pop by relating them to "highbrow" music.  
+64: Bernstein's background in both the high- and the lowbrow.  
+
+## Chapter 4: The Television Pioneer  
+
+
