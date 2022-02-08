@@ -135,3 +135,44 @@ xxxiii: Legacy.
 32: Selecting young performers.  
 
 ## Chapter 3: The Postmodernist
+
+35: Bernstein and "brows."  
+
+36: The "tripartite taste devision."  
+
+37: High and lowbrow in the 60s.  
+
+38: Middlebrow in the 60s.  
+
+-: Changing attitudes in the mid-century.  
+
+42: Cultural uplift.  
+
+43: Mass culture.  
+
+44: Jazz.  
+
+45: Cultural straddling or "crossing over."  
+
+-: The "cultural explosion" of the 50s.  
+
+46: Rock 'n' Roll.  
+
+47: Bernstein's love of both the high and the low brow.  
+
+48: Bernstein navigating the stratification of taste-cultures.  
+
+-: Bernstein and the importance of having fun.  
+
+49: Bernstein reaching all brows.  
+
+50: *Omnibus.*  
+
+51: The multi-brow approach to the *Young Peoples Concerts.*  
+
+#Z: Bernstein said that his cultural agenda with the *Young Peoples Concerts* was "to create and recreate a communally engaged audience."  
+
+52: Program tittles and taste-culture.  
+
+53: Use of non-threatening syntax.  
+
