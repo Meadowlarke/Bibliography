@@ -207,4 +207,16 @@ xxxiii: Legacy.
 
 ## Chapter 4: The Television Pioneer  
 
+67: Television and the "cultural explosion" of the 1950s and early '60s.  
+
+68: Comparing Toscanni and Bernstein.  
+
+69: Bernstein as model American.  
+
+-: Clearing blacklisting and allegations of homosexuality.  
+
+70: Taste culture and financing television programs.  
+
+71: Expanding television ownership and lowering "brow levels."  
+
 
