@@ -522,3 +522,13 @@ xxiv:
 176: The beginnings of the AACM School of Music. 
 
 177: The egalitarian and non-hierarchical pedagogy of the school.  
+
+-: Abrams Lesson summary.  
+
+179: Teaching individualism.  
+
+180: Uchicago Historian Rout and his confusement by the AACM at Mandel Hall.  
+
+181: Rout's skepticism of the AACM's financial structure.  
+
+181/182: Work sharing.  
