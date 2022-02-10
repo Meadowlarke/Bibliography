@@ -490,3 +490,45 @@ xxiv:
 162: Differences in power structure between the Arkestra and the Experimental Band.  
 
 ## Chapter 6: The AACM Takes off  
+
+163: Politics vs art for arts sake at the AACM.  
+
+164: New black consciousness.  
+
+165: Taking more African names.  
+
+167: Wall of Respect.  
+
+168: Afro Arts Theatre.  
+
+169: New, young musicians.  
+
+-: Leo Smith.  
+
+170: Smith in the Army, radicalization.  
+
+-: Playing free music at military events, reprimandation.  
+
+171: Discharge and marriage.  
+
+-: Meeting Braxton.  
+
+171: John Stubblefield.  
+
+173: Wallace McMillian.  
+
+175: "Inside" and "outside" music and "paying your dues."   
+
+176: The beginnings of the AACM School of Music. 
+
+177: The egalitarian and non-hierarchical pedagogy of the school.  
+
+-: Abrams Lesson summary.  
+
+179: Teaching individualism.  
+
+180: Uchicago Historian Rout and his confusement by the AACM at Mandel Hall.  
+
+181: Rout's skepticism of the AACM's financial structure.  
+
+181/182: Work sharing.  
