@@ -207,4 +207,10 @@ xxxiii: Legacy.
 
 ## Chapter 4: The Television Pioneer  
 
+67:
 
+#Z: In a letter to Humphrey Burton, Leonard Bernstein wrote that "The great benefit [of television], for me, is the educational value, not only in the pedagogical sense but in the best sense of acquainting people with new stuff they can come to love (which is what I mean by education, rather than having to memorize the conjugation of an irregular verb.) Bringing music close to people... has always been my lifelong desire and goal even in writing my music. And I think there is nothing that comes near to television for this purpose. This is the best communicative means, and, after all, communication is what television is about."
+
+#Z: I love this definition of education: acquainting people with new stuff that can come to love.  
+
+#Z: This characterizes the attitude of musical education on *Sesame Street.*  
