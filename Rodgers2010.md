@@ -34,6 +34,27 @@ ix: Pinknoises.com, Jonathan Stern.
 
 This is where I stopped.  
 
+
+## Pauline Oliveros
+
+27: Biographical details.  
+
+28: Development of her interest in electronics.  
+
+-: The Buchla sythnesizer.  
+
+29: Expanded instrument system.  
+
+30: The pre-cognitive nautre of playing.  
+
+-: Embodied and intuitive playing.  
+
+31: Status of women composers.  
+
+32: Trying to hire woman at Mills.  
+
+-: Female interest in music tech, encouraging it.  
+
 ## Annea Lockwood  
 
 114: Bio and summary of works.  
