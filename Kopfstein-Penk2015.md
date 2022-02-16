@@ -224,3 +224,67 @@ xxxiii: Legacy.
 #Z: I love this definition of education: acquainting people with new stuff that can come to love.  
 
 #Z: This characterizes the attitude of musical education on *Sesame Street.*  
+
+72: Children's television, 1948-1987.  
+
+73: Timeslots for children's television.  
+
+74: The unusual scheduling of the *Young Peoples Concerts.*   
+
+76: The financial origin of the televised *Young Peoples Concerts.*  
+
+77: Choosing Bernstein.  
+
+77/78: Nielsen ratings and sponsorship.  
+
+78: Nielsen rating system.  
+
+79: Rating and share.  
+
+#Z: Nielsen television ratings are a measure of rating and share, expressed as rating/share, where rating is the percent of all television sets tuned to the program, including sets that are turned off, and share is that same measure but only for sets that are turned on.  
+
+#Z: Nielsen television ratings determined the price of advertising, and prices fluctuated like the stock market.  
+
+79: Prime time.  
+
+80: Television sponsorship and cultural image.  
+
+-: Sponsorship of the *Young Peoples Concerts.*  
+
+81: Table: the timeline of different sponsors for the *Young Peoples Concerts.*  
+
+-: The rising ratings of the program.  
+
+82: Move to primetime.  
+
+#Z: After Newton Minow's "Vast Wasteland" speech, the fifth through tenth seasons (1961-1966)
+of the Bernstein *Young Peoples Concerts* were moved to prime time to demonstrate the artistic and cultural merit of CBS. 
+
+#Z: This doubled as simply good resource management, as CBS did not have a program to compete with the highly popular programs offered by other stations. For example, "Musical Atoms: A Study of Intervals" aired opposite the Western series *The Virginian* for a match up of 11.8/19.1 vs 23.4/41.1. One might even see The *Young Peoples Concerts* as a sacrificial program to this unbeatable competition.  
+
+-: Return to a weekend slot.  
+
+#Z: Eventually, it was decided that despite the steep competition, more money could be made with a program that grossed higher ratings, and so the Bernstein *Young Peoples Concerts* were moved to Sunday, 4:30 PM from season 11 to 15, the final season of the program (1967-1972).  
+
+83: Fan mail.  
+
+-: International broadcasts.  
+
+84: Shell: the first sponsor of the program.  
+
+#Z: The Shell Oil Company was the first sponsor of the Bernstein *Young Peoples Concerts*, sponsoring the program for seasons 3-7.  
+
+-: Sponsorship by the Bell Telephone Company.  
+
+85: Sponsorship by Polaroid and Kodak.  
+
+86: Censorship by sponsors.  
+
+87: Self-censorship.  
+
+88: Bernstein's self-censorship and liberation in the 1970s.  
+
+89: Summary of chapter.  
+
+## Chapter 5: The Pacifist  
+
