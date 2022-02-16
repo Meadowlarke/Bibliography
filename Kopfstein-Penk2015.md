@@ -6,8 +6,6 @@ xv: The Marin Alsop's experience of Bernstein and the transformative power of mu
 
 xvi: Being his student at Tanglewood.  
 
-#Z: Leonard Bernstein made no distinction between highbrow and lowbrow, saying that "there is only 'brow.'" 
-
 ## Preface  
 
 xvii: Addressing the lack of writing on the Young People's Concerts.  
@@ -48,11 +46,7 @@ xxxiii: Legacy.
 
 1: Production.  
 
-#Z: Bernstein controlled almost every aspect of the Young People's Concerts. He wrote the scripts, chose the guest artists, chose the compositions, and performed and conducted the whole show.  
-
 2: Age demographics.  
-
-#Z: While the Young People's Concerts were intended for adolescents and this was represented by live attendance, 83% of the at-home viewers were adults. Only 6% of viewers were Bernstein's target the "typical 13-year old."     
 
 -: Performance times.  
 
@@ -88,13 +82,9 @@ xxxiii: Legacy.
 
 14: Criticism of traditional music appreciation.  
 
-#Z: Bernstein was critical of the traditional modes of music appreciation, which he described as falling either into the categories of anecdotes and nothing about music or analysis, and calls the first one coy and the second dull. Instead, he chose to focus on the mystery of meaning in music. He breaks musical meaning into four categories: narrative-literary meanings, atmospheric-pictorial meanings,  affective-reactive meanings (like triumph or melancholy), and purely musical meanings.  
-
 -: The evolution of the topics chosen over the course of the program.  
 
 15: Classifying topics.  
-
-#Z: Topics for the Young People's Concerts were chosen in order to showcase the Philharmonic.  
 
 16: Ideas coming from outside the philharmonic.  
 
@@ -124,7 +114,7 @@ xxxiii: Legacy.
 
 -: Selecting orchestral repertoire.  
 
-28: #Z: For economic reasons, Bernstein often chose pieces which had recently been performed or were about to be performed, to reduce the amount of additional rehearsal time necessary.  
+28: Chosng recently performed pieces for economic reasons.    
 
 30: Record sales.  
 
@@ -170,8 +160,6 @@ xxxiii: Legacy.
 
 51: The multi-brow approach to the *Young Peoples Concerts.*  
 
-#Z: Bernstein said that his cultural agenda with the *Young Peoples Concerts* was "to create and recreate a communally engaged audience."  
-
 52: Program tittles and taste-culture.  
 
 53: Use of non-threatening syntax.  
@@ -185,8 +173,6 @@ xxxiii: Legacy.
 56: Including lowbrow references in the highbrow: the Beatles and The Kinks.  
 
 57: Including material specifically focussed at children.  
-
-#Z: Bernstein referenced the Kazoo five times across the series and even programmed a kazoo concerto.   
 
 58: The integrality of fun in Bernstein's pedagogy.  
 
@@ -202,7 +188,6 @@ xxxiii: Legacy.
 
 63: Bernstein's love of the Beatles.   
 
-#Z: In his public pedagogy, Bernstein worked to convince people to appreciate the "lowbrow" music of jazz, folk, and pop by relating them to "highbrow" music.  
 64: Bernstein's background in both the high- and the lowbrow.  
 
 ## Chapter 4: The Television Pioneer  
@@ -218,12 +203,6 @@ xxxiii: Legacy.
 70: Taste culture and financing television programs.  
 
 71: Expanding television ownership and lowering "brow levels."  
-
-#Z: In a letter to Humphrey Burton, Leonard Bernstein wrote that "The great benefit [of television], for me, is the educational value, not only in the pedagogical sense but in the best sense of acquainting people with new stuff they can come to love (which is what I mean by education, rather than having to memorize the conjugation of an irregular verb.) Bringing music close to people... has always been my lifelong desire and goal even in writing my music. And I think there is nothing that comes near to television for this purpose. This is the best communicative means, and, after all, communication is what television is about."
-
-#Z: I love this definition of education: acquainting people with new stuff that can come to love.  
-
-#Z: This characterizes the attitude of musical education on *Sesame Street.*  
 
 72: Children's television, 1948-1987.  
 
@@ -241,10 +220,6 @@ xxxiii: Legacy.
 
 79: Rating and share.  
 
-#Z: Nielsen television ratings are a measure of rating and share, expressed as rating/share, where rating is the percent of all television sets tuned to the program, including sets that are turned off, and share is that same measure but only for sets that are turned on.  
-
-#Z: Nielsen television ratings determined the price of advertising, and prices fluctuated like the stock market.  
-
 79: Prime time.  
 
 80: Television sponsorship and cultural image.  
@@ -257,22 +232,13 @@ xxxiii: Legacy.
 
 82: Move to primetime.  
 
-#Z: After Newton Minow's "Vast Wasteland" speech, the fifth through tenth seasons (1961-1966)
-of the Bernstein *Young Peoples Concerts* were moved to prime time to demonstrate the artistic and cultural merit of CBS. 
-
-#Z: This doubled as simply good resource management, as CBS did not have a program to compete with the highly popular programs offered by other stations. For example, "Musical Atoms: A Study of Intervals" aired opposite the Western series *The Virginian* for a match up of 11.8/19.1 vs 23.4/41.1. One might even see The *Young Peoples Concerts* as a sacrificial program to this unbeatable competition.  
-
 -: Return to a weekend slot.  
-
-#Z: Eventually, it was decided that despite the steep competition, more money could be made with a program that grossed higher ratings, and so the Bernstein *Young Peoples Concerts* were moved to Sunday, 4:30 PM from season 11 to 15, the final season of the program (1967-1972).  
 
 83: Fan mail.  
 
 -: International broadcasts.  
 
 84: Shell: the first sponsor of the program.  
-
-#Z: The Shell Oil Company was the first sponsor of the Bernstein *Young Peoples Concerts*, sponsoring the program for seasons 3-7.  
 
 -: Sponsorship by the Bell Telephone Company.  
 
