@@ -532,3 +532,75 @@ xxiv:
 181: Rout's skepticism of the AACM's financial structure.  
 
 181/182: Work sharing.  
+
+## Chapter 7: Americans in Paris
+
+215: Nationalism and the idea of control of African American cultural production.  
+
+216: Resisting the idea of protecting the music by limiting its audience.  
+
+-: Musician as messenger.  
+
+217: Decision to go to Europe.  
+
+219: Becoming the "Art Ensemble." 
+
+220: African American Paris, historical erasure.  
+
+222: French magazines take notice.  
+
+-: First concerts.  
+
+223: Descriptions of the ensemble by French media.  
+
+224: Housing.  
+
+-: Renting rooms in a psych ward.  
+
+-: Moving into an old farmhouse north of Paris.  
+
+226: Racism in renting.  
+
+227: Playing to big crowds.   
+
+-: Finding success.  
+
+-: Destabilizing collectivity.  
+
+228: Recording in Paris.  
+
+229: Lack of the concept of "inside" and "outside" musicians in Paris.  
+
+230: People are still asking if they were inspired by Sun Ra.  
+231: Rejecting genera labels.  
+
+232: Black experimental musicians developing their preferred environments.  
+
+235: *Free Jazz/Black Power.*   
+
+236: French magazines had more intellectually diverse reviews of the music.  
+
+237: Adorno, French critics, and race.  
+
+239: Free jazz and May 1968.  
+
+241: News of their success in Paris reaches the US.  
+
+242: Donald Moye, the new drummer.  
+
+247: European free jazz.  
+
+253: Government subsidization of European free jazz.  
+
+254: Return to Chicago/reasons for leaving Paris.  
+
+255: Tax issues in Paris.  
+
+-: The French political environment becomes more conservative.  
+-: Racism due to war in Algeria.  
+
+256: The money and Logistics of getting back to the US.  
+
+-: Conflation of the Art Ensemble and the AACM.  
+
+## Chapter 8:  
