@@ -103,3 +103,49 @@
 -: Sudden death of Clark.  
 
 ## Chapter 3: The Art Ensemble of Paris  
+
+61: Lester Bowie feels restless.  
+
+62: The promise of Paris.  
+
+63: Other musicians who found success in Paris.  
+
+-: Delcloo.  
+
+65: Bowie convincing others to come to Paris.  
+
+67: Leaving for Paris.  
+
+-: Finding lodging.  
+
+68: Places where they met expat musicians.  
+
+69: Paris debut.  
+
+-: Positive review by critic Daniel Caux.  
+
+71: Reviews by other critics.  
+
+72: "Black exotica."  
+
+73: Paris, perception of blacks, and the anti-colonial struggle.  
+
+74: The end of the French empire.  
+
+-: Black free jazz's appeal to post-May French society.  
+
+76: The benefit and harm of the black exotica phenomenon for the Art Ensemble.  
+
+-: Critics and misconceptions.  
+
+77: Community of American artists in Paris.  
+
+78: Money and lodging.  
+
+79: Family oriented environment of their time living at the farmhouse.  
+
+-: Embracing a more collectivist model and renaming the group the Art Ensemble of Chicago.  
+
+80: Cooperative economics.  
+
+
