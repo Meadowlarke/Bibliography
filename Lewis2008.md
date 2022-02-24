@@ -491,6 +491,8 @@ xxiv:
 
 ## Chapter 6: The AACM Takes off  
 
+**This chapter is mostly about ideology.**  
+
 163: Politics vs art for arts sake at the AACM.  
 
 164: New black consciousness.  
@@ -532,3 +534,5 @@ xxiv:
 181: Rout's skepticism of the AACM's financial structure.  
 
 181/182: Work sharing.  
+
+196: Voting Cranshaw out of the group for being of white parentage.  
