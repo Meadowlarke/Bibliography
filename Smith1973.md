@@ -6,7 +6,49 @@
 
 4: Creative music.  
 
-28: The drum is not the center of Block music.  
+5: Listening practices.  
+
+6: The new creative improvisor.  
+
+7: Freeing ourselves from the "powerMAN."  
+
+8: Creation, improvisation, and accreditation.  
+
+9: The re-emergence of improvisation.  
+
+10: The small-mindedness of critics.  
+
+11: Criticising creative and improvisational music.  
+
+13: The emergence of creative Black music in America.  
+
+14: Defining improvisation.  
+
+15: Technique and creativity.  
+
+-: Genealogy of creative music.  
+
+16: The blues as sound a nd rhythm, not pitch.  
+
+17: Bebop.  
+
+19: The inception of the free form.  
+
+-: Solo-form.  
+
+20: The virtual persecution of Black music.  
+
+21: Recognising creative music as the music of America, not classical music.  
+
+22: The concepts employed in his own music.  
+
+23: The forms used.  
+
+25: The sounds of real life.  
+
+26: Creative music and heritage.  
+
+28: The drum is not the center of Black music.  
 
 30: The importance of solo instruments.  
 
