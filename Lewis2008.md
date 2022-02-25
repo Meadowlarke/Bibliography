@@ -607,4 +607,92 @@ xxiv:
 
 -: Conflation of the Art Ensemble and the AACM.  
 
-## Chapter 8:  
+## Chapter 8: The AACM's Next Wave   
+
+259: Returning to the US, but not to Chicago.  
+
+260: Painter Emelio Cruz.  
+
+261: Julius Hemphill in Saint Louis.  
+
+262: Cruz goes to Saint Louis.  
+
+263: Lake.  
+
+264: Lake's adulthood.  
+
+265: Starting the Black Artist's Group (BAG) in Saint Louis, inspired by the AACM.  
+
+267: Elbert Jimmy Carroll.  
+
+268: BAG gets money.  
+
+269: BAG alternative arts eductaion facility.  
+
+270: Establishing a connection with the AACM.  
+
+271: The demise of BAG.  
+
+272: Pruitt-Igoe, protest, strike, and end of BAG fuding.  
+
+274: Members disperse.  
+
+275: Move to Paris.  
+
+-: End of BAG.  
+
+276: Concern over the loss af AACM leadership.  
+
+277: The AACM's "second wave."  
+
+-: Douglass Ewart.  
+
+278: Ewart and Rasta camps.  
+
+279: Ewart's eduaction, exposure to music, and move to Chicago.  
+
+281: How the Author fits into all of this!  
+
+285: The increasing visibility of AACM musicians. 
+
+286: General sucess all around.  
+
+288: Freeman.  
+
+291: Colson.  
+
+296: AACM press support from *The Chicago Reader.*   
+
+297: Radio.  
+
+298: Growing reputation in Europe.  
+
+301: The shift of the scene up to th Near North Side/North Lincoln Avenue.  
+
+302: Abrams.  
+
+303: Leo Smith.  
+
+305: Wilkerson.  
+
+306: Siddik.  
+
+309: Siddik avoids being drafted.  
+
+310: Burton.  
+
+312: Burton meets the AACM.  
+
+313: Tem years of the AACM.  
+
+314: Warford.  
+
+316: El'Zabar.  
+
+318: The tenth anniversary festival.  
+
+322: Evolution of the work of AACM composers.  
+
+323: Event as a watershed moment, conversation between Ewart and Lewis (the author).  
+
+## Chapter 9: Tha AACM in New York   
