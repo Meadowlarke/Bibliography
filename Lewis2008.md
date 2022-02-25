@@ -683,7 +683,7 @@ xxiv:
 
 312: Burton meets the AACM.  
 
-313: Tem years of the AACM.  
+313: Ten years of the AACM.  
 
 314: Warford.  
 
@@ -695,4 +695,4 @@ xxiv:
 
 323: Event as a watershed moment, conversation between Ewart and Lewis (the author).  
 
-## Chapter 9: Tha AACM in New York   
+## Chapter 9: The AACM in New York   
