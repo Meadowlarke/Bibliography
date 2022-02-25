@@ -6,7 +6,7 @@
 
 112: The lack of performances of music by Joplin and Ives.  
 
-113: duke Ellington.  
+113: Duke Ellington.  
 
 115: Thinking about the future.  
 

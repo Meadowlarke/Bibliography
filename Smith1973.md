@@ -28,7 +28,7 @@
 
 -: Genealogy of creative music.  
 
-16: The blues as sound a nd rhythm, not pitch.  
+16: The blues as sound and rhythm, not pitch.  
 
 17: Bebop.  
 
@@ -58,7 +58,7 @@
 
 -: Nine stones on a mountain.  
 
-32: Inmprovisation #4.  
+32: Improvisation #4.  
 
 -: Creative music-1.  
 
