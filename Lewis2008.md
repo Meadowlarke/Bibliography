@@ -696,3 +696,111 @@ xxiv:
 323: Event as a watershed moment, conversation between Ewart and Lewis (the author).  
 
 ## Chapter 9: The AACM in New York   
+
+325: John Stubblefield in NYC, living with Ornette Coleman.    
+
+326: The first wave of AACM members in NYC.  
+
+327: Anthony Braxton begins to get attention.  
+
+-: Positive reception in France, negative reception in the US.  
+
+328: Bad economy and new forms of collectivity.  
+
+-: Collective Black Artists.  
+
+329: Being a Black only group.  
+
+-: The Art Ensemble of Chicago's first NYC concert and its theatrics.  
+
+330: Samuel Gilmore and divisions in the NYC art world.  
+
+331: Racism at the National Endowment for the Arts.  
+
+332: "Play-in" protest at the Guggenheim Foundation offices.  
+
+333: News of success in NYC reaches Chicago.  
+
+-: The majority move.  
+
+334: Leonard Jones moves to NYC.  
+
+-: Finding housing in the federally subsidized Manhattan Plaza.  
+
+-: Abrams's move to NYC.  
+
+335: The whiter racial makeup of Manhattan.  
+
+336: Influx of Californians.  
+
+-: Chico Freeman.  
+
+338: Differences in playing between AACM members and the NYC scene.  
+
+339: Braxton's *Creative Orchestra Music 1976.*   
+
+340: The difficulty of this music.  
+
+341: Bimusicality.  
+
+-: The author's breakout moment at this time.  
+
+342: Braxton's "under the rug" strategy with the Arista record label.  
+
+343: Relationship with and centrality of NYC.  
+
+344: WKCR four-day concert.  
+
+-: Review in the New Yorker. 
+
+345: "New Jazz" Festival 1977.  
+
+346: European jazz festivals.  
+
+347: Electronics and computers.  
+
+348: More reviews from European festivals.  
+
+349: Alternative art spaces in NYC.  
+
+350: Representation as "loft jazz."  
+
+351: Resistance to the term.  
+
+352: End of the loft jazz phenomenon by the early 80s.  
+
+353: Moving beyond boundaries.  
+
+355: Breakdown of traditional generational power in NYC jazz.  
+
+356: Economic competition.  
+
+357: Competition with the native NYC tradition.  
+
+358: Is it really jazz?  
+
+359: Third Stream Movement.  
+
+361: Composition and cultural dialogue.  
+
+362: Multi-instrumentalism.  
+
+364: Practicing unusual instruments.  
+
+365: Boundary maintenance.  
+
+366: Bakara's criticism of "Tail Europe."  
+
+367: Entry into classical music by Black composers.  
+
+368: Denying engagement with European traditions.  
+
+369: The press's unpreparedness for the AACM.  
+
+370: The AACM, indigenous experimentalism.  
+
+371: American classical music.  
+
+372-388: More on ideas of jazz and classical music and institutions.  
+
+## Chapter 10: The New Regime in Chicago 
