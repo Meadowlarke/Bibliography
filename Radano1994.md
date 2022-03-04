@@ -76,3 +76,68 @@
 
 110: Other musicians who have drown inspiration from modernism.  
 
+## Chapter 5: Defining a Black Vanguard Aesthetic
+
+180: Braxton's return to Paris.  
+
+182: Concert appearances in the early 70s.  
+
+183: Writing about music.  
+
+-: Playing around the world.  
+
+185: Interviews in France, on structure and form.  
+
+188: Musical identity.  
+
+189: His aesthetic of ambiguity.  
+
+190: Atonal solo work.  
+
+194: His playing as an accompanied soloist.  
+
+197: Use of modernist devices.  
+
+198: Preference for stylistic opposition.  
+
+200: Alternatives to traditional song form.  
+
+201: Experiments with form.  
+
+203: *Creative Orchestra Music 1976*, opus 57.  
+
+206: "Free" practices.  
+
+208: The fallacy of freedom.  
+
+209: "Making noise."  
+
+212: Notational systems.  
+
+218: Serialism in *Composition 34.*  
+
+223: Multi compositional structures.  
+
+225: "Language music."  
+
+229: Interest in the mystic and occult.  
+
+233: "Tri-axium."  
+
+## Chapter 6: Black Experimentalism as Spectacle
+
+240: Mass culture.  
+
+242: Jazz personalities and mass culture.  
+
+244: Braxton's image.  
+
+249: Arista.  
+
+252: Controversy around Braxton.  
+
+256: Walter Benjamin.  
+
+262: The primitive/intellectual homology.  
+
+
