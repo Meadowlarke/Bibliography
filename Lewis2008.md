@@ -789,7 +789,7 @@ xxiv:
 
 365: Boundary maintenance.  
 
-366: Bakara's criticism of "Tail Europe."  
+366: Baraka's criticism of "Tail Europe."  
 
 367: Entry into classical music by Black composers.  
 
@@ -802,5 +802,7 @@ xxiv:
 371: American classical music.  
 
 372-388: More on ideas of jazz and classical music and institutions.  
+
+384: Lewis as music curator at the Kitchen.  
 
 ## Chapter 10: The New Regime in Chicago 
