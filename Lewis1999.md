@@ -6,15 +6,21 @@
 
 64: "Multidominance."  
 
+-: Eurocentric art training in painting and in music.  
+
 -: "Free" music.  
+
+65: Black music as "noise."  
 
 66: Olly Wilson.  
 
-67: Shoenberg.  
+67: Shoenberg and color as metaphore for tambre.  
 
 -: Wilson's ideas of bodily movement.  
 
 68: Repetition in sound and painting.  
 
 69: "Double consciousness" of W.E.B Du Bois.  
+
+-: "Multidominance of consciousness."  
 
