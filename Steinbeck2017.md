@@ -148,4 +148,98 @@
 
 80: Cooperative economics.  
 
+## Chapter 8: Great Black Music
 
+213: End of the Art Ensemble's 1977 European tour.  
+
+214: Period of success.  
+
+-: Bowie's travels.  
+
+215: Bowie meets Fela Kuti.  
+
+216: New manager of the Art Ensemble.  
+
+-: Signing with ECM records.  
+
+217: The virtues of ECM.  
+
+219: Period of success from the late 70s to the early 90s.  
+
+220: Cultivating new listeners.  
+
+221: Opening the 1980 Newport Jazz Festival.  
+
+222: Positioning the band as performing arts rather than jazz.  
+
+-: Great Black Music.  
+
+223/224: Dignity and choosing their own musical labels.  
+
+225: Mitchell on Great Black Music.  
+
+226: Great Black Music and intermedia elements.  
+
+227: Face painting and masks.  
+
+-: Wardrobe choices and autonomy.  
+
+228: Great Black Music and conflicts with jazz.  
+
+229: Rift between Bowie and Thompson.  
+
+230: Bowie and Marsalis conflict.  
+
+-: PBS serries *Jazz* and Marsalis's revenge.  
+
+231: More Bowie Marsalis conflict.  
+
+232: Relationship to traditionalism.  
+
+## Chapter 9: *Live from the Jazz Showcase*  
+
+233: Introducing the film.  
+
+234/235: *A Jackson in Your House.*  
+
+235: Opening with a moment of silence.  
+
+236: Ending the silence.  
+
+237: Author's transcription of "We Bop."  
+
+238: Opening with "We Bop" and their costumes.  
+
+-: Collective improvisation analyzed.  
+
+239: Deciding whether to end or prolong "We Bop."  
+
+240: Transitioning to the next piece.  
+
+241: Confetti.  
+
+242: Favor's dance/pantomime/physical expression.  
+
+243: "Pan drums."  
+
+-: Beginning "Promenade."  
+
+246: Analyzing how they improvise transitions on drums.  
+
+249: "New York is Full of Lonely People."  
+
+251: Building around birdcalls.  
+
+-: Firearms.  
+
+253: The gunfire and structural element.  
+
+254: "Morning Bells."  
+
+255: "A Jackson in Your House."  
+
+258: "Odwalla."   
+
+260: Ending the performance.  
+
+252: Incorporating elements of theatre.  
