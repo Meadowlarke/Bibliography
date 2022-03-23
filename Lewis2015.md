@@ -10,11 +10,15 @@
 
 118: Aesthetics of assemblage.  
 
+-: Actor network theory.  
+
 119: Instrument stations and assemblage.  
 
 120: Issues of reception.  
 
 121: The music of Philip Cohran.  
+
+-: *Cool* and *hot.*  
 
 122-124: Photos.  
 
@@ -23,7 +27,3 @@
 -: Minimalism.  
 
 126: Drawing a connection between murals and the music of the AACM.  
-
-
-
-

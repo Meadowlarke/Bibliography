@@ -1,4 +1,4 @@
-# Steinbeck, Paul. "George Lewis's Voyager." In *The Routledge Companion to Jazz Studies,* edited by Nicholas Gebhardt, Nichole Rustin-Paschal, and Tony Whyton, 261-170. New York: Routledge, 2019.   
+# Steinbeck, Paul. "George Lewis's *Voyager*." In *The Routledge Companion to Jazz Studies,* edited by Nicholas Gebhardt, Nichole Rustin-Paschal, and Tony Whyton, 261-170. New York: Routledge, 2019.   
 
 261: Introduction to the AACM.  
 
@@ -26,11 +26,11 @@
 
 265: *Voyager* and multi-instrumentalism.  
 
-#Z: Lewis said that *Voyager,* his improvising computer, was "incarnatic," not "prosthetic," as in it made descisions on its on, and was not an extension of the player.  
+-: "Incarnatic" vs "prosthetic."
 
 266: The algorithms that it runs on.  
 
-#Z: George Lewis's *Voyager* engages in "state based" rather than motivic appreaches to listening and orchestration. It does not listen for melodies to store for later use.  
+-: State based listening.  
 
 -: Emotional transduction.  
 
