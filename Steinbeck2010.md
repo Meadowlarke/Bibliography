@@ -10,7 +10,7 @@
 
 3: Analyzing "Bernice."   
 
-4: As a baand leader: "outsideness" and de-centering the bandleader in improvisation.  
+4: As a band leader: "outsideness" and de-centering the bandleader in improvisation.  
 
 -: The AACM.  
 
@@ -18,7 +18,7 @@
 
 -: Free and open improvisation.  
 
--: Playaing with Anderson.  
+-: Playing with Anderson.  
 
 6: Anderson as an educator.  
 
