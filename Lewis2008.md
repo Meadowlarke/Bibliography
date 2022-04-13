@@ -112,7 +112,7 @@ xxiv:
 
 -: The intellectual worship of Europe by New Yorkers.  
 
-33: Bakara's departure from Greenwich Village.  
+33: Baraka's departure from Greenwich Village.  
 
 -: Refuting Bane's assumptions about black separatism.  
 
@@ -806,3 +806,117 @@ xxiv:
 384: Lewis as music curator at the Kitchen.  
 
 ## Chapter 10: The New Regime in Chicago 
+
+386: Mwata Bowden, early life and education.    
+
+390: Swithching to baritone saxaphone.  
+
+391: Entering the R&B circuit.  
+
+-: Employment as a teacher, enrolling at Governor's state.   
+
+392: Edward Wilkerson.  
+
+-: AACM National Conference.  
+
+393: "Musical intent."  
+
+394: Discussing Black "ethnic purity."  
+
+395: Collective strategies and rights management.  
+
+396: Suggesting a national expansion of the AACM.  
+
+397: Discussing a NYC chapter.  
+
+398: Dushun Mosley, early life.  
+
+399: Mosely playing in Motown.  
+
+-: Studying technology at Michigan State.  
+
+-: The Creative Arts Collective, CAC.  
+
+400: Racism in 60s and 70s musical philatropy and institutional support.  
+
+401: The Guggenheim and tokenism.  
+
+-: The National Endowment for the Arts.  
+
+402: Challenging the NEA's strict stylistic guidelines for jazz.  
+
+403: Expansion Arts.  
+
+404: "Technical assistance."  
+
+405: Curtis/Muhammad Chapman.  
+
+406: Early life and education.  
+
+407: Black panthers, Islam.
+
+408: Football scolarlhip to Alcorn A&M in Mississippi.  
+
+409: Return to Chicago, other colleges.  
+
+410: Playing with the AACM.  
+
+411: International coverage of the AACM.  
+
+412: Reginald Nicholson, early life and education.  
+
+413: Being raised Jewish.  
+
+-: Playing and learning from Su-Ra (not Sun Ra.)  
+
+415: First encounters with the AACM.  
+
+416: Ewart in charge of the finances of the AACM.  
+
+-: Formation of the New York chapter.  
+
+418: Nonprofit certification, NEA money.  
+
+420: The Chicago Jazz Festival.  
+
+-: Forum for the Evolution of Progressive Arts (FEPA), tensions with the AACM.    
+
+421/422: Frustration with collective descision making.  
+
+422: AACM National Meeting of 1981.  
+
+423: New York/Chicago divide and tensions.  
+
+-: Proposal to move the AACM headquarters to New York.  
+
+424: The Ethnic Herritage Ensemble.  
+
+## Chapter 11: Into the Third Decade  
+
+439: The passing of John Shenoy Jackson.  
+
+440: Growth in both New York and Chicago.  
+
+441: Debates arund the borders between classical music and jazz in the US and classical-jazz fusion.  
+
+442: Jazz and Lincoln Center (JALC) and the construction of a jazz canon.  
+
+443: "Original music" being taken to mean a lack of respect.  
+
+444: The resources and conservatism of Wynton Marsalis.  
+
+446: The Lincoln Center's quite approval of European experimental music.  
+
+447: Aesthetic pluraism outside of New York.  
+
+448: The Bird House.  
+
+-: AACM Afrodiasporadic canon.  
+
+449: Embrace of the term "Great Black Music."  
+
+-: Black Rock Coalition (BRC.)  
+
+450: The racial politics of the therm Great Black Music.  
+
+-: Music as public property.  
