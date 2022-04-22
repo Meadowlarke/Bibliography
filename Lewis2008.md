@@ -944,3 +944,33 @@ xxiv:
 488: Death of Malachi Favors.  
 
 489: Death of Vandy Harris.  
+
+492: Death of Ameen Muhammed.  
+
+494: Death of Leroy Jenkins.  
+
+## Afterword  
+
+497: Narrative.  
+
+499: The book. 
+
+500: White people.  
+
+502: Universality and fear of integration.  
+
+503: The new generation.  
+
+504: Is it jazz.  
+
+505: Lack of property ownership.  
+
+-: Collectivity vs individuality and resources.  
+
+507: The survival of the organization.  
+
+508: Dowtown II.  
+
+511: Atmospheres.  
+
+513: Futures and the immortality of the organization.  
