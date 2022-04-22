@@ -920,3 +920,27 @@ xxiv:
 450: The racial politics of the therm Great Black Music.  
 
 -: Music as public property.  
+
+## Chapter 12: Transition and Reflections  
+
+481: The passing of a number of AACM musicians.  
+
+483: Bodies and tradition.  
+
+#Z: All musical traditions are based on creating the conditions to under which new bodies can be consecrated according to the tradition.  
+
+484: Muhal Richard Abrams solo music at the 40th anniversary celebration of the AACM.  
+
+485: Anniversary celebration by the Great Black Music ensemble.  
+
+486: The black church.  
+
+-: COGIC.  
+
+487: Witnessing.  
+
+487/488: Favors on the church communal spirit as African.
+
+488: Death of Malachi Favors.  
+
+489: Death of Vandy Harris.  
