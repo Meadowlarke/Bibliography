@@ -927,8 +927,6 @@ xxiv:
 
 483: Bodies and tradition.  
 
-#Z: All musical traditions are based on creating the conditions to under which new bodies can be consecrated according to the tradition.  
-
 484: Muhal Richard Abrams solo music at the 40th anniversary celebration of the AACM.  
 
 485: Anniversary celebration by the Great Black Music ensemble.  
