@@ -19,3 +19,37 @@ Plates.
 31: Exaggerations.  
 
 -: Androids.  
+
+32: Combination with jewelry.  
+
+34: Pharmacy fountain.  
+
+35: Sound production.  
+
+-: Hydraulic organ.  
+
+36: Jacques Vaucanson.   
+
+37: Vaucanson's life sized musical androids.    
+
+-: Swimming, eating, and excreting mechanical duck.  
+
+-: Invention of the rubber tube.  
+
+38: Vaucanson's more practical inventions.  
+
+#Z: The Jacquard device was erroneously attributed to Jacquard, and was actually the invention of Jacques Vaucanson, who is most famous for his mechanical automata.  
+
+-: Speaking heads.  
+
+-: Mechanical writers.  
+
+39: The automata of Pierre Jacquet-Droz and son.  
+
+40: Tiny singing birds in snuff boxes.  
+
+-: Hemholtz's approval.  
+
+41: Lasting applications of the technology.  
+
+-: Cybernetics.  
