@@ -38,8 +38,6 @@ Plates.
 
 38: Vaucanson's more practical inventions.  
 
-#Z: The Jacquard device was erroneously attributed to Jacquard, and was actually the invention of Jacques Vaucanson, who is most famous for his mechanical automata.  
-
 -: Speaking heads.  
 
 -: Mechanical writers.  

@@ -10,19 +10,14 @@
 
 59: Constituting the phrase 'free improvisation" in the current study.o
 
-#Z: Banerji takes free improvisation to mean a set of routines of communication specific to a given subculture which enables a collective illusion that the performers are unbounded and "free."  
 
 -: Other habits of freedom.  
 
 60: The vagueness of "whiteness."  
 
-#Z: White privilege is the power to act without constraint and to have a position from which one can constrain the possibilities of others.  
-
 -: Interactions with Maxine, an improvising computer.  
 
 61: The design of Maxine.
-
-#Z: Banerji describes his improvising computer Maxine as an "algorithmic ethnographic depiction of free improvisation."  
 
 -: "Joel's" interaction with Maxine.  
 
@@ -33,8 +28,6 @@
 65: Whiteness as postracial (to Joel.)
 
 66: Whiteness as metaracial position that seeks freedom from race.  
-
-#Z: Whiteness, while superficially a phenotypical distinction, is in fact a metaracial position which seeks freedom from race itself. That is, it seeks a "colorblind" or "postracial" reality and positionality.  
 
 -: "Sound stuff," abstract sound, new music, whiteness.  
 
@@ -56,7 +49,6 @@
 
 73: The racism implicit in this action; nonwhites upholding white supremacy.   
 
-#Z: Being non-white does not prevent one from upholding whiteness and white supremacy, especially given that the ascent of non-whites through these systems is integral to their success as support for ideas of racelessness. 
 
 74: Improvisation as integral to white privilege.  
 

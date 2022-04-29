@@ -1,4 +1,4 @@
-# Buhler, James. *Theories of The Soundtrack. Oxford, Oxford University Press, 2019.  
+# Buhler, James. *Theories of The Soundtrack.* Oxford, Oxford University Press, 2019.  
 
 ## 1: Introduction.  
 
@@ -58,8 +58,6 @@
 
 15: Music.  
 
-#Z: In film, music can express the hiiden worlds of emotion and psychology that the image alone cannot.  
-
 ### This Volume.  
 
 16: Overview of the book and its theory of film.  
@@ -77,10 +75,6 @@
 -: Gilbent Seldes.  
 
 24: Perceptual realism.  
-
-#Z: American custural critic Gilbert Seldes argued against the tread of perceptual realism in film, suggesting that rather than have the movie camera compromise its mobility for the stationary micrphone, the technological differences between the two instruments could be put into aesthetic play. In trying to capture the voice and represent it with memetic synchronization filmmakers arrived not at a new art form but instead at a combination of movie and gramaphone. 
-
-#Z: Perceptual realism is a doctrine that the recording technology should mimic should mimic hman perception.  
 
 25: Overview of the chapter.  
 
@@ -119,7 +113,6 @@
 34: Balázs's advacation for an asynchronus treatment of sound.  
 
 35: Balázs on silent film and the equality of humans and objects.  
-#Z: Hungarian critic, librettist, screenwriter, and director Béla Balázs wrote that silent film created an equality between humans and objects, as they all shared the quality of silence, enhancing the significanco and vitality of the object.    
 
 -: Balázs on dialogue.  
 
@@ -130,8 +123,6 @@
 37: Balázs's use of the reaction shot.  
 
 38: The power and dissonance of asynchronus sound.  
-
-#Z:The power of asynchronus sound is its dissonance. This makes it as powerful as it is perilous.  
 
 -: Sound and space.  
 
@@ -155,8 +146,6 @@
 45: Sound film, art, and reality.  
 
 46: Arnheim on the indexicality of sound film.  
-
-#Z: (Self) I wonder if the reverberant voice-over can be thought of as a kind of asynchronus sound whose indexicality is being shifted away from the on-screen action by the reverb, which implies a different space?
 
 -: Music and Voiceover.  
 
@@ -296,13 +285,7 @@
 
 -: Speech, music, and effects.  
 
-#Z: Roger Manvell and John Huntley break the soundtrack into speech, music and effects, and then further devide each into stylized or realistic.  
-
-#Z: Manvell and Huntley break sound effects down along the stylized or realistic dichotomy into "spot" and "library," spot sounds being recorded on the set and library sounds added later.  
-
 83: More dichotomies and the author's commentary.  
-
-#Z: Manvell and Huntley's dichotomies are more based in production than function or aesthetics.  
 
 ### On the Difference between Realistic and Nonrealistic Music  
 
@@ -321,8 +304,6 @@
 88: Semiotics, music, and film.  
 
 ### Jean Mitry and Language and Rhythm  
-
-#Z: Mitry sets up an analog of continuity editing to harmony and intensied continuity to chromatic harmony (A term from Bordwell.) (need page no.)  
 
 89: Introduction to Jean Mitry.  
 
@@ -362,10 +343,6 @@
 
 ### Gilles Deleuze and the Movement-Image  
 
-#Z: Prception, affection impulse, action, reflection, relation:
-    Point of view, close up, fragment, subjects in the film taking action, images that interpret other images, interrets other images:
-    Point of audition, background music, sound effects, voice/dialogue, ?, musical performance. 
-
 102: Introduction to Deleuze.  
 
 103: Summary of Deleuze's thoughts on film image, music, and semiotics.   
@@ -388,11 +365,7 @@
 
 109: Large action form and its laws.   
 
-#Z: The Deleuzian "large action form" of cinema follows the formal structure S-A-S': situation, action, modified situation.  
-
 112: Small action form.  
-
-#Z: The Deleuzian "small action form" of cinema follows the formal structure A-S-A': action, situation, modified action.  
 
 113: The one law of the small form.  
 
@@ -447,8 +420,6 @@
 -: Introduction to Kalinak.  
 
 128: Kalinak forgrouding music in film.  
-
-#Z: Whereas other film theorists have brackgrouded muisc, for example neoformalists reading it as "modifying" the film image, Kalinak views music as part of the process that creates narrative.  
 
 129: Kalinak's "working model" of film music and analysis of *Captain Blood.*  
 
@@ -516,8 +487,6 @@
 
 152: Semiotics and Russian narrative theory.  
 
-#Z: Narrative theory differentiates between the time of the story and the time of narration. In this framework, narrative, *synzhet,* is an interpretive act, story has the appearance of truth, and the narrator can decide what is their relationship to the story.  The story, *fabula,* is the events in chronological order while the plot is the order and style of the narration.   
-
 153: Narration and distances in time.  
 
 154: The importance of montage in film narrative.  
@@ -539,8 +508,6 @@
 159: Gorbman's principles.  
 
 160: Gorbman's diagetic nondiagetic binary.  
-
-#Z: Claudia Gorbman invented the distinction between diegtig and nondiagetic film sound.  
 
 161: Metadiagetic.  
 

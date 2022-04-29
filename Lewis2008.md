@@ -116,8 +116,6 @@ xxiv:
 
 -: Refuting Bane's assumptions about black separatism.  
 
-#Z: An artistic conundrum faced black artists in NYC in the 1960s: While investments into the artistic freedom of white artists were bing made, the only options for black artists were complete Europeanization or a narrow, romanticized "Africanization." For this reason, a number of black artists left the Greenwich Village and other white-dominated scenes.
-
 34: The white avant-garde and its social and political hostility to black artists.  
 
 -: *Source: Music of the Avant Garde* interviews.  
@@ -147,8 +145,6 @@ xxiv:
 43: Anger.  
 
 44: Criticism of the music as noise.  
-
-#Z: Criticism of experimental jazz music as "just noise" is a holdover from antebellum America, where slave owners were oblivious to the meaning and structure of the music and the culture and memories which it expresses.  
 
 45: The Blindfold Test in *Downbeat.*  
 
@@ -262,8 +258,6 @@ xxiv:
 85: The 1960s and the disappearance of the South Side club scene.  
 
 86: Reasons for the demise.  
-
-#Z: Some theorists have argued that the South Side Chicago club scene collapsed because of tastes changing back to more danceable music, citing record sale figures. Lewis argues that a more complete answer can be found in the context of the larger urban and social disinvestment in Black neighborhoods in the 50s and 60s.  
 
 87: Government funded "youth gangs."  
 
