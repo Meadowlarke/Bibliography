@@ -8,8 +8,6 @@
 
 605: Thee uncanny.  
 
-#Z: Ernst Jentsch says that the one of the most central and consistent causes of the feeling of the uncanny is the doubt that something which is apparently living is animate, or conversely, the suspicion that an apparently lifeless object is in fact animate.  
-
 606: The instrument versus the automaton.  
 
 -: The uncanny in the merging of player and instrument.  
