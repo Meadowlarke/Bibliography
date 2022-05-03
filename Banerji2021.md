@@ -1,4 +1,4 @@
-# Banerji, Ritwik. "Whiteness as Improvisation, Nonwhitness as Machine." *Jazz and Culture* 4, no. 2 (2021): 56-84.  
+# Banerji, Ritwik. "Whiteness as Improvisation, Nonwhiteness as Machine." *Jazz and Culture* 4, no. 2 (2021): 56-84.  
 
 56: Jazz vs improvisation and its racial politics.  
 
