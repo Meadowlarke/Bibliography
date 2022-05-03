@@ -66,5 +66,33 @@
 
 98/99: "P-Funk (Wants to Get Funked Up)"
 
+100: "Heyperfunk."  
+
+-: Kool Keith.  
+
+101: Dr. Octagon's Afrofuturism.  
+
+#Z: The Afrofuturism of Kool Keith and his alter ego Dr. Octagon collapse, in an act of anti-anti-essentialism and the "Robot Voodoo Power" thesis, futuristic white myths upon primitivistic Black ones in order to critique both stereotyped images and the media which present them---Despite its seeming inanity and playfulness.     
+
+101/102: *Black Elvis/Lost in Space.*  
+
+102: Critiques of power.  
+
+103: "Blue Flowers" and the lineage of Black entertainers.  
+
+104: Conclusion.  
+
+#Z: In the context of Kool Keith and Dr. Octagon, Rollefson finds the Afrofuturist in his "Robot Voodoo Power" and the way that it collapses Black superstition and white science fiction onto eachother to reflect the irrationality of each of these visions back onto the universalist and rationalized society which created them and to challenge this society. 
+
+105: Gnarls Barkley.  
+
+-: Fred Moten and the "break."  
+
+106: Commodities speaking, his aunt Hester's scream.  
+
+107: The new emancipatory potential of Afrofuturism.  
+
+#Z: The ultimate goal of Afrofuturism is the formulation of a "new emancipatory potential" which, through anti-ant-essentialism, breaks from the past and the future provided by Black primitivism, essentialism, and ethno-nationaism, or white universality, science fiction, and liberalism. Afrofuturism seeks a place where the polarized visions of racial strife or a race free world [see whiteness] no longer makes sense.   
+
 
 
