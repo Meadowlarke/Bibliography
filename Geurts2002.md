@@ -1,6 +1,6 @@
-### Geurts, Kathryn Linn. 2003. “Is There a Sixth Sense?” _In Culture and the Senses: Bodily Ways of Knowing in an African Community_, 3–19. Berkeley: University of California Press.
+### Geurts, Kathryn Linn.  *Culture and the Senses: Bodily Ways of Knowing in an African Community.* Berkeley: University of California Press, 2002.
 
-#### Chapter 1
+#### Chapter 1: Is there a Sixth Sense?
 
 **In this chapter, Geurts analyses the way that different cultures classify the sensorium, focusing mostly on mainstream American culture and the Anlo-Ewe-speaking people of West Africa. She argues that the a culture's sensorium, or "senory order," is not just what it means to be human, but what makes us human. (2-3) Additionally, she argues that the West's classical "five senses" are essentially a folk model.**
 

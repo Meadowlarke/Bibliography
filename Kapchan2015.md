@@ -1,4 +1,4 @@
-### Kapchan, Deborah. "Body" in _Keywords in Sound,_ edited by David Novak and Matt Sakakeeny, 33-43. Durham: Duke University Press Books, 2015. [PDF](file:///home/harlan/Downloads/School%20Downloads/MuiscandBody/Week1/Kapchan_soundbodyinkeywords%20copy.pdf)
+### Kapchan, Deborah. "Body" in _Keywords in Sound,_ edited by David Novak and Matt Sakakeeny, 33-43. Durham: Duke University Press Books, 2015. 
 
 >**In this chapter, Kapchan use the case study of Sufi 'sama to define the "sound body"---her concept through which she analyzes the way that "the body" listens to, is affected by, and affects the sonic environment.**
 
