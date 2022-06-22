@@ -12,8 +12,6 @@ xi: Why she is writing this book.
 
 3: Deciding what to wear.  
 
-#: Glennie likes to announce the performance program herself, so that "the audience have an immediate sense of who I am."  
-
 ## Chapter 2: Family life  
 
 6: Biographical details, birth.  
@@ -24,9 +22,7 @@ xi: Why she is writing this book.
 
 9: Brothers.  
 
-10: 
-
-#Z: Glennie uses the telephone to call her mother. She tells her what time she is going to ring, dials, and then starts talking. Her mother on the other side of the line taps the phone with a pencil to tell Evelyn that she is still there and listening. 
+10: Calling home.  
 
 ## Chapter 3: Hillhead of Ardo  
 
@@ -93,8 +89,6 @@ xi: Why she is writing this book.
 55: Playing at the music festival in Autun, France.   
 
 59: Disatisfaction with the press highlighting her deafness.  
-
-#Z: Evelyn Glennie does not like to have her deafness highlighted in her concert reviews or news coverage. Preferring to have her music judged with no mention of her disability. She hedges that "The only good thing about it, I sometimes think rather despondently, was that the news of my success might have encouraged other deaf and handicapped people."
 
 ## Chapter 11: A cry from the heart  
 
@@ -205,8 +199,6 @@ xi: Why she is writing this book.
 159: Carnaval costume.  
 
 160: The performance.  
-
-#Z: Gelnnie brownfaced herself for a Carnaval performance with a samba school in Brazil. She did this performance as part of her film *Carnaval.*  
 
 ## Chapter 23: Rhythm song  
 
