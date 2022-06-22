@@ -172,3 +172,50 @@ xi: Why she is writing this book.
 
 ## Chapter 18: Testing my wings  
 
+125: Radio 4 documentary *The Glennie Determination* and a guest appearance on *Wogan.*  
+
+130: Performance with Eden and Tamir.  
+
+133: *Good Vibrations* short documentary.  
+
+## Chapter 19: The Glennie determination  
+
+134: Japan.  
+
+136: Lessons with Keiko Abe.  
+
+## Chapter 20: A little sun, a little rain  
+
+142: Breakup with partner, new manager.  
+
+143: Lots more performances.  
+
+## Chapter 21: Musical milestones  
+
+149: Finding success as a solo percussionist.  
+
+-: Fashion.  
+
+152: Playing in prisions.  
+
+## Chapter 22: Carnaval  
+
+156: Making a film in Brazil.  
+
+159: Carnaval costume.  
+
+160: The performance.  
+
+#Z: Gelnnie brownfaced herself for a Carnaval performance with a samba school in Brazil. She did this performance as part of her film *Carnaval.*  
+
+## Chapter 23: Rhythm song  
+
+163: Recording of first solo album, *Rhythm Song.*  
+
+168: Festivals.  
+
+170: Scottswoman of the decade.  
+
+## Chapter 24: Good Vibrations  
+
+171: Conclusion, looking forward, giving thanks.  
