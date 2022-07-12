@@ -1,6 +1,7 @@
 # Ceraso, Steph. "(Re)Educating the Senses: Multimodal Listening, Bodily Learning, and the Composition of Sonic Experiences." *College English* 77, no. 2 (2014): 102-123.
 
 102: Listening as multi-sensory. 
+
 -: The common mistake of teaching sound as a text.  
 
 103: Teaching listening as a full-bodied, "multimodal," act.  
