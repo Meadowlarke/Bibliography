@@ -108,4 +108,32 @@
 
 86: Humans as political animals.  
 
-#Z: Christopher Bohem, and evolutionary anthropologist, argues that while humans have an instinctual tendency to engage in dominant-submissive behavior---something inherited from our simian ancestors---
+#Z: Christopher Bohem, and evolutionary anthropologist, argues that while humans have an instinctual tendency to engage in dominant-submissive behavior---something inherited from our simian ancestors---what makes our societies distinctly human is our ability to chose not to act that way.  
+
+87: Hunter-gatherer burials.  
+
+89: Monumental architecture.  
+
+-: Göbekle Tepe.  
+
+93: Harari's complacency with the myth of the "stupid savage."  
+
+94: Human thought as dialogic, Western philosophy as strange individualistic development.  
+
+#Z: Human thought is inherently dialogic. We spend the majority of our time effectively on autopilot, and neuroscientists tell us that the "window of consciousness" during which we can hold a thought or work out a problem tends be be about 7 seconds on average. However, this is much longer when we are engaged in conversation, in which we can consider the same problem for hours on end. This is why we often try to figure something out for ourselves by imagining we are explaining it to somebody else. We are only fully self concious and self-aware when debating with another. Western philosophy, oddly, started to take the fully rational and self-concious individual as the norm rather than a rare exception at around the same time that it abandoned dialogue as a typical mode of writing.   
+
+97: Paul Rain and eccentricity among the Neur.  
+
+98: Claude Lévi-Strauss.  
+
+99: The chiefs of the Nambikwara.  
+
+101: "Behavioural ecology" and Rousseaueanism.  
+
+102: Explaining lavish burials without social stratification.  
+
+104: Patterns of seasonal congregation for festive labor.  
+
+107: Mauss and Beuchat on the seasonal variations of Inuit social organization.  
+
+#Z: 108: In Franz Boas's work studying the Kwakiutl of Canada's Northwest Coast, he found that hierarchical forms of organization arose in the winter, when wooden palaces were erected and hereditary leaders ruled. In the summer people returned to smaller clan formations and adopted different names, becoming different people in the summer or the winter.  
