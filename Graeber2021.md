@@ -137,3 +137,51 @@
 107: Mauss and Beuchat on the seasonal variations of Inuit social organization.  
 
 #Z: 108: In Franz Boas's work studying the Kwakiutl of Canada's Northwest Coast, he found that hierarchical forms of organization arose in the winter, when wooden palaces were erected and hereditary leaders ruled. In the summer people returned to smaller clan formations and adopted different names, becoming different people in the summer or the winter.  
+
+108: Plains Indians.  
+
+112: Pierre Clastres and chiefs.  
+
+114: Clastres leaving out seasonality.  
+
+115: Losing our political self-consciousness.  
+
+#Z: For most of human history, our ancestors moved regularly between different social arrangements. They created and dismantled hierarchies on a regular basis. One may ask "what are the origins of social inequality," but the real question is "how did we get stuck?" How did we get stuck in a world where hierarchy, dominance, and subservience are seen not as temporary theatre or temporary expediences for a certain task, but instead as inescapable elements of human life and human nature? How have we lost the political self-consciousness which was once so typical to our species and so central to what makes us human? 
+
+116: Festivals of medieval Europe.  
+
+## Chapter 4: Free People, the Origin of Cultures, and the Advent of Private Property  
+
+121: The importance of the ethnographic record.  
+
+#Z: When looking to modern-day indigenous people to help understand the ancient past, it is important not to see them as themselves windows to the past, frozen in time for millennia, but rather to show us possibilities we never could have thought of otherwise, to show that people are actually capable of enacting such possibilities, and that human beings are actually far more interesting than other human beings often imagine. 
+
+122: The lack of discrete bounded societies.  
+
+#Z: Long distance organization is a common enough element of modern indigenous life. A North American 500 years ago could travel from the Great Lakes down to the Louisiana bayous and find members of their own Bear, Elk, or other clan which would be obliged to host and feed them despite speaking languages entirely unrelated to their own. Aboriginal Australians could travel across the continent, among people speaking entirely different languages and still find camps divided into the same totemic moieties that existed at home.  
+
+123: Diminishing number of people travelling. 
+
+#Z: It is difficult to reconstruct how these forms of long-distance organization operated just a few centuries ago, so it is even harder to guess at how it worked 40,000 years ago. However, the striking uniformities of material culture observed by archaeologists across long distances suggest that their societies spanned continents.
+
+#Z: It seems self-evident that advances in technology make the world a smaller, more easily traveled place. This is true in a purely physical sense, and the domestication of the horse and improvements in seafaring obviously made it easier for people to move around. However, increases in population size have actually meant that fewer and fewer people travel. With the passage of time, the scale of social relations does not get bigger, it actually gets smaller. 
+
+-: The beginnings of cuisine.  
+
+125: The beginnings of domination.  
+
+#Z: It is likely that the hardening and multiplication of cultural boundaries starting around 12,000 BC reduced cultural porosity and the ability to reconstruct and re-imagine society.  
+
+126: Defining egalitarian society.  
+
+127: Surplus and hierarchy.  
+
+128: James Woodburn.  
+
+131: Evans-Pritchard and Nuer hierarchy.  
+
+132: Nuer marriage and sexual freedom.  
+
+133: European emphasis on work.  
+
+135: Marshall Sahlins "The Original Affluent Society."  
