@@ -185,3 +185,53 @@
 133: European emphasis on work.  
 
 135: Marshall Sahlins "The Original Affluent Society."  
+
+136: Abundance.  
+
+#Z: Abundance is the situation where one has easy access to everything that they feel they need in order to live a happy and comfortable life. It is not an absolute measure.   
+
+:- Increases in working hours.  
+
+137: Sahlins's data.  
+
+138: Sahlins on foragers.  
+
+#Z: Foraging societies tend to be well aware of the growing cycles of food plants, and consciously choose not to engage in agriculture.  
+
+140: The lack of an "original" way of living.  
+
+141: Poverty point.  
+
+142: 3500 BC: Cities emerge in Eurasia and America.  
+
+#Z: Cities emerged in Eurasia and the Americas at around the same time, roughly 3500 BC.  
+
+-: Material wealth without trade at poverty point.  
+
+145: John E. Clark and the standardized measurement and sacred geometry of pre-Colombian earthworks.  
+
+145: Jōmon in Japan.   
+
+146: Similar monuments in Europe.  
+
+148: How the myth of the infantile simplicity of foraging life is kept alive.  
+
+149: The "Agricultural Argument" and the genocide of indigenous peoples.  
+
+150: Indigenous land management.  
+
+-: Different conceptions of property.  
+
+151: The Calusa in Florida and domination without agriculture.  
+
+152: "Informal fallacy" circular argument.  
+
+153: The "savage slot."  
+
+-: Arguments of geographic "atypicality."  
+
+155: Eurasian crossings to "The New World" 17,000 years ago by boat. 
+
+#Z: It was long thought that humans first arrived to the Americas from Eurasia by the Beringia land bridge some 13,000 years ago. Newer archaeological evidence shows that people traveled in boats along the pacific rim to the coast of Chile by boat 17,000 years ago. There is also evidence of eastward crossings. We only know this now as underwater excavation has become more possible, as rising sea levels submerged these records long ago.    
+
+156: The Natchez and the Natchez Sun (monarch).  
