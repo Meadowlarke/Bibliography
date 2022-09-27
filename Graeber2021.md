@@ -235,3 +235,15 @@
 #Z: It was long thought that humans first arrived to the Americas from Eurasia by the Beringia land bridge some 13,000 years ago. Newer archaeological evidence shows that people traveled in boats along the pacific rim to the coast of Chile by boat 17,000 years ago. There is also evidence of eastward crossings. We only know this now as underwater excavation has become more possible, as rising sea levels submerged these records long ago.    
 
 156: The Natchez and the Natchez Sun (monarch).  
+
+157: Sacred places and the formation of private property.   
+
+159:
+
+#Z: Private property is a form of sacred "tabu" where an object can not be touched except by those initiated as the owner. Graeber and Wengrow trace the origins of private property, hierarchy, and domination directly to the sacred.  
+
+160: Examples of sacred property in Native American societies.  
+
+161: Roman property laws.  
+
+## Chapter 5: Many Seasons Ago
