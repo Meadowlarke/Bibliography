@@ -247,3 +247,69 @@
 161: Roman property laws.  
 
 ## Chapter 5: Many Seasons Ago
+
+164: Heterogenaity among Indigenous American food production and social orgaization.  
+
+165: The anti-agrcultural natue of Indigenous California. 
+
+#Z: The Indigenous people of California have been used by archaeologists as a model for what the prehistorical inhabitants of the Fertie Cresent might have lived like before domesticating wheat and barley 10,000 years ago. However, Indigenous Californians would have obviously noticed their southwestern neighbors cultivation of food crops such as maize. The indigenous people of California were not pre-agricultural, but rather, anti-agricultural. 
+
+166: Finding reason for cultural diffeerentiation in schismogenisis.  
+
+167: Finding reason for differentiation in cultural drift.  
+
+168: Language families and lack of correlation with culture.  
+
+#: In the Americas, there was little correlation between culture and language families. Groups living near eachotherm but speaking completely different languages would often have much more in common than distant groups which spoke languages of closer linguistic lineage.   
+
+170: Debunking the idea of "cultural areas."  
+
+171: Franz Boas's work on "cultural areas."  
+
+172: Cataloging games and cultural trait clusters.  
+
+173: Marcel Mauss on the notion of "cultural areas."  
+
+174: Mauss on the resistance to adoption of neighboring culture.   
+
+177: Ownership of slaves by some Californian groups.   
+
+-: The use of money by the Yurok.  
+
+#Z: European settlers projected their own category of "money" onto many Indigenous American objects which looked like money, but were not. For example, *wampum,* which was eventually used as a currency in the American Northeast by settlers and was considered legal tender in the shops of New York and Massachusetts, was almost never used by Indigenous people to by or sell anything, but instead to pay fines and as a way of forming and remembering compacts and agreements. Something used a lot like Euopean money did exist among the northwestern Calnifornians, however.   
+
+178: Max Weber.  
+
+#Z: Capitalism, as Weber deifned it, is a moral imperitive to turn your money into an engine for creating even more wealth. Wealthy merchants existed almost everywhere, certainly in China, India, and the Islamic world. However, in these places, one would eventually use their money to enjoy life, or come under the moral pressure of their community to spend their wealth on public or religious works, or popular festivals. The first capitalist, then, would have had to defy all social expectations and be hated by all of their neighbors. Weber argues that it took a Puritanical strain of Christianity, like Calvinism, to make cultural space for Capitalism to catch on. Not only did Puritans believe that basically anything they could spend their money on was sinful, they had each other as a moral community whose support would allow them to endure the the hostility of their neighbors.  
+
+179: Private property among the Yurok.  
+ 
+181: The puritanical culture of Yurok men.  
+
+182: Northest Coast societes and the *potlach.*  
+
+184: Differences in ritual redistrobution, Californian versus Northwestern.  
+
+185: Slaves on the Northwest Coast.  
+
+187: Defining slavery.   
+
+188: The diversity of Amerinidan so-called "capturing societies."  
+
+#Z: Slavery in certain contexts, perticulalry those of the Indgenous Americas, can be seen as the theft of the years of caring labor that it took to produce a work-capable human.  
+
+189: Amerindian slavery, more descriptions.  
+
+#Z: In Amazonian slave capturing, captives would ungo social death though the severing of all their ties with their former group ad would be re-socialized as Amazonain. If the socialization was completed they would no longer be slaves. However, there were some captives kept permanently in social death before they were sacrificed and sometimes eaten.  
+
+191: Violence trasformed into care, the origin of domination.  
+
+#Z: Most of the names traditionally applied to Inidgenous American populations by Europeans are derogatory terms used by neighboring populations. For example "Eskimo" means "people who don't cook their fish" and "Iriquois" comes from an Algonkian term meaning "viscious killer."   
+
+192: "The Story of the Wogies."  
+
+194: "Optimal foraging theory."  
+
+197: Debunking some optimal foraging theory ideas.  
+
+198: The Northwest, fish gathering, and the perrenial shortage of *contrallable* labor.  
