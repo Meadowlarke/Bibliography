@@ -313,3 +313,27 @@
 197: Debunking some optimal foraging theory ideas.  
 
 198: The Northwest, fish gathering, and the perrenial shortage of *contrallable* labor.  
+
+199: Slavery in the Pacific "Shatter Zone."  
+
+200: Differences in ideas of the virtue of labor between the Yurok and Northwestern peoples.  
+
+#Z: Yurok victors in battle were required to pay restitution for each life taken at the same rate they would pay if they were guilty of murder. This made inter-group rading fiscally pointless. Millitary advantage was a liability to the winning side. 
+
+203: Rejection of slavery by Californians.  
+
+205: Rejecting environmental determinism and the determinism of structuralism.  
+
+#Z: Graeber and Wengrow make a beautiful criticism of structuralism in *The Dawn of Everything* where they point out that it is an ultimately completely deterministic philosophy. We will endlessly repeat the patterns of behavior handed to us by society: "Language speaks us." There is no explanation for why any culture is the way it is, any more than there is a reason why Chinese is a tonal language and Finnish is an agglutinative one. Graeber and Wengrow prefer to see people in the past as full humans capable of political introspection.  
+
+208: Slavery as a fundamentally domestic institution.  
+
+-: Hierarchy and equality emerging together historically as compliments to one-another.  
+
+## Chapter 6: Gardens of Adonis
+
+210: Plato on the origins of farming.  
+
+-: Woman's fertility cult of Ancient Athens.  
+
+
