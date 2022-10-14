@@ -336,4 +336,41 @@
 
 -: Woman's fertility cult of Ancient Athens.  
 
+-: Gardens of Adonis.  
+
+211: Destabilizing ideas on the reasons for argiculture.  
+
+212: Çatahöyük.  
+
+213: Archeaologists's tendency to read any image of a woman as a fertility goddess, rather than a barbie doll.   
+
+214: "Primitive Martriarchy" as an academic no-go zone.  
+
+216: Marija Gimbutas, Lithuanian-American archaeologist.  
+
+-: Gimbutas's "Old Europe."  
+
+217: *Kurgan* cattle-keeping peoples.  
+
+-: Gimbutas's work being dragged through the mud.  
+
+218: New analyses of ancient DNA supporting Gimbutas's conclusions.  
+
+219: Defining matriarchy.  
+
+220: Female figurines of Çatahöyük.  
+
+221: The lack of portable depicitions of male forms at Çatahöyük.  
+
+-: Households and millenia-long household routines at Çatahöyük.  
+
+222: Was Çatahöyük egalitarian?  
+
+-: Lack of depictions of agriculture, only depictions of hunting.  
+
+223: The seasonality of food procurement at Çatahöyük.  
+
+224: Seasonal variations of social structure.  
+
+225: Defining and unpacking the "Fertile Crescent."  
 
