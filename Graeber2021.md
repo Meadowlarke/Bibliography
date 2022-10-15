@@ -374,3 +374,47 @@
 
 225: Defining and unpacking the "Fertile Crescent."  
 
+226: Trade between the upland and lowland fertile crescents.  
+
+229: Domestication.  
+
+231: Wheat and barley. 
+
+232: Experiments with wild wheat in the 1980s.  
+
+#Z: Under experimental conditions, it has been found that the genetic mutations leading to crop domestication can be achieved in as little as 20, and no more than 200 years, using simple harvesting techniques such as cutting or uprooting.  
+
+#Z: Humans first cultivated wild grasses not for grains, but for straw. Changes to the nature of the grain were likely a byproduct of harvesting methods which created straw from grass.  
+
+233/234: "Pre-domestication cultivation."  
+
+234: Avoiding domesticaiton.  
+
+#Z: The cultivation of wild cereals dates back to at least 10,000 BC, but domestication was not completed until about 7,000 BC. That is 3,000 years to complete a process that we know could have been done in 20--200 years. This implies that humans purposely avoided serious cultivation of grains and the added work that domesticated cultivars would have required---work that would have gotten in the way of hunting, marriages, masquerades, story telling, travelling, or any number other things we know early neolithic people were engaged in. What we call the "Agricultural Revolution" was a period of human history in its own right, barely a revolution at all, where people flirted and experimented with various levels of plant cultivation. . 
+
+235: "Flood retreat" cultivation, lack of icentive for private property.  
+
+237: The erasure of the contributions of women to plant-based knowledge.  
+
+238: Problematizing the term "agriculture."  
+
+239: Neolithic cultivation as laboratory.   
+
+#Z: Amazing quote from Graeber and Wengrow on neolitic scientists: "Part of the difficulty with studying scientific innovation in prehistory is that we have to imagine a world without laboratories; or rather, a world in which laboratories are potentially everywhere and anywhere."
+
+240: Lévi-Strauss on the "science of the concrete."  
+
+-: Mathematical notation in clay, clay as a model of relationships.   
+
+241: Populations in the upland crescent.   
+
+
+
+
+
+
+
+
+
+
+
