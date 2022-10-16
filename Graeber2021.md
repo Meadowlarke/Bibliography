@@ -408,6 +408,23 @@
 
 241: Populations in the upland crescent.   
 
+242: Göbekle Tepe, revisited.  
+
+-: Images of male wild animals and decapitated humans at Göbekle Tepe.  
+
+243: "House of Skulls."  
+
+244: Recap of neolithinc farming.  
+
+246: "Skull portraits."  
+
+247: David Clarke.  
+
+## Chapter 7: The Ecology of Freedom  
+
+250: Systems of periodic land redistrobution.  
+
+
 
 
 
