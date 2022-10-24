@@ -424,10 +424,106 @@
 
 250: Systems of periodic land redistrobution.  
 
+251: The old idea of "nuclear" zones of domestication (and links to the rise of centralized states.)  
 
+252: Newly identified centers of domestication.  
 
+254: The absurdity of asking when agriculture "reached" or "failed to reach" a region.  
 
+#Z: In the 500 years before the arrival of Spaniards to the American Southwest, the general trend was the gradual abadonment of farming---which they had been doing for thousands of years in some cases---for a foraging lifestyle. By the time the Spaniards first encountered the Pueblo people who had once dominated the region, they had dwindled to isolated groups of farmers surrounded by hunter-gatherers. During this 500-year period, new foraging techniques from eastern California were changing how people lived as far away as Utah and Wyoming.  
 
+254: Finding better vocabulary to describe the expansion of neolithic economies.   
+
+255: "Ecological corridors" (like those described by Jarred Diamond.)  
+
+256: Alfred W. Crosby: the "Colombian exchange" and "ecological imperialsim."     
+
+257: Why agriculture did not develop sooner.  
+
+-: Holocene.  
+
+258: Anthropocene.  
+
+#Z: There are no explanations for the Little Ice Age (1500-1600) for which natural occurences are the cause. One likely explanation is that European expansion into the Americas, which caused a fatality rate of 90% the indigenous population due to diesease and genocide, allowed for forest to relcaim areas of land where terraced agriculture and and irrigation had been in paractice for centures. In Mesoamerica, Amazonia, and the Andes, this may have been 50 million hectares of agricultural land which reverted to wilderness.   
+
+-: The holocene as a Golden Age for foragers as well as farmers.  
+
+259: The first farmers.  
+
+260: "Ecology of freedom."  
+
+#Z: "Bio diversity---not bio-power---was the intial key to the growth of Neolithic food prodution." This is to say that early Neolithic humans lived on an earth which was teaming with life, and the first farmers enaged with argiculture in a way that did not require that they spend all of their time farming or that they depended on it for survival. Instead they played at farming, planting seeds and altering the landscape to favor certain crops, in addition to a wide swath of other food production tectics such as mushroom collecting, hunting, foraging, fishing, etc. This was  lifestyle dependant on bio diversity, not the power of agricultre. 
+
+260: The failure of central Europe's first farmers in the loess plains.  
+
+263: Early Neolithic farming successes in the Nile Valley and Island Oceania.  
+
+264: Livestock hearding and material wealth in the Nile Valley.  
+
+265: "Lapita horizon" and diverse, succesful agriculture.   
+
+266: Obsidian and Polynesian tattoos. 
+
+267: Play farming in Amazonia.  
+
+-: Amazonian pet keeping.  
+
+#Z: It is often said that Amazonia has no indigenous animal domesticates, but many rainforest groups have a long and rich tradition of making pets of animals orphaned by hunting. These animals are fed a nutured into maturity, treated as individuals members of the community, and are treated as subjects of affection and sources of amusement much like children.   
+268: Amazonian "Master" or "Mistress of the animals," and the blury line between wild and domestic.  
+
+269: Arawok diplomacy and wide culutral area.  
+
+270: The lack of causality between agricultural and ancient Amazonian cultural efflorescence. 
+
+-: Soil enrichment in ancient Amazonia.  
+
+271: The similarity between New Wolrd and Old World Holocene developments in society and food production.  
+
+272: Why Linear Pottery Neolithic farming failed in the loess valley.    
+
+274: Summary of the history of the first farmers.  
+
+## Chapter 8: Imaginary Cities 
+
+276: Elias Canetti on imagining large groups of people.  
+
+277: Cities without centralized power.  
+
+279: Problematizing  Robin Dunbar, the source of "Dunbars Number"---the idea that you can only have 150 people in a group who really have trusting relationships.  
+
+-: The un-importance of biological kinship.  
+
+#Z: Many evolutionary models, including Robin Dunbar's famous "Dunbar's number" which stipulates that a goup of trusting relationships cannot exceed 150 members, assume that the the strongest social ties are based on biological kinship. This is a common assumption across all of social their. However, there is a major problem with this way of thinking, and that is that most people just don't like their families all that much. This seems to be the case consstently across history. Graeber and Wengrow, who have quite the wit and way with words, are quoted here in full: "There is an obvious objection to evolutionary models which assume that our strongest social ties are based on close biological kinship: many humans just don't like their families very much. And this appears to be just as true of present-day hunter-gatherers as anybody else. Many seems to find the prospect of living their entire lives surrounded by close relatives so unpleasant that they will travel very long distances just to get away from them. New work on the demography of modern hunter-gatherers---drawing statistical comparisons from a global sample of cases, randing from the Hadza in Tanzania to the Australian Martu---shows that residential groups tend not to be made up of biological kin at all; and the burgeoning field of human genomics is beginning to suggest a similar picture for ancient hunter-gatherers as well, all the way back to the Pleistocene."  
+
+280: Modern forager societies' existence at simultaneously small and giant scales.  
+
+281: Small groups, large societes, from the deep past to the present. 
+
+#Z: Foragers may live in small groups, but they do not, and likely have never, lived in small *societies.* They are no different than peole who live in, say, the modern US, have thier small group of 150-odd people who they associate with regularly, but feel some level of kinship with the hundreds of millions of people who make up the imaginary group of the American nation-state.    
+
+282: Ancient cities.  
+
+283: Lack of authoritarian rule in ancient cities.  
+
+#Z: Contemporary archeology shows that in neolithic cities, where populations numbered in the 10s of thousands, there were surprisingly few signs of authoritarian rule, and they are so extremely varried in form so as to imply conscious experimentation in urban design. These cities also show evidence of small-scale gardening and animal-keeping in addition to hunter-fisher-gathering and did not rely on peons doing back-breaking labor on the periphery of the city and hauling in huge loads of grain for urbanites who did not produce their own food.   
+
+284: The "early urban world."  
+
+285: Mesoamerican cities.  
+
+286: Teotihuacan.  
+
+-: Environmental changes which lead to the formation of cities.  
+
+287: Agriculture as a result of urbaniziation, not the other way around.  
+
+289: Ancient cities, "mega-sites" in Ukraine.  
+
+290: Happiness in cites.  
+
+#Z: Ursela Le Guin writes in her short story "The Ones Who Walk Away from Omelas," a city with no kings, wars, slaves, or secret police, that "we have a bad habit, encouraged by pedants and sophisticates, of considering happiness as somehting rather stupid."  
+
+291: Urban desing in Ukranian mega-sites.  
 
 
 
