@@ -525,7 +525,31 @@
 
 291: Urban desing in Ukranian mega-sites.  
 
+297: Mesopotamian demozracy.  
 
+313: Moheno-daro on the Indus.  
+
+-: Indus script.  
+
+315: Information lost in the cities' early 20th C. excavations.  
+
+316: Questions of scale and inequality.  
+
+-: Lack of objects for personal display in the upper citadel.  
+
+-: The great bath.  
+
+The Rig Veda and the first reference to caste in 1200 BC.  
+
+318: The problem with projecting caste onto Moheno-daro.  
+
+319: The default mode of history demanding proof of democracy, but not authority.   
+
+-: Buddhist *sanghas*.  
+
+#Z: Early Buddhist *sangas* required that all monks gather and reach unanimous decisions, only resorting to majority voting when consensus broke down. 
+
+320: caste with egalitarian government: Indonesian *sekas.* 
 
 
 
