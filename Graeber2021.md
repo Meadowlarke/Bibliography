@@ -551,7 +551,60 @@ The Rig Veda and the first reference to caste in 1200 BC.
 
 320: caste with egalitarian government: Indonesian *sekas.* 
 
+321: Large-scale agricultural management without empires.  
 
+322: Society based on equal xor unique individuals.  
 
+323: Prehistoric Chinese urban revolution.  
 
+324: Cities in the Chinese "Late Neolithic" or "Long shan."  
 
+## Chapter 9: Hiding the Plain Sight.  
+
+328: Tenochtitilan.  
+
+330: Lack of signs of kings of Teotihuacan.  
+
+332: Teotihuacan as utopian experiment in urban life.  
+
+333: Teotihuacan affiliated stranger-kings in the Maya lowlands.  
+
+337: Constructing a chronological sequence of Teotihuacan's development.  
+
+340: Monument building.  
+
+341: The turnaround in Teotihuacan's fate toward egalitariansim.  
+
+342: Stone-built public housing in Teotihuacan.  
+
+343: Descriptions of domestic life.  
+
+344: Possilbe forms of collective governance.  
+
+345: Tensions and the cities decline.  
+
+346: The Tlaxcala and their alliance with the Spanish against the Aztec.  
+
+347: Democracy at Tlaxcala.  
+
+348: How history has twisted the story of Cortez and the Aztecs.  
+
+350: Cervantes de Salazar.  
+
+352: Salazar's descriptions of Tlaxcalan life in his *Crónica.*  
+
+353: Deliberations amoung the Tlaxcala during the *conquista.*  
+
+354: Erasure of indigenous democracy by modern historians.  
+
+356: Motolinía's account of Tlaxcalteca modes of political training.  
+
+#Z: For much of European history, the truly democratic way of doing elections was assumed to be by lottery. 
+
+-: Tlaxcala appreciation of the hunter-gathering Chichimec as the orgins of democracy.  
+
+357: Locating the origns of the noble savage to the Tlaxcala accounts of the Chichimec.   
+
+#Z: In 1593 the citizens of Tlaxcaltexa put on a pagent of the Crusader *Conquest of Jerusalem* for their Spanish conquerors, the climax of which was the baptism of actual pagans, dressed up as Moors.  
+
+## Chapter 10: Why the State Has No Origin  
