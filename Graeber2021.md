@@ -608,3 +608,13 @@ The Rig Veda and the first reference to caste in 1200 BC.
 #Z: In 1593 the citizens of Tlaxcaltexa put on a pagent of the Crusader *Conquest of Jerusalem* for their Spanish conquerors, the climax of which was the baptism of actual pagans, dressed up as Moors.  
 
 ## Chapter 10: Why the State Has No Origin  
+
+359: Different attempts at, and the difficulty of, defining "the state."  
+
+#Z: Rudolf von Ihering defined the state in the late 19th century as any institution that claims a monopoly over the legitimate use of coercive force within a given territory. Graeber and Wengrow find that while this definition works for most modern states, it exlcudes many regeimes of power from the past that we would commonly consider states, such as Socrate's Athens, or England under the rule of William the Conquereor.   
+
+362: A thought experiment on what is needed in order to establish private property.  
+
+365: Control of violence, control of information, and individual charisma as the bases of social power.  
+
+367: How modern democracy fits in to this model.  
