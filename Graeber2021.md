@@ -618,3 +618,63 @@ The Rig Veda and the first reference to caste in 1200 BC.
 365: Control of violence, control of information, and individual charisma as the bases of social power.  
 
 367: How modern democracy fits in to this model.  
+
+368: The teleology of the modern study of the origin of the state. 
+
+370: "States" in pre-Columbian America.  
+
+372: Andean empires.  
+
+373: Incan monarchs.  
+
+#Z: Incan monarchs, *Sepa Inca*, were considered gods and thus could never really die. The bodies of former kings were mummified and continued to rule from beyond the grave, recieving regular offerings, and were wheeled out to public events and festivals. New rulers only inherited the old rulers army, not his courts, lands, or retainers. This lead to each new ruler being obligated to expand the Incan empire.  
+
+374: Sexual violence and the consolidation of power.  
+
+375: *Khipu.*  
+
+#Z: Empires are in fact ideal targets for conquest. The Aztec and Incan emipres were both organized by easily identifiable kings, surrounded by people who were used to taking orders. Those who, on the other hand, were inclined to shrug off power, were likely to do so precisly by joining the invading forces. If an empire is based on military force, it is relatively easy for a stronger military force to come in, dispatch the rulers, sieze control of the territory, and then take over the mechinisims of rule that were already there, and deliver orders to the subjects who are used to obedience. This kind of conquest is much harder in places without centralized power, for example the Maya speaking people of the Yucatan, where resistance to Spanish rule has spanned from an uprising in 1546 until the 1920s, and arguably to the Zapatistas who control large parts of Chiapas today.   
+
+376: The ease at conquring military empires.  
+
+-: The difficulty in conquering decentralized people.  
+
+377: The end of the Classical Myan political system.  
+
+379: Problemetizing the obsession with terms like "post," "proto," "intermediate," and "terminal" in history.  
+
+380: "Intermediate" periods of Egyptian history.  
+
+382:
+
+#Z: The three elementary forms of domination are violence, knowledge, and charisma.  
+
+383: The Olmecs.  
+
+384: Olmec heads.  
+
+385: Competitive sports as substitute for war.  
+
+386: "Theatre states."  
+
+387: Chavín in the Andes.  
+
+388: Art at Chavín.  
+
+-: Memory arts.  
+
+389: San Pedro cactus.  
+
+391: The Natchez and divine kingship.  
+
+393: The relative powerlessness of sovereignty without bureaucracy.  
+
+396: The Shilluk of South Sudan.  
+
+397: The *reth*, or king, of the Shilluk.  
+
+399: Ancient Egypt.  
+
+-: Mass killings as indicators of the formation of a state.  
+
+
