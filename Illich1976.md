@@ -165,3 +165,31 @@
 93: Diagnostic bias in favor of sickness; tonsilitis example.  
 
 94: Diagnostic inaccuracy.  
+
+97: The production of life expectancy as a commodity.  
+
+97: Terminal patients.  
+
+98: The power that doctors get from this situation.  
+
+100: Hospital death is now endemic.  
+
+101: The increasing costs of dying.  
+
+104: The cultural assumption that hospitalization will extend the life of the elderly.  
+
+-: Terminal cancer patients.  
+
+105: Increased death due to hospital "worship."  
+
+106: The inefficacy of cardiac inensive-care units.  
+
+107: Healing through ceremonies.  
+
+108: "Placebos."
+
+#Z: The term "placebo" was invented to distinguish the doctor's role as a magician from their role as an engineer, and to save them from being labeled a quack.  
+
+-: Religeous acceptance of suffering.  
+
+109: The gnostic world-view.  
