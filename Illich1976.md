@@ -193,3 +193,39 @@
 -: Religeous acceptance of suffering.  
 
 109: The gnostic world-view.  
+
+110: The ethical fucntion of medecine.  
+
+111: The monopolization of health care in to 20th C.
+
+#: Physicians of the 20th century were the first occupation to monopolize healthcare.  
+
+112: Tonsillectomy and the symbolic, non-technical roles of the modern doctor.  
+
+113: The medical spectacle of Dr. Christiaan Barnard's pulbic heart surgeries.  
+
+-: The use of life-extending equipment by Brazilian police in the torture of prisioners.  
+
+114: High-tech medicine becomming black magic.  
+
+-: Social iatrogenesis.  
+
+115: Moral degradation via biomedical treatment rather than social acceptance.  
+
+#Z: "Medical procedures multiply diesase by *moral degradation* when they isolate the sick in a professional environment rather than providing society with the motives and dsiciplines that increase social tolerance for the troubled." That is, social iatrogeneisis comes about from the isolation of the patient in a proessional environment where they are seperated from their own health and treated like organic machines to be cured though esoteric technological means, rather than by providing society with the tools to ease the suffering of those whose bodies diverge from our current perceptions of "health" and normalcy.  
+
+116: Medical miriacles.   
+
+-: The "medical fifedom" of over-diagnosis; deputization by police, teachers, etc. 
+
+#Z: When modern medicine labels more people sick than it can handle, it turns over the low-prestiege management of the ill to the lower authorities that are the police and teachers. While medicine diagnoses them, the task of "treating" them is left to these authorities. Medicine defines addiction, but it is the police who are supposed to know how it shold be controlled.  
+
+117: Non-medical theraputic fields: the multiplication of jobs which refelct the medical prestige.  
+
+-: Deviance, Western vs. non-western societies.  
+
+118: Disease is socially constructed.  
+
+#Z: Disease is socially constructed. Each civilization difines it's own diseases and its responses to them.  
+
+119: Parson's "sick role."  
