@@ -589,6 +589,8 @@ The Rig Veda and the first reference to caste in 1200 BC.
 
 348: How history has twisted the story of Cortez and the Aztecs.  
 
+#Z: Everything that you know about Cortez and the Aztecs is probably wrong. See Graeber and Wengrow. 
+
 350: Cervantes de Salazar.  
 
 352: Salazar's descriptions of Tlaxcalan life in his *Crónica.*  
@@ -676,5 +678,90 @@ The Rig Veda and the first reference to caste in 1200 BC.
 399: Ancient Egypt.  
 
 -: Mass killings as indicators of the formation of a state.  
+
+400: Trends in the sacrifice of the members of a kings court at his death.  
+
+-: Toombs at the Shang capital of Anyang.  
+
+402: Patrimonial systems.  
+
+403: The body as primary site of artistic care and attention in African Neolithic.  
+
+404: From nomadic livestock driving to petty kings.  
+
+405: From pettty kings to agrarian beaurocracy. 
+
+-: Ceremonially feeding ancestors.  
+
+407: Workers towns at Giza.  
+
+-: Work crews modeled on boat crews.  
+
+408: Caring labor vs mechanical labor.  
+
+-: More problems with calling Ancient Egypt a state.  
+
+#Z: Caring labor is about recognizing and understanding the unique qualities, needs, and peculiarites of what or who we are caring for, weather that is an adult, a child, a plant, an inanimate object. Caring labor is set apart from mechanical labor---which can be seen as its opposite---by its particularity.  
+
+409: "Sovereignty."  
+
+410: Maya *Ajawa* warriors channeling gods.  
+
+-: Mayan projection of Beuarocracy into the cosmos.  
+
+411: Differences between the Shang and the Inca and Egyptian kingdoms.  
+
+412: Shang divination.  
+
+-: Shang heroic society.  
+
+413: Second order regimes, (rather than "early states.") 
+
+#: Each of the three forms of domination has its own institutional forms: control of violence becomes sovereignty, control of knowledge becomes administration, and charismatic power becomes heroic politics.  
+
+#: What we often think of as early states, such as Ancient Egypt and Mesopotamia and the classical Maya, are better described as "second order regimes" which combined two of the three forms of domination in new and unprecedented ways. Compare these to the "first order regimes" of the Natchez, Olmec, or, Chavín, which only utilized one form of domination. In second order regimes, the third form of domination was present, but tended to be projected onto the cosmos. Classic Maya *ajawas,* or ruler-warriors, ruled human affairs through heroic politics and soverignty, that is, charisma and violence, but saw the costmos as a vast bureaucratic machine.    
+
+414: The sovereignty of Egyptian kings.  
+
+415: The lack of charismatic politics in Ancient Egypt. 
+
+#Z: A charismatic political system is less one of individual personalities, but moreover of a "hall of fame" or "star system" with institutionalized rivalries between knights, warlors politicians, and so on.
+
+416: The "dark ages" of Egypt. 
+
+417: The heroic politics of the nomarchs.  
+
+418: The beginnings of herreditary aristocracy.  
+
+#Z: What is often described as Egypts "dark ages" or intermediate periods were not shifts from order to chaos, but rather from sovereignty to charismatic politics.  
+
+419: Debunking the assumed origins of bureaucracy.  
+
+420: The real origins of beaurocracy (village beaurocracies.)
+
+#Z: It is commonly assumed, repeated, and read into archeological findings, that beaurocracies arose as a practical solution to the problem of information management when societies got too big and complicated for interpersonal, face-to-face interactions. Along with the myth we assume that leaders and police are required in order to enforce social rules and regulations once a society reaches a certain size. Out of this myth it is also nearly invariably assumed that writing emerged as a tool of these beaurocratic states. There is, however, absolutly no evidence supporting these assumptions. Rather, the archeological evidence that we do have suggests quite the opposite: the firt signs of specialized administrative control actully emerged in very small communities in the Middle East around 6400 BC, 2000 years before the apeparance of anything vaguely resembling a city.  
+
+
+-: Tel Sabi Abyad.  
+
+422: Intentional uniformity in the fifth millenium BC in the Middle East.    
+
+423: Similarities to labor sharing in Andean *allu.*  
+
+424: The dangers of accounting, and the combination of sovereignty and administration.  
+
+#Z: Sovereignty and administration are a lethal combination, as the quantitative information of administration gives a sense of correctness or even equity to violence and domination.  
+
+-: *Allu* record keeping and the imposition of the system of the Incan empire on top of it.  
+
+#Z: The Incan emprie is often portrayed as a gentle and even benevolent proto-socialist state. However, it was the pre-existing systems of village assosciations called *allu* that continued to provide social security while under the extractive Inca rule. The *allu* system was based on a strong principle of equity, mutual aid, and reciprocity. *Khipu* records were kept, knotted and unknotted, to keep track of debts as they were registered and canceled out. (see vilalge beaurocracy) One of the main jobs of the *allu* was to redistribute land as families grew and shrank in order to ensure that nobody became richer than anyone else. Their princples of equality were so strong that everyone wore the same pattern of cloth, of each each valley had their own tradtional pattern.   
+
+425: How sovereignty combined with beauocracy is so dangerous.  
+
+#Z: We see across history the insistance of impersonal equivalence used to by violent beauocracies to drive people into debt and peonage. Older systems of equality and mutual aid within a community are abused by soverigns in order to find falt in individuals and take advantage of them, when say for example, drought means they cannot pay their tributes and are forced to sell themselves or their children into servitude. Equality could be used to make people and objects interchangible, which allowed rulers to make demands that do not take into account an individuals unique situation. It is not the beauocracy here which is the problem, if administrations like that of Tell Ssabi Abyad or a Basque council produced unreasonable results, they could be discussed and adjusted. The dangerous combination is when theses results are combined with soverign power which says that "rules are rules" prevents any further discussion, and enforces the impersonal verdicts with violence.   
+
+426: Three primordial freedoms. 
+
+#Z: Graeber and Wengrow list the "three primordial freedoms" as the freedom to move, the freedom to disobay, and the freedom to create or transform social relationships.  
 
 
