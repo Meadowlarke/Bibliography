@@ -229,3 +229,73 @@
 #Z: Disease is socially constructed. Each civilization difines it's own diseases and its responses to them.  
 
 119: Parson's "sick role."  
+
+123: Using sickness to avoid work.  
+
+## Part III: Cultural Iatrogenesis  
+
+### Intorduction  
+
+127: Cultural iatrogenesis.  
+
+#Z: Clinical iatrogenesis is when the natural processes of the body to cope and heal are replaced by management my the medical establishment. Social iatrogenesis occurs when people are deprived from the conditions that allow them to control their own internal states and the internal states of their freinds, family, and community. Cultural iatrogenesis arises when the medical establisment "saps the will of the people to suffer their reality," that is, it removes and replaces our natural ability as individuals to live thorough suffering, and our natural tendencies as communites to care for the suffering.  
+
+128: "The art of suffering."  
+
+129: Health as social performance.  
+
+132: Medical civilization destroying the art art of suffering.   
+
+#Z: The goal of the medical establishemnt and the civilization that surrounds it to destroy pain and suffering along with the need for an art of suffering and dying. Suffering, healing, and dying are fundamental aspects of human life, that culture previously taught us how to do, have been replaced by tehnocracy, which is in opposition to every single cultural health progam that it encouters in its mission of progressive colonization.  
+
+### Chapter 3: The Killing of Pain  
+
+133: Pain.  
+
+#Z: Culture has historically given context and meaning to pain, and the performance of *suffering* by which it is experienced and interpreted. Medical civilization turns pain into a technical matter to be cured, thus depriving the sufferer of its meaing. However, it is culutre that makes pain tolerable by interpreting it as a necessity and placing it into a meaningful setting---it is only pain that is perceived as curable that we find intolerable. 
+
+136: Factors that influence the experience of pain.  
+
+#Z: There are at least four functional factors other than the nature of the pain stimulus that effect its intensity: culture, anxiety, attention and interpretation.  
+
+137: The objectification and quantization of pain by the medical establishment.  
+
+138: Impediments to studying the history of pain.  
+
+140: How we are alone in our pain.  
+
+142: Pain as a question.  
+
+#Z: Pain weather experieced by the self, or observed in others, can be understood as a question. It asks What is wrong? How much longer? Why must I/ought I/should I/ can I suffer? Why does this evil exist and why does it strike me?
+
+143: The reduction of pain from question to discomfort. 
+
+144: How culture transforms pain into personal experience: words, dugs, myths, and models.   
+
+#Z: Culture provides at least four interrelated subprograms for the transformation of bodiliy pain into personal experience: words, drugs, myths, and models. Pain in shaped by culture into a question that can be expressed in words, cries, groans, and gestrues. Each culture has its pharmacpoia of substances for pain relief and to ease the emotions. Each culture has its explation that expain the reson for the pain, whether that is the muslim Kimset or the Hindu Karma. And finally, each culture has its narrative models for how pain is best suffered.   
+
+145:
+
+#Z: Medicalization deprives us of skill in the art of suffering.  
+
+146: The modern emphasis on treatment, not healing.  
+
+147: The lack of an origin of modern pain in ancient Eurasan culture.  
+
+148: Pain as cosnic evil in medeterranean postcalssical culture.  
+
+#Z: Pain as the bitter expereince of cosmic evil is a dsitinctive and unifying characteristic of Medeterranean postclassical cultures which lasted until the 17th century. The belief that pain was better not suffered, but alleviated by a priest, physican, or politician, was unthinkable, as pain was the experience of a marred universe, was a sign of corruption in nature that humans were themselves a part of---to do away with pain would be to do away with the patient---and finally, pain was an unmediated experience of evil, there was and could be no distinction between the source of pain the the pain that was suffered.   
+
+149: Why the killing of pain was unthinkable in premodern Europe.  
+
+150: Descartes and the mechanization of the body and pain.   
+
+152: Substitutes for human experience in anesthetetic society.  
+
+153: The effects of pain on a society where it has been medically expropriated.  
+
+#Z: The medicalized expropration of pain has replaced dignified suffering with artifically prolonged, opaque, depersonalized maintenance. Pain killing, rather than engaging with culturally mediated forms of managing suffering leads to numb self-observation of the inevitable process of decay. "Increasingly, pain-killing turns people into unfeeling spectators of their own decaying selves."
+
+### Chapter 4: The Invention and Elimiation of Disease
+
+155: The Fench Revolution and its myths.  
