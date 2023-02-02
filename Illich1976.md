@@ -298,4 +298,74 @@
 
 ### Chapter 4: The Invention and Elimiation of Disease
 
-155: The Fench Revolution and its myths.  
+155: Health care during the French Revolution.  
+
+159: Medicine after the Congress of Vienna.  
+
+#Z: In the mid-nineteenth century, there was a saying that was attributed to Hippocrates and was still quoted with approval: "You can discover now weight, no form, nor calculation to which to refer your judgement of health and sickness."
+
+160: The origins of the measurement of health and disease.  
+
+162: The origins of the "bedside" clinic.  
+
+164: State authority and universal standards.  
+
+166: Solution: The demedicaliztion of the concept of disease.  
+
+#Z: Illich proposes we end our current health crisis through changes in our epistemology. We must clarify the logical status and social nature of diagnosis and therapy. He suggests a critical and scientifically sound demedicalization of the concept of disease.   
+
+167: Metal illness and the similar immateriality of "physical illness".  
+
+#Z: Mental illness can only be described within an ideological framework, the consistancy of which is based on the social prejudices of the pyschiatrist. The pyschiatrist acts as an agent of social, ethical, and plitical norms.  
+
+169: Medical diagnosis as mask for a broken society.  
+
+#Z: Medical diagnosis is a convenent mask for the medical establishment to explain away a body's rebellion agains the demands of industrial society, and in a way that encourages the consumption and production of more industrial goods such as pharmeceuticals. Instead of calling out their peers for creating a world in which humans cannot live, physiscans---members of the ruling class---judge the victim as deviant and diseased. 
+
+-: The naming of diesease.  
+
+#Z: Describing children as having a "learning disability" serves as an alabi for a school's intolerance or incompetence. 
+
+170: Linguistic mystification.  
+
+171: Folk language of disease.  
+
+#Z: The increasing use of medical terms in common speech make disease into an insstrument of class domination. The educated perform class by speaking in medical jargon, which has even become necessary for some social acceptible speech---"belly button" and "middle" sound infantile compared to "naval" and "torso." In this way the educated become collegues of the doctor in treatment, while the opressed are put in their place as subjects who do not speak the langague of the ruling class.  
+
+172: The effectiveness of cheap and simple medicine.  
+
+### Chapter 5: Death against Death  
+
+174: Societal images of death.  
+
+175: The image of "natural death."  
+
+#Z: The ideal of a "natural death" where people die in good health under medical care at an old age is a relativly new idea, which has come at the end of 500 years of change from death as God's call, to the the Renaissance "dance of the dead," to our modern death under intense medical care.        
+
+176: The Dance of the Dead.  
+
+179: The origins of Death the mythical character in the 1500s.  
+
+181: Clocks and Death.  
+
+183: *Ars Moriendi,* a 15th century guide to dying.  
+
+#Z: The *Ars Moriendi* was one of the first printed do-it-yourslef books and was a best seller for about 200 years. It was guide to dying for common folk, writtenin the late 1400s.  
+
+187: The objectification of the human via new ideas of death.  
+
+-: The former legal standing of the dead.  
+
+188: Historical dissections.  
+
+189: Bourgeois death.  
+
+190: The rich prolonging life.  
+
+192: New myths of the social value of the old.  
+
+194: Aestheticising chronic illness in the 1700s.   
+
+-: The Enlightenment and new power over death attributed to the doctor.  
+
+196: The military origins of the "country doctor."  
