@@ -369,3 +369,43 @@
 -: The Enlightenment and new power over death attributed to the doctor.  
 
 196: The military origins of the "country doctor."  
+
+197: "Natrual death" at the beginning of the 20th century.    
+
+199: The changing relationship to death in iconography.  
+
+201: Death under intensive care.  
+
+202: Death and apocalype.  
+
+204: The imperialism of hopsitalized medicine.  
+
+206: Medicalized death and consumerism.  
+
+## Part IV: The Politics of Health
+
+### Chapter 6: Specific Counterproductivity  
+
+212: Negative externalities.  
+
+-: Counterproductivity.  
+
+#Z: Counterproductivity is when the use of an instution, such as schools, "the market," or hospitals makes it hard for decentralized society to provide those things that the institution provides. These are not externalities, but rather "built in social frustration[s]" that bar or miseducate us in our own self fulfilment. Humans learn naturally, but school teaches us that we only learn in certain ways, and that only certain things are valuable. Counterproductivity of the market conditions us *to get* things rather than *to do* them. We are expected to buy a new one rather than to repair the old one. We are expected to buy one rather than to make one ourselves using local materials. (see local ingredients, simply cooked.) We are expected to buy commodified heath practices, procedures, and products rather than leaning how to heal ourselves and others.   
+
+214: Comodification of health.  
+
+#Z: Healthcare in industrial society renders health a comodity, designed and sold to others, not made by them or with their communities.  
+
+215: Autonomous production.  
+
+-: Effective industrialized tools.  
+
+217: Those made most powerless by conterproductive institutionalization.  
+
+#Z: Those made most powerless by conterproductive institutionalization are not the poor, who tend to exist on the margins of these systems, but rather the affluent who can pay for the new staples that the institutions promise and thus lose their autonomy.   
+
+219: The pathologization of old age and the creation of poverty.  
+
+### Chapter 7: Political Countermeasures  
+
+221: The British National Health Service and hypochondria.   
