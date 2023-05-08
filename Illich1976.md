@@ -8,8 +8,6 @@
 
 5: His use of footnotes against academia.  
 
-#Z: In *Medical Nemesis,* Illich provides very verbose footnotes to serve as a bibliographic guide to laypeople and outsiders to the materials which he is citing. He sees this as a way to beak academia's monopoly on information though the way which it creates conversations which are hard for outsiders to enter. 
-
 6: Why the recovery from iatrogenic disease must be a poliitical task, not a professional one. 
 
 7: "Health."  
@@ -32,11 +30,7 @@
 
 16: Pandemics.  
 
-#Z: While the end of the great pandemics of the 19th and 20th centuries is often attributed to medical therapies, most of the decreases in fatality came from improved nutrition, housing, and a decrease in the cirulence of the infections. For example, the combined death rate of scarlet fever, diphteria, whooping cough, and measles among children 15 and under shows that 90% of the total decline in mortality between 1860 and 1965 occured *before* the introduction of antibiotics and widespread immunizations. No matter how much or how little medical care there is available, diarreah and upper-reperatory-tract infections last longer and occur more frequently in poor and mal nourished countries than in wealthier contries.  
-
 17: The decline of old epidemics, the emergence of the new.  
-
-#Z: The environment is the primary determinant of the state of general health of any population, not access to medical care.  
 
 20: Modern techniques, effective when made part of the culture.  
 
