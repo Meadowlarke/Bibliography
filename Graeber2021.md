@@ -764,4 +764,30 @@ The Rig Veda and the first reference to caste in 1200 BC.
 
 #Z: Graeber and Wengrow list the "three primordial freedoms" as the freedom to move, the freedom to disobay, and the freedom to create or transform social relationships.  
 
+427: Rethinking the use of the word "states" rather than kingdoms, rebuplics, etc.  
 
+431: The state as confluence of soverignty, administration, and charasmatic competition.  
+
+#Z: "The state" is not the result of a long social evolution of increasing complexity since the bronze age, but rather a confluence of the three principles of domination: soverignty, administration, and charasmatic competition, which all have different origins.  
+
+432: The mutual aid behind civilization.  
+
+#Z: The word civilization comes from the latin word civilis, which refers to the mutual aid required for societies to self organize.  
+
+433: Minoan Crete. 
+
+434: 
+
+#Z: There is no clear evidence of monarchy on Minoan Crete.  
+
+435: Women in Minoan Crete.  
+
+436: Comparing Minoan Crete to the later palaces of mainland Greece.  
+
+439: Chapter summary.  
+
+## Chapter 11: Full circle
+
+441: The Idigenous critique and European backlash.  
+
+442: Postmodernism and a fear of metanarratives.  
