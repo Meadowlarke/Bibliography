@@ -791,3 +791,27 @@ The Rig Veda and the first reference to caste in 1200 BC.
 441: The Idigenous critique and European backlash.  
 
 442: Postmodernism and a fear of metanarratives.  
+
+444: James Scott and grain states.   
+
+445: Grain states and its peripheral "barbarians."  
+
+446: Past theories of civilizaitonal progression.  
+
+451: Eurasia and the Americas as seperate "world systems" which we can compare.  
+
+452: Cahokia; its rejection.   
+
+456: The roots of the indigenous critique.  
+
+-: North American clan system.  
+
+#Z: A nearly constant characteristic of the North American clan system was the assigning names, of which there might be a fixed set, not to children when they were born, but to the mostly likely candidate when the title holder died. The head of one clan might always get the same ancestral name, for example.  
+
+457: "Hopewell Interaction Sphere."  
+
+458: Earthworks and burial treasure mounds.  
+
+462: Hopewellian diversity of self-expression.  
+
+463: Cahokia.  
