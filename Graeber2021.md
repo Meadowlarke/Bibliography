@@ -120,8 +120,6 @@
 
 107: Mauss and Beuchat on the seasonal variations of Inuit social organization.  
 
-#Z: 108: In Franz Boas's work studying the Kwakiutl of Canada's Northwest Coast, he found that hierarchical forms of organization arose in the winter, when wooden palaces were erected and hereditary leaders ruled. In the summer people returned to smaller clan formations and adopted different names, becoming different people in the summer or the winter.  
-
 108: Plains Indians.  
 
 112: Pierre Clastres and chiefs.  
@@ -130,7 +128,6 @@
 
 115: Losing our political self-consciousness.  
 
-#Z: For most of human history, our ancestors moved regularly between different social arrangements. They created and dismantled hierarchies on a regular basis. One may ask "what are the origins of social inequality," but the real question is "how did we get stuck?" How did we get stuck in a world where hierarchy, dominance, and subservience are seen not as temporary theatre or temporary expediences for a certain task, but instead as inescapable elements of human life and human nature? How have we lost the political self-consciousness which was once so typical to our species and so central to what makes us human? 
 
 116: Festivals of medieval Europe.  
 
@@ -138,23 +135,14 @@
 
 121: The importance of the ethnographic record.  
 
-#Z: When looking to modern-day indigenous people to help understand the ancient past, it is important not to see them as themselves windows to the past, frozen in time for millennia, but rather to show us possibilities we never could have thought of otherwise, to show that people are actually capable of enacting such possibilities, and that human beings are actually far more interesting than other human beings often imagine. 
 
 122: The lack of discrete bounded societies.  
 
-#Z: Long distance organization is a common enough element of modern indigenous life. A North American 500 years ago could travel from the Great Lakes down to the Louisiana bayous and find members of their own Bear, Elk, or other clan which would be obliged to host and feed them despite speaking languages entirely unrelated to their own. Aboriginal Australians could travel across the continent, among people speaking entirely different languages and still find camps divided into the same totemic moieties that existed at home.  
-
 123: Diminishing number of people travelling. 
-
-#Z: It is difficult to reconstruct how these forms of long-distance organization operated just a few centuries ago, so it is even harder to guess at how it worked 40,000 years ago. However, the striking uniformities of material culture observed by archaeologists across long distances suggest that their societies spanned continents.
-
-#Z: It seems self-evident that advances in technology make the world a smaller, more easily traveled place. This is true in a purely physical sense, and the domestication of the horse and improvements in seafaring obviously made it easier for people to move around. However, increases in population size have actually meant that fewer and fewer people travel. With the passage of time, the scale of social relations does not get bigger, it actually gets smaller. 
 
 -: The beginnings of cuisine.  
 
 125: The beginnings of domination.  
-
-#Z: It is likely that the hardening and multiplication of cultural boundaries starting around 12,000 BC reduced cultural porosity and the ability to reconstruct and re-imagine society.  
 
 126: Defining egalitarian society.  
 
@@ -172,24 +160,16 @@
 
 136: Abundance.  
 
-#Z: Abundance is the situation where one has easy access to everything that they feel they need in order to live a happy and comfortable life. It is not an absolute measure.   
-
 :- Increases in working hours.  
 
 137: Sahlins's data.  
 
 138: Sahlins on foragers.  
-
-#Z: Foraging societies tend to be well aware of the growing cycles of food plants, and consciously choose not to engage in agriculture.  
-
 140: The lack of an "original" way of living.  
 
 141: Poverty point.  
 
 142: 3500 BC: Cities emerge in Eurasia and America.  
-
-#Z: Cities emerged in Eurasia and the Americas at around the same time, roughly 3500 BC.  
-
 -: Material wealth without trade at poverty point.  
 
 145: John E. Clark and the standardized measurement and sacred geometry of pre-Colombian earthworks.  
@@ -216,15 +196,9 @@
 
 155: Eurasian crossings to "The New World" 17,000 years ago by boat. 
 
-#Z: It was long thought that humans first arrived to the Americas from Eurasia by the Beringia land bridge some 13,000 years ago. Newer archaeological evidence shows that people traveled in boats along the pacific rim to the coast of Chile by boat 17,000 years ago. There is also evidence of eastward crossings. We only know this now as underwater excavation has become more possible, as rising sea levels submerged these records long ago.    
-
 156: The Natchez and the Natchez Sun (monarch).  
 
 157: Sacred places and the formation of private property.   
-
-159:
-
-#Z: Private property is a form of sacred "tabu" where an object can not be touched except by those initiated as the owner. Graeber and Wengrow trace the origins of private property, hierarchy, and domination directly to the sacred.  
 
 160: Examples of sacred property in Native American societies.  
 
@@ -236,15 +210,11 @@
 
 165: The anti-agrcultural natue of Indigenous California. 
 
-#Z: The Indigenous people of California have been used by archaeologists as a model for what the prehistorical inhabitants of the Fertie Cresent might have lived like before domesticating wheat and barley 10,000 years ago. However, Indigenous Californians would have obviously noticed their southwestern neighbors cultivation of food crops such as maize. The indigenous people of California were not pre-agricultural, but rather, anti-agricultural. 
-
 166: Finding reason for cultural diffeerentiation in schismogenisis.  
 
 167: Finding reason for differentiation in cultural drift.  
 
 168: Language families and lack of correlation with culture.  
-
-#: In the Americas, there was little correlation between culture and language families. Groups living near eachotherm but speaking completely different languages would often have much more in common than distant groups which spoke languages of closer linguistic lineage.   
 
 170: Debunking the idea of "cultural areas."  
 
@@ -260,11 +230,7 @@
 
 -: The use of money by the Yurok.  
 
-#Z: European settlers projected their own category of "money" onto many Indigenous American objects which looked like money, but were not. For example, *wampum,* which was eventually used as a currency in the American Northeast by settlers and was considered legal tender in the shops of New York and Massachusetts, was almost never used by Indigenous people to by or sell anything, but instead to pay fines and as a way of forming and remembering compacts and agreements. Something used a lot like Euopean money did exist among the northwestern Calnifornians, however.   
-
 178: Max Weber.  
-
-#Z: Capitalism, as Weber deifned it, is a moral imperitive to turn your money into an engine for creating even more wealth. Wealthy merchants existed almost everywhere, certainly in China, India, and the Islamic world. However, in these places, one would eventually use their money to enjoy life, or come under the moral pressure of their community to spend their wealth on public or religious works, or popular festivals. The first capitalist, then, would have had to defy all social expectations and be hated by all of their neighbors. Weber argues that it took a Puritanical strain of Christianity, like Calvinism, to make cultural space for Capitalism to catch on. Not only did Puritans believe that basically anything they could spend their money on was sinful, they had each other as a moral community whose support would allow them to endure the the hostility of their neighbors.  
 
 179: Private property among the Yurok.  
  
