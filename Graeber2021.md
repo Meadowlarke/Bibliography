@@ -815,3 +815,89 @@ The Rig Veda and the first reference to caste in 1200 BC.
 462: Hopewellian diversity of self-expression.  
 
 463: Cahokia.  
+
+456: Chunkey (game.)  
+
+466: The end of self-governance at Cahokia.  
+
+467: The fleeing of Cahokia and related sites.  
+
+468: The kind of domination at Cahokia.  
+
+#Z: The region around Cahokia, once heavily inhabited, eventually diminished in population from 40,000 people to a place with no permanent human settlement. It is known in literature as the Vacant or Empty Quarter. 
+
+469: Ideological conflicts in the Etowah river valley.  
+
+471: The dismantling of kingdoms on Turtle Island in the 18th century and the move toward egalitarian systems of organization.  
+
+473: First nations discussion circles (reminiscent of European coffee houses). 
+
+#Z: Graber and Wengrow draw similarities between Creek discussion circles around the time of the European invasion---a daily gathering which involved smoking tobacco, drinking *Ilex vomitoria* and arguing about politics---and the European coffee house, which adopted some of the same drugs and spirit of discussion.  
+
+476: The Osage and esoteric knowledge.  
+
+478: Osage political history/origin story.  
+
+482: Oral traditions which discuss political creation.  
+
+483: The *Gatanashahowa*, the historical epic of the League of Five Nations.  
+
+489: Tsouharissen of the Jigonasaseh (a story of confederation and rulers).  
+
+## Chapter 12: Conclusion
+
+494: The origins of modern social theory.  
+
+496: The shortcomings of anthropology.  
+
+#Z: For most of the 20th century, anthropology tended to understand the societies it studied as living an eternal, ahistorical present, where social structures never and could never change. For example, strucutralism. 
+
+497: Mircea Eliade, cyclic and linear time, antisemitism.  
+
+499: The overstated importance of technology in social change. 
+
+-: Innovation in Neolithic societies.  
+
+#Z: Innovation in Neolithic societies was based on the accumulation of collective knowledge over the centuries, rather than our modern paradigm of lone male inventors. That said, these apparently humble but in fact quite significant discoveries changed Neolithic life as much as the lightbulb and the steam engine changed ours.   
+
+500: Ritual play as scientific laboratory and repertory of knowledge.  
+
+504: How did we lose our social imagination?  
+
+505/506: Not taking war for granted.  
+
+507: Relationship between warfare and the loss of freedoms.  
+
+508: Problematizing the Roman Law conception of natural freedom.  
+
+509: Roman Law + property, origins in slavery.  
+
+#Z: Roman Law's conceptions of property, and its system of usus and abusus come, essentially, from slave law. The conception of property as a relationship between a person and a thing goes back to a master rendering a slave a thing rather than a person with legal rights or social ties or obligations to anyone else.
+
+510
+
+#Z: The word "family" comes from the Roman *familia* which referred to everyone under the domestic authority of a single *paterfamilias,* or male head of household (to whom everyone was more or less property.) "Family" thusly shares a root with *famulus,* meaning house slave. *Dominium,* the sovereignty of a king or a citizens power over private property comes from *domus,* the latin word for "household." To be in a house or a family, in the Euro-legal sense, is to be dominated property.   
+
+511: Wendat mourning wars.  
+
+513: European violence as love and affection.  
+
+#Z: Public torture in 17th century Europe was used to construct the narrative that domestic abuse was ultimately a form of love. King James I of England compares in his *The True Law of Free Monarchies* (1598) Kingship to Fatherdom, and expounds on how punishment should be dolled out as a form of compassion. This is different from violence among the Wendat of Iroquoia, who only practiced any kind of physical violence against outsiders, which they used to make clear that no form of physical punishment had any place within a community our household.    
+
+515: Rehashing how scale of a population does not have to lead to hierarchy.  
+
+516: Confederacies, care, freedom of movement, and the first cities.  
+
+518: The first factories as charitable temple institutions. 
+
+519: Franz Steiner and "pre-servile institutions."   
+
+#Z: Instead of asking what are the origins of social inequality, we should be asking is how we found ourselves stuck in only one form of social reality, and how did relations of violence and domination become normalized within it?
+
+520: Charity as origin of top-down organization.  
+
+#Z: According the Franz Steiner, charity may, in fact, have been the origin of coercive, top-down organization which arose out of otherwise non-hierarchical societies. Essentially, as we know for example from the ethnographic record of Amazonian societies, orphans, widows, the disabled, the mad, captives of war, especially those who were children, were, if they had no-one else to look after them, taken to the chiefs house where they would live and receive a share of communal meals. According to Graeber and Wengrow, this kind of arrangement can lead eventually to increased dominion over the household subjects and eventually coercive control. 
+
+526: 
+
+#Z: "We know, now, that we are in the presence of myths." (Social science and our assumptions of what humans can do have been based on false axioms of "human nature" which new archaeological evidence is, as they have done in this book, dispelling.)
