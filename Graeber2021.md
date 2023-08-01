@@ -246,15 +246,9 @@
 
 188: The diversity of Amerinidan so-called "capturing societies."  
 
-#Z: Slavery in certain contexts, perticulalry those of the Indgenous Americas, can be seen as the theft of the years of caring labor that it took to produce a work-capable human.  
-
 189: Amerindian slavery, more descriptions.  
 
-#Z: In Amazonian slave capturing, captives would ungo social death though the severing of all their ties with their former group ad would be re-socialized as Amazonain. If the socialization was completed they would no longer be slaves. However, there were some captives kept permanently in social death before they were sacrificed and sometimes eaten.  
-
 191: Violence trasformed into care, the origin of domination.  
-
-#Z: Most of the names traditionally applied to Inidgenous American populations by Europeans are derogatory terms used by neighboring populations. For example "Eskimo" means "people who don't cook their fish" and "Iriquois" comes from an Algonkian term meaning "viscious killer."   
 
 192: "The Story of the Wogies."  
 
@@ -267,14 +261,9 @@
 199: Slavery in the Pacific "Shatter Zone."  
 
 200: Differences in ideas of the virtue of labor between the Yurok and Northwestern peoples.  
-
-#Z: Yurok victors in battle were required to pay restitution for each life taken at the same rate they would pay if they were guilty of murder. This made inter-group rading fiscally pointless. Millitary advantage was a liability to the winning side. 
-
 203: Rejection of slavery by Californians.  
 
 205: Rejecting environmental determinism and the determinism of structuralism.  
-
-#Z: Graeber and Wengrow make a beautiful criticism of structuralism in *The Dawn of Everything* where they point out that it is an ultimately completely deterministic philosophy. We will endlessly repeat the patterns of behavior handed to us by society: "Language speaks us." There is no explanation for why any culture is the way it is, any more than there is a reason why Chinese is a tonal language and Finnish is an agglutinative one. Graeber and Wengrow prefer to see people in the past as full humans capable of political introspection.  
 
 208: Slavery as a fundamentally domestic institution.  
 
@@ -331,16 +320,9 @@
 231: Wheat and barley. 
 
 232: Experiments with wild wheat in the 1980s.  
-
-#Z: Under experimental conditions, it has been found that the genetic mutations leading to crop domestication can be achieved in as little as 20, and no more than 200 years, using simple harvesting techniques such as cutting or uprooting.  
-
-#Z: Humans first cultivated wild grasses not for grains, but for straw. Changes to the nature of the grain were likely a byproduct of harvesting methods which created straw from grass.  
-
 233/234: "Pre-domestication cultivation."  
 
 234: Avoiding domesticaiton.  
-
-#Z: The cultivation of wild cereals dates back to at least 10,000 BC, but domestication was not completed until about 7,000 BC. That is 3,000 years to complete a process that we know could have been done in 20--200 years. This implies that humans purposely avoided serious cultivation of grains and the added work that domesticated cultivars would have required---work that would have gotten in the way of hunting, marriages, masquerades, story telling, travelling, or any number other things we know early neolithic people were engaged in. What we call the "Agricultural Revolution" was a period of human history in its own right, barely a revolution at all, where people flirted and experimented with various levels of plant cultivation. . 
 
 235: "Flood retreat" cultivation, lack of icentive for private property.  
 
