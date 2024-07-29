@@ -1,4 +1,7 @@
-# Odell, Jenny. _How to Do Nothing: Resisting the Attention Economy._ Booklyn and London: Melville House, 2019.  
+# Odell, Jenny. _How to Do Nothing: Resisting the Attention Economy._ Brooklyn and London: Melville House, 2019.  
+
+## Sites
+[Fukuoka, *The One Straw Revolution*](Fukuoka1978.md)
 
 ## Introduction: Surviving usefulness.  
 

@@ -1,5 +1,9 @@
 # Freire, Paulo. *Pedagogy of the Opressed.* 30th Anniversary Edition. Translated by Myra Bergman Ramos. Ney York and London: Continuum: 2005.  
 
+## Network
+
+Cited, generally, by Illich in [Deschooling Society](Illich1970.md)
+
 ## Introduction  
 
 11: The legacy of the book.  

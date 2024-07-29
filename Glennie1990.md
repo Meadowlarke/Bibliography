@@ -1,5 +1,12 @@
 # Glennie, Evelyn. *Good Vibrations: My Autobiography.* London: Hutchinson, 1990.  
 
+## Network
+
+[Stocker, Shannon, Writer  and Devon Holzwarth, Illustrator. *Listen: How Evelyn Glennie, a Deaf Girl, Changed Percussion.* ](Stocker2022.md)
+
+[Holmes, Jessica A. "Expert Listening beyond the Limits of Hearing." ](Holmes2017.md)
+# Notes
+
 ## Foreword 
 
 xi: Why she is writing this book.  

@@ -1,5 +1,11 @@
 ### Yoshihara Mari. _Musicians from a Different Shore: Asians and Asian Americans in Classical Music._ Philadelphia: Temple University Press, 2007.
 
+## Network
+
+Has some resonances with  [Bull, Anna. *Class, Control, and Classical Music.* Oxford](Bull2019.md)
+
+# Notes
+
 Introduction.  
 
 2: the prevalence of Asian performers in western classical msuic.  

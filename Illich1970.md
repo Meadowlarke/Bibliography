@@ -1,5 +1,9 @@
 # Illich, Ivan. _Deschooling Society_ Hasbro, 1970.  
 
+## Network
+
+Paulo Freire, generally. See [The Pedagogy of the Opressed](Freire1970.md)
+/
 ## Introduction
 
 2: Acknowledgments and basic ideas.   

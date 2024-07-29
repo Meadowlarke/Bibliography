@@ -1,4 +1,11 @@
-# Deleuze, Gilles and Felix Guattari. *A Thousand Plateaus: Capitalism and Schizophrenia.* Minneapolis: University of Minnesota Press, 1987.  
+# Deleuze, Gilles and Felix Guattari. *A Thousand Plateaus: Capitalism and Schizophrenia.* Minneapolis: University of Minnesota Press, 1987.
+
+## Network
+
+Cited by everyone, lol, but also see:
+[Väätäinen, Hanna. 2017. “Forming Common Notions in a Kinetic Research Collaboration"](Väätäinen2017.md)
+
+# Notes
 
 ## Translator's Forward
 
